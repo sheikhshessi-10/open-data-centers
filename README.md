@@ -1,47 +1,59 @@
 # Open Data Centers
 
-A public, neutral, sourced record of every large data center in **the United States** (all 50 states and DC; Louisiana and Mississippi have the deepest data so far): what it costs the town, what it gives back, and what the company has and hasn't shared.
+**Every large data center in the United States, on one open map. What it costs the town, what it gives back, and what the company has and hasn't shared.**
 
-- Every number links to its source, has a date, and is tagged `real` or `estimate`. Unknown stays blank.
-- Every site, county and state has its own page, so a search for "[county] data center" lands on the facts.
-- Each company gets the same 8-item openness checklist. "Hidden" only appears after we asked and got no answer.
+[**opendatacenters.vercel.app**](https://opendatacenters.vercel.app)
 
-Read [MISSION.md](MISSION.md) for the goals, what counts as a site, and the coverage checklist.
+![The map: 921 data centers across all 50 states and DC](docs/screenshots/map.png)
 
-## What's in the repo
+## Why this exists
 
-| Path | What it is |
-|---|---|
-| `data/louisiana.json`, `data/mississippi.json` | One record per site. Format in [data/SCHEMA.md](data/SCHEMA.md). |
-| `data/states/` | Statewide laws, incentives, utility cases, local rules, ballots, polls, utilities. |
-| `data/leads.json` | Possible sites not yet confirmed. |
-| `outreach/` | How we request public records, templates, and the request log. |
-| `scripts/validate.py` | Checks every data file against the rules. Runs on every pull request. |
-| `scripts/coverage.py` | Lists what's missing or stale. The agent routines use it as their job list. |
-| `site/` | Builds the static website into `public/`. |
-| `.claude/skills/` | One skill per kind of data, run by agents on a schedule. See `.claude/skills/CONVENTIONS.md`. |
+AI data centers became one of the biggest local fights in America in 2026. Companies and officials point to jobs, tax revenue and new money for schools. In Louisiana, Meta's Hyperion campus has been pitched on stage with the bonus checks its tax money paid local teachers. Neighbors point to power bills, water, noise and tax deals signed in secret.
 
-## Run it
+Both sides argue without a shared set of facts. Numbers are scattered across utility dockets, permit files, press releases and local papers, and most people never see them.
 
-```bash
-python scripts/validate.py          # check the data
-python scripts/coverage.py          # see what's missing or stale
-python site/build.py --check        # build the website into public/ and check links
-python -m http.server -d public     # preview at http://localhost:8000
-```
+This project is that shared set of facts: one public page per site, every number sourced and dated, the same yardstick for every company. It doesn't take a side. A county commissioner and a worried neighbor should both be able to trust the same page.
 
-Python 3.10 or newer. No packages needed.
+## What you can see
 
-## How the data stays fresh
+![A site page: numbers, sources, company openness checklist and pushback](docs/screenshots/site-page.png)
 
-Each kind of data has its own agent skill: finding sites, site numbers, news, pushback, before-and-after numbers, state policy, records requests, source checks, and the site build. Scheduled routines run `scripts/coverage.py`, pick the stale jobs, run the matching skill, and open a pull request. A human reviews and merges. Nothing is pushed straight to `main`, and no email is ever sent by an agent.
+- **A page for every site.** Who owns it, what stage it's at, and how much power, water, money, land and jobs are involved. Every number links to its source and is tagged real or estimate. Unknown stays blank. Nothing is guessed.
+- **A company openness score.** The same 8-item checklist for every company: power use, water use, power source, tax break size, jobs promised vs. real, noise tests, air permits, and the deal with the town. "Hidden" only appears after a records request went unanswered.
+- **Pushback and news.** Lawsuits, petitions, votes and organized groups, kept apart from general criticism, plus the news for each site.
+- **Before and after.** Power bills, rent, home values and wages in the data center's county, next to a look-alike county without one. This shows change, never cause.
+- **Every county and state.** A page for each, with the state's tax breaks, utility cases, bills and local moratoriums. A search for "[county] data center" should land on the facts.
 
-## Contribute
+![A county page](docs/screenshots/county-page.png)
 
-Found a wrong number, a missing site, or a dead link? Open an issue or a pull request. Every change needs a source URL and a date. Run `python scripts/validate.py` before you submit.
+## How it's different
+
+| | Open Data Centers | Opposition trackers (e.g. [Data Center Watch](https://www.datacenterwatch.org/)) | Industry directories |
+|---|---|---|---|
+| Covers | Every large site, fought or not | Projects facing opposition | Colocation for buyers |
+| Per-site power, water, jobs, tax breaks | Yes, with sources | No | Partly, unsourced |
+| Company openness score | Yes | No | No |
+| Open data you can reuse | Yes (CC BY 4.0) | No | No |
+| Free | Yes | Reports are free | Mostly paid |
+
+Opposition reports are good sources, and we cite them. This project is the open, per-site record underneath.
+
+## How it stays fresh
+
+The data is kept up by AI agents, each with one job: find new sites, fill in the numbers, track the news, track the pushback, update state laws and utility cases, check that sources still say what we claim, and rebuild the site. They run on a schedule, and every change they make goes through a pull request that a person reviews before it goes live. Agents never publish on their own and never send email.
+
+## Where it stands
+
+- **921 sites** across all 50 states and DC, plus about 430 possible sites waiting for a second source.
+- Louisiana and Mississippi are filled in deepest so far. Elsewhere, about half the sites have a power figure and a third have an investment figure. Each routine run fills in more.
+- Known gaps are listed openly in [data/SECOND_PASS.md](data/SECOND_PASS.md).
+
+## Help
+
+Know a site we missed, a number that's wrong, or a source that died? [Open an issue](https://github.com/sheikhshessi-10/open-data-centers/issues). Every change needs a source link and a date. To work on the code or the data, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+<img src="docs/screenshots/mobile.png" width="300" alt="The map on a phone">
 
 ## License
 
-- Code: [MIT](LICENSE)
-- Data (`data/`): [CC BY 4.0](data/LICENSE). Credit "Open Data Centers" with a link.
-- County and state shapes: [us-atlas](https://github.com/topojson/us-atlas) (ISC), built from U.S. Census Bureau boundary files.
+Code: [MIT](LICENSE). Data: [CC BY 4.0](data/LICENSE); credit "Open Data Centers" with a link. Map shapes: [us-atlas](https://github.com/topojson/us-atlas) (ISC), from U.S. Census Bureau boundary files.
