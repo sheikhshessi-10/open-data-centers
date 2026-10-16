@@ -42,7 +42,7 @@
     matched=SITES.filter(ok).sort((a,b)=>b[k]-a[k]||a.r-b.r);
     grid.replaceChildren(...matched.slice(0,limit).map(node));
     if(window.odcEnhance)window.odcEnhance(grid);
-    more.hidden=matched.length<=limit;
+    more.parentNode.hidden=matched.length<=limit;
     count.textContent=`${matched.length} of ${SITES.length} sites`;
     drawMarks();
   }
