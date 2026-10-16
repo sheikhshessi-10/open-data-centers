@@ -1,0 +1,2201 @@
+[
+  {
+    "id": "in-boone-meta-lebanon",
+    "name": "Meta Lebanon Data Center (LEAP District)",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "IN",
+    "county": "Boone County",
+    "town": "Lebanon",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2026-02-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 4000,
+        "unit": "peak construction workers (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "operational jobs (about)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Meta to pay full energy costs and donate $1 million a year for 20 years to a local energy assistance fund (per tracker summary)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://indianacapitalchronicle.com/2026/02/11/details-on-long-expected-meta-data-center-campus-unveiled/",
+        "date": "2026-02-11"
+      },
+      "utility": null,
+      "acres": {
+        "value": 1500,
+        "unit": "acres (13 buildings incl. 10 data halls, per tracker summary of Indiana Capital Chronicle)",
+        "kind": "estimate",
+        "source": "https://indianacapitalchronicle.com/2026/02/11/details-on-long-expected-meta-data-center-campus-unveiled/",
+        "date": "2026-02-11"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Citizens Action Coalition says $896M in LEAP transmission upgrades (AES $9M, Duke $210M, Wabash Valley $627M) serve the campus, and water draw could reach 8M gallons/day by 2031 (advocacy group claim).",
+        "source": "https://www.citact.org/ai-data-centers",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Details on long-expected Meta data center campus unveiled",
+        "outlet": "Indiana Capital Chronicle",
+        "url": "https://indianacapitalchronicle.com/2026/02/11/details-on-long-expected-meta-data-center-campus-unveiled/",
+        "date": "2026-02-11",
+        "tone": "neutral"
+      },
+      {
+        "title": "Meta begins construction on $10B data center campus at LEAP District in Lebanon",
+        "outlet": "Daily Journal",
+        "url": "https://dailyjournal.net/2026/02/12/meta-begins-construction-on-10b-data-center-campus-at-leap-district-in-lebanon/",
+        "date": "2026-02-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Broke ground 2026 (Meta). Southern LEAP district west of I-65, crossed by State Road 32. Trackers cite about 1 GW. Inside Lebanon city limits, so not covered by Boone County's 2026 moratorium."
+  },
+  {
+    "id": "in-clark-meta-jeffersonville",
+    "name": "Meta Jeffersonville Data Center (River Ridge Commerce Center)",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "IN",
+    "county": "Clark County",
+    "town": "Jeffersonville",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1250,
+        "unit": "peak construction workers",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "operational jobs (about)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Duke Energy Indiana",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.citact.org/ai-data-centers",
+        "date": "2026-10-15"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Citizens Action Coalition says Duke's TDSIC-5 filing (IURC Cause 45647) shifts $216M of network upgrades for this campus to all Duke Indiana customers (advocacy group claim).",
+        "source": "https://www.citact.org/ai-data-centers",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Broke ground 2024 (Meta). Trackers disagree on whether it is already operating; full operations expected 2026. Utility per CAC; confirm."
+  },
+  {
+    "id": "in-st-joseph-aws-new-carlisle",
+    "name": "AWS New Carlisle Campus (Project Rainier)",
+    "owner": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "IN",
+    "county": "St. Joseph County",
+    "town": "New Carlisle",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-04-25",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 13800000000,
+        "unit": "USD invested so far (original commitment $11B)",
+        "kind": "real",
+        "source": "https://www.wndu.com/2026/07/23/amazon-web-services-investment-st-joseph-county-data-center-campus-surpasses-138-billion/",
+        "date": "2026-07-23"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Air cooling about 98% of the year; water used less than 2% of the year",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wndu.com/2026/07/23/amazon-web-services-investment-st-joseph-county-data-center-campus-surpasses-138-billion/",
+        "date": "2026-07-23"
+      },
+      "jobs_promised_build": {
+        "value": 4000,
+        "unit": "construction workers at peak (up to, per chamber)",
+        "kind": "real",
+        "source": "https://www.wndu.com/2026/07/23/amazon-web-services-investment-st-joseph-county-data-center-campus-surpasses-138-billion/",
+        "date": "2026-07-23"
+      },
+      "jobs_promised_perm": {
+        "value": 1000,
+        "unit": "new jobs (at least)",
+        "kind": "real",
+        "source": "https://www.iedc.in.gov/events/news/details/2024/04/25/gov.-holcomb-announces-amazon-web-services-plans-to-invest-11b-to-create-a-new-data-center-campus-in-northern-indiana",
+        "date": "2024-04-25"
+      },
+      "jobs_actual": {
+        "value": 1000,
+        "unit": "permanent hires (more than; 800+ Hoosiers, about 450 county residents)",
+        "kind": "real",
+        "source": "https://www.wndu.com/2026/07/23/amazon-web-services-investment-st-joseph-county-data-center-campus-surpasses-138-billion/",
+        "date": "2026-07-23"
+      },
+      "tax_break": {
+        "value": "Data center sales tax exemption over 50 years; up to $18.3M headcount tax credits; up to $5M training grants; up to $55M Hoosier Business Investment credits; up to $20M redevelopment credits (performance-based)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.iedc.in.gov/events/news/details/2024/04/25/gov.-holcomb-announces-amazon-web-services-plans-to-invest-11b-to-create-a-new-data-center-campus-in-northern-indiana",
+        "date": "2024-04-25"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Indiana Michigan Power (I&M)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/aws-new-carlisle-st-joseph-in",
+        "date": "2026-08-19"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Citizens Action Coalition says I&M Cause 46301 shifts more than $400M in grid connection costs for this campus and Google Fort Wayne onto customers (advocacy group claim).",
+        "source": "https://www.citact.org/ai-data-centers",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion",
+        "outlet": "WNDU",
+        "url": "https://www.wndu.com/2026/07/23/amazon-web-services-investment-st-joseph-county-data-center-campus-surpasses-138-billion/",
+        "date": "2026-07-23",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Indiana Enterprise Center, New Carlisle. About 18 of a planned 30 buildings operating, construction continues (WNDU). Trackers: more than 1,000 acres; Project Rainier AI cluster for Anthropic. Stage 'running' because buildings are live; build-out continues."
+  },
+  {
+    "id": "in-allen-google-fort-wayne",
+    "name": "Google Fort Wayne Data Center (Project Zodiac)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "IN",
+    "county": "Allen County",
+    "town": "Fort Wayne",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-04-26",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://iedc.in.gov/events/news/details/2024/04/26/gov.-holcomb-announces-google-is-building-a-2b-data-center-in-northeast-indiana",
+        "date": "2024-04-26"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "jobs (up to)",
+        "kind": "real",
+        "source": "https://iedc.in.gov/events/news/details/2024/04/26/gov.-holcomb-announces-google-is-building-a-2b-data-center-in-northeast-indiana",
+        "date": "2024-04-26"
+      },
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "35-year data center sales tax exemption for at least $800M eligible capital, +5 years per extra $800M up to 50 years (performance-based)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://iedc.in.gov/events/news/details/2024/04/26/gov.-holcomb-announces-google-is-building-a-2b-data-center-in-northeast-indiana",
+        "date": "2024-04-26"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Indiana Michigan Power (I&M), adding clean energy resources with Google",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://iedc.in.gov/events/news/details/2024/04/26/gov.-holcomb-announces-google-is-building-a-2b-data-center-in-northeast-indiana",
+        "date": "2024-04-26"
+      },
+      "acres": {
+        "value": 700,
+        "unit": "acres (per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/google-fort-wayne-allen-in",
+        "date": "2026-08-19"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google's $2bn data center now operational in Fort Wayne, Indiana",
+        "outlet": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/googles-2bn-data-center-now-operational-in-fort-wayne-indiana/",
+        "date": "2024-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Southwest Fort Wayne near East Tillman Road and Adams Center Road. Broke ground April 26, 2024. Energized around Nov 2024 per tracker; construction continues."
+  },
+  {
+    "id": "in-laporte-google-michigan-city",
+    "name": "Google Michigan City Data Center (Project Maize)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "IN",
+    "county": "LaPorte County",
+    "town": "Michigan City",
+    "lat": 41.717084,
+    "lng": -86.840729,
+    "stage": "building",
+    "announced": "2026-04-16",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 832000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.wndu.com/2026/04/16/google-confirms-acquisition-michigan-city-data-center-site/",
+        "date": "2026-04-16"
+      },
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/google-michigan-city-laporte-in",
+        "date": "2026-10-12"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Google to pay 100% of site power cost and required infrastructure; trackers report $26.1M committed to the city",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wndu.com/2026/04/16/google-confirms-acquisition-michigan-city-data-center-site/",
+        "date": "2026-04-16"
+      },
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Construction workers protested out-of-state labor on the project in Sept 2025.",
+        "source": "https://www.wndu.com/2026/04/16/google-confirms-acquisition-michigan-city-data-center-site/",
+        "date": "2026-04-16"
+      }
+    ],
+    "news": [
+      {
+        "title": "Google confirms plans for data center in Michigan City",
+        "outlet": "WNDU",
+        "url": "https://www.wndu.com/2026/04/16/google-confirms-acquisition-michigan-city-data-center-site/",
+        "date": "2026-04-16",
+        "tone": "neutral"
+      },
+      {
+        "title": "Debate continues over Michigan City data center moratorium language",
+        "outlet": "WVPE",
+        "url": "https://www.wvpe.org/wvpe-news/2026-10-09/debate-continues-over-michigan-city-data-center-moratorium-language",
+        "date": "2026-10-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "402 Royal Road, former Federal-Mogul (ANCO) plant, about 70 acres per tracker; site owned by Phoenix Investors since 2022. Proposed city moratorium excludes both phases of this project.",
+    "pin_source": "https://www.wndu.com/2026/04/16/google-confirms-acquisition-michigan-city-data-center-site/",
+    "pin_address": "402 ROYAL RD, MICHIGAN CITY, IN, 46360"
+  },
+  {
+    "id": "in-morgan-google-monrovia",
+    "name": "Google Morgan County Data Center (Project Louie)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "IN",
+    "county": "Morgan County",
+    "town": "Monrovia",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-10-22",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (at least)",
+        "kind": "real",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      },
+      "power_mw": null,
+      "water_use": {
+        "value": 4000000,
+        "unit": "gallons per day (pending state filings)",
+        "kind": "real",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      },
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "jobs (50 per building x 4 planned buildings)",
+        "kind": "real",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      },
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "40 years no local tax on qualified computing equipment; 10-year 50% property tax abatement on buildings; IEDC tax breaks up to $42M over 35 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "AES Indiana (planned 1,200 MW on-site substation)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      },
+      "acres": {
+        "value": 560,
+        "unit": "acres rezoned (about; headline says 500)",
+        "kind": "real",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Neighboring residents packed public meetings in summer and fall 2025 to oppose the additional rezoning, citing energy use and nondisclosure agreements.",
+        "source": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google reveals itself as developer behind 500-acre Morgan County data center campus",
+        "outlet": "Daily Journal",
+        "url": "https://dailyjournal.net/2025/10/22/google-reveals-itself-as-developer-behind-500-acre-morgan-county-data-center-campus/",
+        "date": "2025-10-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Just east of Monrovia, bounded by Keller Hill Rd, N Antioch Rd, State Road 42 and W Union Church Rd. Commissioners rezoned about 400 acres Feb 2025 and approved a development agreement May 2025. Trackers say construction began in 2026. Monrovia itself is in Hendricks County; the site is in Morgan County."
+  },
+  {
+    "id": "in-laporte-microsoft-la-porte",
+    "name": "Microsoft La Porte Data Center Campus",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "IN",
+    "county": "LaPorte County",
+    "town": "La Porte",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-06-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (first campus)",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/05/22/la-porte-approves-annexation-rezoning-for-second-microsoft-data-center/",
+        "date": "2026-05-22"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop (planned for expansion)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/05/22/la-porte-approves-annexation-rezoning-for-second-microsoft-data-center/",
+        "date": "2026-05-22"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 1000,
+        "unit": "acres (more than, second-phase annexation)",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/05/22/la-porte-approves-annexation-rezoning-for-second-microsoft-data-center/",
+        "date": "2026-05-22"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Neighbors opposed the second-campus annexation over noise, environment and accountability.",
+        "source": "https://www.inkfreenews.com/2026/05/22/la-porte-approves-annexation-rezoning-for-second-microsoft-data-center/",
+        "date": "2026-05-22"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "La Porte approves annexation, rezoning for second Microsoft data center",
+        "outlet": "InkFreeNews",
+        "url": "https://www.inkfreenews.com/2026/05/22/la-porte-approves-annexation-rezoning-for-second-microsoft-data-center/",
+        "date": "2026-05-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First campus ($1B, announced by Gov. Holcomb June 4, 2024) under construction; groundbreaking reported June 2026. Second phase: 11 more buildings on 1,000+ acres in Pleasant Township south of CR 250 along SR 35, annexed and rezoned unanimously May 18, 2026. Treated as one campus. DCD also reports expanded plans (https://www.datacenterdynamics.com/en/news/microsoft-expands-plans-for-la-porte-indiana-data-center-campus/)."
+  },
+  {
+    "id": "in-st-joseph-microsoft-granger",
+    "name": "Microsoft Granger Data Center",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "IN",
+    "county": "St. Joseph County",
+    "town": "Granger",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Both District C County Council candidates called for a two-year moratorium on new data centers in the north county, citing this project and AWS New Carlisle.",
+        "source": "https://www.wndu.com/2026/07/30/both-candidates-st-joseph-county-council-district-c-call-data-center-moratorium/",
+        "date": "2026-07-30"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "St. Joseph County officials respond to data center construction concerns",
+        "outlet": "WVPE",
+        "url": "https://www.wvpe.org/wvpe-news/2026-05-30/st-joseph-county-officials-respond-to-data-center-construction-concerns",
+        "date": "2026-05-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Both candidates for St. Joseph County Council District C call for data center moratorium",
+        "outlet": "WNDU",
+        "url": "https://www.wndu.com/2026/07/30/both-candidates-st-joseph-county-council-district-c-call-data-center-moratorium/",
+        "date": "2026-07-30",
+        "tone": "bad"
+      },
+      {
+        "title": "St. Joseph County Council takes first step toward possible ban on future hyperscale data centers",
+        "outlet": "WNDU",
+        "url": "https://www.wndu.com/2026/09/23/st-joseph-county-council-takes-first-step-toward-possible-ban-future-hyperscale-data-centers/",
+        "date": "2026-09-23",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "County approved an MOU for pre-development only; TIF expansion proposed to include the site (per tracker). Trackers list 939 acres and 1,000 MW; not confirmed. Sponsors say the proposed hyperscale ban would not stop this project."
+  },
+  {
+    "id": "in-jasper-aws-wheatfield",
+    "name": "AWS Project Rise (Wheatfield)",
+    "owner": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "IN",
+    "county": "Jasper County",
+    "town": "Wheatfield",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-06-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 7000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/06/22/jasper-county-approves-agreements-for-7b-aws-data-center-campus/",
+        "date": "2026-06-22"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Mostly air cooling; water cooling about 2% of the year",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/06/22/jasper-county-approves-agreements-for-7b-aws-data-center-campus/",
+        "date": "2026-06-22"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$98M upfront, $23M a year for 10 years (Project Rise), $25M to expand Wheatfield Township water; AWS builds water and wastewater infrastructure",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/06/22/jasper-county-approves-agreements-for-7b-aws-data-center-campus/",
+        "date": "2026-06-22"
+      },
+      "utility": null,
+      "acres": {
+        "value": 304,
+        "unit": "acres (NIPSCO-owned, near R.M. Schahfer Generating Station)",
+        "kind": "real",
+        "source": "https://www.inkfreenews.com/2026/06/22/jasper-county-approves-agreements-for-7b-aws-data-center-campus/",
+        "date": "2026-06-22"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon Plans $7 Billion Data Center Project In Jasper County",
+        "outlet": "InkFreeNews",
+        "url": "https://www.inkfreenews.com/2026/06/03/amazon-plans-7-billion-data-center-project-in-jasper-county/",
+        "date": "2026-06-03",
+        "tone": "neutral"
+      },
+      {
+        "title": "Jasper County Approves Agreements For $7B AWS Data Center Campus",
+        "outlet": "InkFreeNews",
+        "url": "https://www.inkfreenews.com/2026/06/22/jasper-county-approves-agreements-for-7b-aws-data-center-campus/",
+        "date": "2026-06-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Commissioners unanimously approved development agreements June 15, 2026. Part of Amazon's $15B northern Indiana expansion (Nov 2025). Only one outlet fetched; second independent outlet still to add."
+  },
+  {
+    "id": "in-lake-aws-hobart",
+    "name": "Amazon Hobart Data Center Campus",
+    "owner": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "IN",
+    "county": "Lake County",
+    "town": "Hobart",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11-24",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 750,
+        "unit": "acres (more than, two site plans)",
+        "kind": "real",
+        "source": "https://www.insideindianabusiness.com/articles/hobart-commission-approves-site-plans-for-amazon-data-center",
+        "date": "2026-05-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Most public testimony at the Plan Commission came from opposed residents; the 'No Data Centers Hobart Indiana' Facebook group is organizing.",
+        "source": "https://www.insideindianabusiness.com/articles/hobart-commission-approves-site-plans-for-amazon-data-center",
+        "date": "2026-05-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hobart commission approves site plans for Amazon data center",
+        "outlet": "Inside INdiana Business",
+        "url": "https://www.insideindianabusiness.com/articles/hobart-commission-approves-site-plans-for-amazon-data-center",
+        "date": "2026-05-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Plan Commission unanimously approved both site plans; City Council vote was expected May 20, 2026 (outcome not confirmed). Part of Amazon's $15B northern Indiana plan announced Nov 24, 2025 (about 1,100 jobs across sites). A tracker lists 1,655 MW of backup generation (SBN520/SBN750)."
+  },
+  {
+    "id": "in-shelby-prologis-shelbyville",
+    "name": "Prologis Shelbyville Data Center Campus",
+    "owner": "Prologis",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Shelby County",
+    "town": "Shelbyville",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.giant.fm/shelby-county/news/local-news/shelbyville-common-council-approves-annexation-rezoning-of-land-for-proposed-data-center-campus/",
+        "date": "2026-04-07"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Economic development agreement projects $500M in added city taxes over 20 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.giant.fm/shelby-county/news/local-news/shelbyville-common-council-approves-annexation-rezoning-of-land-for-proposed-data-center-campus/",
+        "date": "2026-04-07"
+      },
+      "utility": null,
+      "acres": {
+        "value": 430,
+        "unit": "acres (about, annexed and rezoned)",
+        "kind": "real",
+        "source": "https://www.giant.fm/shelby-county/news/local-news/shelbyville-common-council-approves-annexation-rezoning-of-land-for-proposed-data-center-campus/",
+        "date": "2026-04-07"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Council approved 4-2-1 over the Plan Commission's unfavorable recommendation; thousands of residents oppose and the meeting moved to the high school auditorium.",
+        "source": "https://www.giant.fm/shelby-county/news/local-news/shelbyville-common-council-approves-annexation-rezoning-of-land-for-proposed-data-center-campus/",
+        "date": "2026-04-07"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Shelbyville common council approves annexation, rezoning of land for proposed data center campus",
+        "outlet": "Shelby County Post",
+        "url": "https://www.giant.fm/shelby-county/news/local-news/shelbyville-common-council-approves-annexation-rezoning-of-land-for-proposed-data-center-campus/",
+        "date": "2026-04-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "East of I-74 along State Road 44. Tracker lists 500 MW. Single outlet fetched."
+  },
+  {
+    "id": "in-hancock-eqt-mt-comfort",
+    "name": "Mt. Comfort Technology Park",
+    "owner": "EQT Real Estate",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Hancock County",
+    "town": "Greenfield",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-08-14",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "EQT would fund new dedicated generation; Wabash Valley Power Association study found full deliverability",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+        "date": "2026-08-14"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "construction jobs",
+        "kind": "real",
+        "source": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+        "date": "2026-08-14"
+      },
+      "jobs_promised_perm": {
+        "value": "100-150",
+        "unit": "permanent jobs",
+        "kind": "real",
+        "source": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+        "date": "2026-08-14"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Proposed $22.2M one-time payment, then about $22M a year at full build-out via payment in lieu of taxes",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+        "date": "2026-08-14"
+      },
+      "utility": null,
+      "acres": {
+        "value": 130,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+        "date": "2026-08-14"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Developer files letter of intent for 130-acre, multi-billion-dollar data center campus",
+        "outlet": "Daily Reporter (Greenfield)",
+        "url": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+        "date": "2026-08-14",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "NW of County Roads 500 N and 500 W, north of Indianapolis Regional Airport. 4M leasable sq ft, phased 2027-2030. Needs rezoning to Industrial General under the county data center overlay; plan commission hearing set Sept 22, 2026."
+  },
+  {
+    "id": "in-hancock-surge-megasite",
+    "name": "Hancock County MegaSite (Surge Development)",
+    "owner": "Surge Development",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Hancock County",
+    "town": "Greenfield",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 700,
+        "unit": "acres (more than, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/surge-hancock-megasite-withdrawn-in",
+        "date": "2026-08-19"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Developer pulls petition for data center planned unit development",
+        "outlet": "Daily Reporter (Greenfield)",
+        "url": "https://www.greenfieldreporter.com/2025/05/13/developer-pulls-petition-for-data-center-planned-unit-development/",
+        "date": "2025-05-13",
+        "tone": "neutral"
+      },
+      {
+        "title": "Developer withdraws application for massive data center in rural Hancock County",
+        "outlet": "WTHR",
+        "url": "https://www.wthr.com/article/money/business/application-withdrawn-surge-development-hancock-county-greenfield-data-center-tuttle-orchards/531-48204cbc-eba5-4666-bd66-6e88cb6d2412",
+        "date": "2025-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Mount Comfort Road east of Indianapolis Regional Airport next to Tuttle Orchards. Sources not fetched this run (taken from tracker citations)."
+  },
+  {
+    "id": "in-henry-surge-knightstown",
+    "name": "Henry County Technology Park (Surge Development)",
+    "owner": "Surge Development",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Henry County",
+    "town": "Knightstown",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 500,
+        "unit": "acres (more than)",
+        "kind": "real",
+        "source": "https://indianapublicradio.org/news/2026/01/henry-county-data-center-approved-at-last-commissioners-vote/",
+        "date": "2026-01-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Commissioners approved the PUD 2-1; Commissioner Susan Huhn voted no, saying over 80% of constituents who contacted her opposed it.",
+        "source": "https://indianapublicradio.org/news/2026/01/henry-county-data-center-approved-at-last-commissioners-vote/",
+        "date": "2026-01-29"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Henry County data center approved by last commissioners vote",
+        "outlet": "Indiana Public Radio",
+        "url": "https://indianapublicradio.org/news/2026/01/henry-county-data-center-approved-at-last-commissioners-vote/",
+        "date": "2026-01-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near State Road 109 and I-70. End user not named. Single outlet fetched."
+  },
+  {
+    "id": "in-marion-dc-blox-indianapolis",
+    "name": "DC BLOX Indianapolis (Thunderbird) Campus",
+    "owner": "DC BLOX",
+    "operator": "DC BLOX",
+    "tier": "large",
+    "state": "IN",
+    "county": "Marion County",
+    "town": "Indianapolis",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-02",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD (roughly, two-building campus)",
+        "kind": "real",
+        "source": "https://www.wfyi.org/education/2026-09-19/irvington-community-elementary-battles-indianapolis-data-center-dc-blox",
+        "date": "2026-09-19"
+      },
+      "power_mw": {
+        "value": 90,
+        "unit": "MW (per tracker)",
+        "kind": "estimate",
+        "source": "https://morethanjustparks.com/data-center-tracker/dc-blox-thunderbird-data-center-in-indianapolis-in--111e77a9-fea6-46fc-8b89-82d8fc156923",
+        "date": "2026-09-10"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Irvington Community Elementary and other plaintiffs filed for judicial review in August 2026 to stop the project.",
+        "source": "https://www.wfyi.org/education/2026-09-19/irvington-community-elementary-battles-indianapolis-data-center-dc-blox",
+        "date": "2026-09-19"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Irvington community elementary battles Indianapolis data center DC BLOX",
+        "outlet": "WFYI",
+        "url": "https://www.wfyi.org/education/2026-09-19/irvington-community-elementary-battles-indianapolis-data-center-dc-blox",
+        "date": "2026-09-19",
+        "tone": "bad"
+      },
+      {
+        "title": "Data center rules proposal clears initial vote in Indianapolis",
+        "outlet": "WFYI",
+        "url": "https://www.wfyi.org/wfyi-news/2026-07-01/data-center-rules-proposal-clears-initial-vote-in-indianapolis",
+        "date": "2026-07-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "305 Fintail Drive, former Ford plant brownfield on the east side, about 850 ft from Irvington Community Elementary. Up to 31 generators. Approved by the Metropolitan Development Commission just before the city's moratorium; first building targeted within two years. WFYI July 2026 said three buildings up to 420,000 sq ft."
+  },
+  {
+    "id": "in-marion-metrobloks-martindale",
+    "name": "Metrobloks Indianapolis IND-A1 (Martindale-Brightwood)",
+    "owner": "Metrobloks",
+    "operator": "Metrobloks",
+    "tier": "large",
+    "state": "IN",
+    "county": "Marion County",
+    "town": "Indianapolis",
+    "lat": 39.859945,
+    "lng": -86.104344,
+    "stage": "permitted",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 71.4,
+        "unit": "MW critical IT load (per tracker)",
+        "kind": "estimate",
+        "source": "https://dcmap.us/states/indiana/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "AES Indiana (contracts)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood",
+        "date": "2026-05-04"
+      },
+      "acres": {
+        "value": 14,
+        "unit": "acres (nearly)",
+        "kind": "real",
+        "source": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood",
+        "date": "2026-05-04"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents opposed over lead-contaminated soil, noise, water and power; Councilor Jesse Brown passed a non-binding resolution urging a stay on high-impact data center approvals.",
+        "source": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood",
+        "date": "2026-05-04"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Supporting councilor Ron Gibson's home was shot in April 2026 with a 'No Data Centers' note left behind; no arrests.",
+        "source": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood",
+        "date": "2026-05-04"
+      }
+    ],
+    "news": [
+      {
+        "title": "Indianapolis council approves data center for Martindale-Brightwood",
+        "outlet": "WFYI",
+        "url": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood",
+        "date": "2026-05-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "2505 N Sherman Ave, former drive-in site. City-County Council approved rezoning May 4, 2026.",
+    "pin_address": "2505 N Sherman Ave, Indianapolis, IN",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood"
+  },
+  {
+    "id": "in-sullivan-fluidstack-heartland",
+    "name": "Fluidstack Heartland Industrial Park Campus (Merom)",
+    "owner": "Fluidstack",
+    "operator": "Fluidstack",
+    "tier": "large",
+    "state": "IN",
+    "county": "Sullivan County",
+    "town": "Merom",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 65000000000,
+        "unit": "USD (total development, as reported)",
+        "kind": "real",
+        "source": "https://www.tribstar.com/news/local_news/residents-learn-more-about-sullivan-data-center-at-open-house-in-merom/article_2d210df7-9511-4e57-8386-207cfb890110.html",
+        "date": "2026-08-06"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop (company representative)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.tribstar.com/news/local_news/residents-learn-more-about-sullivan-data-center-at-open-house-in-merom/article_2d210df7-9511-4e57-8386-207cfb890110.html",
+        "date": "2026-08-06"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$50M to Sullivan County government via enhancement agreement (split across phases); no tax incentives sought for Phase 1",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.tribstar.com/news/local_news/residents-learn-more-about-sullivan-data-center-at-open-house-in-merom/article_2d210df7-9511-4e57-8386-207cfb890110.html",
+        "date": "2026-08-06"
+      },
+      "utility": {
+        "value": "WIN Energy REMC (park pays its own energy costs)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.tribstar.com/news/local_news/residents-learn-more-about-sullivan-data-center-at-open-house-in-merom/article_2d210df7-9511-4e57-8386-207cfb890110.html",
+        "date": "2026-08-06"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Residents learn more about Sullivan data center at open house in Merom",
+        "outlet": "Terre Haute Tribune-Star",
+        "url": "https://www.tribstar.com/news/local_news/residents-learn-more-about-sullivan-data-center-at-open-house-in-merom/article_2d210df7-9511-4e57-8386-207cfb890110.html",
+        "date": "2026-08-06",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Phase 1 is two buildings, operations targeted 2027. Trackers list 2.1 GW here and a separate 430 MW Coatue/Fluidstack 'Next Frontier' campus at New Lebanon (Sullivan County, DCD); possibly the same project. Check before adding a second record. Pass 3 (2026-10-15): Lead in-sullivan-aboutbit-merom checked: a separate 2022 bitcoin mine at the Merom Generating Station, not this campus."
+  },
+  {
+    "id": "in-lake-digital-crossroad-hammond",
+    "name": "Digital Crossroad Hammond (DX-1)",
+    "owner": "Digital Crossroad",
+    "operator": "Digital Crossroad",
+    "tier": "large",
+    "state": "IN",
+    "county": "Lake County",
+    "town": "Hammond",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 20,
+        "unit": "MW gross facility (up to, per tracker)",
+        "kind": "estimate",
+        "source": "https://datacenterdata.com/indiana/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Built on the site of a former coal power plant (company site https://www.digitalcrossroad.com/). A CoreWeave expansion was reported but expired June 30, 2026 undelivered (tracker). Near the 20 MW bar."
+  },
+  {
+    "id": "in-marion-sabey-decatur",
+    "name": "Sabey Indianapolis Campus (Decatur Township)",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "IN",
+    "county": "Marion County",
+    "town": "Indianapolis",
+    "lat": 39.67023,
+    "lng": -86.300591,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 4300000000,
+        "unit": "USD (Sabey and tenant, property and equipment, per city documents)",
+        "kind": "real",
+        "source": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+        "date": "2026-08-19"
+      },
+      "power_mw": {
+        "value": 250,
+        "unit": "MW at completion",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/4bn-data-center-in-indianapolis-indiana-gets-go-ahead/",
+        "date": "2026-03-27"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": "25 full-time construction jobs plus 100-300 subcontractor positions",
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+        "date": "2026-08-19"
+      },
+      "jobs_promised_perm": {
+        "value": 75,
+        "unit": "full-time jobs (about, once complete in 2031)",
+        "kind": "real",
+        "source": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+        "date": "2026-08-19"
+      },
+      "jobs_actual": null,
+      "tax_break": {
+        "value": 188000000,
+        "unit": "USD (nearly; recommended abatements: $49M real property over 10 yrs, $36M Sabey equipment and $103M tenant equipment over 15 yrs)",
+        "kind": "real",
+        "source": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+        "date": "2026-08-19"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "At least $29.8M to the city over 10 years: $5M road improvements outside the site and $24.8M for a new Decatur Township aquatic center; option of $10M more later",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+        "date": "2026-08-19"
+      },
+      "utility": null,
+      "acres": {
+        "value": 130,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.ipm.org/news/2026-03-19/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback",
+        "date": "2026-03-19"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Indianapolis approves plan to build $4B data center in Decatur Township after months of pushback",
+        "outlet": "Indiana Public Media",
+        "url": "https://www.ipm.org/news/2026-03-19/indianapolis-approves-plan-to-build-4b-data-center-in-decatur-township-after-months-of-pushback",
+        "date": "2026-03-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "$4bn data center in Indianapolis, Indiana, gets go ahead",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/4bn-data-center-in-indianapolis-indiana-gets-go-ahead/",
+        "date": "2026-03-27",
+        "tone": "neutral"
+      },
+      {
+        "title": "Sabey data center tax abatements and aquatic center deal",
+        "outlet": "Mirror Indy",
+        "url": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+        "date": "2026-08-19",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "6400 Kentucky Ave (Kentucky Ave at Camby Rd). Metropolitan Development Commission approved the land use variance March 18, 2026 (Mirror Indy, IPM); site was already zoned I-2. Two buildings totaling about 900,000 sq ft (DCD) plus a 10-acre substation; buildings to go live 2028 and 2030 (DCD), completion 2031 (Mirror Indy). Tax abatements were recommended by Indy Economic Development as of Aug 2026; final council vote not confirmed this pass. Residents raised noise, power, water, jobs and property value concerns (IPM). Tenant not named. Former lead in-marion-sabey-decatur.",
+    "pin_source": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development/",
+    "pin_address": "6400 KENTUCKY AVE, INDIANAPOLIS, IN, 46221"
+  },
+  {
+    "id": "in-hendricks-vantage-pittsboro",
+    "name": "Vantage Pittsboro Campus",
+    "owner": "Vantage Data Centers",
+    "operator": "Vantage Data Centers",
+    "tier": "large",
+    "state": "IN",
+    "county": "Hendricks County",
+    "town": "Pittsboro",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-02-25",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 400,
+        "unit": "MW across three planned buildings (256 + 96 + 48 MW)",
+        "kind": "real",
+        "source": "https://www.ibj.com/articles/pittsboro-plan-commission-supports-data-center-rezoning-request",
+        "date": "2025-02-25"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "air-to-air or air-cooled glycol system under study (low water use)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/vantage-advances-plan-for-data-center-project-in-pittsboro-indiana/",
+        "date": "2025-02-28"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "full-time jobs",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/vantage-advances-plan-for-data-center-project-in-pittsboro-indiana/",
+        "date": "2025-02-28"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Hendricks Power Cooperative / Wabash Valley Power Alliance",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.insideindianabusiness.com/?p=183405",
+        "date": "2025-03-19"
+      },
+      "acres": {
+        "value": 285,
+        "unit": "acres for the data center (of a 618-626 acre rezoned site)",
+        "kind": "real",
+        "source": "https://www.insideindianabusiness.com/?p=183405",
+        "date": "2025-03-19"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Pittsboro officials OK rezoning of 626 acre-site for proposed data center campus",
+        "outlet": "Inside INdiana Business",
+        "url": "https://www.insideindianabusiness.com/?p=183405",
+        "date": "2025-03-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "Pittsboro advisory commission recommends data-center rezoning request",
+        "outlet": "Indianapolis Business Journal",
+        "url": "https://www.ibj.com/articles/pittsboro-plan-commission-supports-data-center-rezoning-request",
+        "date": "2025-02-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Vantage advances plan for data center project in Pittsboro, Indiana",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/vantage-advances-plan-for-data-center-project-in-pittsboro-indiana/",
+        "date": "2025-02-28",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "North of I-74, west of County Road 500 East (between CR 500 E, 850 N and 1000 N), Middle Township. Plan commission 4-1 (Feb 25, 2025); Town Council approved rezoning unanimously (March 2025). Steel Dynamics raised grid capacity concerns (IIB). Planned as a multi-tenant colocation campus. Not listed on Vantage's location page as of 2026-10-15; no newer status found. Former lead in-hendricks-vantage-pittsboro."
+  },
+  {
+    "id": "in-lake-sentinel-eagle-creek",
+    "name": "Sentinel Eagle Creek Township Data Center",
+    "owner": "Sentinel Data Centers",
+    "operator": "Sentinel Data Centers",
+    "tier": "large",
+    "state": "IN",
+    "county": "Lake County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://nwitimes.com/news/local/lake/article_bda889b5-f6ef-4e83-9ae4-5000ec293f09.html",
+        "date": "2026-06-09"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 160,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://constructionreviewonline.com/lake-county-council-approves-zoning-for-eagle-creek-township-data-center-despite-opposition/",
+        "date": "2026-06-09"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Hundreds of residents opposed the A1-to-M1 rezoning at Plan Commission and County Council hearings",
+        "source": "https://constructionreviewonline.com/lake-county-council-approves-zoning-for-eagle-creek-township-data-center-despite-opposition/",
+        "date": "2026-06-09"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Rezoning unanimously approved for data center in rural Lake County",
+        "outlet": "The Times of Northwest Indiana",
+        "url": "https://nwitimes.com/news/local/lake/article_bda889b5-f6ef-4e83-9ae4-5000ec293f09.html",
+        "date": "2026-06-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Lake County Council Approves Zoning for Eagle Creek Township Data Center Despite Opposition",
+        "outlet": "Construction Review Online",
+        "url": "https://constructionreviewonline.com/lake-county-council-approves-zoning-for-eagle-creek-township-data-center-despite-opposition/",
+        "date": "2026-06-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "South side of State Road 2 just east of Clay Street, nearly two miles east of I-65, Eagle Creek Township, Lake County, Indiana (near Lowell and Hebron; the earlier lead placed it in Porter County, which is wrong). Lake County Council approved the A1-to-M1 rezoning 6-0 on June 9, 2026 after the Plan Commission gave no recommendation; a special exception hearing before the county Board of Zoning Appeals was still expected (Times of NWI). NIPSCO power details under NDA (Construction Review). 'Project Shirley' and 500 MW come from trackers only. Former lead in-porter-sentinel-hebron."
+  },
+  {
+    "id": "in-lake-karis-merrillville",
+    "name": "Karis Critical Merrillville Campus (101st Avenue)",
+    "owner": "Karis Critical",
+    "operator": "Karis Critical",
+    "tier": "large",
+    "state": "IN",
+    "county": "Lake County",
+    "town": "Merrillville",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 900000000,
+        "unit": "USD (up to; nine $100M buildings)",
+        "kind": "real",
+        "source": "https://insideindianabusiness.com/?p=174629",
+        "date": "2024-09-11"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 270,
+        "unit": "jobs (up to, per town spokesman)",
+        "kind": "real",
+        "source": "https://insideindianabusiness.com/?p=174629",
+        "date": "2024-09-11"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 180,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://insideindianabusiness.com/?p=174629",
+        "date": "2024-09-11"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Karis Critical Merrillville data center clears two hurdles",
+        "outlet": "Inside INdiana Business",
+        "url": "https://insideindianabusiness.com/?p=174629",
+        "date": "2024-09-11",
+        "tone": "good"
+      },
+      {
+        "title": "Merrillville committee endorses data center",
+        "outlet": "Northwest Indiana Business Magazine",
+        "url": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/",
+        "date": "2024-09-16",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "101st Avenue east of Deep River, Merrillville. Town Council approved the zoning change in September 2024; plan commission approval and NIPSCO power still needed (NWI Business). No newer status found this pass. Former lead in-lake-karis-deep-river."
+  },
+  {
+    "id": "in-lake-province-merrillville",
+    "name": "Merrillville Technology Park (Province Group)",
+    "owner": "Province Group",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Lake County",
+    "town": "Merrillville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-11-25",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 500000000,
+        "unit": "USD (up to)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/province-group-and-wylie-capital-seek-to-develop-data-center-campuses-in-northwest-indiana/",
+        "date": "2024-11-29"
+      },
+      "power_mw": {
+        "value": 400,
+        "unit": "MW (target, up to)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/province-group-and-wylie-capital-seek-to-develop-data-center-campuses-in-northwest-indiana/",
+        "date": "2024-11-29"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Province Group and Wylie Capital seek to develop data center campuses in Northwest Indiana",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/province-group-and-wylie-capital-seek-to-develop-data-center-campuses-in-northwest-indiana/",
+        "date": "2024-11-29",
+        "tone": "neutral"
+      },
+      {
+        "title": "$2B in data center projects planned for Merrillville, Ind.",
+        "outlet": "GovTech (Times of NWI)",
+        "url": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind",
+        "date": "2024-11-25",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near Colorado Street and Harms Road, near the Hobart line. Four 250,000 sq ft buildings over 5-7 years; NIPSCO transmission study commissioned; town Data Center Advisory Committee gave preliminary approval Nov 2024. No newer status found. Former lead in-lake-province-merrillville."
+  },
+  {
+    "id": "in-lake-wylie-merrillville",
+    "name": "Merrillville Commerce Center Data Center (Wylie Capital)",
+    "owner": "Wylie Capital",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Lake County",
+    "town": "Merrillville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-11-20",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 600000000,
+        "unit": "USD (about)",
+        "kind": "real",
+        "source": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind",
+        "date": "2024-11-25"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 87,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.merrillville.in.gov/media/c1qpdrdq/11-20-24-meeting-memo-data-center-committeee.pdf",
+        "date": "2024-11-20"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "$2B in data center projects planned for Merrillville, Ind.",
+        "outlet": "GovTech (Times of NWI)",
+        "url": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind",
+        "date": "2024-11-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Province Group and Wylie Capital seek to develop data center campuses in Northwest Indiana",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/province-group-and-wylie-capital-seek-to-develop-data-center-campuses-in-northwest-indiana/",
+        "date": "2024-11-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "93rd Avenue between Broadway and Georgia Street. Town memo of the Nov 20, 2024 Data Center Advisory Committee: existing zoning already allows the use; Indiana American Water said it can supply cooling water; committee to send NIPSCO a letter of support. 1.2M sq ft, up to six buildings, up to 200 jobs (GovTech/DCD). No newer status found. Former lead in-lake-wylie-merrillville."
+  },
+  {
+    "id": "in-marion-google-franklin-township",
+    "name": "Google Franklin Township Data Center Proposal",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Marion County",
+    "town": "Indianapolis",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 468,
+        "unit": "acres (rezoning request)",
+        "kind": "real",
+        "source": "https://mirrorindy.org/google-withdraws-southside-data-center-proposal-franklin-township/",
+        "date": "2025-09-22"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Southside residents and a majority of City-County Council members opposed the rezoning; Google withdrew its petition at the Sept 22, 2025 council meeting",
+        "source": "https://mirrorindy.org/google-withdraws-southside-data-center-proposal-franklin-township/",
+        "date": "2025-09-22"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google withdraws data center proposal in southside Indianapolis",
+        "outlet": "Mirror Indy",
+        "url": "https://mirrorindy.org/google-withdraws-southside-data-center-proposal-franklin-township/",
+        "date": "2025-09-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google withdraws rezoning petition for proposed data center in Franklin Township",
+        "outlet": "WRTV",
+        "url": "https://www.wrtv.com/news/local-news/google-withdraws-rezoning-petition-for-proposed-data-center-in-franklin-township",
+        "date": "2025-09-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "468 acres of Franklin Township farmland (near I-74 and Post Road per press). Withdrawn Sept 22, 2025 before a City-County Council vote. Former lead in-marion-google-franklin-township."
+  },
+  {
+    "id": "in-jefferson-jpg-redevelopment-proving-ground",
+    "name": "Jefferson Proving Ground Data Center Campus",
+    "owner": "JPG Redevelopment LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "IN",
+    "county": "Jefferson County",
+    "town": "Madison",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 550,
+        "unit": "acres (more than)",
+        "kind": "real",
+        "source": "https://www.ipm.org/news/2026-06-26/data-center-proceeds-in-jefferson-county-residents-and-government-at-odds",
+        "date": "2026-06-26"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Jefferson County Concerned Citizens pushing back on the project and seeking a moratorium on future data centers",
+        "source": "https://www.ipm.org/news/2026-06-26/data-center-proceeds-in-jefferson-county-residents-and-government-at-odds",
+        "date": "2026-06-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Local residents react after Indiana zoning officials advance a hyperscale data center on Army land",
+        "outlet": "When In Your State",
+        "url": "https://wheninyourstate.com/indiana/local-residents-react-after-indiana-zoning-officials-advance-a-hyperscale-data-center-on-army-land/",
+        "date": "2026-05-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center proceeds in Jefferson County; residents and government at odds",
+        "outlet": "Indiana Public Media (WFIU/WTIU)",
+        "url": "https://www.ipm.org/news/2026-06-26/data-center-proceeds-in-jefferson-county-residents-and-government-at-odds",
+        "date": "2026-06-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Jefferson Proving Ground (privately owned) near Madison. A 7.1 million sq ft hyperscale campus on more than 550 acres; county commissioners approved industrial use earlier in 2026 and the county council set up an Economic Revitalization Area for the site (IPM). Zoning Administrator ruled Feb 25, 2026 that a data center is similar to permitted uses in the I-2 Heavy Industrial district; resident Debra Jones appealed (filed March 27, 2026); the Board of Zoning Appeals unanimously affirmed the ruling on May 20, 2026. JPG Redevelopment LLC is the property-side party in the appeal (BZA minutes: https://www.jeffersoncounty.in.gov/AgendaCenter/ViewFile/Minutes/_05202026-827). End user / operator not disclosed. Trackers list 200 MW (not confirmed). Former lead in-jefferson-proving-ground."
+  }
+]

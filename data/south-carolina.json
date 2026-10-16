@@ -1,0 +1,893 @@
+[
+  {
+    "id": "sc-berkeley-google-moncks-corner",
+    "name": "Google Berkeley County data center (Mount Holly Commerce Park)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Berkeley County",
+    "town": "Moncks Corner",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2007",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1300000000,
+        "unit": "USD (2024 expansion only; total invested since 2007 not stated)",
+        "kind": "real",
+        "source": "https://governor.sc.gov/news/2024-09/google-grows-south-carolina-footprint-new-dorchester-county-operations-expansion",
+        "date": "2024-09-26"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Google's first SC data center, established 2007. Expansion announced Sept. 26, 2024 as part of $3.3B statewide; Google later announced $9B more in SC through 2027 covering Berkeley and Dorchester (Google blog, Oct 2025, not fetched)."
+  },
+  {
+    "id": "sc-dorchester-google-ridgeville-st-george",
+    "name": "Google Dorchester County data centers (Pine Hill, Ridgeville and Winding Woods, St. George)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Dorchester County",
+    "town": "Ridgeville",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-09-26",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD (combined for both Dorchester campuses)",
+        "kind": "real",
+        "source": "https://governor.sc.gov/news/2024-09/google-grows-south-carolina-footprint-new-dorchester-county-operations-expansion",
+        "date": "2024-09-26"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "operational jobs (both campuses)",
+        "kind": "real",
+        "source": "https://governor.sc.gov/news/2024-09/google-grows-south-carolina-footprint-new-dorchester-county-operations-expansion",
+        "date": "2024-09-26"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Announced as two campuses in one $2B package; kept as one record because investment and jobs are not split. Trackers say under construction; stage kept at 'announced' until an official source confirms building. Part of $9B Google SC investment through 2027 (Oct 2025). Pass 3 (2026-10-15): Google's location list (https://datacenters.google/locations/, read 2026-10-15) shows 'Dorchester County, South Carolina' as in development, and a separate operating entry 'The Lowcountry, South Carolina'. Google's South Carolina page says it has three facilities across Berkeley and Dorchester counties, at Moncks Corner, Summerville and St. George, and lists the 2024 milestone 'Google opens our newest data center in Dorchester County, South Carolina.' So at least one Dorchester facility runs (probably the Lowcountry entry; town not stated), while the sites in this record are in development. Stage announced -> building. This bundled record should be split once the running facility can be placed (see lead sc-dorchester-google-running)."
+  },
+  {
+    "id": "sc-aiken-meta-aiken",
+    "name": "Meta Aiken data center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Aiken County",
+    "town": "Aiken",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "operational jobs (about)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "peak construction workers (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Meta lists ground broken 2024. Trackers place it in Sage Mill Industrial Park with opening spring 2027 (not confirmed)."
+  },
+  {
+    "id": "sc-cherokee-cielo-gaffney",
+    "name": "Cielo Digital Infrastructure Cherokee County campus",
+    "owner": "Cielo Digital Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Cherokee County",
+    "town": "Gaffney",
+    "lat": 35.066637,
+    "lng": -81.557606,
+    "stage": "announced",
+    "announced": "2025-06-24",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2100000000,
+        "unit": "USD (about)",
+        "kind": "real",
+        "source": "https://governor.sc.gov/node/5281",
+        "date": "2025-06-24"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 30,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://governor.sc.gov/node/5281",
+        "date": "2025-06-24"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Site at 000 Ford Road, Gaffney. Trackers describe four ~400,000 sq ft buildings plus a substation (not confirmed).",
+    "pin_address": "000 Ford Road, Gaffney, SC",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://governor.sc.gov/node/5281"
+  },
+  {
+    "id": "sc-york-qts-lake-wylie",
+    "name": "QTS York County campus (Lake Wylie)",
+    "owner": "QTS Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "York County",
+    "town": "Lake Wylie",
+    "lat": 35.035396,
+    "lng": -81.103431,
+    "stage": "building",
+    "announced": "2023-09-19",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (2023 announcement; QTS later said operations will bring $8B to local growth)",
+        "kind": "real",
+        "source": "https://governor.sc.gov/node/3106",
+        "date": "2023-09-19"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Resident petition (Stacy Armstrong) against the project, nearly 800 signatures",
+        "source": "https://www.wbtv.com/2026/02/11/residents-share-concerns-new-data-center-being-built-york-county/",
+        "date": "2026-02-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Residents share concerns as new data center being built in York County",
+        "outlet": "WBTV",
+        "url": "https://www.wbtv.com/2026/02/11/residents-share-concerns-new-data-center-being-built-york-county/",
+        "date": "2026-02-10",
+        "tone": "bad"
+      },
+      {
+        "title": "Industrial-scale land clearing underway for $1B Lake Wylie data center",
+        "outlet": "WSOC",
+        "url": "https://www.wsoctv.com/news/local/industrial-scale-land-clearing-underway-1b-lake-wylie-data-center/5YCYC4LUJBCYRJ2O63MGWV2XXU",
+        "date": "2026-03-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Unincorporated York County near Hands Mill Highway and Campbell Road. Trackers report about 400 acres, nine buildings, first building 2028, and a second 400-acre purchase. Search summaries mention a 2023 incentive package (4% assessment, 20-35% credits over 40 years, $200,000 state site grant), not confirmed from a fetched source.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071988103",
+    "pin_address": "2143 Hands Mill Hwy, York, SC 29745"
+  },
+  {
+    "id": "sc-marion-stream-project-liberty",
+    "name": "Stream Data Centers Marion campus (Project Liberty)",
+    "owner": "Stream Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Marion County",
+    "town": "Marion",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-01-22",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD (Post and Courier; Capital B reported $2.4B)",
+        "kind": "estimate",
+        "source": "https://www.postandcourier.com/pee-dee/news/marion-county-stream-data-center/article_fce64b6c-7e65-4d99-ba9a-4d1dc70d28e5.html",
+        "date": "2026-02-27"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 20,
+        "unit": "jobs (about)",
+        "kind": "real",
+        "source": "https://www.postandcourier.com/pee-dee/news/marion-county-stream-data-center/article_fce64b6c-7e65-4d99-ba9a-4d1dc70d28e5.html",
+        "date": "2026-02-27"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": 7500,
+        "unit": "gallons per day (first building)",
+        "kind": "estimate",
+        "source": "https://www.postandcourier.com/pee-dee/news/marion-county-stream-data-center/article_fce64b6c-7e65-4d99-ba9a-4d1dc70d28e5.html",
+        "date": "2026-02-27"
+      },
+      "tax_break": {
+        "value": "Fee-in-lieu-of-tax (FILOT) agreement approved by Marion County Council Jan. 22, 2026; terms not public",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/",
+        "date": "2026-02-04"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "County council signed a nondisclosure agreement; agenda listed only 'Project Liberty'",
+        "source": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/",
+        "date": "2026-02-04"
+      }
+    ],
+    "news": [
+      {
+        "title": "A Rural S.C. County Quietly Approved a $2B Data Center During the Winter Storm",
+        "outlet": "Capital B News",
+        "url": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/",
+        "date": "2026-02-04",
+        "tone": "bad"
+      },
+      {
+        "title": "Rural SC residents didn't know about an $800M data center before approval. Now they have questions.",
+        "outlet": "Post and Courier",
+        "url": "https://www.postandcourier.com/pee-dee/news/marion-county-stream-data-center/article_fce64b6c-7e65-4d99-ba9a-4d1dc70d28e5.html",
+        "date": "2026-02-27",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Agenda names Eagle Myra LLC / Project Liberty. Marion County industrial park on US 501 Bypass. Up to six buildings in two phases. Investment figures conflict ($800M vs $2.4B)."
+  },
+  {
+    "id": "sc-spartanburg-tigerdc-project-spero",
+    "name": "TigerDC Project Spero",
+    "owner": "TigerDC",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Spartanburg County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2026-01-27",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.foxcarolina.com/2026/01/27/tigerdc-announces-3-billion-data-center-new-jobs-spartanburg-county/",
+        "date": "2026-01-27"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 50,
+        "unit": "full-time jobs (Phase I, about)",
+        "kind": "real",
+        "source": "https://www.foxcarolina.com/2026/01/27/tigerdc-announces-3-billion-data-center-new-jobs-spartanburg-county/",
+        "date": "2026-01-27"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Public protests; county council members vowed to switch their final vote to 'no' on the property tax incentive package, and the company abandoned its plans",
+        "source": "https://scdailygazette.com/2026/03/10/data-center-proposals-on-the-decline-according-to-sc-utility-companies/",
+        "date": "2026-03-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "TigerDC announces $3 billion data center, new jobs in Spartanburg County",
+        "outlet": "Fox Carolina",
+        "url": "https://www.foxcarolina.com/2026/01/27/tigerdc-announces-3-billion-data-center-new-jobs-spartanburg-county/",
+        "date": "2026-01-27",
+        "tone": "good"
+      },
+      {
+        "title": "Rural SC residents didn't know about an $800M data center before approval (says Spartanburg project 'all but dead')",
+        "outlet": "Post and Courier",
+        "url": "https://www.postandcourier.com/pee-dee/news/marion-county-stream-data-center/article_fce64b6c-7e65-4d99-ba9a-4d1dc70d28e5.html",
+        "date": "2026-02-27",
+        "tone": "bad"
+      },
+      {
+        "title": "Data center proposals on the decline, according to SC utility companies",
+        "outlet": "SC Daily Gazette",
+        "url": "https://scdailygazette.com/2026/03/10/data-center-proposals-on-the-decline-according-to-sc-utility-companies/",
+        "date": "2026-03-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "Tyger River Industrial Park - North. SC Daily Gazette (Mar. 10, 2026): TigerDC abandoned its $3B plan about a week earlier after council members said they would vote no on incentives; SC Daily Gazette (June 26, 2026): the company withdrew its application in February. Stage changed paused -> cancelled on 2026-10-15."
+  },
+  {
+    "id": "sc-colleton-eagle-rock-walterboro",
+    "name": "Eagle Rock Partners Colleton County campus",
+    "owner": "Eagle Rock Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Colleton County",
+    "town": "Walterboro",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-12",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD",
+        "kind": "estimate",
+        "source": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-19"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (developer estimate)",
+        "kind": "estimate",
+        "source": "https://www.selc.org/press-release/landowners-sue-colleton-county-over-data-center-ordinance/",
+        "date": "2026-01-09"
+      },
+      "acres": {
+        "value": 859,
+        "unit": "acres (about 860, nine buildings)",
+        "kind": "real",
+        "source": "https://www.selc.org/press-release/landowners-sue-colleton-county-over-data-center-ordinance/",
+        "date": "2026-01-09"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Lawsuit by Colleton residents Miles Crosby and Jennifer Singleton (SELC) challenging the county's data center zoning change",
+        "source": "https://www.selc.org/press-release/landowners-sue-colleton-county-over-data-center-ordinance/",
+        "date": "2026-01-09"
+      },
+      {
+        "what": "Packed county meeting with residents, a state senator and a gubernatorial candidate speaking against",
+        "source": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-19"
+      },
+      {
+        "what": "Bipartisan proclamation by seven state legislators whose districts cover Colleton County opposing the project",
+        "source": "https://scdailygazette.com/2026/02/05/sc-legislators-denounce-lowcountry-data-center-while-mulling-regulations-for-the-industry/",
+        "date": "2026-02-05"
+      },
+      {
+        "what": "Colleton County Council first vote on a six-month data center moratorium (May 2026)",
+        "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+        "date": "2026-06-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Gigawatt data center proposal draws opposition from SC Lowcountry residents, politicians",
+        "outlet": "SC Daily Gazette",
+        "url": "https://www.yahoo.com/news/articles/gigawatt-data-center-proposal-draws-212106926.html",
+        "date": "2025-12-19",
+        "tone": "bad"
+      },
+      {
+        "title": "Colleton County sets stage for data center development with new overlay district",
+        "outlet": "Post and Courier",
+        "url": "https://www.postandcourier.com/rising-waters/data-center-colleton-county-overlay-district/article_74d76b64-1253-4ca1-a18f-08a4f3629399.html",
+        "date": "2026-09-17",
+        "tone": "neutral"
+      },
+      {
+        "title": "New proposed Colleton County data center campus draws residents' questions",
+        "outlet": "Live 5 News",
+        "url": "https://www.live5news.com/2026/09/23/new-proposed-colleton-county-data-center-campus-draws-residents-questions/",
+        "date": "2026-09-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "UPDATE Sept. 2026: Eagle Rock Partners now proposes 'Rhodes Technology Park' west of I-95 off Mount Carmel Road, more than 1,200 acres, 10 data centers and two substations, 1,000 MW, $6B, inside the new digital infrastructure overlay district; development agreement being finalized; Santee Cooper energy and transmission study under way; construction about 2028-2029 (Live 5 News, Sept. 22, 2026). Kept as the same record (same developer, same county, same 1 GW / $6B project moved to a new site); the town field 'Walterboro' reflects the first site. Lead sc-colleton-smoaks-overlay may be this same site. EARLIER: About four miles southeast of Walterboro on timberland near the ACE Basin; 860 acres, about 1,000 MW, $6B (SC Daily Gazette). Seven state legislators signed a proclamation against it (SC Daily Gazette, Feb. 5, 2026). No amended zoning application filed as of Mar. 10, 2026; described as 'stalled' Apr. 24, 2026. County council took a first vote on a six-month moratorium in May 2026 (SC Daily Gazette, June 26, 2026). The Sept. 14, 2026 overlay district is a separate site near Smoaks (lead sc-colleton-smoaks-overlay). Stage left at 'announced'. Pass 3 (2026-10-15): Lead sc-colleton-smoaks-overlay re-checked: Live 5 says Rhodes is inside the new overlay district, Post and Courier says the overlay covers Weyerhaeuser land near Smoaks with no project named. Probably the same land but no source ties them; lead kept open, no merge."
+  },
+  {
+    "id": "sc-spartanburg-valara-northmark",
+    "name": "Valara Holdings High Performance Compute Center (NorthMark Strategies)",
+    "owner": "NorthMark Strategies",
+    "operator": "Valara Holdings (NorthMark subsidiary)",
+    "tier": "large",
+    "state": "SC",
+    "county": "Spartanburg County",
+    "town": "Spartanburg",
+    "lat": 34.926778,
+    "lng": -81.851469,
+    "stage": "building",
+    "announced": "2025-04-21",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2800000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.sccommerce.com/news/northmark-strategies-selects-spartanburg-county-establish-first-south-carolina-operation",
+        "date": "2025-04-21"
+      },
+      "power_mw": {
+        "value": 450,
+        "unit": "MW of on-site gas generation sought in amended state air permit application (about 50 MW first approved)",
+        "kind": "real",
+        "source": "https://scdailygazette.com/2026/08/27/spartanburg-data-center-not-subject-to-public-power-plant-rules-sc-regulators-rule/",
+        "date": "2026-08-27"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "On-site natural gas: 24 x 2 MW generators already permitted; March 2026 request adds five 17 MW and six 54 MW combustion turbines; no grid export",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+        "date": "2026-06-26"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 27,
+        "unit": "jobs (at least)",
+        "kind": "real",
+        "source": "https://www.sccommerce.com/news/northmark-strategies-selects-spartanburg-county-establish-first-south-carolina-operation",
+        "date": "2025-04-21"
+      },
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "Spartanburg County deal: 4% assessment ratio for 40 years plus special credits up to $2M a year; no state incentives sought",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://scdailygazette.com/2025/04/22/cutting-edge-supercomputing-facility-a-2-8b-investment-planned-for-spartanburg-county/",
+        "date": "2025-04-22"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 300,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://scdailygazette.com/2026/08/27/spartanburg-data-center-not-subject-to-public-power-plant-rules-sc-regulators-rule/",
+        "date": "2026-08-27"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Concerned Citizens of Spartanburg County and Southern Alliance for Clean Energy complaint at the SC Public Service Commission (Docket 2026-158-E) asking for review and a construction halt; PSC ruled for Valara Aug. 27, 2026; petition for rehearing filed Sept. 24, 2026",
+        "source": "https://dms.psc.sc.gov/Web/Dockets/Detail/119739",
+        "date": "2026-09-24"
+      },
+      {
+        "what": "Lawsuit filed July 6, 2026 in Spartanburg County by SELC for a citizens group, saying the county wrongly treated the project as a 'minor' development; asks the judge to pause construction",
+        "source": "https://scdailygazette.com/2026/08/27/spartanburg-data-center-not-subject-to-public-power-plant-rules-sc-regulators-rule/",
+        "date": "2026-08-27"
+      },
+      {
+        "what": "Hundreds of residents at the June 25, 2026 state air permit hearing raised noise and air pollution concerns",
+        "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+        "date": "2026-06-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "'Cutting-edge' supercomputing facility, a $2.8B investment, planned for Spartanburg County",
+        "outlet": "SC Daily Gazette",
+        "url": "https://scdailygazette.com/2025/04/22/cutting-edge-supercomputing-facility-a-2-8b-investment-planned-for-spartanburg-county/",
+        "date": "2025-04-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "SC counties enacting data center moratoriums",
+        "outlet": "SC Daily Gazette",
+        "url": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+        "date": "2026-06-26",
+        "tone": "bad"
+      },
+      {
+        "title": "Spartanburg data center not subject to public power plant rules, SC regulators rule",
+        "outlet": "SC Daily Gazette",
+        "url": "https://scdailygazette.com/2026/08/27/spartanburg-data-center-not-subject-to-public-power-plant-rules-sc-regulators-rule/",
+        "date": "2026-08-27",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "4000 South Pine Street, Spartanburg (SC Commerce). Former Kohler plant and warehouse, about 300 acres southeast of the city; three renovation phases (350,000 sq ft warehouse first, then 500,000 sq ft plant). Earlier called 'Project Moc-1'. Commerce release expected first operations Q3 2026. Tree clearing and grading under way per SELC (Aug 2026). DES public hearing page: https://www.des.sc.gov/events/valara-holdings-high-performance-compute-center-availability-session-public-hearing . Promoted from lead sc-spartanburg-valara-northmark. Commissioner David Britt recused from the PSC vote.",
+    "pin_source": "https://www.sccommerce.com/news/northmark-strategies-selects-spartanburg-county-establish-first-south-carolina",
+    "pin_address": "4000 S PINE ST, SPARTANBURG, SC, 29302"
+  },
+  {
+    "id": "sc-greenville-dartpoints-global-drive",
+    "name": "DartPoints Greenville data center expansion",
+    "owner": "DartPoints",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Greenville County",
+    "town": "Greenville",
+    "lat": 34.807952,
+    "lng": -82.344408,
+    "stage": "building",
+    "announced": "2025-11-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 125000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.sccommerce.com/news/dartpoints-expands-greenville-county-operations",
+        "date": "2025-11-12"
+      },
+      "power_mw": {
+        "value": 12.5,
+        "unit": "MW after expansion (from 2.5 MW)",
+        "kind": "real",
+        "source": "https://www.sccommerce.com/news/dartpoints-expands-greenville-county-operations",
+        "date": "2025-11-12"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 10,
+        "unit": "new jobs",
+        "kind": "real",
+        "source": "https://www.sccommerce.com/news/dartpoints-expands-greenville-county-operations",
+        "date": "2025-11-12"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "A different kind of data center: DartPoints expanding in Greenville, Columbia to meet AI needs",
+        "outlet": "SC Daily Gazette",
+        "url": "https://scdailygazette.com/2025/11/28/a-different-kind-of-data-center-dartpoints-expanding-in-greenville-columbia-to-meet-ai-needs/",
+        "date": "2025-11-28",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "78 Global Drive, Greenville. Adds 88,000 sq ft of high-density space; operations expected July 2027 (SC Commerce). Counts on the $100M rule, though power stays small (12.5 MW). DartPoints also runs smaller sites in Columbia, Spartanburg and Charleston.",
+    "pin_source": "https://www.sccommerce.com/news/dartpoints-expands-greenville-county-operations",
+    "pin_address": "78 GLOBAL DR, GREENVILLE, SC, 29607"
+  },
+  {
+    "id": "sc-spartanburg-lighthouse-jones-road",
+    "name": "LightHouse Spartanburg (former Greenidge bitcoin mine)",
+    "owner": "LightHouse Data Centers (affiliate of The Lightstone Group)",
+    "operator": null,
+    "tier": "large",
+    "state": "SC",
+    "county": "Spartanburg County",
+    "town": "Spartanburg",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-12-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 60,
+        "unit": "MW initial electrical service, expected by September 2026",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1844971/000184497126000011/gree-20251231.htm",
+        "date": "2026-03-31"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 152,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1844971/000184497126000011/gree-20251231.htm",
+        "date": "2026-03-31"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Greenidge (now Vulcan Infrastructure & Power) sold its 152-acre Spartanburg property and its right to 60 MW of electrical service to an affiliate of The Lightstone Group and LightHouse Data Centers on 2025-12-11 for $18M cash plus up to $18M more ($180,000 per extra MW delivered by 2030). The property-holding company is named '300 Jones Road LLC'. Greenidge ran a bitcoin mine there (hosting for NYDIG from 2023). Probably the bitcoin site whose new data center permit set off Spartanburg County's 2026 moratorium (lead sc-spartanburg-bitcoin-site-redevelopment), not confirmed. Merges lead sc-spartanburg-greenidge-lsc-plant."
+  }
+]

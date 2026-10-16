@@ -1,0 +1,24 @@
+# Build output (Vercel builds it)
+public/
+
+# Private: personal research notes, outreach drafts with sender details, the backup design and preview builds
+CONTEXT.md
+outreach/drafts/
+private/
+site/template_nomad.html
+site/nomad.html
+site/index.html
+site/template.html
+site/build_preview.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent patch inbox (merged into data files by scripts/merge_patches.py)
+data/_incoming/

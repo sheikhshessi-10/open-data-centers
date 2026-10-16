@@ -1,0 +1,942 @@
+[
+  {
+    "id": "mn-dakota-meta-rosemount",
+    "name": "Meta Rosemount data center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Dakota County",
+    "town": "Rosemount",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-03-14",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+        "date": "2024-03-14"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "jobs (approximately, once operational)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+        "date": "2024-03-14"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "peak construction workers (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+        "date": "2024-03-14"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "100% renewable energy (company claim), backed by new renewable projects",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+        "date": "2024-03-14"
+      },
+      "utility": {
+        "value": "Xcel Energy (named as project partner)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+        "date": "2024-03-14"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hello, Rosemount",
+        "outlet": "Meta",
+        "url": "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+        "date": "2024-03-14",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "715,000 sq ft campus at UMore Park (trackers: 280 acres). Meta lists broke ground 2024."
+  },
+  {
+    "id": "mn-dakota-tract-farmington",
+    "name": "Tract Farmington Technology Park",
+    "owner": "Tract",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Dakota County",
+    "town": "Farmington",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents' lawsuit against the City of Farmington (Case 19HA-CV-25-992) to halt the development process; judge denied city's motion to dismiss Nov 13, 2025; plaintiffs filed dismissals by Sept 16, 2026, awaiting court action",
+        "source": "https://www.farmingtonmn.gov/473/Data-Center-Farmington-Technology-Park",
+        "date": "2026-09-16"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Contract for Farmington data center approved",
+        "outlet": "KSTP",
+        "url": "https://kstp.com/kstp-news/local-news/contract-for-farmington-data-center-approved/",
+        "date": "2024",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "City approvals: AUAR adopted Nov 4, 2024; final plat and PUD Nov 18, 2024; development contract with Tract Dec 2, 2024; plat split into two additions Apr 20, 2026. City said (Nov 2025) no specific building application received. Trackers cite 343 acres, up to 12 data centers, $5B; not verified."
+  },
+  {
+    "id": "mn-goodhue-tract-cannon-falls",
+    "name": "Tract Cannon Falls Technology Park",
+    "owner": "Tract",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Goodhue County",
+    "town": "Cannon Falls",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 253,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.cannonfallstechnologypark.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 250,
+        "unit": "permanent full-time jobs (250+ at full build-out, avg $100,000 salary)",
+        "kind": "real",
+        "source": "https://www.cannonfallstechnologypark.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://www.cannonfallstechnologypark.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Dakota Electric Association; new onsite substation planned",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.cannonfallstechnologypark.com/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "City municipal system and wells primary; onsite irrigation well (permitted up to 40.3M gal/yr) for emergency use only",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.cannonfallstechnologypark.com/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Cannon Falls data center: Tract AUAR review",
+        "outlet": "Finance & Commerce",
+        "url": "https://finance-commerce.com/2025/07/cannon-falls-data-center-tract-auar-review/",
+        "date": "2025-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "North of Cannon Falls, annexed from Randolph Township; PUD plan prepared; site plans and building permits still required. MCEA appellate brief (Dec 2025) on file per tracker. Trackers cite $30B/500 MW; not verified."
+  },
+  {
+    "id": "mn-goodhue-google-pine-island",
+    "name": "Google Pine Island data center ('Project Skyway')",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Goodhue County",
+    "town": "Pine Island",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026-02-24",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Xcel Energy; Clean Energy Accelerator Charge contract, Google pays all service costs; adds 1,400 MW wind, 200 MW solar, 300 MW Form Energy iron-air storage to Xcel grid; $50M to Capacity*Connect",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/",
+        "date": "2026-02-24"
+      },
+      "cooling_type": {
+        "value": "Air cooling rather than water (Google plan)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.mprnews.org/story/2026/05/26/pine-island-hyperscale-data-center-construction-halted-by-judge",
+        "date": "2026-05-26"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "MCEA lawsuit (MCEA v. City of Pine Island and Ryan Cos., No. 25-CV-25-2298, filed Oct 2025) challenging the AUAR; Goodhue County judge issued a temporary restraining order May 22, 2026 halting construction and pre-construction work",
+        "source": "https://www.mncenter.org/legal-updates-mceas-data-center-cases",
+        "date": "2026-05-22"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Pine Island hyperscale data center construction halted by judge",
+        "outlet": "MPR News",
+        "url": "https://www.mprnews.org/story/2026/05/26/pine-island-hyperscale-data-center-construction-halted-by-judge",
+        "date": "2026-05-26",
+        "tone": "bad"
+      },
+      {
+        "title": "Data center in Pine Island",
+        "outlet": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/",
+        "date": "2026-02-24",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer Ryan Companies; Google subsidiary Echo Zone LLC is the Xcel customer (PUC docket 26-170). Trackers cite 482 acres on north edge along Hwy 52, $700M; not verified. Stage 'blocked' = court order halting construction. Pass 3 (2026-10-15): Google's location list (https://datacenters.google/locations/, read 2026-10-15) still shows Pine Island, Minnesota as 'in development'."
+  },
+  {
+    "id": "mn-st-louis-google-hermantown",
+    "name": "Google Hermantown data center (Harmony Group)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "St. Louis County",
+    "town": "Hermantown",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Minnesota Power (electric service agreement with Harmony Group LLC, PUC docket 26-159)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://mn.gov/puc/activities/v-l-e-c/data-centers/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": {
+        "value": "Waterless cooling (Google)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kaxe.org/local-news/2026-05-20/more-details-emerge-as-google-hermantown-work-out-data-center-agreements",
+        "date": "2026-05-20"
+      },
+      "water_use": {
+        "value": "Development agreement caps water inflow at 50,000 gallons/day (sanitation and fire suppression)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kaxe.org/local-news/2026-05-20/more-details-emerge-as-google-hermantown-work-out-data-center-agreements",
+        "date": "2026-05-20"
+      },
+      "tax_break": {
+        "value": "Proposed 28-year property tax abatement returning 85% of taxes after the first $100,000, capped at $80M (tabled pending AUAR)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kaxe.org/local-news/2026-05-20/more-details-emerge-as-google-hermantown-work-out-data-center-agreements",
+        "date": "2026-05-20"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Proposed $130M for public infrastructure and $40M to Hermantown school district over 28 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kaxe.org/local-news/2026-05-20/more-details-emerge-as-google-hermantown-work-out-data-center-agreements",
+        "date": "2026-05-20"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "MCEA and Stop the Hermantown Data Center v. City of Hermantown and Harmony Group (No. 69DU-CV-25-3448, Nov 2025) AUAR challenge; stayed while city redoes AUAR",
+        "source": "https://www.mncenter.org/legal-updates-mceas-data-center-cases",
+        "date": "2026-05-15"
+      },
+      {
+        "what": "Citizen group Stop the Hermantown Data Center filed a lawsuit (April 2026) alleging city officials broke state law and ignored the comprehensive plan; petitions also reported",
+        "source": "https://www.kaxe.org/local-news/2026-05-20/more-details-emerge-as-google-hermantown-work-out-data-center-agreements",
+        "date": "2026-05-20"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "More details emerge as Google, Hermantown work out data center agreements",
+        "outlet": "KAXE",
+        "url": "https://www.kaxe.org/local-news/2026-05-20/more-details-emerge-as-google-hermantown-work-out-data-center-agreements",
+        "date": "2026-05-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google Hermantown data center",
+        "outlet": "Star Tribune",
+        "url": "https://www.startribune.com/google-hermantown-data-center/601880694",
+        "date": "2026",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Four-phase build-out; trackers cite 403 acres near Midway Rd and Morris Thomas Rd, up to four buildings, 1.8M sq ft. City press release dated 2026-03-03 (PDF not parsed)."
+  },
+  {
+    "id": "mn-wright-monticello-tech",
+    "name": "Monticello Tech data center campus",
+    "owner": "Monticello Tech, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Wright County",
+    "town": "Monticello",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 550,
+        "unit": "acres (approximately)",
+        "kind": "real",
+        "source": "https://www.monticellomn.gov/753/Monticello-Tech",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "MCEA v. City of Monticello and Monticello Tech, LLC (No. 86-CV-26-1130, Feb 2026) AUAR challenge",
+        "source": "https://www.mncenter.org/legal-updates-mceas-data-center-cases",
+        "date": "2026-05-15"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Planning Commission voted 4-1 on Oct 6, 2026 to recommend approval of CUP, rezoning and preliminary plat; council decision deadline Dec 8, 2026",
+        "source": "https://www.monticellomn.gov/753/Monticello-Tech",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "South of 85th St, east of Hwy 25; ~3 million sq ft campus. Final AUAR adopted Jan 26, 2026. Trackers name Frattalone Companies as partner and cite 400 MW / up to $5B; not verified."
+  },
+  {
+    "id": "mn-carver-cloudhq-chaska",
+    "name": "CloudHQ MSP campus (Chaska)",
+    "owner": "CloudHQ",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Carver County",
+    "town": "Chaska",
+    "lat": 44.812448,
+    "lng": -93.632741,
+    "stage": "permitted",
+    "announced": "2022-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (construction cost, around)",
+        "kind": "estimate",
+        "source": "https://cclocalnews.org/2024/10/29/despite-resident-objections-data-center-gains-preliminary-ok/",
+        "date": "2024-10-29"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": "75 to 100 jobs",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://cclocalnews.org/2024/10/29/despite-resident-objections-data-center-gains-preliminary-ok/",
+        "date": "2024-10-29"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "New onsite substation owned by Minnesota Municipal Power Agency, tied to Xcel transmission (200 MW substation per local news); system impact study under way",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://chaskamn.gov/841/Cloud-HQ",
+        "date": "2026-10-15"
+      },
+      "cooling_type": {
+        "value": "Air-based chillers",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://chaskamn.gov/841/Cloud-HQ",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": 14000000,
+        "unit": "gallons per year (anticipated; air-based chillers)",
+        "kind": "real",
+        "source": "https://chaskamn.gov/841/Cloud-HQ",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Council member Taylor Hubbard voted against preliminary approval (4-1, Oct 21, 2024); Clover Ridge homeowners spoke against",
+        "source": "https://cclocalnews.org/2024/10/29/despite-resident-objections-data-center-gains-preliminary-ok/",
+        "date": "2024-10-29"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Despite resident objections, data center gains preliminary OK",
+        "outlet": "Chanhassen-Chaska local news (cclocalnews)",
+        "url": "https://cclocalnews.org/2024/10/29/despite-resident-objections-data-center-gains-preliminary-ok/",
+        "date": "2024-10-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "West Creek Corporate Center; ~1.4-1.5M sq ft. Concept Aug 2022, AUAR Jan 2023, CUP Oct 2023, preliminary plat/site plan Oct 2024; final approval not yet applied for.",
+    "pin_source": "https://chaskamn.gov/841/Cloud-HQ",
+    "pin_address": "2007 SCHOOLMASTER DR, CHASKA, MN, 55318"
+  },
+  {
+    "id": "mn-rice-archer-faribault",
+    "name": "Archer Datacenters Faribault campus",
+    "owner": "Archer Datacenters",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Rice County",
+    "town": "Faribault",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2024-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 87,
+        "unit": "acres (approximately)",
+        "kind": "real",
+        "source": "https://www.faribaultmn.gov/815/Archer-Datacenters",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "MCEA appealed the city's no-EIS decision (Sept 2025); Minnesota Court of Appeals on June 8, 2026 ordered more environmental information or an EIS",
+        "source": "https://www.faribaultmn.gov/815/Archer-Datacenters",
+        "date": "2026-06-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Appeals court rules Faribault erred in data center decision",
+        "outlet": "MPR News",
+        "url": "https://www.mprnews.org/story/2026/06/08/appeals-court-rules-faribault-erred-in-data-center-decision",
+        "date": "2026-06-08",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "South of 150th St W, east of Acorn Trail. Up to six buildings, 500,000 sq ft. Archer bought land Nov 2024; city extended EAW update deadline to Mar 31, 2027. Archer press release title cites 120 MW (not read)."
+  },
+  {
+    "id": "mn-sherburne-microsoft-becker",
+    "name": "Microsoft Becker data center site",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Sherburne County",
+    "town": "Becker",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-02",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 295,
+        "unit": "acres (bought from Xcel Energy for about $17.7M)",
+        "kind": "real",
+        "source": "https://www.mprnews.org/story/2024/02/21/xcel-energy-sells-land-in-becker-to-microsoft-for-data-center",
+        "date": "2024-02-21"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Xcel Energy sells land in Becker to Microsoft for data center",
+        "outlet": "MPR News",
+        "url": "https://www.mprnews.org/story/2024/02/21/xcel-energy-sells-land-in-becker-to-microsoft-for-data-center",
+        "date": "2024-02-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near Xcel's Sherco plant. Microsoft has not released plans; no plans submitted to the city per later reporting (tracker)."
+  },
+  {
+    "id": "mn-sherburne-amazon-becker",
+    "name": "Amazon Data Services Becker data center",
+    "owner": "Amazon",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Sherburne County",
+    "town": "Becker",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2024",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Backup: 250 emergency diesel generators, up to 600 MW; PUC denied exemption from certificate of need (4-0)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.eenews.net/articles/amazon-needs-permit-for-minnesota-data-center-backup-power/",
+        "date": "2025-03-04"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon needs permit for Minnesota data center backup power",
+        "outlet": "E&E News",
+        "url": "https://www.eenews.net/articles/amazon-needs-permit-for-minnesota-data-center-backup-power/",
+        "date": "2025-03-04",
+        "tone": "bad"
+      },
+      {
+        "title": "Amazon suspends Minnesota data center as lawmakers plan to reduce big tech tax breaks",
+        "outlet": "Star Tribune",
+        "url": "https://www.startribune.com/amazon-suspends-minnesota-data-center-as-lawmakers-plan-to-reduce-big-tech-tax-breaks/601359665",
+        "date": "2025-05",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "UNCONFIRMED STAGE: suspension rests on the Star Tribune headline only (article blocked, 429 twice). PUC docket PT7151/CN-24-435 (backup generator certificate-of-need exemption petition, Dec 2024). Trackers cite 348-350 acres and $1B; not verified."
+  },
+  {
+    "id": "mn-sherburne-margulies-elk-river",
+    "name": "Elk River Industrial Boulevard data center",
+    "owner": "Undisclosed developer",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Sherburne County",
+    "town": "Elk River",
+    "lat": 45.318582,
+    "lng": -93.58632,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 33,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.cbsnews.com/minnesota/news/proposed-data-center-elk-river-concerns/",
+        "date": "2026-06-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 40,
+        "unit": "employees",
+        "kind": "real",
+        "source": "https://www.cbsnews.com/minnesota/news/proposed-data-center-elk-river-concerns/",
+        "date": "2026-06-15"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Residents packed City Hall urging rejection over noise, water and electricity use",
+        "source": "https://www.cbsnews.com/minnesota/news/proposed-data-center-elk-river-concerns/",
+        "date": "2026-06-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Proposed data center in Elk River raises concerns",
+        "outlet": "WCCO / CBS Minnesota",
+        "url": "https://www.cbsnews.com/minnesota/news/proposed-data-center-elk-river-concerns/",
+        "date": "2026-06-15",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Conversion of existing building at 19178 Industrial Blvd NW; city hearing notice (title names applicant Michael Margulies; notice not read) for ordinance amendment (data centers in I-1) and CUP. Trackers list Elk River Capital LLC and Swervo Development Corp as applicants; CBS did not name the developer; outcome of July 2026 council action not checked.",
+    "pin_source": "https://www.cbsnews.com/minnesota/news/proposed-data-center-elk-river-concerns/",
+    "pin_address": "19178 INDUSTRIAL BLVD NW, ELK RIVER, MN, 55330"
+  },
+  {
+    "id": "mn-nobles-geronimo-powered-data-park",
+    "name": "Nobles County Powered Data Park",
+    "owner": "Geronimo Power",
+    "operator": null,
+    "tier": "large",
+    "state": "MN",
+    "county": "Nobles County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026-01",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Nobles County Board defeated the text amendment allowing data centers as a conditional use in Agricultural Preservation areas (April 21, 2026) and moved to end the AUAR, per tracker summary of the county agenda PDF (PDF not parsed) and DCD headline",
+        "source": "https://www.co.nobles.mn.us/wp-content/uploads/2026/05/260519a.pdf",
+        "date": "2026-05-19"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "$4bn data center rejected by Nobles County, Minnesota",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/4bn-data-center-rejected-by-nobles-county-minnesota/",
+        "date": "2026-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Geronimo's powered data park paired with Plum Creek 1 and 2 and Lime Creek wind projects; to be sold to a data center operator. Trackers cite $4B, 400 MW-1 GW, 959 acres; county agenda and DCD not read directly. UNCONFIRMED STAGE: blocked rests on DCD headline plus tracker; Geronimo page (read) still lists the project."
+  }
+]

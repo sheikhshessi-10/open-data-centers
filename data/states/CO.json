@@ -1,0 +1,160 @@
+{
+  "state": "CO",
+  "checked": {
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Douglas County business personal property tax rebate (Flexential Parker)",
+      "law": "County incentive agreement",
+      "what": "Rebates 100% of the county's share of business personal property tax over 35 years for Flexential's Parker data center; approved August 2026.",
+      "value_known": "About $19.3M",
+      "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "No statewide data center tax exemption",
+      "law": null,
+      "what": "Colorado has no data center sales tax exemption: the 2025 bill and HB26-1030 (2026) both failed (see laws_and_bills).",
+      "value_known": null,
+      "source": "https://leg.colorado.gov/bills/hb26-1030",
+      "date": "2026-05-07"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Proceeding No. 26AL-0137E",
+      "regulator": "Colorado Public Utilities Commission",
+      "utility": "Public Service Company of Colorado (Xcel Energy)",
+      "what": "Advice Letter 2018-Electric: new large-load rate class for new or added loads of 50 MW or more, transmission cost changes, optional Clean Transition Tariff and Speed-to-Market Pathway; 15-year contracts, financial assurance and exit fees (Denver Post via search summary). PUC suspended the filing; interim decision C26-0396-I (June 15, 2026). SWEEP and Rewiring America sought intervention (May 21, 2026). An advocacy page says a hearing was set for Aug. 25, 2026 (not confirmed with the PUC).",
+      "site_ids": [],
+      "status": "pending (suspended for hearing)",
+      "url": "https://earthjustice.org/document/xcel-tariff-intervention-written-decision",
+      "date": "2026-06-15"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB26-1030 Data Center & Utility Modernization",
+      "status": "failed",
+      "what": "Would have created a data center development authority and a 100% state sales and use tax exemption for 20 years (plus possible 10-year extension) for certified centers investing at least $250M; postponed indefinitely 11-2 by House Energy & Environment Committee on May 7, 2026",
+      "source": "https://leg.colorado.gov/bills/hb26-1030",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "SB26-102 Large-Load Data Centers",
+      "status": "failed",
+      "what": "Would have required data centers over 30 MW (or 60 MW combined) to match 100% of use with renewable power from 2031, pay upfront or sign 15-year contracts, report energy and water use, and banned economic development rates; postponed indefinitely 9-0 by Senate Transportation & Energy Committee on May 11, 2026",
+      "source": "https://leg.colorado.gov/bills/sb26-102",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "2025 data center sales tax incentive bill (number not confirmed)",
+      "status": "failed",
+      "what": "Passed its first committee but was defeated in the appropriations committee",
+      "source": "https://www.vaildaily.com/news/best-data-centers-in-colorado-yes-but-on-what-terms/",
+      "date": "2026-02-20"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Larimer County",
+      "type": "moratorium",
+      "what": "30-day moratorium adopted late January 2026 after inquiries from two developers; six-month moratorium to be considered",
+      "status": "enacted (30-day); six-month version not confirmed",
+      "source": "https://bigpivots.com/geaing-up-for-data-centers/",
+      "date": "2026-02-03"
+    },
+    {
+      "place": "Weld County",
+      "type": "ordinance",
+      "what": "Data center planning and permitting rules adopted in 2026 (prompted by the Windsor proposal): no development in agricultural zones, water conservation plans and adequate power required",
+      "status": "enacted 2026",
+      "source": "https://coloradosun.com/2026/09/17/colorado-data-centers-expansion-opposition-polls/",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "Aurora",
+      "type": "moratorium",
+      "what": "City Council rejected an outright ban on new data center construction; instead adopted a rule banning evaporative cooling (does not affect QTS's already-permitted operations)",
+      "status": "failed",
+      "source": "https://coloradosun.com/2026/09/17/colorado-data-centers-expansion-opposition-polls/",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "Longmont",
+      "type": "ordinance",
+      "what": "Voted in June 2026 to cap data center energy use at 5% of the region's grid, or 100 MW",
+      "status": "enacted",
+      "source": "https://coloradosun.com/2026/09/17/colorado-data-centers-expansion-opposition-polls/",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "Denver",
+      "type": "moratorium",
+      "what": "One-year moratorium on new data center permits; does not affect permitted or under-construction projects",
+      "status": "enacted (approved May 2026, one year)",
+      "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "date": "2026-09-12"
+    },
+    {
+      "place": "Broomfield",
+      "type": "moratorium",
+      "what": "18-month moratorium on data centers",
+      "status": "enacted July 2026; runs through December 2027",
+      "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "date": "2026-09-12"
+    },
+    {
+      "place": "Jefferson County",
+      "type": "moratorium",
+      "what": "Temporary moratorium citing wildland-urban interface, water supply, environment and community health",
+      "status": "enacted May 2026",
+      "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "date": "2026-09-12"
+    },
+    {
+      "place": "Boulder County",
+      "type": "moratorium",
+      "what": "Temporary pause on data centers (details not given)",
+      "status": "enacted (date not given)",
+      "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "date": "2026-09-12"
+    },
+    {
+      "place": "Loveland",
+      "type": "moratorium",
+      "what": "Proposed six-month suspension for facilities needing 10 MW or more with industrial-scale cooling",
+      "status": "proposed; council expected to act Sept. 15, 2026 (outcome not checked)",
+      "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+      "date": "2026-09-12"
+    },
+    {
+      "place": "Thornton",
+      "type": "moratorium",
+      "what": "Most council members favored a 6-12 month data center moratorium at a July 22, 2026 planning meeting",
+      "status": "proposed; adoption not confirmed",
+      "source": "https://www.westminsterwindow.com/news/article_813a1972-6287-50f3-968b-f13231d78a0f.html",
+      "date": "2026-07-23"
+    },
+    {
+      "place": "Logan County",
+      "type": "moratorium",
+      "what": "Commissioners directed the county attorney to draft a six-month moratorium on wind, solar, battery and data center permits until new rules and fees are adopted",
+      "status": "proposed Oct 2025 (adoption not confirmed)",
+      "source": "https://www.govtech.com/infrastructure/logan-county-colo-pauses-future-energy-data-center-projects",
+      "date": "2025-10-09"
+    },
+    {
+      "place": "Colorado Springs",
+      "type": "zoning",
+      "what": "Planning Commission conditions on Project Taurus: 50 MW cap, closed-loop water, noise monitoring; council decision on appeals delayed to April 13, 2027",
+      "status": "pending",
+      "source": "https://www.coloradopolitics.com/2026/09/18/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/",
+      "date": "2026-09-18"
+    }
+  ]
+}

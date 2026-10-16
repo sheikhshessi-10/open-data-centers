@@ -1,0 +1,985 @@
+[
+  {
+    "id": "tn-shelby-xai-colossus-1",
+    "name": "Colossus (Colossus 1)",
+    "owner": "xAI (now SpaceXAI)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Shelby County",
+    "town": "Memphis",
+    "lat": 35.06008,
+    "lng": -90.152192,
+    "stage": "running",
+    "announced": "2024-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Grid power from MLGW/TVA plus on-site methane gas turbines (Shelby County Health Department permit sought for 15 permanent turbines; reported granted July 2025) and Tesla Megapacks.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.nbcnews.com/news/us-news/musk-xai-colossus-supercomputer-boxtown-memphis-tennessee-rcna206242",
+        "date": "2025-05-15"
+      },
+      "utility": {
+        "value": "Memphis Light, Gas and Water (MLGW), buying TVA power",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+        "date": "2026-04-28"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "NAACP and NAACP Mississippi State Conference federal Clean Air Act lawsuit (N.D. Miss.) against xAI and MZX Tech over turbines powering its two South Memphis facilities and the Southaven plant; seeks to stop operations and civil penalties of nearly $124,500 a day. DOJ moved in June 2026 to intervene and dismiss.",
+        "source": "https://tennesseelookout.com/2026/06/18/feds-seek-dismissal-of-xai-lawsuit-in-memphis-and-mississippi/",
+        "date": "2026-06-18"
+      },
+      {
+        "what": "Memphis Community Against Pollution (president KeShaun Pearson) and SELC urged the Shelby County Health Department to deny xAI's turbine permit; residents protested at the April 2025 permit hearing.",
+        "source": "https://www.nbcnews.com/news/us-news/musk-xai-colossus-supercomputer-boxtown-memphis-tennessee-rcna206242",
+        "date": "2025-05-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Elon Musk's xAI gets permit for methane gas generators",
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2025/jul/03/elon-musk-xai-pollution-memphis",
+        "date": "2025-07-03",
+        "tone": "bad"
+      },
+      {
+        "title": "A Tennessee neighborhood takes on Musk's xAI Colossus supercomputer in its fight for clean air",
+        "outlet": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/musk-xai-colossus-supercomputer-boxtown-memphis-tennessee-rcna206242",
+        "date": "2025-05-15",
+        "tone": "bad"
+      },
+      {
+        "title": "Feds seek dismissal of xAI lawsuit in Memphis and Mississippi",
+        "outlet": "Tennessee Lookout",
+        "url": "https://tennesseelookout.com/2026/06/18/feds-seek-dismissal-of-xai-lawsuit-in-memphis-and-mississippi/",
+        "date": "2026-06-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Electrolux factory in South Memphis near the Boxtown neighborhood (address commonly given as 3231 Paul R. Lowry Road; not confirmed from an official page). xAI's own page (https://x.ai/colossus) says it was built in 122 days and later doubled to 200,000 H100 GPUs; groundbreak May 2024, full scale Feb 2025. Announced June 2024 via the Greater Memphis Chamber (exact date not confirmed). Separate campus from Colossus 2 (5420 Tulane Road, Whitehaven) and from the Mississippi sites already on record (MACROHARDRR, Southaven Stanton Road power plant, Southaven Tulane Road site). No investment, MW or jobs figure confirmed from an official source in this sweep.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072196151",
+    "pin_address": "3231 Paul R Lowry Rd, Memphis, TN 38109"
+  },
+  {
+    "id": "tn-shelby-xai-colossus-2",
+    "name": "Colossus 2",
+    "owner": "xAI (now SpaceXAI)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Shelby County",
+    "town": "Memphis",
+    "lat": 34.999488,
+    "lng": -90.042976,
+    "stage": "running",
+    "announced": "2025-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Mostly gas turbines at xAI's own plant across the state line in Southaven, Mississippi (27 temporary unpermitted turbines; MDEQ permit for 41 permanent turbines), plus grid power via MLGW/TVA.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.selc.org/press-release/new-study-finds-proposed-xai-gas-plant-could-worsen-regional-air-pollution-cause-millions-of-dollars-in-annual-health-damages/",
+        "date": "2026-02-16"
+      },
+      "utility": {
+        "value": "Memphis Light, Gas and Water (MLGW), buying TVA power; TVA board approved a deal in Feb 2026 letting xAI's Memphis-area operations buy up to 300 MW",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+        "date": "2026-04-28"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "NAACP federal Clean Air Act lawsuit against xAI and MZX Tech covering the two South Memphis facilities and the Southaven turbine plant that powers Colossus 2.",
+        "source": "https://tennesseelookout.com/2026/06/18/feds-seek-dismissal-of-xai-lawsuit-in-memphis-and-mississippi/",
+        "date": "2026-06-18"
+      },
+      {
+        "what": "Proposed 12-month Memphis data center moratorium (sponsor J.B. Smiley Jr., prompted by xAI's fourth data center); committee advanced it Aug 18, 2026; full council vote postponed on Oct 6 to Oct 20, 2026. Would not apply to existing xAI data centers.",
+        "source": "https://www.wcax.com/2026/10/07/data-center-moratorium-vote-postponed-after-fight-protests/",
+        "date": "2026-10-07"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "A battle over data centers heats up along the Mississippi-Tennessee state line",
+        "outlet": "Tennessee Lookout",
+        "url": "https://tennesseelookout.com/2026/03/18/a-battle-over-data-centers-heats-up-along-the-mississippi-tennessee-state-line/",
+        "date": "2026-03-18",
+        "tone": "bad"
+      },
+      {
+        "title": "New study finds proposed xAI gas plant could worsen regional air pollution",
+        "outlet": "Southern Environmental Law Center",
+        "url": "https://www.selc.org/press-release/new-study-finds-proposed-xai-gas-plant-could-worsen-regional-air-pollution-cause-millions-of-dollars-in-annual-health-damages/",
+        "date": "2026-02-16",
+        "tone": "bad"
+      },
+      {
+        "title": "xAI announces fourth data center; turbines to be removed from Southaven site",
+        "outlet": "WMC Action News 5",
+        "url": "https://www.actionnews5.com/2026/07/31/xai-announces-fourth-data-center-turbines-be-removed-southaven-site/",
+        "date": "2026-07-31",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "5420 Tulane Road, Whitehaven, Memphis (former warehouse plus adjacent parcels, roughly 1 million sq ft; bought by an xAI affiliate for about $80M in early 2025 per secondary reports, not confirmed from property records). SELC (2026-02-16) says Colossus 2 began operations late 2025. The 300 MW figure is TVA's approved supply for xAI's Memphis-area operations overall (both Colossus sites), not a confirmed Colossus 2 load. 'Minihard', xAI's fourth data center announced by Musk on X on July 29, 2026, is on Tulane Road next to Colossus 2 and MACROHARDRR (WMC); a Memphis council member said xAI was building a fourth data center on land it already owns. Trade press reports xAI sought permits for a $659M, 4-story, 312,000 sq ft building on a 79-acre parcel at 5414 Tulane Road next to Colossus 2 (DCD; not opened). Treated here as part of the Colossus 2 campus (one record per campus); split it out if official records show a separate campus or that it sits in Mississippi. Power plant and MACROHARDRR are already recorded under Mississippi (ms-desoto-xai-southaven-power-plant, ms-desoto-xai-macrohardrr).",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=TNR000055467",
+    "pin_address": "5420 Tulane Rd, Memphis, TN 38109"
+  },
+  {
+    "id": "tn-montgomery-google-clarksville",
+    "name": "Google Montgomery County data center",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Montgomery County",
+    "town": "Clarksville",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2015",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/tennessee/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Google location page: announced 2015, officially opened 2019; 'Since the Montgomery County, Tennessee data center was built in 2018, Google has invested more than $6 billion in the state' (statewide figure, not site-only). MW, water and tax deal not found in this sweep."
+  },
+  {
+    "id": "tn-sumner-meta-gallatin",
+    "name": "Meta Gallatin Data Center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Sumner County",
+    "town": "Gallatin",
+    "lat": 36.408114,
+    "lng": -86.381249,
+    "stage": "running",
+    "announced": "2020-08-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/all-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": {
+        "value": 300,
+        "unit": "MW",
+        "kind": "estimate",
+        "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08"
+      },
+      "acres": {
+        "value": 900,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://www.tn.gov/ecd/news/2020/8/12/governor-lee--commissioner-rolfe-announce-facebook-to-build--800-million-data-center-in-gallatin.html",
+        "date": "2020-08-12"
+      },
+      "jobs_promised_build": {
+        "value": 1100,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://www.tn.gov/ecd/news/2020/8/12/governor-lee--commissioner-rolfe-announce-facebook-to-build--800-million-data-center-in-gallatin.html",
+        "date": "2020-08-12"
+      },
+      "power_source": {
+        "value": "100% renewable energy matched; Meta says it supports eight Tennessee projects adding 530 MW of new clean energy (2020 release: partnered with TVA on 220 MW of new solar).",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/gallatin-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "utility": {
+        "value": "TVA; water and wastewater from Gallatin Public Utilities",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/gallatin-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "Over 53 million gallons in 2025, about 2% of Gallatin's water use (as reported).",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08"
+      },
+      "tax_break": {
+        "value": "20-year PILOT package, estimated value $19.5 million (as reported).",
+        "unit": "description",
+        "kind": "estimate",
+        "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08"
+      },
+      "community_deal": null,
+      "jobs_actual": {
+        "value": "Meta reports about 65 operational roles; the Gallatin mayor estimated over 100 employees.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08"
+      },
+      "local_tax_paid": {
+        "value": 1800000,
+        "unit": "USD",
+        "kind": "estimate",
+        "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Governor Lee, Commissioner Rolfe Announce Facebook to Build $800 Million Data Center in Gallatin",
+        "outlet": "Tennessee Department of Economic and Community Development",
+        "url": "https://www.tn.gov/ecd/news/2020/8/12/governor-lee--commissioner-rolfe-announce-facebook-to-build--800-million-data-center-in-gallatin.html",
+        "date": "2020-08-12",
+        "tone": "good"
+      },
+      {
+        "title": "One TN community offers a glimpse at what to expect as hyperscale data centers come online",
+        "outlet": "Louisville Public Media (Appalachia + Mid-South Newsroom)",
+        "url": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+        "date": "2026-09-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Gallatin Industrial Park. 982,000 sq ft; construction began Aug 2020. Original announced investment $800M (2020); Meta's location page now says $1.5B investment. Running status taken from Meta's info sheet (operational jobs supported, operational LEED Gold buildings). [pass2 2026-10-15] LPM (2026-09-08): first pitched as 'Project Woolhawk'; 900-acre campus, four buildings (~1.7M sq ft) with plans for up to 12; about 300 MW expected at full build-out (the article's wording mixes power and energy units, so power_mw is kept as an estimate); local_tax_paid is the article's 2025 estimate. Old water_use value (2020 state release: 80 percent less water than an average data center) replaced by the 2025 volume. Gallatin annexed land near Meta, fueling talk of a second facility, but the mayor says no proposals are pending.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110070000021",
+    "pin_address": "1432 Gateway Dr, Gallatin, TN 37066"
+  },
+  {
+    "id": "tn-davidson-dcblox-nashville-zoo",
+    "name": "DC BLOX Nashville data center (next to Nashville Zoo, Grassmere Business Park)",
+    "owner": "DC BLOX",
+    "operator": null,
+    "tier": "small",
+    "state": "TN",
+    "county": "Davidson County",
+    "town": "Nashville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 10,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.dcblox.com/nashville-data-center/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Grid power; company says no onsite power generation.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.dcblox.com/nashville-data-center/",
+        "date": "2026-10-15"
+      },
+      "utility": {
+        "value": "Nashville Electric Service (NES)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.dcblox.com/nashville-data-center/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Nashville Zoo petition against the adjacent data center; more than half a million signatures.",
+        "source": "https://nashvillebanner.com/2026/07/23/nashville-zoo-data-centers-early-voting-rainfall/",
+        "date": "2026-07-23"
+      },
+      {
+        "what": "Mayor Freddie O'Connell's legislation to use eminent domain to buy the site next to the zoo advanced by Metro Council on July 21, 2026.",
+        "source": "https://nashvillebanner.com/2026/07/21/nashville-data-center-regulations-moratorium/",
+        "date": "2026-07-21"
+      },
+      {
+        "what": "More than 150 people spoke against planned data centers (this one and Fisk) at the June 2026 Metro Planning Commission meeting.",
+        "source": "https://nashvillebanner.com/2026/06/12/nashville-data-centers-planning-commission-meeting/",
+        "date": "2026-06-12"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "DC BLOX still working through the size and scope of the project near Nashville Zoo",
+        "outlet": "NewsChannel 5",
+        "url": "https://www.newschannel5.com/news/state/tennessee/davidson-county/dc-blox-still-working-through-the-size-and-scope-of-the-project-near-nashville-zoo",
+        "date": "2026-07-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "Nashville Green-Lights Data Center Regulations, Permit Moratorium",
+        "outlet": "Nashville Banner",
+        "url": "https://nashvillebanner.com/2026/07/21/nashville-data-center-regulations-moratorium/",
+        "date": "2026-07-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "'Unprecedented' Crowd Opposes Data Centers at Metro Planning Commission Meeting",
+        "outlet": "Nashville Banner",
+        "url": "https://nashvillebanner.com/2026/06/12/nashville-data-centers-planning-commission-meeting/",
+        "date": "2026-06-12",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Size is disputed: DC BLOX's own page now shows one single-story 69,200 sq ft, 10 MW building, says the project is 'in the evaluation phase' and will not be an AI facility. Site plans reported by NewsChannel 5 showed two buildings in Grassmere Business Park (10 MW plus a 261,000 sq ft, 40 MW building), 50 MW total, Recorded as tier 'small' with the company's current 10 MW; change to 'large' if the 40 MW building returns to the plan. Company says it applied for permits before Nashville's new zoning rules passed. Axios (2026-07-17) reported DC BLOX closed on the property (not opened)."
+  },
+  {
+    "id": "tn-davidson-fisk-university-data-center",
+    "name": "Fisk University data and technology center",
+    "owner": "Fisk University",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Davidson County",
+    "town": "Nashville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 30,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://nashvillebanner.com/2026/06/02/fisk-university-data-center-plan-debate/",
+        "date": "2026-06-02"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Neighborhood petition against the Fisk campus data center, circulated by North Nashville residents; a speaker at the Planning Commission said petitions against each of the two Nashville proposals had thousands of signatures.",
+        "source": "https://nashvillebanner.com/2026/06/12/nashville-data-centers-planning-commission-meeting/",
+        "date": "2026-06-12"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Fisk Data Center Plans Spark Debate in North Nashville",
+        "outlet": "Nashville Banner",
+        "url": "https://nashvillebanner.com/2026/06/02/fisk-university-data-center-plan-debate/",
+        "date": "2026-06-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Feds seek dismissal of xAI lawsuit in Memphis and Mississippi (mentions resident mobilization against the Fisk proposal)",
+        "outlet": "Tennessee Lookout",
+        "url": "https://tennesseelookout.com/2026/06/18/feds-seek-dismissal-of-xai-lawsuit-in-memphis-and-mississippi/",
+        "date": "2026-06-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Part of Fisk's $900M campus master plan announced May 2026: a 100,000 sq ft, 30 MW data and technology center on a vacant Fisk parcel off Dr. DB Todd Jr Boulevard near Jefferson Street, for university use and unnamed, possibly commercial, partners. Fisk later made a pledge on data centers (Nashville Banner, 2026-06-24, not opened). Nashville's moratorium on new data center permits runs through Dec 1, 2026."
+  },
+  {
+    "id": "tn-warren-hixson-mcminnville",
+    "name": "Hixson Data Center",
+    "owner": "Hixson Data Center (development director Alex Hixson)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Warren County",
+    "town": "McMinnville",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2026-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://hixsondc.com/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Grid-islanded on-site prime power: Bloom solid-oxide fuel cells, 33.15 MW nameplate / 30 MW guaranteed (company page); Tennessee Lookout describes natural gas and diesel generators.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://hixsondc.com/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Direct-to-chip liquid cooling with economizer heat exchangers; PUE target 1.15",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://hixsondc.com/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "McMinnville Board of Mayor and Aldermen unanimously passed an 18-month moratorium on data center permitting on June 9, 2026, after resident pushback against this project.",
+        "source": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/",
+        "date": "2026-06-15"
+      },
+      {
+        "what": "Resident Kai Sage and neighbors organized against the planned 25 MW center near residential neighborhoods.",
+        "source": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/",
+        "date": "2026-06-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Local Tennessee officials are putting data center plans on ice to consider regulations",
+        "outlet": "Tennessee Lookout",
+        "url": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/",
+        "date": "2026-06-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "96,064 sq ft, 25 MW AI/GPU campus, opening target Q1 2028 per the company page. Stage 'paused' because the city moratorium (June 9, 2026, 18 months) stops permitting; whether the developer has withdrawn is not known. Just above the 20 MW bar."
+  },
+  {
+    "id": "tn-knox-bitdeer-knoxville",
+    "name": "Bitdeer Knoxville datacenter (5101 S. National Drive)",
+    "owner": "Bitdeer Technologies Group (via Carpenter Creek LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Knox County",
+    "town": "Knoxville",
+    "lat": 35.941275,
+    "lng": -83.836067,
+    "stage": "running",
+    "announced": "2018-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 86,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/ea0282628-20f_bitdeer.htm",
+        "date": "2026-04-30"
+      },
+      "acres": {
+        "value": 9.88,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/ea0282628-20f_bitdeer.htm",
+        "date": "2026-04-30"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Single electricity supplier in the TVA region; about 55% carbon-free supply (nuclear, hydro, solar plus gas)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/ea0282628-20f_bitdeer.htm",
+        "date": "2026-04-30"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitdeer 20-F (filed 2026-04-30): bought in Feb 2018 (9.88 acres, 77,678 sq ft industrial building, $3.6M), operational May 2020, 86 MW in use as of March 31, 2026. Being converted from bitcoin mining to AI cloud in two phases: 37 MW (energization Q4 2026) and 49 MW (Q1 2027). Bitdeer's site says the building was bought from Panasonic; the 20-F names the seller as Kemet Foil Manufacturing.",
+    "pin_source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/ea0282628-20f_bitdeer.htm",
+    "pin_address": "5101 S National Dr, Knoxville, TN 37914"
+  },
+  {
+    "id": "tn-shelby-merkle-standard-memphis",
+    "name": "Merkle Standard Memphis bitcoin mining facility",
+    "owner": "Merkle Standard LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Shelby County",
+    "town": "Memphis",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2025-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 45,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1841675/000110465926051793/arbk-20251231x20f.htm",
+        "date": "2026-04-30"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Known only from Argo Blockchain's 20-F: Argo hosted 9,315 miners at Merkle Standard's Memphis, Tennessee location (20,000 sq ft, up to 45 MW for Argo's machines) from March 2025 to March 2026. Facility address, total size and current status not found. 45 MW is Argo's maximum hosted load, not the site's full capacity."
+  },
+  {
+    "id": "tn-loudon-cleanspark-lenoir-city",
+    "name": "CleanSpark Lenoir City (former GRIID Ava Data)",
+    "owner": "CleanSpark (via GRIID subsidiary Ava Data LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Loudon County",
+    "town": "Lenoir City",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2022-03-01",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 22,
+        "unit": "MW (two Lenoir City Utilities Board contracts of about 11 MW each)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Lenoir City Utilities Board (LCUB), TVA power; TVA interruptible power agreement",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      },
+      "acres": {
+        "value": 5.13,
+        "unit": "acres (leased)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mine. GRIID's 10-K for 2023 (filed 2024-04-16) lists a leased 5.13-acre Lenoir City site; Ava Data signed LCUB power contracts on 2022-03-01 and 2022-05-01 (about 11 MW each). GRIID also ran a 20 MW mining-services site in Lenoir City for a customer, possibly the same facility. Bought by CleanSpark with GRIID Infrastructure in October 2024 (CleanSpark release https://www.sec.gov/Archives/edgar/data/827876/000095017024105354/clsk-ex99_1.htm); CleanSpark's FY2025 10-K (filed 2025-11-25, https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm) counts ten wholly owned Tennessee sites, 234 MW total, without naming them. Current per-site MW not published."
+  },
+  {
+    "id": "tn-washington-cleanspark-limestone",
+    "name": "CleanSpark Limestone (former GRIID Red Dog)",
+    "owner": "CleanSpark (via GRIID subsidiary Red Dog Technologies LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Washington County",
+    "town": "Limestone",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2020",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25,
+        "unit": "MW anticipated peak demand",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "BrightRidge (Johnson City Energy Authority), TVA power",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      },
+      "acres": {
+        "value": 3.0,
+        "unit": "acres (leased from BrightRidge)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Washington County, Tennessee zoning lawsuit (filed 2021-11-15) against BrightRidge over Red Dog's blockchain data center; settled 2023-11-02 with a deadline to stop operating by March 2026.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      }
+    ],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mine on BrightRidge-owned land in Limestone. Washington County sued BrightRidge in 2021 over county zoning; Red Dog intervened. Settlement of 2023-11-02: Red Dog may run the site no later than March 2026, paid a $12,500 fine plus $100 per day of operation, and has 120 days after closing to clear the site (GRIID 10-K for 2023). Stage 'running' is the last confirmed status; whether it shut by March 2026 as agreed was not checked. Bought by CleanSpark with GRIID Infrastructure in October 2024 (CleanSpark release https://www.sec.gov/Archives/edgar/data/827876/000095017024105354/clsk-ex99_1.htm); CleanSpark's FY2025 10-K (filed 2025-11-25, https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm) counts ten wholly owned Tennessee sites, 234 MW total, without naming them. Current per-site MW not published."
+  },
+  {
+    "id": "tn-union-cleanspark-maynardville",
+    "name": "CleanSpark Maynardville (former GRIID Union Data)",
+    "owner": "CleanSpark (via GRIID subsidiary Union Data LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "TN",
+    "county": "Union County",
+    "town": "Maynardville",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2020",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 10,
+        "unit": "MW (up to about 10 MW under KUB power supply agreement)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Knoxville Utilities Board (KUB), TVA power",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      },
+      "acres": {
+        "value": 1.5,
+        "unit": "acres (owned)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1830029/000095017024044534/grdi-20231231.htm",
+        "date": "2024-04-16"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Small bitcoin mine; listed because crypto campuses count at any size. Bought by CleanSpark with GRIID Infrastructure in October 2024 (CleanSpark release https://www.sec.gov/Archives/edgar/data/827876/000095017024105354/clsk-ex99_1.htm); CleanSpark's FY2025 10-K (filed 2025-11-25, https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm) counts ten wholly owned Tennessee sites, 234 MW total, without naming them. Current per-site MW not published."
+  }
+]

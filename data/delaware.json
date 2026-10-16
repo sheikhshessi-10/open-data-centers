@@ -1,0 +1,130 @@
+[
+  {
+    "id": "de-newcastle-starwood-washington",
+    "name": "Project Washington",
+    "owner": "Starwood Digital Ventures (Starwood Capital Group)",
+    "operator": null,
+    "tier": "large",
+    "state": "DE",
+    "county": "New Castle County",
+    "town": "Delaware City",
+    "lat": 39.619734,
+    "lng": -75.640305,
+    "stage": "blocked",
+    "announced": "2025-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1200,
+        "unit": "MW at full operation (about eight years)",
+        "kind": "real",
+        "source": "https://www.delawarepublic.org/show/the-green/2025-10-24/as-delaware-mulls-plans-for-massive-data-center-worries-persist-over-electric-rates?_amp=true",
+        "date": "2025-10-24"
+      },
+      "acres": {
+        "value": 580,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://spotlightdelaware.org/2026/03/19/new-data-center-regulations-go-into-effect-but-not-for-del-city-proposal/",
+        "date": "2026-03-19"
+      },
+      "jobs_promised_perm": {
+        "value": 700,
+        "unit": "permanent jobs averaging over $100,000 (developer)",
+        "kind": "real",
+        "source": "https://projwashington.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 3500,
+        "unit": "construction jobs (developer)",
+        "kind": "real",
+        "source": "https://projwashington.com/",
+        "date": "2026-10-15"
+      },
+      "power_source": {
+        "value": "Regional grid via existing 500 kV line crossing the site; developer-funded on-site substation; 516 diesel backup generators proposed",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://spotlightdelaware.org/2026/03/19/new-data-center-regulations-go-into-effect-but-not-for-del-city-proposal/",
+        "date": "2026-03-19"
+      },
+      "utility": {
+        "value": "Delmarva Power & Light (large-load interconnections paused by PSC Oct 2025)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://technical.ly/civics/delaware-data-center-foia-reveals-hidden-energy-demands/",
+        "date": "2026-06-11"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.delawarepublic.org/show/the-green/2025-10-24/as-delaware-mulls-plans-for-massive-data-center-worries-persist-over-electric-rates?_amp=true",
+        "date": "2025-10-24"
+      },
+      "water_use": {
+        "value": 13500000,
+        "unit": "gallons per year (developer figure, closed loop)",
+        "kind": "real",
+        "source": "https://www.delawarepublic.org/show/the-green/2025-10-24/as-delaware-mulls-plans-for-massive-data-center-worries-persist-over-electric-rates?_amp=true",
+        "date": "2025-10-24"
+      },
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "DNREC ruled half of the two-part plan is not allowed under the Coastal Zone Act (516 diesel generators); Starwood appealed to the Coastal Zone Industrial Control Board",
+        "source": "https://spotlightdelaware.org/2026/03/19/new-data-center-regulations-go-into-effect-but-not-for-del-city-proposal/",
+        "date": "2026-03-19"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "As Delaware mulls plans for massive data center, worries persist over electric rates",
+        "outlet": "Delaware Public Media",
+        "url": "https://www.delawarepublic.org/show/the-green/2025-10-24/as-delaware-mulls-plans-for-massive-data-center-worries-persist-over-electric-rates?_amp=true",
+        "date": "2025-10-24",
+        "tone": "neutral"
+      },
+      {
+        "title": "New data center regulations go into effect, but not for Del. City proposal",
+        "outlet": "Spotlight Delaware",
+        "url": "https://spotlightdelaware.org/2026/03/19/new-data-center-regulations-go-into-effect-but-not-for-del-city-proposal/",
+        "date": "2026-03-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "Delaware data center FOIA reveals hidden energy demands",
+        "outlet": "Technical.ly",
+        "url": "https://technical.ly/civics/delaware-data-center-foia-reveals-hidden-energy-demands/",
+        "date": "2026-06-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Two-campus, 10 to 11 building, about 6 million sq ft campus north of Delaware City (adjacent to 784 Hamburg Road per DRBC), on land linked to PBF Energy (New Castle Campus Development LLC). Phase I parcel zoned heavy industrial (data centers permitted); Phase II needs rezoning. Developer claims $75M per year in local taxes and nearly $10B economic output during construction; 40% open space. Technical.ly (June 2026): project halted; appeal pending. Trackers report a Coastal Zone board decision dated April 17, 2026, not opened. Exempt from New Castle County's March 2026 data center ordinance (already in pipeline).",
+    "pin_address": "784 Hamburg Rd, New Castle, DE",
+    "pin_geocoder": "osm",
+    "pin_precision": "address"
+  }
+]

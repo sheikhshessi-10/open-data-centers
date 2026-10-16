@@ -1,0 +1,22 @@
+<div class="mapbox">
+  <svg id="map" viewBox="0 0 960 620" role="img" aria-label="Map of data centers in {{STATES}}"></svg>
+  <div class="maptitle">
+    <h1>Every data center in {{STATES}}</h1>
+    <p>{{N}} sites, about {{MONEY}} in announced money. Tap a dot or a card to see the numbers, the news, and what each company has shared.</p>
+  </div>
+</div>
+<div class="legend" id="legend"></div>
+<div class="controls">
+  <button class="chip" data-state="all" aria-pressed="true">All states</button>
+{{STATE_CHIPS}}  <span class="sep"></span>
+  <label class="search" style="margin:0"><input id="q" type="search" placeholder="Search a town, county or company" aria-label="Search sites"></label>
+  <span class="count" id="count">{{N}} of {{N}} sites</span>
+  <select id="sort" aria-label="Sort">
+    <option value="invest">Biggest money</option>
+    <option value="power">Most power</option>
+    <option value="push">Most pushback</option>
+    <option value="data">Most data found</option>
+    <option value="news">Most news</option>
+  </select>
+</div>
+<div class="grid" id="grid">{{GRID}}</div>

@@ -1,0 +1,124 @@
+{
+  "state": "MT",
+  "checked": {
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "polls": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Class seventeen property: reduced property tax rate for qualified data centers",
+      "law": "MCA 15-6-162 (Ch. 438, L. 2017; amended Ch. 383, L. 2019 and Ch. 678, L. 2025)",
+      "what": "Land, buildings, equipment and supplies of a qualified data center are taxed at 0.9% of market value. Qualified: at least 300,000 sq ft and $150M total cost with construction after 2017-06-30, or 25,000 sq ft new/expanded and $50M within 48 months with construction after 2019-01-01. Includes cooling, substations, backup power, and (since 2025) on-site generation and storage that start after 2025-05-13 and are used at least 80% on site; dedicated communications lines and on-site generation get the rate for 10 years. Locally assessed; property in urban renewal or targeted economic development districts still pays school and state equalization mills. Montana has no general sales tax.",
+      "value_known": null,
+      "source": "https://leg.mt.gov/bills/mca/title_0150/chapter_0060/part_0010/section_0620/0150-0060-0010-0620.html",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": null,
+      "regulator": "Montana Public Service Commission",
+      "utility": "NorthWestern Energy",
+      "what": "Petition by nine groups (MEIC, Montana PIRG, NW Energy Coalition, Climate Smart Missoula, Honor the Earth and others) asking the PSC to create a separate data center customer class and tariff and to require notice of data center load changes; NorthWestern says it will file a large-load tariff and submit data center contracts as executed (letters of intent for about 1,400 MW by 2030)",
+      "site_ids": [
+        "mt-silver-bow-sabey-butte",
+        "mt-silver-bow-atlas-power-butte",
+        "mt-yellowstone-quantica-broadview"
+      ],
+      "status": "filed",
+      "url": "https://montanafreepress.org/2025/11/18/groups-push-back-on-montanas-data-center-boom/",
+      "date": "2025-11-18"
+    },
+    {
+      "id": null,
+      "regulator": "Montana Public Service Commission",
+      "utility": "NorthWestern Energy",
+      "what": "Application for a Large New Load tariff rule (LNL Rule) for new or expanded loads of 5 MW or more, including data centers; executed Electric Service Agreements of 50 MW or more would be filed for PSC approval before service. NorthWestern has development agreements with Sabey and Atlas Power and (April 2026) Quantica: 150 MW from late 2027, growing to about 1,500 MW or more by 2030. Docket number not found.",
+      "site_ids": [
+        "mt-silver-bow-sabey-butte",
+        "mt-silver-bow-atlas-power-butte",
+        "mt-yellowstone-quantica-broadview"
+      ],
+      "status": "filed March 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1993004/000199300426000050/nwe-20260630.htm",
+      "date": "2026-07-30"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 265 (2025), Financial Freedom and Innovation Act",
+      "status": "enacted",
+      "what": "Revises cryptocurrency laws (session law chapter 379, 2025). Content not read; listed because it may cover crypto mining.",
+      "source": "https://bills.legmt.gov/",
+      "date": "2025"
+    },
+    {
+      "name": "2027 session bill drafts on data centers (LC0020, LC0022, LC0031, LC0058, LC0071, LC0181, LC0182, LC0235, LC0250, LC0251, LC0252, LC0253, LC0285)",
+      "status": "pending",
+      "what": "Draft requests at 'drafter assigned' stage: generally revise data center laws; data center taxation (LC0022) and property taxation of data centers (LC0058); prohibit data centers in tax increment financing areas (LC0235); development laws (LC0250); protect ratepayers and fiscal protection (LC0251); transparency and accountability (LC0252); water use (LC0253); protect utility ratepayers from data center costs (LC0285).",
+      "source": "https://bills.legmt.gov/",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Energy and Technology Interim Committee bill draft on large-load cost allocation",
+      "status": "pending",
+      "what": "Committee requested a draft directing the PSC to regulate utilities so residential and small business customers don't pay for power serving large-load customers such as data centers.",
+      "source": "https://montanafreepress.org/2026/09/16/montana-registered-voters-data-centers/",
+      "date": "2026-09-16"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Missoula County",
+      "type": "zoning",
+      "what": "2021 data center regulations: limited to industrial zones, special exception near homes, e-waste recycling verification, new renewable energy required",
+      "status": "in force",
+      "source": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/",
+      "date": "2026-05-21"
+    },
+    {
+      "place": "Missoula County",
+      "type": "moratorium",
+      "what": "Interim zoning: temporary moratorium on new or expanded data centers countywide (zoned and unzoned areas, not inside Missoula city limits), unanimous; up to one year, extendable one year; county must start a study within 30 days. Prompted by the Krambu Bonner proposal (which is not covered because its application was already in).",
+      "status": "in effect",
+      "source": "https://montanafreepress.org/2026/07/09/missoula-county-adopts-temporary-moratorium-on-data-centers/",
+      "date": "2026-07-09"
+    },
+    {
+      "place": "Fort Peck Indian Reservation (Assiniboine and Sioux Tribes)",
+      "type": "ordinance",
+      "what": "Tribal Executive Board voted to ban all future discussions with anyone proposing data centers on the reservation; three unnamed companies had approached the tribes.",
+      "status": "adopted",
+      "source": "https://montanafreepress.org/2026/08/13/fort-peck-tribes-ban-discussions-data-center-development/",
+      "date": "2026-08-13"
+    },
+    {
+      "place": "Butte-Silver Bow County",
+      "type": "ballot",
+      "what": "Citizen initiative (406 People First) requiring voter approval of data center development. District court rejected it after a county-caused signature deadline error; Montana Supreme Court put it on the ballot Sept 22, 2026, then vacated that order Sept 24 because ballots were already mailed. Appeal pending; nonprofit sued the county in August.",
+      "status": "off the November 2026 ballot",
+      "source": "https://montanafreepress.org/2026/09/24/butte-silver-bow-data-center-initiative-will-miss-november-ballot/",
+      "date": "2026-09-24"
+    },
+    {
+      "place": "Yellowstone County",
+      "type": "ballot",
+      "what": "Citizen initiative giving voters a say over data centers (prompted by Quantica's Broadview campus); organizers gathered 14,980 of 16,560 signatures before a judge ruled the deadline (July 13 under a 2025 state law) had passed; commissioners took no action Aug 18, 2026 and were to consider interim zoning.",
+      "status": "blocked",
+      "source": "https://montanafreepress.org/2026/08/19/data-center-opponents-make-noise-in-yellowstone-county/",
+      "date": "2026-08-19"
+    }
+  ],
+  "polls": [
+    {
+      "who": "Montana Free Press - Rutgers Eagleton poll (registered voters, Aug 27 - Sept 7, 2026, +/-4.2%)",
+      "what": "Support for data centers in your city or a neighboring county",
+      "result": "Nearly 75% oppose; majority opposed in every party; 92% want state rules to limit data centers' impact on electricity prices; 45% say they create jobs vs 49% disagree.",
+      "source": "https://montanafreepress.org/2026/09/16/montana-registered-voters-data-centers/",
+      "date": "2026-09-16"
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+[
+  {
+    "id": "co-arapahoe-qts-aurora",
+    "name": "QTS Aurora-Denver campus (Denver 1)",
+    "owner": "QTS Data Centers",
+    "operator": "QTS Data Centers",
+    "tier": "large",
+    "state": "CO",
+    "county": "Arapahoe County",
+    "town": "Aurora",
+    "lat": 39.736079,
+    "lng": -104.714343,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 160,
+        "unit": "MW critical power planned (160 MW+); Vail Daily reports 177 MW",
+        "kind": "real",
+        "source": "https://q.com/data-centers/denver",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 65,
+        "unit": "acres owned",
+        "kind": "real",
+        "source": "https://q.com/data-centers/denver",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Best: Data centers in Colorado, yes, but on what terms?",
+        "outlet": "Vail Daily",
+        "url": "https://www.vaildaily.com/news/best-data-centers-in-colorado-yes-but-on-what-terms/",
+        "date": "2026-02-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Gearing up for data centers",
+        "outlet": "Big Pivots",
+        "url": "https://bigpivots.com/geaing-up-for-data-centers/",
+        "date": "2026-02-03",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1160 N Gun Club Rd, Aurora 80018 (near I-70 and E-470); county and coordinates from the US Census geocoder for that address. Described as Colorado's largest data center complex and still growing (under construction in parts). Opening year not found. Page date is the access date (page undated)."
+  },
+  {
+    "id": "co-weld-global-ai-windsor",
+    "name": "Global AI data center (former Kodak/Carestream site, Windsor)",
+    "owner": "Global AI",
+    "operator": null,
+    "tier": "large",
+    "state": "CO",
+    "county": "Weld County",
+    "town": "Windsor (unincorporated Weld County)",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 27.5,
+        "unit": "MW first phase (PVREA will-serve letter for 35 MW; company targets 1 GW by 2029)",
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      },
+      "water_use": {
+        "value": "Initial fill about 65,000 gallons, then about 6,500 gallons a year top-off (company)",
+        "unit": "gallons",
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop, air-cooled (permit condition)",
+        "unit": null,
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "construction jobs",
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "long-term jobs",
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Poudre Valley Rural Electric Association (will-serve letter for 35 MW)",
+        "unit": null,
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      },
+      "acres": {
+        "value": 41,
+        "unit": "acres covered by the permit (on a 438-acre property bought for about $15.6M)",
+        "kind": "real",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Windsor Renewal (represented by attorney Hugh Gottschalk) and Broe Real Estate Group argued against the permit at the county hearing",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "More than 400 written public comments, mostly opposed (water, power, noise)",
+        "source": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12"
+      }
+    ],
+    "news": [
+      {
+        "title": "Weld County commissioners approve permit for Global AI data center",
+        "outlet": "KUNC / Colorado Newsline",
+        "url": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center",
+        "date": "2026-09-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Weld County commissioners approve proposed 41-acre data center",
+        "outlet": "Denver7",
+        "url": "https://www.denver7.com/news/local-news/in-your-community/northern-colorado/weld-county-commissioners-approve-proposed-41-acre-data-center",
+        "date": "2026-09-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Colorado data centers: expansion, opposition and polls",
+        "outlet": "The Colorado Sun",
+        "url": "https://coloradosun.com/2026/09/17/colorado-data-centers-expansion-opposition-polls/",
+        "date": "2026-09-17",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Address 2000 Howard Smith Avenue W (KUNC); Census geocoder found no match, so lat/lng null. Weld County Board of Commissioners approved the special-use permit 5-0 on a Wednesday (about Sept. 9, 2026, per Colorado Sun). Conditions: closed-loop cooling, noise at ambient levels with monitoring, decommissioning bond. Permit covers only the ~41-acre data center, not the whole 438-acre former Kodak/Carestream property or future phases; building, electrical and other permits still needed. More than 400 written public comments, mostly opposed. Promoted from lead co-weld-global-ai-windsor."
+  },
+  {
+    "id": "co-adams-vantage-trident-aurora",
+    "name": "Trident Data Center",
+    "owner": "Vantage Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "CO",
+    "county": "Adams County",
+    "town": "Aurora",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-08-25",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": {
+        "value": "About 800,000 gallons initially for 10 chiller units, then closed-loop cooling (Vantage documents)",
+        "unit": "gallons",
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/09/23/aurora-residents-gather-to-share-data-center-concerns/",
+        "date": "2026-09-23"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Chillers, then closed-loop (Vantage documents)",
+        "unit": null,
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/09/23/aurora-residents-gather-to-share-data-center-concerns/",
+        "date": "2026-09-23"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 108,
+        "unit": "acres (two stories, 1.5 million sq ft, per Vantage city filings)",
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/10/02/aurora-mayor-says-new-data-center-must-be-stopped/",
+        "date": "2026-10-02"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Mayor Mike Coffman says the project 'must be stopped' and plans to call it up for a public hearing and ask council to vote no",
+        "source": "https://www.coloradopolitics.com/2026/10/02/aurora-mayor-says-new-data-center-must-be-stopped/",
+        "date": "2026-10-02"
+      },
+      {
+        "what": "About 100 Green Valley Ranch residents attended a council meeting to oppose it",
+        "source": "https://www.coloradopolitics.com/2026/10/02/aurora-mayor-says-new-data-center-must-be-stopped/",
+        "date": "2026-10-02"
+      },
+      {
+        "what": "change.org petition 'Protect neighbourhoods from the Trident data center'",
+        "source": "https://www.change.org/p/protect-neighbourhoods-from-the-trident-data-center",
+        "date": "2026-10-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Aurora mayor says new data center 'must be stopped'",
+        "outlet": "Colorado Politics / Denver Gazette",
+        "url": "https://www.coloradopolitics.com/2026/10/02/aurora-mayor-says-new-data-center-must-be-stopped/",
+        "date": "2026-10-02",
+        "tone": "bad"
+      },
+      {
+        "title": "Aurora residents claim they were blindsided by proposed data center",
+        "outlet": "Colorado Politics / Denver Gazette",
+        "url": "https://www.coloradopolitics.com/2026/09/23/aurora-residents-gather-to-share-data-center-concerns/",
+        "date": "2026-09-23",
+        "tone": "bad"
+      },
+      {
+        "title": "Second large data center proposed for Aurora Highlands area",
+        "outlet": "Colorado Politics / Denver Gazette",
+        "url": "https://www.coloradopolitics.com/2026/10/01/second-large-data-center-proposed-for-aurora-highlands-area/",
+        "date": "2026-10-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Northwest corner of E-470 and East 48th Avenue, next to Green Valley Ranch; county is Adams (Census coordinate check of that corner; no address, so lat/lng null). Application filed Aug. 25, 2025; in its third city review; data centers are a permitted use in the industrial zone, so it can be approved administratively with no public hearing. Power: residents cite about 500 MW; a Vantage spokesman figure of 334 MW appears in search summaries of other coverage, not read. Lead had county as Arapahoe; corrected. Promoted from lead co-arapahoe-vantage-trident-aurora."
+  },
+  {
+    "id": "co-el-paso-raeden-taurus",
+    "name": "Project Taurus",
+    "owner": "Raeden",
+    "operator": null,
+    "tier": "large",
+    "state": "CO",
+    "county": "El Paso County",
+    "town": "Colorado Springs",
+    "lat": 38.896419,
+    "lng": -104.859466,
+    "stage": "announced",
+    "announced": "2026-03-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 50,
+        "unit": "MW continuous draw (Planning Commission cap)",
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/09/15/state-national-debate-over-data-centers-lands-in-colorado-springs-thursday-with-project-taurus/",
+        "date": "2026-09-15"
+      },
+      "water_use": {
+        "value": "Initial fill of 200,000 gallons, minimal daily demand after",
+        "unit": "gallons",
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/09/15/state-national-debate-over-data-centers-lands-in-colorado-springs-thursday-with-project-taurus/",
+        "date": "2026-09-15"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop",
+        "unit": null,
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/09/15/state-national-debate-over-data-centers-lands-in-colorado-springs-thursday-with-project-taurus/",
+        "date": "2026-09-15"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Colorado Springs Utilities",
+        "unit": null,
+        "kind": "real",
+        "source": "https://coloradosun.com/2026/09/17/colorado-data-centers-expansion-opposition-polls/",
+        "date": "2026-09-17"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Resident appeals of the staff and Planning Commission approvals (two appeals pending before City Council); Chelsea Glen neighborhood organized against it",
+        "source": "https://www.coloradopolitics.com/2026/09/15/state-national-debate-over-data-centers-lands-in-colorado-springs-thursday-with-project-taurus/",
+        "date": "2026-09-15"
+      },
+      {
+        "what": "Council members Kimberly Gold and Nancy Henjum said they would have voted against the project",
+        "source": "https://www.coloradopolitics.com/2026/09/18/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/",
+        "date": "2026-09-18"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "State, national debate over data centers lands in Colorado Springs with Project Taurus vote Thursday",
+        "outlet": "Colorado Politics / Gazette",
+        "url": "https://www.coloradopolitics.com/2026/09/15/state-national-debate-over-data-centers-lands-in-colorado-springs-thursday-with-project-taurus/",
+        "date": "2026-09-15",
+        "tone": "neutral"
+      },
+      {
+        "title": "Colorado Springs City Council punts decision on Project Taurus data center to April 2027 after raucous meeting",
+        "outlet": "Colorado Politics / Gazette",
+        "url": "https://www.coloradopolitics.com/2026/09/18/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/",
+        "date": "2026-09-18",
+        "tone": "neutral"
+      },
+      {
+        "title": "Planning Commission denies appeal on proposed data center Project Taurus",
+        "outlet": "KKTV",
+        "url": "https://kktv.com/2026/07/24/colorado-springs-planning-commission-denies-appeal-proposed-data-center-project-taurus",
+        "date": "2026-07-24",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1615 W. Garden of the Gods Road, former Intel chip plant (Census geocoder for county and coordinates). Timeline: first filings March 12, 2026; staff approved development plan changes June 11; Planning Commission 6-2 to approve with conditions (50 MW cap, sound monitoring) July 23; City Council voted 7-2 on Sept. 17 to postpone the appeal decision to April 13, 2027. Stage kept 'announced' because the approval is still under appeal. Promoted from lead co-el-paso-taurus-colorado-springs."
+  },
+  {
+    "id": "co-denver-coresite-de3",
+    "name": "CoreSite Denver campus expansion (DE3, 4900 Race St)",
+    "owner": "CoreSite (American Tower)",
+    "operator": null,
+    "tier": "large",
+    "state": "CO",
+    "county": "Denver County",
+    "town": "Denver",
+    "lat": 39.785256,
+    "lng": -104.963416,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 60,
+        "unit": "critical MW for the full Denver campus expansion (about 600,000 sq ft); DE3 alone 180,000 sq ft",
+        "kind": "real",
+        "source": "https://www.coresite.com/news/coresite-achieves-key-construction-milestone-for-new-de3-data-center-in-denver",
+        "date": "2025-10-06"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "CoreSite Achieves Key Construction Milestone for New DE3 Data Center in Denver",
+        "outlet": "CoreSite",
+        "url": "https://www.coresite.com/news/coresite-achieves-key-construction-milestone-for-new-de3-data-center-in-denver",
+        "date": "2025-10-06",
+        "tone": "good"
+      },
+      {
+        "title": "To build or to ban: Colorado municipalities grapple with data centers",
+        "outlet": "Colorado Politics / Denver Gazette",
+        "url": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+        "date": "2026-09-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "4900 Race St, Elyria-Swansea, near National Western (Census geocoder for county and coordinates). CoreSite page: DE3 170,000+ sq ft, 'coming soon', scheduled to open end of 2026; first purpose-built colocation data center in Denver in two decades. DE1 (910 15th St, carrier hotel) and DE2 are older downtown sites linked by dark fiber, not part of this record. Promoted from lead co-denver-elyria-swansea-75mw (the '75 MW' figure was not confirmed; CoreSite says 60 critical MW for the expansion)."
+  },
+  {
+    "id": "co-douglas-flexential-parker",
+    "name": "Flexential Parker data center",
+    "owner": "Flexential",
+    "operator": null,
+    "tier": "large",
+    "state": "CO",
+    "county": "Douglas County",
+    "town": "Parker",
+    "lat": 39.56214,
+    "lng": -104.810901,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 192000000,
+        "unit": "USD build cost per contractor PCL Construction",
+        "kind": "real",
+        "source": "https://www.connectcre.com/stories/250k-sf-denver-area-data-center-to-open-early-next-year/",
+        "date": "2026-03-31"
+      },
+      "power_mw": {
+        "value": 22.5,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://coloradobiz.com/flexential-secures-800-million-credit-for-colorado-data-centers/",
+        "date": "2026-08-19"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "Douglas County rebate of 100% of the county's share of business personal property tax over 35 years, about $19.3M (approved August 2026)",
+        "unit": null,
+        "kind": "real",
+        "source": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+        "date": "2026-09-12"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Flexential secures $800 million credit for Colorado data centers",
+        "outlet": "ColoradoBiz",
+        "url": "https://coloradobiz.com/flexential-secures-800-million-credit-for-colorado-data-centers/",
+        "date": "2026-08-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "250K SF Denver-area data center to open early next year",
+        "outlet": "Connect CRE",
+        "url": "https://www.connectcre.com/stories/250k-sf-denver-area-data-center-to-open-early-next-year/",
+        "date": "2026-03-31",
+        "tone": "neutral"
+      },
+      {
+        "title": "To build or to ban: Colorado municipalities grapple with data centers",
+        "outlet": "Colorado Politics / Denver Gazette",
+        "url": "https://www.coloradopolitics.com/2026/09/12/to-build-or-to-ban-colorado-municipalities-grapple-with-data-centers/",
+        "date": "2026-09-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "249,000 sq ft; targeted to be operating by January 2027 (Connect CRE). Flexential's fifth Denver-area site; its four older metro sites (downtown, Aurora, Centennial, Englewood) total about 27 MW per DatacenterDynamics and are not recorded separately. No street address found, so lat/lng null. Promoted from lead co-douglas-flexential-parker.",
+    "pin_source": "https://www.flexential.com/data-centers/co/denver/parker-data-center",
+    "pin_address": "Flexential Denver - Parker data center, 15255 Compark Blvd, Parker CO 80134 (company page map coordinates)"
+  },
+  {
+    "id": "co-denver-coresite-de1",
+    "name": "CoreSite DE1 Denver (910 15th Street)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "CO",
+    "county": "Denver County",
+    "town": "Denver",
+    "lat": 39.745646,
+    "lng": -104.995336,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "910 15th St, downtown Denver; 152,000+ sq ft (https://www.coresite.com/data-centers/locations/denver). Separate from CoreSite DE3 at 4900 Race St (co-denver-coresite-de3), about 3 miles away. DE2 (639 E. 18th Ave, 5,100+ sq ft) is small. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "co-douglas-flexential-englewood",
+    "name": "Flexential Denver - Englewood (8636 S Peoria Street)",
+    "owner": "Flexential",
+    "operator": "Flexential",
+    "tier": "large",
+    "state": "CO",
+    "county": "Douglas County",
+    "town": "Englewood",
+    "lat": 39.559134,
+    "lng": -104.839366,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 18,
+        "unit": "MW critical load UPS capacity",
+        "kind": "real",
+        "source": "https://www.flexential.com/data-centers/co/denver/englewood-data-center",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "8636 S Peoria Street (Englewood mailing address); 240,549 sq ft, 18 MW critical load (https://www.flexential.com/data-centers/co/denver/englewood-data-center). Census geocoder places it in Douglas County. Same owner and county as co-douglas-flexential-parker, but a different site about 8 miles away. Included as about 20 MW and over 100,000 sq ft."
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "state": "NE",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "ImagiNE Act incentives barred for data centers (executive order)",
+      "law": "Governor Pillen executive order (2026)",
+      "what": "Data centers cannot receive ImagiNE Act tax incentives; order formalizes a pause on data center development and creates a task force on land, water and electricity impacts with guardrails for future projects.",
+      "value_known": null,
+      "source": "https://governor.nebraska.gov/data-center-development-protecting-nebraska-resources",
+      "date": "2026-08-21"
+    },
+    {
+      "name": "Data center sales/use tax and personal property tax exemption (LB 1080, 2012)",
+      "law": "LB 1080 (2012); Neb. Rev. Stat. 77-202(10) and Nebraska Revenue Act (sec. 5 of LB 1080)",
+      "what": "Sales and use tax exemption, and personal property tax exemption, for tangible personal property acquired by a data center operator in Nebraska that is assembled or incorporated into other property for later use at a location OUTSIDE Nebraska. Does not exempt equipment used in Nebraska. Operative Jan 1, 2013. Approved by the Governor April 10, 2012.",
+      "value_known": null,
+      "source": "https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Slip/LB1080.pdf",
+      "date": "2012-04-10"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "LB1261 (2026)",
+      "status": "enacted",
+      "what": "Requires data center operators to generate their own electricity behind the meter; excess can be sold to the grid (per Governor). Seen as enabling the Google/Tenaska gas-plant proposal.",
+      "source": "https://governor.nebraska.gov/data-center-development-protecting-nebraska-resources",
+      "date": "2026-08-21"
+    },
+    {
+      "name": "LB1010 (2026), Large Load Customer Regulation Act",
+      "status": "enacted",
+      "what": "Adopts the Large Load Customer Regulation Act and provisions on cryptocurrency mining operations and data centers (amended in LB1193, LB1111, LB1064). Passed 49-0, approved by Governor April 14, 2026.",
+      "source": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63217",
+      "date": "2026-04-14"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Butler County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Box Butte County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Custer County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Dundy County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Furnas County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Hayes County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Harlan County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Johnson County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Kearney County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Otoe County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Seward County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium in place (one of 12 counties as of July 16, 2026)",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Logan County",
+      "type": "moratorium",
+      "what": "12-month moratorium on data centers, also wind/solar and crypto mining, while zoning is rewritten",
+      "status": "in effect",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Gage County",
+      "type": "moratorium",
+      "what": "Planning commission unanimously recommended an 18-month data center moratorium (Tenaska spoke against); county board vote pending as of July 2026",
+      "status": "pending",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/data-centers-are-eyeing-nebraska-heres-how-counties-are-responding/",
+      "date": "2026-06-16"
+    },
+    {
+      "place": "Cass County",
+      "type": "moratorium",
+      "what": "Planning commission recommended a moratorium; board vote pending",
+      "status": "pending",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Garfield County",
+      "type": "moratorium",
+      "what": "Planning commission voted for a moratorium; board vote pending",
+      "status": "pending",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    },
+    {
+      "place": "Lincoln County",
+      "type": "moratorium",
+      "what": "Rejected a data center moratorium",
+      "status": "rejected",
+      "source": "https://nebraskapublicmedia.org/en/news/news-articles/twelfth-nebraska-county-temporarily-bans-data-centers/",
+      "date": "2026-07-16"
+    }
+  ]
+}

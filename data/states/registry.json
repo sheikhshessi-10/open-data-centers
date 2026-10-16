@@ -1,0 +1,2977 @@
+{
+  "_note": "Every state the project covers. Scripts, the site build and the skills read this list; adding a state starts here (see the odc-add-state skill).",
+  "states": [
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "slug": "louisiana",
+      "fips": "22",
+      "county_word": "Parish",
+      "file": "louisiana.json",
+      "added": "2026-10-13",
+      "sources": {
+        "economic_development": {
+          "name": "Louisiana Economic Development",
+          "url": "https://www.opportunitylouisiana.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://gov.louisiana.gov/"
+        },
+        "utility_regulator": {
+          "name": "Louisiana Public Service Commission",
+          "url": "https://lpsc.louisiana.gov/"
+        },
+        "environment_agency": {
+          "name": "Louisiana Department of Environmental Quality",
+          "url": "https://deq.louisiana.gov/"
+        },
+        "water_agency": {
+          "name": "Louisiana Department of Energy and Natural Resources",
+          "url": "https://www.dnr.louisiana.gov/"
+        },
+        "legislature": {
+          "name": "Louisiana State Legislature",
+          "url": "https://legis.la.gov/"
+        },
+        "revenue": {
+          "name": "Louisiana Department of Revenue",
+          "url": "https://revenue.louisiana.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Louisiana Public Records Law",
+        "cite": "La. R.S. 44:1 et seq.",
+        "deadline": "3 business days",
+        "deadline_cite": "La. R.S. 44:32",
+        "who_can_ask": "any adult (18+)"
+      },
+      "local_news": [
+        "The Advocate",
+        "The Times-Picayune",
+        "Louisiana Illuminator",
+        "Shreveport Times",
+        "KTBS",
+        "Business Report",
+        "American Press",
+        "Town Talk",
+        "The Lens"
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "slug": "mississippi",
+      "fips": "28",
+      "county_word": "County",
+      "file": "mississippi.json",
+      "added": "2026-10-13",
+      "sources": {
+        "economic_development": {
+          "name": "Mississippi Development Authority",
+          "url": "https://www.mississippi.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governorreeves.ms.gov/"
+        },
+        "utility_regulator": {
+          "name": "Mississippi Public Service Commission",
+          "url": "https://www.psc.ms.gov/"
+        },
+        "environment_agency": {
+          "name": "Mississippi Department of Environmental Quality",
+          "url": "https://www.mdeq.ms.gov/"
+        },
+        "water_agency": {
+          "name": "Mississippi Department of Environmental Quality, Office of Land and Water",
+          "url": "https://www.mdeq.ms.gov/"
+        },
+        "legislature": {
+          "name": "Mississippi Legislature",
+          "url": "https://www.legislature.ms.gov/"
+        },
+        "revenue": {
+          "name": "Mississippi Department of Revenue",
+          "url": "https://www.dor.ms.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Mississippi Public Records Act of 1983",
+        "cite": "Miss. Code Ann. § 25-61-1 et seq.",
+        "deadline": "7 working days",
+        "deadline_cite": "Miss. Code Ann. § 25-61-5",
+        "who_can_ask": "anyone"
+      },
+      "local_news": [
+        "Mississippi Today",
+        "Clarion Ledger",
+        "Mississippi Free Press",
+        "Daily Journal",
+        "Sun Herald",
+        "WLBT",
+        "WJTV",
+        "Meridian Star",
+        "Hattiesburg American"
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "slug": "virginia",
+      "fips": "51",
+      "county_word": "County",
+      "file": "virginia.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Virginia Economic Development Partnership",
+          "url": "https://www.vedp.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Virginia",
+          "url": "https://www.governor.virginia.gov/"
+        },
+        "utility_regulator": {
+          "name": "Virginia State Corporation Commission",
+          "url": "https://www.scc.virginia.gov/"
+        },
+        "environment_agency": {
+          "name": "Virginia Department of Environmental Quality",
+          "url": "https://www.deq.virginia.gov/"
+        },
+        "water_agency": {
+          "name": "Virginia Department of Environmental Quality, Water Withdrawal Permitting",
+          "url": "https://www.deq.virginia.gov/"
+        },
+        "legislature": {
+          "name": "Virginia General Assembly (Legislative Information System)",
+          "url": "https://lis.virginia.gov/"
+        },
+        "revenue": {
+          "name": "Virginia Department of Taxation",
+          "url": "https://www.tax.virginia.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Virginia Freedom of Information Act",
+        "cite": "Va. Code Ann. § 2.2-3700 et seq.",
+        "deadline": "5 working days",
+        "deadline_cite": "Va. Code Ann. § 2.2-3704(B)",
+        "who_can_ask": "citizens of Virginia, plus representatives of newspapers and magazines circulated in Virginia and of radio and TV stations broadcasting in or into Virginia"
+      },
+      "local_news": [
+        "Richmond Times-Dispatch",
+        "The Virginian-Pilot",
+        "Virginia Mercury",
+        "Cardinal News",
+        "VPM",
+        "Richmond BizSense",
+        "Inside Business",
+        "Loudoun Times-Mirror",
+        "Prince William Times",
+        "WTVR"
+      ],
+      "county_note": "Virginia has 95 counties and 38 independent cities that sit outside any county; treat each independent city as a county-level unit."
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "slug": "maryland",
+      "fips": "24",
+      "county_word": "County",
+      "file": "maryland.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Maryland Department of Commerce",
+          "url": "https://commerce.maryland.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Maryland",
+          "url": "https://governor.maryland.gov/"
+        },
+        "utility_regulator": {
+          "name": "Maryland Public Service Commission",
+          "url": "https://psc.maryland.gov/"
+        },
+        "environment_agency": {
+          "name": "Maryland Department of the Environment",
+          "url": "https://mde.maryland.gov/"
+        },
+        "water_agency": {
+          "name": "Maryland Department of the Environment, Water and Science Administration (water appropriation permits)",
+          "url": "https://mde.maryland.gov/"
+        },
+        "legislature": {
+          "name": "Maryland General Assembly",
+          "url": "https://mgaleg.maryland.gov/"
+        },
+        "revenue": {
+          "name": "Comptroller of Maryland",
+          "url": "https://www.marylandcomptroller.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Maryland Public Information Act",
+        "cite": "Md. Code Ann., Gen. Provisions § 4-101 et seq.",
+        "deadline": "promptly, but not more than 30 days after receiving the application (a custodian expecting to take longer than 10 working days must say so within 10 working days)",
+        "deadline_cite": "Md. Code Ann., Gen. Provisions § 4-203",
+        "who_can_ask": "a person or governmental unit"
+      },
+      "local_news": [
+        "The Baltimore Sun",
+        "Baltimore Banner",
+        "Maryland Matters",
+        "Baltimore Business Journal",
+        "Daily Record",
+        "WYPR",
+        "Frederick News-Post",
+        "Capital Gazette",
+        "Cecil Whig",
+        "Herald-Mail"
+      ],
+      "county_note": "Maryland has 23 counties plus Baltimore city, an independent city that is its own county-level unit."
+    },
+    {
+      "code": "DC",
+      "name": "District of Columbia",
+      "slug": "district-of-columbia",
+      "fips": "11",
+      "county_word": "District",
+      "file": "district-of-columbia.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Deputy Mayor for Planning and Economic Development",
+          "url": "https://dmped.dc.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Mayor",
+          "url": "https://mayor.dc.gov/"
+        },
+        "utility_regulator": {
+          "name": "Public Service Commission of the District of Columbia",
+          "url": "https://dcpsc.org/"
+        },
+        "environment_agency": {
+          "name": "District Department of Energy and Environment",
+          "url": "https://doee.dc.gov/"
+        },
+        "water_agency": {
+          "name": "District Department of Energy and Environment",
+          "url": "https://doee.dc.gov/"
+        },
+        "legislature": {
+          "name": "Council of the District of Columbia",
+          "url": "https://dccouncil.gov/"
+        },
+        "revenue": {
+          "name": "DC Office of Tax and Revenue",
+          "url": "https://otr.cfo.dc.gov/"
+        }
+      },
+      "records_law": {
+        "name": "District of Columbia Freedom of Information Act",
+        "cite": "D.C. Code § 2-531 et seq.",
+        "deadline": "15 days (excluding Saturdays, Sundays, and legal public holidays)",
+        "deadline_cite": "D.C. Code § 2-532(c)(1)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "The Washington Post",
+        "Washington Business Journal",
+        "Washington City Paper",
+        "WAMU",
+        "WTOP",
+        "The 51st",
+        "Axios DC",
+        "Washington Informer",
+        "NBC4 Washington",
+        "Greater Greater Washington"
+      ],
+      "county_note": "DC has no counties; the District is one unit, so treat the whole District as a single county-level entry (Census county FIPS 001)."
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "slug": "delaware",
+      "fips": "10",
+      "county_word": "County",
+      "file": "delaware.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Delaware Division of Small Business (Choose Delaware)",
+          "url": "https://www.choosedelaware.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Delaware",
+          "url": "https://governor.delaware.gov/"
+        },
+        "utility_regulator": {
+          "name": "Delaware Public Service Commission",
+          "url": "https://depsc.delaware.gov/"
+        },
+        "environment_agency": {
+          "name": "Delaware Department of Natural Resources and Environmental Control",
+          "url": "https://dnrec.delaware.gov/"
+        },
+        "water_agency": {
+          "name": "Delaware Department of Natural Resources and Environmental Control, Water Supply (water allocation permits)",
+          "url": "https://dnrec.delaware.gov/"
+        },
+        "legislature": {
+          "name": "Delaware General Assembly",
+          "url": "https://legis.delaware.gov/"
+        },
+        "revenue": {
+          "name": "Delaware Division of Revenue",
+          "url": "https://revenue.delaware.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Delaware Freedom of Information Act",
+        "cite": "29 Del. C. § 10001 et seq.",
+        "deadline": "as soon as possible, but in any event within 15 business days",
+        "deadline_cite": "29 Del. C. § 10003(h)(1)",
+        "who_can_ask": "any citizen"
+      },
+      "local_news": [
+        "The News Journal (Delaware Online)",
+        "Delaware Public Media",
+        "WHYY",
+        "Spotlight Delaware",
+        "Delaware Business Times",
+        "Cape Gazette",
+        "Bay to Bay News",
+        "Delaware LIVE",
+        "WDEL",
+        "Delaware State News"
+      ],
+      "county_note": "Delaware has only three counties: New Castle, Kent and Sussex."
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "slug": "west-virginia",
+      "fips": "54",
+      "county_word": "County",
+      "file": "west-virginia.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "West Virginia Department of Economic Development",
+          "url": "https://westvirginia.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of West Virginia",
+          "url": "https://governor.wv.gov/"
+        },
+        "utility_regulator": {
+          "name": "Public Service Commission of West Virginia",
+          "url": "https://www.psc.state.wv.us/"
+        },
+        "environment_agency": {
+          "name": "West Virginia Department of Environmental Protection",
+          "url": "https://dep.wv.gov/"
+        },
+        "water_agency": {
+          "name": "West Virginia Department of Environmental Protection, Division of Water and Waste Management",
+          "url": "https://dep.wv.gov/"
+        },
+        "legislature": {
+          "name": "West Virginia Legislature",
+          "url": "https://www.wvlegislature.gov/"
+        },
+        "revenue": {
+          "name": "West Virginia State Tax Department",
+          "url": "https://tax.wv.gov/"
+        }
+      },
+      "records_law": {
+        "name": "West Virginia Freedom of Information Act",
+        "cite": "W. Va. Code § 29B-1-1 et seq.",
+        "deadline": "as soon as is practicable but within a maximum of five days not including Saturdays, Sundays or legal holidays",
+        "deadline_cite": "W. Va. Code § 29B-1-3(d)",
+        "who_can_ask": "every person"
+      },
+      "local_news": [
+        "West Virginia Watch",
+        "Charleston Gazette-Mail",
+        "WV MetroNews",
+        "West Virginia Public Broadcasting",
+        "Mountain State Spotlight",
+        "The Intelligencer (Wheeling)",
+        "Parkersburg News and Sentinel",
+        "WV News",
+        "Herald-Dispatch",
+        "WSAZ"
+      ],
+      "county_note": "West Virginia has 55 counties and no independent cities."
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "slug": "pennsylvania",
+      "fips": "42",
+      "county_word": "County",
+      "file": "pennsylvania.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Pennsylvania Department of Community and Economic Development",
+          "url": "https://dced.pa.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Pennsylvania",
+          "url": "https://www.pa.gov/governor"
+        },
+        "utility_regulator": {
+          "name": "Pennsylvania Public Utility Commission",
+          "url": "https://www.puc.pa.gov/"
+        },
+        "environment_agency": {
+          "name": "Pennsylvania Department of Environmental Protection",
+          "url": "https://www.pa.gov/agencies/dep"
+        },
+        "water_agency": {
+          "name": "Pennsylvania Department of Environmental Protection (water withdrawals; the Susquehanna and Delaware River Basin Commissions also approve withdrawals in their basins)",
+          "url": "https://www.pa.gov/agencies/dep"
+        },
+        "legislature": {
+          "name": "Pennsylvania General Assembly",
+          "url": "https://www.palegis.us/"
+        },
+        "revenue": {
+          "name": "Pennsylvania Department of Revenue",
+          "url": "https://www.pa.gov/agencies/revenue"
+        }
+      },
+      "records_law": {
+        "name": "Pennsylvania Right-to-Know Law",
+        "cite": "65 P.S. § 67.101 et seq.",
+        "deadline": "5 business days",
+        "deadline_cite": "65 P.S. § 67.901",
+        "who_can_ask": "a legal resident of the United States"
+      },
+      "local_news": [
+        "Pittsburgh Post-Gazette",
+        "The Philadelphia Inquirer",
+        "Spotlight PA",
+        "PennLive",
+        "WITF",
+        "The Morning Call",
+        "Pittsburgh Business Times",
+        "Philadelphia Business Journal",
+        "WESA",
+        "The Citizens' Voice"
+      ]
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "slug": "north-carolina",
+      "fips": "37",
+      "county_word": "County",
+      "file": "north-carolina.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Economic Development Partnership of North Carolina",
+          "url": "https://www.edpnc.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.nc.gov/"
+        },
+        "utility_regulator": {
+          "name": "North Carolina Utilities Commission",
+          "url": "https://www.ncuc.gov/"
+        },
+        "environment_agency": {
+          "name": "North Carolina Department of Environmental Quality",
+          "url": "https://www.deq.nc.gov/"
+        },
+        "water_agency": {
+          "name": "North Carolina DEQ, Division of Water Resources",
+          "url": "https://www.deq.nc.gov/about/divisions/water-resources"
+        },
+        "legislature": {
+          "name": "North Carolina General Assembly",
+          "url": "https://www.ncleg.gov/"
+        },
+        "revenue": {
+          "name": "North Carolina Department of Revenue",
+          "url": "https://www.ncdor.gov/"
+        }
+      },
+      "records_law": {
+        "name": "North Carolina Public Records Act",
+        "cite": "N.C. Gen. Stat. § 132-1 et seq.",
+        "deadline": "as promptly as possible",
+        "deadline_cite": "N.C. Gen. Stat. § 132-6(a)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "The News & Observer",
+        "The Charlotte Observer",
+        "NC Newsline",
+        "WRAL",
+        "Triangle Business Journal",
+        "Charlotte Business Journal",
+        "WUNC",
+        "Asheville Citizen Times",
+        "Greensboro News & Record",
+        "Winston-Salem Journal",
+        "WFAE"
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "slug": "south-carolina",
+      "fips": "45",
+      "county_word": "County",
+      "file": "south-carolina.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "South Carolina Department of Commerce",
+          "url": "https://www.sccommerce.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.sc.gov/"
+        },
+        "utility_regulator": {
+          "name": "South Carolina Public Service Commission",
+          "url": "https://psc.sc.gov/"
+        },
+        "environment_agency": {
+          "name": "South Carolina Department of Environmental Services",
+          "url": "https://des.sc.gov/"
+        },
+        "water_agency": {
+          "name": "South Carolina Department of Environmental Services",
+          "url": "https://des.sc.gov/"
+        },
+        "legislature": {
+          "name": "South Carolina Legislature",
+          "url": "https://www.scstatehouse.gov/"
+        },
+        "revenue": {
+          "name": "South Carolina Department of Revenue",
+          "url": "https://dor.sc.gov/"
+        }
+      },
+      "records_law": {
+        "name": "South Carolina Freedom of Information Act",
+        "cite": "S.C. Code Ann. § 30-4-10 et seq.",
+        "deadline": "10 days, excluding Saturdays, Sundays and legal holidays, to notify the requester of the decision (20 such days if the record is more than 24 months old)",
+        "deadline_cite": "S.C. Code Ann. § 30-4-30(C)",
+        "who_can_ask": "any person (except people serving a prison sentence)"
+      },
+      "local_news": [
+        "The Post and Courier",
+        "The State",
+        "SC Daily Gazette",
+        "Greenville News",
+        "Charleston Regional Business Journal",
+        "GSA Business Report",
+        "SCETV / SC Public Radio",
+        "WIS",
+        "Island Packet",
+        "Spartanburg Herald-Journal"
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "slug": "georgia",
+      "fips": "13",
+      "county_word": "County",
+      "file": "georgia.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Georgia Department of Economic Development (Georgia.org)",
+          "url": "https://www.georgia.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://gov.georgia.gov/"
+        },
+        "utility_regulator": {
+          "name": "Georgia Public Service Commission",
+          "url": "https://psc.ga.gov/"
+        },
+        "environment_agency": {
+          "name": "Georgia Environmental Protection Division",
+          "url": "https://epd.georgia.gov/"
+        },
+        "water_agency": {
+          "name": "Georgia Environmental Protection Division",
+          "url": "https://epd.georgia.gov/"
+        },
+        "legislature": {
+          "name": "Georgia General Assembly",
+          "url": "https://www.legis.ga.gov/"
+        },
+        "revenue": {
+          "name": "Georgia Department of Revenue",
+          "url": "https://dor.georgia.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Georgia Open Records Act",
+        "cite": "O.C.G.A. § 50-18-70 et seq.",
+        "deadline": "a reasonable amount of time not to exceed 3 business days",
+        "deadline_cite": "O.C.G.A. § 50-18-71(b)(1)(A)",
+        "who_can_ask": "any person (no residency requirement per Georgia Attorney General Op. 93-27)"
+      },
+      "local_news": [
+        "The Atlanta Journal-Constitution",
+        "Georgia Recorder",
+        "Atlanta Business Chronicle",
+        "WABE",
+        "Georgia Public Broadcasting",
+        "Savannah Morning News",
+        "Macon Telegraph",
+        "Augusta Chronicle",
+        "Columbus Ledger-Enquirer",
+        "Capitol Beat"
+      ],
+      "county_note": "Georgia has 159 counties, and several consolidated governments (Athens-Clarke, Augusta-Richmond, Columbus-Muscogee, Macon-Bibb, Cusseta-Chattahoochee, Georgetown-Quitman, Webster, Statenville-Echols) act as both city and county."
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "slug": "florida",
+      "fips": "12",
+      "county_word": "County",
+      "file": "florida.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "FloridaCommerce",
+          "url": "https://www.floridajobs.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.flgov.com/"
+        },
+        "utility_regulator": {
+          "name": "Florida Public Service Commission",
+          "url": "https://www.floridapsc.com/"
+        },
+        "environment_agency": {
+          "name": "Florida Department of Environmental Protection",
+          "url": "https://floridadep.gov/"
+        },
+        "water_agency": {
+          "name": "Florida Water Management Districts (consumptive use permits), via DEP",
+          "url": "https://floridadep.gov/water-policy/water-policy/content/water-management-districts"
+        },
+        "legislature": {
+          "name": "The Florida Senate",
+          "url": "https://www.flsenate.gov/"
+        },
+        "revenue": {
+          "name": "Florida Department of Revenue",
+          "url": "https://floridarevenue.com/"
+        }
+      },
+      "records_law": {
+        "name": "Florida Public Records Act",
+        "cite": "Fla. Stat. ch. 119",
+        "deadline": "must acknowledge requests promptly and respond in good faith (no fixed number of days)",
+        "deadline_cite": "Fla. Stat. § 119.07(1)(c)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Tampa Bay Times",
+        "Miami Herald",
+        "Orlando Sentinel",
+        "Florida Phoenix",
+        "Florida Politics",
+        "South Florida Sun Sentinel",
+        "Jacksonville Florida Times-Union",
+        "WUSF",
+        "WLRN",
+        "Tallahassee Democrat",
+        "Orlando Business Journal"
+      ],
+      "county_note": "Florida has 67 counties. Jacksonville-Duval is a consolidated city-county. Water use permits come from five regional water management districts, not one state agency."
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "slug": "tennessee",
+      "fips": "47",
+      "county_word": "County",
+      "file": "tennessee.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Tennessee Department of Economic and Community Development",
+          "url": "https://www.tn.gov/ecd.html"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.tn.gov/governor.html"
+        },
+        "utility_regulator": {
+          "name": "Tennessee Public Utility Commission",
+          "url": "https://www.tn.gov/tpuc.html"
+        },
+        "environment_agency": {
+          "name": "Tennessee Department of Environment and Conservation",
+          "url": "https://www.tn.gov/environment.html"
+        },
+        "water_agency": {
+          "name": "Tennessee Department of Environment and Conservation, Division of Water Resources",
+          "url": "https://www.tn.gov/environment.html"
+        },
+        "legislature": {
+          "name": "Tennessee General Assembly",
+          "url": "https://www.capitol.tn.gov/"
+        },
+        "revenue": {
+          "name": "Tennessee Department of Revenue",
+          "url": "https://www.tn.gov/revenue.html"
+        }
+      },
+      "records_law": {
+        "name": "Tennessee Public Records Act",
+        "cite": "Tenn. Code Ann. § 10-7-501 et seq.",
+        "deadline": "promptly; if not practicable, within 7 business days to grant, deny in writing, or give a time estimate",
+        "deadline_cite": "Tenn. Code Ann. § 10-7-503(a)(2)(B)",
+        "who_can_ask": "citizens of Tennessee (ID may be required)"
+      },
+      "local_news": [
+        "The Tennessean",
+        "Tennessee Lookout",
+        "Knoxville News Sentinel",
+        "The Commercial Appeal",
+        "Chattanooga Times Free Press",
+        "Nashville Business Journal",
+        "WPLN",
+        "Nashville Banner",
+        "Memphis Business Journal"
+      ],
+      "county_note": "Nashville-Davidson, Lynchburg-Moore and Hartsville-Trousdale are consolidated city-county governments. Much of the grid is run by the federal TVA through local power companies, not the state utility commission."
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "slug": "kentucky",
+      "fips": "21",
+      "county_word": "County",
+      "file": "kentucky.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Kentucky Cabinet for Economic Development",
+          "url": "https://ced.ky.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.ky.gov/"
+        },
+        "utility_regulator": {
+          "name": "Kentucky Public Service Commission",
+          "url": "https://psc.ky.gov/"
+        },
+        "environment_agency": {
+          "name": "Kentucky Energy and Environment Cabinet",
+          "url": "https://eec.ky.gov/"
+        },
+        "water_agency": {
+          "name": "Kentucky Energy and Environment Cabinet, Division of Water",
+          "url": "https://eec.ky.gov/Environmental-Protection/Water/"
+        },
+        "legislature": {
+          "name": "Kentucky General Assembly",
+          "url": "https://legislature.ky.gov/"
+        },
+        "revenue": {
+          "name": "Kentucky Department of Revenue",
+          "url": "https://revenue.ky.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Kentucky Open Records Act",
+        "cite": "KRS 61.870 to 61.884",
+        "deadline": "3 business days (excluding Saturdays, Sundays and legal holidays) to respond in writing",
+        "deadline_cite": "KRS 61.880(1)",
+        "who_can_ask": "any Kentucky resident, as defined in KRS 61.870 (includes people who work in Kentucky, own property there, and news organizations)"
+      },
+      "local_news": [
+        "Courier Journal",
+        "Lexington Herald-Leader",
+        "Kentucky Lantern",
+        "WFPL",
+        "Louisville Business First",
+        "Lane Report",
+        "Bowling Green Daily News",
+        "Paducah Sun",
+        "Ashland Daily Independent",
+        "Kentucky Public Radio"
+      ],
+      "county_note": "Louisville-Jefferson County and Lexington-Fayette are merged city-county governments."
+    },
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "slug": "alabama",
+      "fips": "01",
+      "county_word": "County",
+      "file": "alabama.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Alabama Department of Commerce",
+          "url": "https://www.madeinalabama.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Alabama",
+          "url": "https://governor.alabama.gov/"
+        },
+        "utility_regulator": {
+          "name": "Alabama Public Service Commission",
+          "url": "https://psc.alabama.gov/"
+        },
+        "environment_agency": {
+          "name": "Alabama Department of Environmental Management",
+          "url": "https://www.adem.alabama.gov/"
+        },
+        "water_agency": {
+          "name": "Alabama Office of Water Resources (ADECA)",
+          "url": "https://adeca.alabama.gov/owr/"
+        },
+        "legislature": {
+          "name": "Alabama Legislature",
+          "url": "https://alison.legislature.state.al.us/"
+        },
+        "revenue": {
+          "name": "Alabama Department of Revenue",
+          "url": "https://www.revenue.alabama.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Alabama Open Records Act (Public Records Law)",
+        "cite": "Ala. Code § 36-12-40 et seq.",
+        "deadline": "Acknowledge within 10 days; substantive response within 15 business days of acknowledging (standard request); 45 business days for time-intensive requests",
+        "deadline_cite": "Ala. Code § 36-12-44 (added by SB 270, 2024, effective Oct. 1, 2024)",
+        "who_can_ask": "any resident (an individual permanently domiciled in Alabama, shown by reasonable proof of residency)"
+      },
+      "local_news": [
+        "AL.com",
+        "Alabama Reflector",
+        "Montgomery Advertiser",
+        "Birmingham Business Journal",
+        "Alabama Daily News",
+        "The Decatur Daily",
+        "WSFA",
+        "The Tuscaloosa News"
+      ]
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "slug": "arkansas",
+      "fips": "05",
+      "county_word": "County",
+      "file": "arkansas.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Arkansas Economic Development Commission",
+          "url": "https://www.arkansasedc.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Arkansas",
+          "url": "https://governor.arkansas.gov/"
+        },
+        "utility_regulator": {
+          "name": "Arkansas Public Service Commission",
+          "url": "https://apsc.arkansas.gov/"
+        },
+        "environment_agency": {
+          "name": "Arkansas Division of Environmental Quality",
+          "url": "https://www.adeq.state.ar.us/"
+        },
+        "water_agency": {
+          "name": "Arkansas Department of Agriculture, Natural Resources Division",
+          "url": "https://agriculture.arkansas.gov/natural-resources/"
+        },
+        "legislature": {
+          "name": "Arkansas State Legislature",
+          "url": "https://www.arkleg.state.ar.us/"
+        },
+        "revenue": {
+          "name": "Arkansas Department of Finance and Administration",
+          "url": "https://www.dfa.arkansas.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Arkansas Freedom of Information Act",
+        "cite": "Ark. Code Ann. § 25-19-101 et seq.",
+        "deadline": "Available immediately; if a record is in active use or storage, the custodian must certify that in writing and set a date and hour within 3 working days",
+        "deadline_cite": "Ark. Code Ann. § 25-19-105(e)",
+        "who_can_ask": "any citizen of the State of Arkansas"
+      },
+      "local_news": [
+        "Arkansas Democrat-Gazette",
+        "Arkansas Advocate",
+        "Arkansas Business",
+        "Talk Business & Politics",
+        "KARK",
+        "THV11",
+        "Arkansas Times",
+        "KUAR"
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "slug": "texas",
+      "fips": "48",
+      "county_word": "County",
+      "file": "texas.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Office of the Governor, Economic Development and Tourism",
+          "url": "https://gov.texas.gov/business"
+        },
+        "governor_news": {
+          "name": "Office of the Texas Governor",
+          "url": "https://gov.texas.gov/"
+        },
+        "utility_regulator": {
+          "name": "Public Utility Commission of Texas",
+          "url": "https://www.puc.texas.gov/"
+        },
+        "environment_agency": {
+          "name": "Texas Commission on Environmental Quality",
+          "url": "https://www.tceq.texas.gov/"
+        },
+        "water_agency": {
+          "name": "Texas Commission on Environmental Quality (surface water rights)",
+          "url": "https://www.tceq.texas.gov/"
+        },
+        "legislature": {
+          "name": "Texas Legislature Online",
+          "url": "https://capitol.texas.gov/"
+        },
+        "revenue": {
+          "name": "Texas Comptroller of Public Accounts",
+          "url": "https://comptroller.texas.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Texas Public Information Act",
+        "cite": "Tex. Gov't Code ch. 552",
+        "deadline": "Promptly (as soon as possible under the circumstances, within a reasonable time, without delay); if not producible within 10 business days, the officer must certify that in writing and set a date and hour within a reasonable time",
+        "deadline_cite": "Tex. Gov't Code § 552.221(a), (d)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "The Texas Tribune",
+        "Houston Chronicle",
+        "The Dallas Morning News",
+        "Austin American-Statesman",
+        "San Antonio Express-News",
+        "Texas Observer",
+        "Houston Public Media",
+        "KUT"
+      ],
+      "county_note": "Texas has 254 counties, the most of any state; groundwater is managed by local groundwater conservation districts, not the state."
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "slug": "oklahoma",
+      "fips": "40",
+      "county_word": "County",
+      "file": "oklahoma.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Oklahoma Department of Commerce",
+          "url": "https://www.okcommerce.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Oklahoma",
+          "url": "https://oklahoma.gov/governor.html"
+        },
+        "utility_regulator": {
+          "name": "Oklahoma Corporation Commission",
+          "url": "https://oklahoma.gov/occ.html"
+        },
+        "environment_agency": {
+          "name": "Oklahoma Department of Environmental Quality",
+          "url": "https://oklahoma.gov/deq.html"
+        },
+        "water_agency": {
+          "name": "Oklahoma Water Resources Board",
+          "url": "https://www.owrb.ok.gov/"
+        },
+        "legislature": {
+          "name": "Oklahoma State Legislature",
+          "url": "https://www.oklegislature.gov/"
+        },
+        "revenue": {
+          "name": "Oklahoma Tax Commission",
+          "url": "https://oklahoma.gov/tax.html"
+        }
+      },
+      "records_law": {
+        "name": "Oklahoma Open Records Act",
+        "cite": "51 O.S. § 24A.1 et seq.",
+        "deadline": "Prompt, reasonable access during regular business hours (no fixed number of days)",
+        "deadline_cite": "51 O.S. § 24A.5(6)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "The Oklahoman",
+        "Oklahoma Voice",
+        "Tulsa World",
+        "NonDoc",
+        "The Journal Record",
+        "Oklahoma Watch",
+        "KOSU",
+        "KOCO"
+      ]
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "slug": "new-mexico",
+      "fips": "35",
+      "county_word": "County",
+      "file": "new-mexico.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "New Mexico Economic Development Department",
+          "url": "https://edd.newmexico.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of New Mexico",
+          "url": "https://www.governor.state.nm.us/"
+        },
+        "utility_regulator": {
+          "name": "New Mexico Public Regulation Commission",
+          "url": "https://www.prc.nm.gov/"
+        },
+        "environment_agency": {
+          "name": "New Mexico Environment Department",
+          "url": "https://www.env.nm.gov/"
+        },
+        "water_agency": {
+          "name": "New Mexico Office of the State Engineer",
+          "url": "https://www.ose.nm.gov/"
+        },
+        "legislature": {
+          "name": "New Mexico Legislature",
+          "url": "https://www.nmlegis.gov/"
+        },
+        "revenue": {
+          "name": "New Mexico Taxation and Revenue Department",
+          "url": "https://www.tax.newmexico.gov/"
+        }
+      },
+      "records_law": {
+        "name": "New Mexico Inspection of Public Records Act (IPRA)",
+        "cite": "NMSA 1978, §§ 14-2-1 to 14-2-12",
+        "deadline": "Immediately or as soon as practicable, no later than 15 calendar days; if not permitted within 3 business days, written explanation of when records will be available",
+        "deadline_cite": "NMSA 1978, § 14-2-8",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Albuquerque Journal",
+        "Santa Fe New Mexican",
+        "Source NM",
+        "Searchlight New Mexico",
+        "Albuquerque Business First",
+        "KOB",
+        "KRQE",
+        "Las Cruces Sun-News"
+      ]
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "slug": "ohio",
+      "fips": "39",
+      "county_word": "County",
+      "file": "ohio.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Ohio Department of Development",
+          "url": "https://development.ohio.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.ohio.gov/"
+        },
+        "utility_regulator": {
+          "name": "Public Utilities Commission of Ohio",
+          "url": "https://puco.ohio.gov/"
+        },
+        "environment_agency": {
+          "name": "Ohio Environmental Protection Agency",
+          "url": "https://epa.ohio.gov/"
+        },
+        "water_agency": {
+          "name": "Ohio Department of Natural Resources, Division of Water Resources",
+          "url": "https://ohiodnr.gov/"
+        },
+        "legislature": {
+          "name": "Ohio General Assembly",
+          "url": "https://legislature.ohio.gov/"
+        },
+        "revenue": {
+          "name": "Ohio Department of Taxation",
+          "url": "https://tax.ohio.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Ohio Public Records Act",
+        "cite": "Ohio Rev. Code § 149.43",
+        "deadline": "promptly (records \"promptly prepared and made available\"; copies \"within a reasonable period of time\")",
+        "deadline_cite": "Ohio Rev. Code § 149.43(B)(1)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Columbus Dispatch",
+        "Cleveland Plain Dealer / cleveland.com",
+        "Cincinnati Enquirer",
+        "Ohio Capital Journal",
+        "Signal Ohio",
+        "Statehouse News Bureau",
+        "Dayton Daily News",
+        "Toledo Blade",
+        "Crain's Cleveland Business",
+        "Columbus Business First"
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "slug": "indiana",
+      "fips": "18",
+      "county_word": "County",
+      "file": "indiana.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Indiana Economic Development Corporation",
+          "url": "https://iedc.in.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.in.gov/gov/"
+        },
+        "utility_regulator": {
+          "name": "Indiana Utility Regulatory Commission",
+          "url": "https://www.in.gov/iurc/"
+        },
+        "environment_agency": {
+          "name": "Indiana Department of Environmental Management",
+          "url": "https://www.in.gov/idem/"
+        },
+        "water_agency": {
+          "name": "Indiana Department of Natural Resources, Division of Water",
+          "url": "https://www.in.gov/dnr/water/"
+        },
+        "legislature": {
+          "name": "Indiana General Assembly",
+          "url": "https://iga.in.gov/"
+        },
+        "revenue": {
+          "name": "Indiana Department of Revenue",
+          "url": "https://www.in.gov/dor/"
+        }
+      },
+      "records_law": {
+        "name": "Indiana Access to Public Records Act",
+        "cite": "Ind. Code § 5-14-3-1 et seq.",
+        "deadline": "7 days to respond to a mailed or faxed request; the law sets no deadline for producing the records (a reasonable time, per Public Access Counselor opinions)",
+        "deadline_cite": "Ind. Code § 5-14-3-9(b)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Indianapolis Star",
+        "Indiana Capital Chronicle",
+        "WFYI",
+        "Indiana Public Media",
+        "Indianapolis Business Journal",
+        "Fort Wayne Journal Gazette",
+        "South Bend Tribune",
+        "Evansville Courier & Press",
+        "Mirror Indy"
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "slug": "illinois",
+      "fips": "17",
+      "county_word": "County",
+      "file": "illinois.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Illinois Department of Commerce and Economic Opportunity",
+          "url": "https://dceo.illinois.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://gov.illinois.gov/"
+        },
+        "utility_regulator": {
+          "name": "Illinois Commerce Commission",
+          "url": "https://icc.illinois.gov/"
+        },
+        "environment_agency": {
+          "name": "Illinois Environmental Protection Agency",
+          "url": "https://epa.illinois.gov/"
+        },
+        "water_agency": {
+          "name": "Illinois Department of Natural Resources, Office of Water Resources",
+          "url": "https://dnr.illinois.gov/"
+        },
+        "legislature": {
+          "name": "Illinois General Assembly",
+          "url": "https://www.ilga.gov/"
+        },
+        "revenue": {
+          "name": "Illinois Department of Revenue",
+          "url": "https://tax.illinois.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Illinois Freedom of Information Act",
+        "cite": "5 ILCS 140/1 et seq.",
+        "deadline": "5 business days (one 5-business-day extension allowed for listed reasons)",
+        "deadline_cite": "5 ILCS 140/3(d), (e)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Chicago Tribune",
+        "Chicago Sun-Times",
+        "Capitol News Illinois",
+        "WBEZ",
+        "Crain's Chicago Business",
+        "The State Journal-Register",
+        "Peoria Journal Star",
+        "Daily Herald",
+        "Belleville News-Democrat",
+        "Illinois Answers Project"
+      ]
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "slug": "michigan",
+      "fips": "26",
+      "county_word": "County",
+      "file": "michigan.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Michigan Economic Development Corporation",
+          "url": "https://www.michiganbusiness.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.michigan.gov/whitmer"
+        },
+        "utility_regulator": {
+          "name": "Michigan Public Service Commission",
+          "url": "https://www.michigan.gov/mpsc"
+        },
+        "environment_agency": {
+          "name": "Michigan Department of Environment, Great Lakes, and Energy",
+          "url": "https://www.michigan.gov/egle"
+        },
+        "water_agency": {
+          "name": "Michigan Department of Environment, Great Lakes, and Energy, Water Resources Division",
+          "url": "https://www.michigan.gov/egle"
+        },
+        "legislature": {
+          "name": "Michigan Legislature",
+          "url": "https://www.legislature.mi.gov/"
+        },
+        "revenue": {
+          "name": "Michigan Department of Treasury",
+          "url": "https://www.michigan.gov/treasury"
+        }
+      },
+      "records_law": {
+        "name": "Michigan Freedom of Information Act",
+        "cite": "Mich. Comp. Laws § 15.231 et seq.",
+        "deadline": "5 business days (one extension of up to 10 business days allowed)",
+        "deadline_cite": "Mich. Comp. Laws § 15.235(2)",
+        "who_can_ask": "any person (except a person serving a sentence in a state or local correctional facility)"
+      },
+      "local_news": [
+        "Detroit Free Press",
+        "Detroit News",
+        "Bridge Michigan",
+        "Michigan Advance",
+        "Michigan Public",
+        "Crain's Detroit Business",
+        "MLive",
+        "Planet Detroit",
+        "Lansing State Journal",
+        "Traverse City Record-Eagle"
+      ]
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "slug": "wisconsin",
+      "fips": "55",
+      "county_word": "County",
+      "file": "wisconsin.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Wisconsin Economic Development Corporation",
+          "url": "https://wedc.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://evers.wi.gov/"
+        },
+        "utility_regulator": {
+          "name": "Public Service Commission of Wisconsin",
+          "url": "https://psc.wi.gov/"
+        },
+        "environment_agency": {
+          "name": "Wisconsin Department of Natural Resources",
+          "url": "https://dnr.wisconsin.gov/"
+        },
+        "water_agency": {
+          "name": "Wisconsin Department of Natural Resources, Water Use Program",
+          "url": "https://dnr.wisconsin.gov/"
+        },
+        "legislature": {
+          "name": "Wisconsin State Legislature",
+          "url": "https://legis.wisconsin.gov/"
+        },
+        "revenue": {
+          "name": "Wisconsin Department of Revenue",
+          "url": "https://www.revenue.wi.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Wisconsin Public Records Law",
+        "cite": "Wis. Stat. §§ 19.31-19.39",
+        "deadline": "as soon as practicable and without delay",
+        "deadline_cite": "Wis. Stat. § 19.35(4)(a)",
+        "who_can_ask": "any requester (an incarcerated person has narrower rights)"
+      },
+      "local_news": [
+        "Milwaukee Journal Sentinel",
+        "Wisconsin State Journal",
+        "WPR (Wisconsin Public Radio)",
+        "Wisconsin Watch",
+        "WisPolitics",
+        "Wisconsin Examiner",
+        "Milwaukee Business Journal",
+        "Green Bay Press-Gazette",
+        "Capital Times",
+        "Urban Milwaukee"
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "slug": "minnesota",
+      "fips": "27",
+      "county_word": "County",
+      "file": "minnesota.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Minnesota Department of Employment and Economic Development",
+          "url": "https://mn.gov/deed/"
+        },
+        "governor_news": {
+          "name": "Office of Governor Tim Walz and Lt. Governor Peggy Flanagan",
+          "url": "https://mn.gov/governor/"
+        },
+        "utility_regulator": {
+          "name": "Minnesota Public Utilities Commission",
+          "url": "https://mn.gov/puc/"
+        },
+        "environment_agency": {
+          "name": "Minnesota Pollution Control Agency",
+          "url": "https://www.pca.state.mn.us/"
+        },
+        "water_agency": {
+          "name": "Minnesota Department of Natural Resources (water appropriation permits)",
+          "url": "https://www.dnr.state.mn.us/"
+        },
+        "legislature": {
+          "name": "Minnesota Legislature",
+          "url": "https://www.leg.mn.gov/"
+        },
+        "revenue": {
+          "name": "Minnesota Department of Revenue",
+          "url": "https://www.revenue.state.mn.us/"
+        }
+      },
+      "records_law": {
+        "name": "Minnesota Government Data Practices Act",
+        "cite": "Minn. Stat. ch. 13",
+        "deadline": "no fixed number of days; entities must respond in an \"appropriate and prompt manner\"; copies \"as soon as reasonably possible\"",
+        "deadline_cite": "Minn. Stat. § 13.03, subd. 2(a) and subd. 3(c)",
+        "who_can_ask": "anyone (\"a person\")"
+      },
+      "local_news": [
+        "Star Tribune",
+        "Minnesota Reformer",
+        "MinnPost",
+        "MPR News",
+        "Pioneer Press",
+        "Duluth News Tribune",
+        "Post Bulletin",
+        "Sahan Journal",
+        "Finance & Commerce",
+        "KSTP"
+      ]
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "slug": "iowa",
+      "fips": "19",
+      "county_word": "County",
+      "file": "iowa.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Iowa Economic Development Authority",
+          "url": "https://www.iowaeda.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Iowa",
+          "url": "https://governor.iowa.gov/"
+        },
+        "utility_regulator": {
+          "name": "Iowa Utilities Commission",
+          "url": "https://iuc.iowa.gov/"
+        },
+        "environment_agency": {
+          "name": "Iowa Department of Natural Resources",
+          "url": "https://www.iowadnr.gov/"
+        },
+        "water_agency": {
+          "name": "Iowa Department of Natural Resources (water use permits)",
+          "url": "https://www.iowadnr.gov/"
+        },
+        "legislature": {
+          "name": "Iowa Legislature",
+          "url": "https://www.legis.iowa.gov/"
+        },
+        "revenue": {
+          "name": "Iowa Department of Revenue",
+          "url": "https://revenue.iowa.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Iowa Open Records Law",
+        "cite": "Iowa Code ch. 22",
+        "deadline": "no fixed number of days; any delay must be good-faith and reasonable. Delay to decide whether a confidential record can be released may not exceed 20 calendar days and ordinarily should not exceed 10 business days",
+        "deadline_cite": "Iowa Code § 22.8(4)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Des Moines Register",
+        "Iowa Capital Dispatch",
+        "The Gazette (Cedar Rapids)",
+        "Quad-City Times",
+        "Sioux City Journal",
+        "Waterloo-Cedar Falls Courier",
+        "Iowa Public Radio",
+        "Axios Des Moines",
+        "Business Record",
+        "Iowa Starting Line"
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "slug": "missouri",
+      "fips": "29",
+      "county_word": "County",
+      "file": "missouri.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Missouri Department of Economic Development",
+          "url": "https://ded.mo.gov/"
+        },
+        "governor_news": {
+          "name": "Office of Missouri Governor",
+          "url": "https://governor.mo.gov/"
+        },
+        "utility_regulator": {
+          "name": "Missouri Public Service Commission",
+          "url": "https://psc.mo.gov/"
+        },
+        "environment_agency": {
+          "name": "Missouri Department of Natural Resources",
+          "url": "https://dnr.mo.gov/"
+        },
+        "water_agency": {
+          "name": "Missouri Department of Natural Resources (Water Resources Center)",
+          "url": "https://dnr.mo.gov/"
+        },
+        "legislature": {
+          "name": "Missouri General Assembly",
+          "url": "https://www.moga.mo.gov/"
+        },
+        "revenue": {
+          "name": "Missouri Department of Revenue",
+          "url": "https://dor.mo.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Missouri Sunshine Law",
+        "cite": "Mo. Rev. Stat. ch. 610 (§ 610.010 et seq.)",
+        "deadline": "3 business days",
+        "deadline_cite": "Mo. Rev. Stat. § 610.023.3",
+        "who_can_ask": "anyone"
+      },
+      "local_news": [
+        "St. Louis Post-Dispatch",
+        "Kansas City Star",
+        "The Missouri Independent",
+        "St. Louis Public Radio",
+        "KCUR",
+        "Springfield News-Leader",
+        "Columbia Missourian",
+        "Missouri Times",
+        "St. Louis Business Journal",
+        "Kansas City Business Journal"
+      ],
+      "county_note": "St. Louis city is an independent city that belongs to no county, and St. Louis County is a separate county. Kansas City spans parts of Jackson, Clay, Platte and Cass counties."
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "slug": "kansas",
+      "fips": "20",
+      "county_word": "County",
+      "file": "kansas.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Kansas Department of Commerce",
+          "url": "https://www.kansascommerce.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Kansas",
+          "url": "https://www.governor.ks.gov/"
+        },
+        "utility_regulator": {
+          "name": "Kansas Corporation Commission",
+          "url": "https://kcc.ks.gov/"
+        },
+        "environment_agency": {
+          "name": "Kansas Department of Health and Environment",
+          "url": "https://www.kdhe.ks.gov/"
+        },
+        "water_agency": {
+          "name": "Kansas Department of Agriculture, Division of Water Resources",
+          "url": "https://agriculture.ks.gov/dwr"
+        },
+        "legislature": {
+          "name": "Kansas Legislature",
+          "url": "https://www.kslegislature.gov/"
+        },
+        "revenue": {
+          "name": "Kansas Department of Revenue",
+          "url": "https://www.ksrevenue.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Kansas Open Records Act",
+        "cite": "K.S.A. 45-215 et seq.",
+        "deadline": "3 business days",
+        "deadline_cite": "K.S.A. 45-218(d)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Kansas City Star",
+        "Wichita Eagle",
+        "Topeka Capital-Journal",
+        "Kansas Reflector",
+        "KCUR",
+        "Kansas News Service",
+        "Lawrence Journal-World",
+        "Salina Journal",
+        "Hutchinson News",
+        "Wichita Business Journal"
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "slug": "nebraska",
+      "fips": "31",
+      "county_word": "County",
+      "file": "nebraska.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Nebraska Department of Economic Development",
+          "url": "https://opportunity.nebraska.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor of Nebraska",
+          "url": "https://governor.nebraska.gov/"
+        },
+        "utility_regulator": {
+          "name": "Nebraska Public Service Commission",
+          "url": "https://psc.nebraska.gov/"
+        },
+        "environment_agency": {
+          "name": "Nebraska Department of Water, Energy, and Environment",
+          "url": "https://dwee.nebraska.gov/"
+        },
+        "water_agency": {
+          "name": "Nebraska Department of Water, Energy, and Environment",
+          "url": "https://dwee.nebraska.gov/"
+        },
+        "legislature": {
+          "name": "Nebraska Legislature",
+          "url": "https://nebraskalegislature.gov/"
+        },
+        "revenue": {
+          "name": "Nebraska Department of Revenue",
+          "url": "https://revenue.nebraska.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Nebraska Public Records Statutes",
+        "cite": "Neb. Rev. Stat. §§ 84-712 to 84-712.09",
+        "deadline": "4 business days",
+        "deadline_cite": "Neb. Rev. Stat. § 84-712(4)",
+        "who_can_ask": "citizens of Nebraska and other persons interested in examining the records"
+      },
+      "local_news": [
+        "Omaha World-Herald",
+        "Lincoln Journal Star",
+        "Nebraska Examiner",
+        "Nebraska Public Media",
+        "Flatwater Free Press",
+        "Grand Island Independent",
+        "Kearney Hub",
+        "Scottsbluff Star-Herald",
+        "Omaha Daily Record",
+        "KETV"
+      ]
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "slug": "north-dakota",
+      "fips": "38",
+      "county_word": "County",
+      "file": "north-dakota.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "North Dakota Department of Commerce",
+          "url": "https://www.commerce.nd.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.governor.nd.gov/"
+        },
+        "utility_regulator": {
+          "name": "North Dakota Public Service Commission",
+          "url": "https://www.psc.nd.gov/"
+        },
+        "environment_agency": {
+          "name": "North Dakota Department of Environmental Quality",
+          "url": "https://deq.nd.gov/"
+        },
+        "water_agency": {
+          "name": "North Dakota Department of Water Resources (State Engineer)",
+          "url": "https://www.swc.nd.gov/"
+        },
+        "legislature": {
+          "name": "North Dakota Legislative Branch",
+          "url": "https://ndlegis.gov/"
+        },
+        "revenue": {
+          "name": "North Dakota Office of State Tax Commissioner",
+          "url": "https://www.tax.nd.gov/"
+        }
+      },
+      "records_law": {
+        "name": "North Dakota Open Records Law",
+        "cite": "N.D.C.C. § 44-04-18 et seq.",
+        "deadline": "no fixed number of days; the law says a record may not be \"unreasonably delayed\"",
+        "deadline_cite": "N.D.C.C. § 44-04-18(8)",
+        "who_can_ask": "anyone; the agency may not ask who you are or why you want the records (§ 44-04-18(2))"
+      },
+      "local_news": [
+        "Bismarck Tribune",
+        "Grand Forks Herald",
+        "The Forum of Fargo-Moorhead",
+        "North Dakota Monitor",
+        "Prairie Public",
+        "Minot Daily News",
+        "Williston Herald",
+        "The Dickinson Press",
+        "KFYR-TV",
+        "Jamestown Sun"
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "slug": "south-dakota",
+      "fips": "46",
+      "county_word": "County",
+      "file": "south-dakota.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "South Dakota Governor's Office of Economic Development",
+          "url": "https://sdgoed.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.sd.gov/"
+        },
+        "utility_regulator": {
+          "name": "South Dakota Public Utilities Commission",
+          "url": "https://puc.sd.gov/"
+        },
+        "environment_agency": {
+          "name": "South Dakota Department of Agriculture and Natural Resources",
+          "url": "https://danr.sd.gov/"
+        },
+        "water_agency": {
+          "name": "South Dakota Department of Agriculture and Natural Resources, Water Rights Program",
+          "url": "https://danr.sd.gov/OfficeOfWater/WaterRights/default.aspx"
+        },
+        "legislature": {
+          "name": "South Dakota Legislature",
+          "url": "https://sdlegislature.gov/"
+        },
+        "revenue": {
+          "name": "South Dakota Department of Revenue",
+          "url": "https://dor.sd.gov/"
+        }
+      },
+      "records_law": {
+        "name": "South Dakota Open Records Law",
+        "cite": "SDCL 1-27-1 et seq.",
+        "deadline": "10 business days for a written request (a records officer may instead acknowledge and estimate more time); silence past 10 days is treated as a denial",
+        "deadline_cite": "SDCL 1-27-37",
+        "who_can_ask": "any citizen of the state and any other person interested in the records (SDCL 1-27-1)"
+      },
+      "local_news": [
+        "South Dakota Searchlight",
+        "Argus Leader",
+        "Rapid City Journal",
+        "South Dakota Public Broadcasting",
+        "Aberdeen American News",
+        "Watertown Public Opinion",
+        "Mitchell Republic",
+        "KELO-TV",
+        "Brookings Register",
+        "Dakota News Now"
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "slug": "montana",
+      "fips": "30",
+      "county_word": "County",
+      "file": "montana.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Montana Department of Commerce",
+          "url": "https://commerce.mt.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.mt.gov/"
+        },
+        "utility_regulator": {
+          "name": "Montana Public Service Commission",
+          "url": "https://psc.mt.gov/"
+        },
+        "environment_agency": {
+          "name": "Montana Department of Environmental Quality",
+          "url": "https://deq.mt.gov/"
+        },
+        "water_agency": {
+          "name": "Montana Department of Natural Resources and Conservation",
+          "url": "https://dnrc.mt.gov/"
+        },
+        "legislature": {
+          "name": "Montana Legislature",
+          "url": "https://www.legmt.gov/"
+        },
+        "revenue": {
+          "name": "Montana Department of Revenue",
+          "url": "https://revenue.mt.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Montana Right to Know and Public Records law",
+        "cite": "Mont. Const. art. II, § 9; MCA § 2-6-1001 et seq.",
+        "deadline": "State agencies: acknowledge within 5 business days, and a single readily available record within 5 working days of acknowledgment. Local governments: respond \"in a timely manner\" (no fixed number of days)",
+        "deadline_cite": "MCA § 2-6-1006(2) and (3)",
+        "who_can_ask": "every person (MCA § 2-6-1003(1))"
+      },
+      "local_news": [
+        "Montana Free Press",
+        "Daily Montanan",
+        "Billings Gazette",
+        "Missoulian",
+        "Bozeman Daily Chronicle",
+        "Great Falls Tribune",
+        "Montana Public Radio",
+        "Helena Independent Record",
+        "The Montana Standard",
+        "Flathead Beacon"
+      ],
+      "county_note": "Montana has two consolidated city-counties, Anaconda-Deer Lodge County and Butte-Silver Bow, in addition to its other counties."
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "fips": "56",
+      "county_word": "County",
+      "file": "wyoming.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Wyoming Business Council",
+          "url": "https://wyomingbusiness.org/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.wyo.gov/"
+        },
+        "utility_regulator": {
+          "name": "Wyoming Public Service Commission",
+          "url": "https://psc.wyo.gov/"
+        },
+        "environment_agency": {
+          "name": "Wyoming Department of Environmental Quality",
+          "url": "https://deq.wyoming.gov/"
+        },
+        "water_agency": {
+          "name": "Wyoming State Engineer's Office",
+          "url": "https://seo.wyo.gov/"
+        },
+        "legislature": {
+          "name": "Wyoming Legislature",
+          "url": "https://wyoleg.gov/"
+        },
+        "revenue": {
+          "name": "Wyoming Department of Revenue",
+          "url": "https://revenue.wyo.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Wyoming Public Records Act",
+        "cite": "Wyo. Stat. § 16-4-201 et seq.",
+        "deadline": "not later than 30 calendar days from acknowledged receipt (released immediately if readily available; 7 business days to say if records are in storage or held by another body); a later date needs good cause",
+        "deadline_cite": "Wyo. Stat. § 16-4-202(c)(i)-(iv)",
+        "who_can_ask": "any person (Wyo. Stat. § 16-4-202(a))"
+      },
+      "local_news": [
+        "WyoFile",
+        "Cowboy State Daily",
+        "Casper Star-Tribune",
+        "Wyoming Tribune Eagle",
+        "Wyoming Public Media",
+        "Laramie Boomerang",
+        "Gillette News Record",
+        "Jackson Hole News&Guide",
+        "Oil City News",
+        "Buckrail"
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "slug": "colorado",
+      "fips": "08",
+      "county_word": "County",
+      "file": "colorado.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Colorado Office of Economic Development and International Trade",
+          "url": "https://oedit.colorado.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.colorado.gov/governor"
+        },
+        "utility_regulator": {
+          "name": "Colorado Public Utilities Commission",
+          "url": "https://puc.colorado.gov/"
+        },
+        "environment_agency": {
+          "name": "Colorado Department of Public Health and Environment",
+          "url": "https://cdphe.colorado.gov/"
+        },
+        "water_agency": {
+          "name": "Colorado Division of Water Resources (State Engineer)",
+          "url": "https://dwr.colorado.gov/"
+        },
+        "legislature": {
+          "name": "Colorado General Assembly",
+          "url": "https://leg.colorado.gov/"
+        },
+        "revenue": {
+          "name": "Colorado Department of Revenue, Taxation Division",
+          "url": "https://tax.colorado.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Colorado Open Records Act (CORA)",
+        "cite": "C.R.S. § 24-72-200.1 et seq.",
+        "deadline": "3 working days (the presumed reasonable time), extendable by up to 7 more working days with a written finding of extenuating circumstances",
+        "deadline_cite": "C.R.S. § 24-72-203(3)(b)",
+        "who_can_ask": "any person; the custodian may not require ID (C.R.S. § 24-72-203(1)(a))"
+      },
+      "local_news": [
+        "The Colorado Sun",
+        "The Denver Post",
+        "The Denver Gazette",
+        "CPR News",
+        "Denver Business Journal",
+        "The Gazette (Colorado Springs)",
+        "Boulder Daily Camera",
+        "Fort Collins Coloradoan",
+        "Colorado Newsline",
+        "Pueblo Chieftain",
+        "Grand Junction Daily Sentinel"
+      ],
+      "county_note": "Denver and Broomfield are consolidated city-counties."
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "slug": "utah",
+      "fips": "49",
+      "county_word": "County",
+      "file": "utah.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Utah Governor's Office of Economic Opportunity",
+          "url": "https://business.utah.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.utah.gov/"
+        },
+        "utility_regulator": {
+          "name": "Utah Public Service Commission",
+          "url": "https://psc.utah.gov/"
+        },
+        "environment_agency": {
+          "name": "Utah Department of Environmental Quality",
+          "url": "https://deq.utah.gov/"
+        },
+        "water_agency": {
+          "name": "Utah Division of Water Rights",
+          "url": "https://www.waterrights.utah.gov/"
+        },
+        "legislature": {
+          "name": "Utah State Legislature",
+          "url": "https://le.utah.gov/"
+        },
+        "revenue": {
+          "name": "Utah State Tax Commission",
+          "url": "https://tax.utah.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Government Records Access and Management Act (GRAMA)",
+        "cite": "Utah Code § 63G-2-101 et seq.",
+        "deadline": "as soon as reasonably possible, no more than 10 business days (5 business days for an approved expedited request, such as from media)",
+        "deadline_cite": "Utah Code § 63G-2-204(3)",
+        "who_can_ask": "any person (Utah Code § 63G-2-201(1))"
+      },
+      "local_news": [
+        "The Salt Lake Tribune",
+        "Deseret News",
+        "KSL",
+        "Utah News Dispatch",
+        "KUER",
+        "Daily Herald (Provo)",
+        "Standard-Examiner",
+        "The Park Record",
+        "The Spectrum (St. George)",
+        "Salt Lake City Weekly"
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "slug": "arizona",
+      "fips": "04",
+      "county_word": "County",
+      "file": "arizona.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Arizona Commerce Authority",
+          "url": "https://www.azcommerce.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://azgovernor.gov/"
+        },
+        "utility_regulator": {
+          "name": "Arizona Corporation Commission",
+          "url": "https://azcc.gov/"
+        },
+        "environment_agency": {
+          "name": "Arizona Department of Environmental Quality",
+          "url": "https://azdeq.gov/"
+        },
+        "water_agency": {
+          "name": "Arizona Department of Water Resources",
+          "url": "https://new.azwater.gov/"
+        },
+        "legislature": {
+          "name": "Arizona State Legislature",
+          "url": "https://www.azleg.gov/"
+        },
+        "revenue": {
+          "name": "Arizona Department of Revenue",
+          "url": "https://azdor.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Arizona Public Records Law",
+        "cite": "A.R.S. § 39-121 et seq.",
+        "deadline": "promptly",
+        "deadline_cite": "A.R.S. § 39-121.01",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Arizona Republic",
+        "AZ Mirror",
+        "Phoenix Business Journal",
+        "Arizona Daily Star",
+        "KJZZ",
+        "Cronkite News",
+        "AZ Luminaria",
+        "Tucson Sentinel",
+        "Arizona Daily Sun",
+        "12News"
+      ]
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "slug": "nevada",
+      "fips": "32",
+      "county_word": "County",
+      "file": "nevada.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Governor's Office of Economic Development",
+          "url": "https://goed.nv.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://gov.nv.gov/"
+        },
+        "utility_regulator": {
+          "name": "Public Utilities Commission of Nevada",
+          "url": "https://puc.nv.gov/"
+        },
+        "environment_agency": {
+          "name": "Nevada Division of Environmental Protection",
+          "url": "https://ndep.nv.gov/"
+        },
+        "water_agency": {
+          "name": "Nevada Division of Water Resources",
+          "url": "https://water.nv.gov/"
+        },
+        "legislature": {
+          "name": "Nevada Legislature",
+          "url": "https://www.leg.state.nv.us/"
+        },
+        "revenue": {
+          "name": "Nevada Department of Taxation",
+          "url": "https://tax.nv.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Nevada Public Records Act",
+        "cite": "NRS Chapter 239 (NRS 239.010)",
+        "deadline": "5 business days",
+        "deadline_cite": "NRS 239.0107",
+        "who_can_ask": "any person"
+      },
+      "county_note": "Carson City is an independent consolidated municipality that works as a county; Nevada has 16 counties plus Carson City.",
+      "local_news": [
+        "Las Vegas Review-Journal",
+        "Nevada Independent",
+        "Reno Gazette Journal",
+        "Nevada Current",
+        "KNPR",
+        "Las Vegas Sun",
+        "Nevada Appeal",
+        "This Is Reno",
+        "KTNV",
+        "Elko Daily Free Press"
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "slug": "california",
+      "fips": "06",
+      "county_word": "County",
+      "file": "california.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Governor's Office of Business and Economic Development (GO-Biz)",
+          "url": "https://business.ca.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.gov.ca.gov/"
+        },
+        "utility_regulator": {
+          "name": "California Public Utilities Commission",
+          "url": "https://www.cpuc.ca.gov/"
+        },
+        "environment_agency": {
+          "name": "California Environmental Protection Agency",
+          "url": "https://calepa.ca.gov/"
+        },
+        "water_agency": {
+          "name": "State Water Resources Control Board (Division of Water Rights)",
+          "url": "https://www.waterboards.ca.gov/"
+        },
+        "legislature": {
+          "name": "California Legislative Information",
+          "url": "https://leginfo.legislature.ca.gov/"
+        },
+        "revenue": {
+          "name": "California Department of Tax and Fee Administration",
+          "url": "https://www.cdtfa.ca.gov/"
+        }
+      },
+      "records_law": {
+        "name": "California Public Records Act",
+        "cite": "Cal. Gov. Code § 7920.000 et seq.",
+        "deadline": "10 days to decide whether records are disclosable",
+        "deadline_cite": "Cal. Gov. Code § 7922.535",
+        "who_can_ask": "any person"
+      },
+      "county_note": "San Francisco is a consolidated city and county.",
+      "local_news": [
+        "CalMatters",
+        "Los Angeles Times",
+        "San Francisco Chronicle",
+        "Sacramento Bee",
+        "San Diego Union-Tribune",
+        "KQED",
+        "LAist",
+        "Fresno Bee",
+        "San Jose Mercury News",
+        "Bakersfield Californian"
+      ]
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "slug": "oregon",
+      "fips": "41",
+      "county_word": "County",
+      "file": "oregon.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Business Oregon",
+          "url": "https://www.oregon.gov/biz/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.oregon.gov/gov/"
+        },
+        "utility_regulator": {
+          "name": "Oregon Public Utility Commission",
+          "url": "https://www.oregon.gov/puc/"
+        },
+        "environment_agency": {
+          "name": "Oregon Department of Environmental Quality",
+          "url": "https://www.oregon.gov/deq/"
+        },
+        "water_agency": {
+          "name": "Oregon Water Resources Department",
+          "url": "https://www.oregon.gov/owrd/"
+        },
+        "legislature": {
+          "name": "Oregon Legislature",
+          "url": "https://www.oregonlegislature.gov/"
+        },
+        "revenue": {
+          "name": "Oregon Department of Revenue",
+          "url": "https://www.oregon.gov/dor/"
+        }
+      },
+      "records_law": {
+        "name": "Oregon Public Records Law",
+        "cite": "ORS 192.311 to 192.478",
+        "deadline": "acknowledge within 5 business days; finish within 10 business days after that",
+        "deadline_cite": "ORS 192.324 and ORS 192.329",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "The Oregonian",
+        "Oregon Capital Chronicle",
+        "OPB",
+        "Portland Business Journal",
+        "Willamette Week",
+        "Statesman Journal",
+        "Bend Bulletin",
+        "Salem Reporter",
+        "Lookout Eugene-Springfield",
+        "Oregon Journal of Business"
+      ]
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "slug": "washington",
+      "fips": "53",
+      "county_word": "County",
+      "file": "washington.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Washington State Department of Commerce",
+          "url": "https://www.commerce.wa.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.wa.gov/"
+        },
+        "utility_regulator": {
+          "name": "Washington Utilities and Transportation Commission",
+          "url": "https://www.utc.wa.gov/"
+        },
+        "environment_agency": {
+          "name": "Washington State Department of Ecology",
+          "url": "https://ecology.wa.gov/"
+        },
+        "water_agency": {
+          "name": "Washington State Department of Ecology, Water Resources Program",
+          "url": "https://ecology.wa.gov/"
+        },
+        "legislature": {
+          "name": "Washington State Legislature",
+          "url": "https://leg.wa.gov/"
+        },
+        "revenue": {
+          "name": "Washington State Department of Revenue",
+          "url": "https://dor.wa.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Washington Public Records Act",
+        "cite": "RCW 42.56",
+        "deadline": "5 business days to respond",
+        "deadline_cite": "RCW 42.56.520",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Seattle Times",
+        "Washington State Standard",
+        "KUOW",
+        "Puget Sound Business Journal",
+        "Spokesman-Review",
+        "Tri-City Herald",
+        "Yakima Herald-Republic",
+        "Columbian",
+        "Cascade PBS",
+        "KING 5"
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "slug": "idaho",
+      "fips": "16",
+      "county_word": "County",
+      "file": "idaho.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Idaho Department of Commerce",
+          "url": "https://commerce.idaho.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://gov.idaho.gov/"
+        },
+        "utility_regulator": {
+          "name": "Idaho Public Utilities Commission",
+          "url": "https://puc.idaho.gov/"
+        },
+        "environment_agency": {
+          "name": "Idaho Department of Environmental Quality",
+          "url": "https://www.deq.idaho.gov/"
+        },
+        "water_agency": {
+          "name": "Idaho Department of Water Resources",
+          "url": "https://idwr.idaho.gov/"
+        },
+        "legislature": {
+          "name": "Idaho Legislature",
+          "url": "https://legislature.idaho.gov/"
+        },
+        "revenue": {
+          "name": "Idaho State Tax Commission",
+          "url": "https://tax.idaho.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Idaho Public Records Act",
+        "cite": "Idaho Code § 74-101 et seq.",
+        "deadline": "3 working days for a resident (21 days for a non-resident); up to 10 working days (35 days non-resident) if the agency says in writing it needs longer",
+        "deadline_cite": "Idaho Code § 74-103(2)",
+        "who_can_ask": "any person (Idaho Code § 74-102(1)); request must go to the agency's designated custodian and clearly say it is a public records request"
+      },
+      "local_news": [
+        "Idaho Statesman",
+        "Idaho Capital Sun",
+        "Idaho Press",
+        "Idaho Business Review",
+        "Boise State Public Radio",
+        "Idaho Falls Post Register",
+        "Spokesman-Review",
+        "Idaho State Journal",
+        "KTVB",
+        "Lewiston Tribune",
+        "Magic Valley Times-News"
+      ]
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "slug": "alaska",
+      "fips": "02",
+      "county_word": "Borough",
+      "file": "alaska.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Alaska Department of Commerce, Community, and Economic Development",
+          "url": "https://commerce.alaska.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://gov.alaska.gov/"
+        },
+        "utility_regulator": {
+          "name": "Regulatory Commission of Alaska",
+          "url": "https://rca.alaska.gov/"
+        },
+        "environment_agency": {
+          "name": "Alaska Department of Environmental Conservation",
+          "url": "https://dec.alaska.gov/"
+        },
+        "water_agency": {
+          "name": "Alaska Department of Natural Resources, Division of Mining, Land and Water",
+          "url": "https://dnr.alaska.gov/mlw/water/"
+        },
+        "legislature": {
+          "name": "Alaska State Legislature",
+          "url": "https://www.akleg.gov/"
+        },
+        "revenue": {
+          "name": "Alaska Department of Revenue",
+          "url": "https://dor.alaska.gov/"
+        }
+      },
+      "county_note": "Alaska has no counties: it has 19 organized boroughs (including consolidated city-boroughs such as Anchorage and Juneau) and the Unorganized Borough, which the Census splits into census areas.",
+      "records_law": {
+        "name": "Alaska Public Records Act",
+        "cite": "AS 40.25.100 - 40.25.295",
+        "deadline": "10 working days for an initial response from state executive-branch agencies (one extension of up to 10 more working days with written notice); the statute itself sets no number of days",
+        "deadline_cite": "2 AAC 96.325",
+        "who_can_ask": "any person (AS 40.25.120(a): \"Every person has a right to inspect a public record in the state\")"
+      },
+      "local_news": [
+        "Anchorage Daily News",
+        "Alaska Beacon",
+        "Alaska Public Media",
+        "Juneau Empire",
+        "Fairbanks Daily News-Miner",
+        "Alaska Landmine",
+        "Alaska Business Magazine",
+        "KTUU",
+        "Peninsula Clarion",
+        "Ketchikan Daily News",
+        "Mat-Su Valley Frontiersman"
+      ]
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "slug": "hawaii",
+      "fips": "15",
+      "county_word": "County",
+      "file": "hawaii.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Hawaii Department of Business, Economic Development and Tourism",
+          "url": "https://dbedt.hawaii.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.hawaii.gov/"
+        },
+        "utility_regulator": {
+          "name": "Hawaii Public Utilities Commission",
+          "url": "https://puc.hawaii.gov/"
+        },
+        "environment_agency": {
+          "name": "Hawaii Department of Health, Environmental Health Administration",
+          "url": "https://health.hawaii.gov/"
+        },
+        "water_agency": {
+          "name": "Hawaii Commission on Water Resource Management (DLNR)",
+          "url": "https://dlnr.hawaii.gov/cwrm/"
+        },
+        "legislature": {
+          "name": "Hawaii State Legislature",
+          "url": "https://www.capitol.hawaii.gov/"
+        },
+        "revenue": {
+          "name": "Hawaii Department of Taxation",
+          "url": "https://tax.hawaii.gov/"
+        }
+      },
+      "county_note": "Hawaii has four main counties (Hawaii, Honolulu, Kauai, Maui); Honolulu is a consolidated city and county covering all of Oahu. Kalawao County is a tiny Census county run by the state Department of Health.",
+      "records_law": {
+        "name": "Uniform Information Practices Act (Modified)",
+        "cite": "Haw. Rev. Stat. ch. 92F",
+        "deadline": "10 business days (to disclose a fully public record, or to send a written notice for other records); up to 20 business days for the notice if the agency sends an acknowledgment within 10 business days citing extenuating circumstances",
+        "deadline_cite": "Haw. Admin. Rules § 2-71-13",
+        "who_can_ask": "any person (Haw. Rev. Stat. § 92F-11)"
+      },
+      "local_news": [
+        "Honolulu Star-Advertiser",
+        "Civil Beat",
+        "Hawaii Public Radio",
+        "Pacific Business News",
+        "Hawaii News Now",
+        "Maui News",
+        "Hawaii Tribune-Herald",
+        "West Hawaii Today",
+        "The Garden Island",
+        "KITV",
+        "Hawaii Business Magazine"
+      ]
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "slug": "new-jersey",
+      "fips": "34",
+      "county_word": "County",
+      "file": "new-jersey.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "New Jersey Economic Development Authority",
+          "url": "https://www.njeda.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.nj.gov/governor/"
+        },
+        "utility_regulator": {
+          "name": "New Jersey Board of Public Utilities",
+          "url": "https://www.nj.gov/bpu/"
+        },
+        "environment_agency": {
+          "name": "New Jersey Department of Environmental Protection",
+          "url": "https://dep.nj.gov/"
+        },
+        "water_agency": {
+          "name": "New Jersey Department of Environmental Protection, Division of Water Supply and Geoscience",
+          "url": "https://dep.nj.gov/dwsg/"
+        },
+        "legislature": {
+          "name": "New Jersey Legislature",
+          "url": "https://www.njleg.state.nj.us/"
+        },
+        "revenue": {
+          "name": "New Jersey Division of Taxation",
+          "url": "https://www.nj.gov/treasury/taxation/"
+        }
+      },
+      "records_law": {
+        "name": "Open Public Records Act (OPRA)",
+        "cite": "N.J.S.A. 47:1A-1 et seq.",
+        "deadline": "7 business days (14 business days for commercial-purpose requests)",
+        "deadline_cite": "N.J.S.A. 47:1A-5(i)",
+        "who_can_ask": "any person (N.J.S.A. 47:1A-5(a)); since Sept. 3, 2024 the request form must include the certifications in 47:1A-5(f) and (g)"
+      },
+      "local_news": [
+        "NJ.com",
+        "The Star-Ledger",
+        "NJ Spotlight News",
+        "New Jersey Monitor",
+        "NorthJersey.com",
+        "Asbury Park Press",
+        "Philadelphia Inquirer",
+        "Courier Post",
+        "Press of Atlantic City",
+        "Trentonian",
+        "NJBIZ"
+      ]
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "slug": "new-york",
+      "fips": "36",
+      "county_word": "County",
+      "file": "new-york.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Empire State Development",
+          "url": "https://esd.ny.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.governor.ny.gov/"
+        },
+        "utility_regulator": {
+          "name": "New York State Department of Public Service (Public Service Commission)",
+          "url": "https://dps.ny.gov/"
+        },
+        "environment_agency": {
+          "name": "New York State Department of Environmental Conservation",
+          "url": "https://dec.ny.gov/"
+        },
+        "water_agency": {
+          "name": "New York State Department of Environmental Conservation, Division of Water",
+          "url": "https://dec.ny.gov/"
+        },
+        "legislature": {
+          "name": "New York State Senate",
+          "url": "https://www.nysenate.gov/"
+        },
+        "revenue": {
+          "name": "New York State Department of Taxation and Finance",
+          "url": "https://www.tax.ny.gov/"
+        }
+      },
+      "county_note": "New York City's five boroughs are each a county (Bronx, Kings, New York, Queens, Richmond).",
+      "records_law": {
+        "name": "Freedom of Information Law (FOIL)",
+        "cite": "N.Y. Public Officers Law §§ 84-90",
+        "deadline": "5 business days to grant, deny, or acknowledge in writing with an approximate date; if more time is needed, a decision within 20 business days of the acknowledgment (or a written reason and a date certain)",
+        "deadline_cite": "N.Y. Public Officers Law § 89(3)(a)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Times Union",
+        "Newsday",
+        "Buffalo News",
+        "Democrat and Chronicle",
+        "Syracuse.com",
+        "City & State New York",
+        "Gothamist",
+        "WSKG",
+        "Crain's New York Business",
+        "Spectrum News NY1"
+      ]
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "slug": "connecticut",
+      "fips": "09",
+      "county_word": "County",
+      "file": "connecticut.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Connecticut Department of Economic and Community Development",
+          "url": "https://portal.ct.gov/decd"
+        },
+        "governor_news": {
+          "name": "Office of Governor Ned Lamont",
+          "url": "https://portal.ct.gov/governor"
+        },
+        "utility_regulator": {
+          "name": "Public Utilities Regulatory Authority",
+          "url": "https://portal.ct.gov/pura"
+        },
+        "environment_agency": {
+          "name": "Department of Energy and Environmental Protection",
+          "url": "https://portal.ct.gov/deep"
+        },
+        "water_agency": {
+          "name": "Department of Energy and Environmental Protection (water diversion permits)",
+          "url": "https://portal.ct.gov/deep"
+        },
+        "legislature": {
+          "name": "Connecticut General Assembly",
+          "url": "https://www.cga.ct.gov/"
+        },
+        "revenue": {
+          "name": "Department of Revenue Services",
+          "url": "https://portal.ct.gov/drs"
+        }
+      },
+      "records_law": {
+        "name": "Connecticut Freedom of Information Act",
+        "cite": "Conn. Gen. Stat. § 1-200 et seq.",
+        "deadline": "4 business days to deny in writing; otherwise records must be provided promptly",
+        "deadline_cite": "Conn. Gen. Stat. § 1-206(a); § 1-210(a)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "CT Mirror",
+        "Hartford Courant",
+        "CT Insider",
+        "New Haven Register",
+        "Connecticut Public",
+        "Hartford Business Journal",
+        "The Day (New London)",
+        "Stamford Advocate",
+        "WTNH",
+        "NBC Connecticut"
+      ],
+      "county_note": "Connecticut abolished county government in 1960. Counties survive only as old Census units, and the state now uses 9 planning regions (since 2022) in their place; local government is by 169 towns."
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "slug": "rhode-island",
+      "fips": "44",
+      "county_word": "County",
+      "file": "rhode-island.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Rhode Island Commerce Corporation",
+          "url": "https://commerceri.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.ri.gov/"
+        },
+        "utility_regulator": {
+          "name": "Rhode Island Public Utilities Commission",
+          "url": "https://ripuc.ri.gov/"
+        },
+        "environment_agency": {
+          "name": "Rhode Island Department of Environmental Management",
+          "url": "https://dem.ri.gov/"
+        },
+        "water_agency": {
+          "name": "Rhode Island Water Resources Board",
+          "url": "https://wrb.ri.gov/"
+        },
+        "legislature": {
+          "name": "Rhode Island General Assembly",
+          "url": "https://www.rilegislature.gov/"
+        },
+        "revenue": {
+          "name": "Rhode Island Division of Taxation",
+          "url": "https://tax.ri.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Access to Public Records Act",
+        "cite": "R.I. Gen. Laws § 38-2-1 et seq.",
+        "deadline": "10 business days (may extend by 20 more business days for good cause)",
+        "deadline_cite": "R.I. Gen. Laws § 38-2-7(b)",
+        "who_can_ask": "every person or entity"
+      },
+      "local_news": [
+        "Providence Journal",
+        "Rhode Island Current",
+        "Providence Business News",
+        "The Public's Radio",
+        "WPRI 12",
+        "Newport Daily News",
+        "Valley Breeze",
+        "Boston Globe Rhode Island",
+        "GoLocalProv"
+      ],
+      "county_note": "Rhode Island has 5 counties, but they have no county government. Its 39 cities and towns do the local work."
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "slug": "massachusetts",
+      "fips": "25",
+      "county_word": "County",
+      "file": "massachusetts.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Massachusetts Executive Office of Economic Development",
+          "url": "https://www.mass.gov/orgs/executive-office-of-economic-development"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.mass.gov/orgs/office-of-the-governor"
+        },
+        "utility_regulator": {
+          "name": "Massachusetts Department of Public Utilities",
+          "url": "https://www.mass.gov/orgs/department-of-public-utilities"
+        },
+        "environment_agency": {
+          "name": "Massachusetts Department of Environmental Protection",
+          "url": "https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection"
+        },
+        "water_agency": {
+          "name": "MassDEP Water Management Act Program",
+          "url": "https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection"
+        },
+        "legislature": {
+          "name": "Massachusetts Legislature",
+          "url": "https://malegislature.gov/"
+        },
+        "revenue": {
+          "name": "Massachusetts Department of Revenue",
+          "url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue"
+        }
+      },
+      "records_law": {
+        "name": "Massachusetts Public Records Law",
+        "cite": "M.G.L. c. 66, § 10; c. 4, § 7(26)",
+        "deadline": "10 business days",
+        "deadline_cite": "M.G.L. c. 66, § 10(a)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Boston Globe",
+        "Boston Herald",
+        "MassLive",
+        "CommonWealth Beacon",
+        "WBUR",
+        "GBH News",
+        "Worcester Telegram & Gazette",
+        "Boston Business Journal",
+        "Berkshire Eagle",
+        "Cape Cod Times"
+      ],
+      "county_note": "Several Massachusetts counties (such as Middlesex and Worcester) were abolished as governments and their duties moved to the state; others still run limited services. Cities and towns hold most local power."
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "slug": "vermont",
+      "fips": "50",
+      "county_word": "County",
+      "file": "vermont.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Vermont Agency of Commerce and Community Development",
+          "url": "https://accd.vermont.gov/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://governor.vermont.gov/"
+        },
+        "utility_regulator": {
+          "name": "Vermont Public Utility Commission",
+          "url": "https://puc.vermont.gov/"
+        },
+        "environment_agency": {
+          "name": "Vermont Agency of Natural Resources, Department of Environmental Conservation",
+          "url": "https://dec.vermont.gov/"
+        },
+        "water_agency": {
+          "name": "Vermont Department of Environmental Conservation (water programs)",
+          "url": "https://dec.vermont.gov/"
+        },
+        "legislature": {
+          "name": "Vermont General Assembly",
+          "url": "https://legislature.vermont.gov/"
+        },
+        "revenue": {
+          "name": "Vermont Department of Taxes",
+          "url": "https://tax.vermont.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Vermont Public Records Act",
+        "cite": "1 V.S.A. §§ 315-320",
+        "deadline": "3 business days (may extend up to 10 business days by written notice in unusual circumstances)",
+        "deadline_cite": "1 V.S.A. § 318(a)(2), (5)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "VTDigger",
+        "Seven Days",
+        "Burlington Free Press",
+        "Vermont Public",
+        "Rutland Herald",
+        "Times Argus",
+        "Brattleboro Reformer",
+        "Valley News",
+        "WCAX",
+        "Vermont Business Magazine"
+      ],
+      "county_note": "Vermont has 14 counties, but they have little government role; towns and cities run local affairs. Counties mainly hold courts and sheriffs."
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "slug": "new-hampshire",
+      "fips": "33",
+      "county_word": "County",
+      "file": "new-hampshire.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "New Hampshire Division of Economic Development",
+          "url": "https://www.nheconomy.com/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.governor.nh.gov/"
+        },
+        "utility_regulator": {
+          "name": "New Hampshire Public Utilities Commission",
+          "url": "https://www.puc.nh.gov/"
+        },
+        "environment_agency": {
+          "name": "New Hampshire Department of Environmental Services",
+          "url": "https://www.des.nh.gov/"
+        },
+        "water_agency": {
+          "name": "New Hampshire Department of Environmental Services (water)",
+          "url": "https://www.des.nh.gov/"
+        },
+        "legislature": {
+          "name": "New Hampshire General Court",
+          "url": "https://gc.nh.gov/"
+        },
+        "revenue": {
+          "name": "New Hampshire Department of Revenue Administration",
+          "url": "https://www.revenue.nh.gov/"
+        }
+      },
+      "records_law": {
+        "name": "Right-to-Know Law",
+        "cite": "RSA 91-A",
+        "deadline": "5 business days to produce, deny in writing, or acknowledge with a time estimate",
+        "deadline_cite": "RSA 91-A:4, IV",
+        "who_can_ask": "every citizen (RSA 91-A:4, I); the statute does not define citizen"
+      },
+      "local_news": [
+        "Union Leader",
+        "Concord Monitor",
+        "New Hampshire Bulletin",
+        "NHPR",
+        "Seacoast Online",
+        "Valley News",
+        "InDepthNH",
+        "WMUR",
+        "Nashua Telegraph",
+        "Keene Sentinel"
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "slug": "maine",
+      "fips": "23",
+      "county_word": "County",
+      "file": "maine.json",
+      "added": "2026-10-15",
+      "sources": {
+        "economic_development": {
+          "name": "Maine Department of Economic and Community Development",
+          "url": "https://www.maine.gov/decd/"
+        },
+        "governor_news": {
+          "name": "Office of the Governor",
+          "url": "https://www.maine.gov/governor/"
+        },
+        "utility_regulator": {
+          "name": "Maine Public Utilities Commission",
+          "url": "https://www.maine.gov/mpuc/"
+        },
+        "environment_agency": {
+          "name": "Maine Department of Environmental Protection",
+          "url": "https://www.maine.gov/dep/"
+        },
+        "water_agency": {
+          "name": "Maine Department of Environmental Protection (water and land permits)",
+          "url": "https://www.maine.gov/dep/"
+        },
+        "legislature": {
+          "name": "Maine Legislature",
+          "url": "https://legislature.maine.gov/"
+        },
+        "revenue": {
+          "name": "Maine Revenue Services",
+          "url": "https://www.maine.gov/revenue/"
+        }
+      },
+      "records_law": {
+        "name": "Freedom of Access Act",
+        "cite": "1 M.R.S. § 400 et seq.",
+        "deadline": "Acknowledge within 5 working days; then respond within a reasonable time (good-faith estimate); written denial within 5 working days",
+        "deadline_cite": "1 M.R.S. § 408-A(3), (4)",
+        "who_can_ask": "any person"
+      },
+      "local_news": [
+        "Portland Press Herald",
+        "Bangor Daily News",
+        "Maine Public",
+        "Maine Morning Star",
+        "Lewiston Sun Journal",
+        "Mainebiz",
+        "Kennebec Journal",
+        "WMTW",
+        "The Maine Monitor",
+        "Penobscot Bay Pilot"
+      ]
+    }
+  ]
+}

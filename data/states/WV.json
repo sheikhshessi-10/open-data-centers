@@ -1,0 +1,74 @@
+{
+  "state": "WV",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "High Impact Data Center (HIDC) / certified microgrid program",
+      "law": "HB 2014 (2025), Power Generation and Consumption Act; W. Va. Code 5B-2-21b et seq.; rule 145 CSR 20",
+      "what": "Commerce certifies microgrid districts and high impact data centers. Certified projects get state siting certainty: counties and cities cannot enforce local ordinances against them. Revenue from certified projects is split: 50% to cut the state personal income tax, 30% to the host county, 10% to all other counties, 10% to local water/wastewater/electric upgrades. Developers must pay their own grid and microgrid costs.",
+      "value_known": false,
+      "source": "https://governor.wv.gov/article/governor-morrisey-legislative-leaders-announce-unified-plan-responsible-data-center-0",
+      "date": "2026-08-11"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB 2014 (2025) Power Generation and Consumption Act (certified microgrid and high impact data center program)",
+      "status": "enacted",
+      "what": "Signed April 30, 2025. Creates certified microgrid districts and HIDC certification, bars local governments from enforcing ordinances against certified projects, sends 70% of tax revenue away from the host county.",
+      "source": "https://westvirginiawatch.com/2025/04/30/morrisey-signs-priority-bill-meant-to-incentivize-data-centers-micro-grids-locating-in-wv/",
+      "date": "2025-04-30"
+    },
+    {
+      "name": "HB 4983 (2026) Commerce rule 145 CSR 20 (certification of microgrid districts and high impact data centers)",
+      "status": "enacted",
+      "what": "Rules bundle for HB 2014. House passed 78-16 on 2026-02-17 after rejecting water-transparency and local-control amendments; Senate added non-binding language urging developers to report water sources. The only data center measure passed in the 2026 session.",
+      "source": "https://westvirginiawatch.com/2026/03/26/wv-house-speaker-representing-data-center-linked-developer-in-mason-county-air-permit-appeal-case/",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "2026 bills to add guardrails to HB 2014 (water limits, transparency, local control, 500-ft buffer; Del. Chris Anders and others)",
+      "status": "failed",
+      "what": "None reached a committee agenda; the Dillon-Anders floor amendment to the rules failed 6-87.",
+      "source": "https://westvirginiawatch.com/2026/03/31/empty-promises-residents-lament-lack-of-protections-as-data-center-developments-unfold-across-wv/",
+      "date": "2026-03-31"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "West Virginia (statewide)",
+      "type": "ordinance",
+      "what": "HB 2014 preempts county and municipal ordinances (zoning, noise, public health) for certified microgrid and high impact data center projects, so local moratoriums or zoning cannot apply to them. No county moratorium found.",
+      "status": "in force",
+      "source": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+      "date": "2026-09-08"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "24-0611-E-T-PW",
+      "regulator": "Public Service Commission of West Virginia",
+      "utility": "Appalachian Power / Wheeling Power",
+      "what": "Tariff filing (2024-07-18) revising Schedules LCP and IP for large new loads such as data centers; originally 20-year contracts and 90% minimum demand, with up to 8,000 MW of possible large-load demand. Google intervened (granted 2025-01-10) and opposed. Joint Stipulation filed 2025-01-22 with Google and the West Virginia Energy Users Group: 100 MW minimum per site, 12-year minimum term, 80% minimum purchase. PSC accepted the Joint Stipulation by order of 2025-03-25 and required revised LCP and IP schedules within ten days.",
+      "site_ids": [],
+      "status": "approved (order 2025-03-25 accepting Joint Stipulation)",
+      "url": "https://www.psc.state.wv.us/scripts/WebDocket/viewCaseForWebViewForm.cfm?CaseID=83763",
+      "date": "2025-03-25"
+    },
+    {
+      "id": "26-0108-E-CN",
+      "regulator": "Public Service Commission of West Virginia",
+      "utility": "Monongahela Power / Potomac Edison (FirstEnergy)",
+      "what": "Application (2026-02-13) to build a 1,200 MW combined-cycle gas plant at Fort Martin (Monongalia County, $2.48B) and 70 MW of solar, for a capacity shortfall from 2029, with a surcharge of about 0.9%. Ohio River Valley Institute urges denial and says data center costs must not shift to existing customers; the PSC notice itself does not cite data centers.",
+      "site_ids": [],
+      "status": "public comment hearing 2026-07-15; decision not found",
+      "url": "https://www.psc.state.wv.us/press/2026/Press_20260625090613.pdf",
+      "date": "2026-06-25"
+    }
+  ]
+}

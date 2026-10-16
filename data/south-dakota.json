@@ -1,0 +1,149 @@
+[
+  {
+    "id": "sd-deuel-applied-digital-toronto",
+    "name": "Applied Digital Deuel County AI data center (near Toronto)",
+    "owner": "Applied Digital",
+    "operator": "Applied Digital",
+    "tier": "large",
+    "state": "SD",
+    "county": "Deuel County",
+    "town": "Toronto",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 16000000000,
+        "unit": "USD (up to, as presented to the county)",
+        "kind": "real",
+        "source": "https://www.dakotanewsnow.com/2025/04/17/deuel-county-commission-hears-proposal-multi-billion-dollar-data-center/",
+        "date": "2025-04-16"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://www.dakotanewsnow.com/2025/04/17/deuel-county-commission-hears-proposal-multi-billion-dollar-data-center/",
+        "date": "2025-04-16"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Deuel County Commission hears proposal for multi-billion-dollar data center",
+        "outlet": "Dakota News Now",
+        "url": "https://www.dakotanewsnow.com/2025/04/17/deuel-county-commission-hears-proposal-multi-billion-dollar-data-center/",
+        "date": "2025-04-16",
+        "tone": "neutral"
+      },
+      {
+        "title": "Applied Digital proposes multi-billion-dollar data center in South Dakota",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/applied-digital-proposes-multi-billion-dollar-data-center-in-south-dakota/",
+        "date": "2025-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Proposed east of Toronto. Deuel County had no zoning in place; ordinances were sent to the zoning board. Company said tax policy would decide whether construction proceeds. Current status (2026) not confirmed; the web search budget ran out before checking whether it was dropped. DCD article seen only as a search result."
+  },
+  {
+    "id": "sd-mcpherson-leola-data-center",
+    "name": "Leola Data Center",
+    "owner": "Leola Data Center LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "SD",
+    "county": "McPherson County",
+    "town": "Leola",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-08-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 50,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/politics/articles/state-regulators-county-board-decide-211918814.html",
+        "date": "2026-09-02"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Montana-Dakota Utilities (MDU), assigned as provider in FEM Electric Association's service area by PUC order Sept 11, 2026 (Docket EL24-027); MDU power expected second half of 2027",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://puc.sd.gov/Dockets/Electric/2024/el24-027.aspx",
+        "date": "2026-09-11"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "State regulators, county board decide on Leola data center",
+        "outlet": "KELOLAND (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/politics/articles/state-regulators-county-board-decide-211918814.html",
+        "date": "2026-09-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer Bill Connors (former MDU Resources executive). One-story 120 x 400 ft building at 116th Street and 358th Avenue, about four miles west of Leola. McPherson County Board of Adjustment postponed its Aug 11, 2026 conditional use permit decision pending legal agreements on developer contributions; construction could start fall 2026 if approved. PUC docket EL24-028 is MDU's request for a new data center rate for this project. Owner field is the project LLC."
+  }
+]

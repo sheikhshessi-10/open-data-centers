@@ -1,0 +1,156 @@
+{
+  "state": "AR",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Local property tax abatements (payment-in-lieu agreements)",
+      "law": null,
+      "what": "Cities have offered data centers abatements, e.g., Little Rock and Conway each agreed to forgo 65% of property taxes for 30 years on $1B data center proposals; Clarksville weighed industrial development revenue bonds for Serverfarm.",
+      "value_known": "Not totaled",
+      "source": "https://arkansasadvocate.com/2025/07/30/two-arkansas-cities-chase-data-center-gold-but-might-be-competing-against-each-other/",
+      "date": "2025-07-30"
+    },
+    {
+      "name": "Quick Action Closing Fund",
+      "law": null,
+      "what": "State discretionary incentive fund for major projects (not data center specific); lawmakers in 2026 set aside up to $300M for a West Memphis 'superproject' that the budget labels 'advanced manufacturing, non-data center'.",
+      "value_known": "Not data center specific",
+      "source": "https://arkansasadvocate.com/2026/05/04/arkansas-explained-what-are-the-incentives-for-west-memphis-possible-superproject/",
+      "date": "2026-05-04"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Docket 25-055-P",
+      "regulator": "Arkansas Public Service Commission",
+      "utility": "Entergy Arkansas",
+      "what": "Special rate contract for Google's West Memphis data center.",
+      "site_ids": [
+        "ar-crittenden-google-west-memphis"
+      ],
+      "status": "approved 2026-01-29",
+      "url": "https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx",
+      "date": "2026-01-29"
+    },
+    {
+      "id": "Docket 25-054-U",
+      "regulator": "Arkansas Public Service Commission",
+      "utility": "Entergy Arkansas",
+      "what": "Certificate of environmental compatibility and public need for Cypress Solar (600 MW solar, 350 MW battery) serving the grid for Google's West Memphis data center.",
+      "site_ids": [
+        "ar-crittenden-google-west-memphis"
+      ],
+      "status": "approved 2026-03-03",
+      "url": "https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx",
+      "date": "2026-03-03"
+    },
+    {
+      "id": "Docket 26-008-TF",
+      "regulator": "Arkansas Public Service Commission",
+      "utility": "Entergy Arkansas",
+      "what": "Generating Arkansas Jobs Act rider update recovering costs of three generation projects including Cypress Solar from customers (added about $22.81 to one senator's bill).",
+      "site_ids": [
+        "ar-crittenden-google-west-memphis"
+      ],
+      "status": "approved 2026-06-12",
+      "url": "https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "Docket 26-001-U",
+      "regulator": "Arkansas Public Service Commission",
+      "utility": "Entergy Arkansas",
+      "what": "Base rate case filed Feb 27, 2026 (data center provisions not confirmed in this sweep).",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx",
+      "date": "2026-02-27"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "Generating Arkansas Jobs Act of 2025",
+      "status": "enacted",
+      "what": "Energy permitting and cost-recovery overhaul (lets utilities recover new generation costs through a rider during construction); credited with luring data centers.",
+      "source": "https://arkansasadvocate.com/2026/09/15/arkansas-lawmakers-question-utility-on-data-center-projects-impact-on-ratepayers/",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "Act 174 of 2024",
+      "status": "enacted",
+      "what": "Amended the law on digital asset mining (crypto 'data centers') and banned ownership by foreign-party-controlled interests from listed adversary countries; enforcement against Jones Eagle temporarily blocked by a federal court (Nov 2024).",
+      "source": "https://arkansasadvocate.com/2024/11/26/arkansas-laws-targeting-foreign-ownership-of-land-and-data-center-put-on-hold/",
+      "date": "2024-11-26"
+    },
+    {
+      "name": "Act 851 of 2023",
+      "status": "enacted",
+      "what": "Bars local governments from banning data centers (the crypto-mining 'data center' law); Talk Business notes it does not bar local rules that cause delays or significant restrictions.",
+      "source": "https://talkbusiness.net/2026/08/fort-smith-water-surcharge-one-idea-in-crafting-data-center-development-rules/",
+      "date": "2026-08-12"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Independence County",
+      "type": "moratorium",
+      "what": "Five-year moratorium on data centers, passed unanimously by the quorum court.",
+      "status": "enacted 2026-08-10",
+      "source": "https://arkansasadvocate.com/2026/08/11/outside-of-little-rock-arkansas-counties-and-cities-move-ahead-on-data-center-moratoriums/",
+      "date": "2026-08-11"
+    },
+    {
+      "place": "Carroll County",
+      "type": "moratorium",
+      "what": "One-year pause on data centers.",
+      "status": "enacted June 2026",
+      "source": "https://arkansasadvocate.com/2026/08/11/outside-of-little-rock-arkansas-counties-and-cities-move-ahead-on-data-center-moratoriums/",
+      "date": "2026-08-11"
+    },
+    {
+      "place": "Union County",
+      "type": "moratorium",
+      "what": "One-year pause on data centers.",
+      "status": "enacted June 2026",
+      "source": "https://arkansasadvocate.com/2026/08/11/outside-of-little-rock-arkansas-counties-and-cities-move-ahead-on-data-center-moratoriums/",
+      "date": "2026-08-11"
+    },
+    {
+      "place": "Pulaski County",
+      "type": "ordinance",
+      "what": "Regulations for data centers in unincorporated areas: electrical load analyses, water and wastewater plans, land-use studies, decommissioning plans, proof utilities won't be impaired. Passed 11-4; vetoed by County Judge Barry Hyde; override expected to be sought. An earlier moratorium vote in June was voided over a miscount.",
+      "status": "vetoed (late Sept 2026); override pending",
+      "source": "https://arkansasadvocate.com/2026/09/28/official-vetoes-proposed-new-regulations-on-data-centers-in-arkansas-most-populous-county/",
+      "date": "2026-09-28"
+    },
+    {
+      "place": "Little Rock",
+      "type": "ordinance",
+      "what": "Requirements for data centers of 250,000+ sq ft using over 50 MW, including a report on total daily water use before approval (Mayor Frank Scott's framework); Advocate says Little Rock passed its requirements over the summer.",
+      "status": "enacted summer 2026",
+      "source": "https://arkansasadvocate.com/2026/09/23/map-arkansas-most-populous-county-passes-data-center-regulations/",
+      "date": "2026-09-23"
+    },
+    {
+      "place": "Fort Smith",
+      "type": "zoning",
+      "what": "At an Aug 11, 2026 study session, city directors asked staff to draft rules to discourage data centers: a zoning code amendment (utility capacity certifications, water use reports, larger setbacks, noise limits), board approval for water connections 2 inches or larger, and a data center water rate class at four times current rates. No known data center is being considered in the Fort Smith metro.",
+      "status": "proposed (staff drafting; no vote)",
+      "source": "https://talkbusiness.net/2026/08/fort-smith-water-surcharge-one-idea-in-crafting-data-center-development-rules/",
+      "date": "2026-08-12"
+    },
+    {
+      "place": "Fayetteville",
+      "type": "ordinance",
+      "what": "Talk Business reports Fayetteville has adopted stricter data center rules (details not checked).",
+      "status": "enacted (date not confirmed)",
+      "source": "https://talkbusiness.net/2026/08/fort-smith-water-surcharge-one-idea-in-crafting-data-center-development-rules/",
+      "date": "2026-08-12"
+    }
+  ]
+}

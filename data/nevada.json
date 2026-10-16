@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "nv-storey-switch-citadel",
+    "name": "Switch Citadel Campus (Tahoe Reno)",
+    "owner": "Switch",
+    "operator": "Switch",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": 39.5164,
+    "lng": -119.478,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": "Switch says the campus 'will have gigawatts of power capacity upon completion' (multi-gigawatt expansion); no exact MW published",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.switch.com/tahoe-reno/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Operating campus in TRIC; Switch markets a multi-gigawatt expansion. Building-level MW figures exist only in trackers (not used). Announced date not sourced.",
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "pin_source": "https://ndep-emap.ndep.nv.gov/arcgis/rest/services/eMap_Services/eMap_Air/MapServer/1/query?outFields=*&f=json&where=FIN%3D%27A1896A%27",
+    "pin_address": "Switch LTD Supernap Site, TRIC Storey County NV (NDEP air facility A1896A point)"
+  },
+  {
+    "id": "nv-clark-switch-core-las-vegas",
+    "name": "Switch The Core Campus (Las Vegas)",
+    "owner": "Switch",
+    "operator": "Switch",
+    "tier": "large",
+    "state": "NV",
+    "county": "Clark County",
+    "town": "Las Vegas (Enterprise area)",
+    "lat": 36.061533,
+    "lng": -115.207882,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 495,
+        "unit": "MW at completion (company: 'up to 495 MW of power upon completion')",
+        "kind": "real",
+        "source": "https://www.switch.com/las-vegas/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Clark County approves Switch data center project in southwest valley after public opposition",
+        "outlet": "FOX5 Las Vegas",
+        "url": "https://www.fox5vegas.com/2026/06/18/clark-county-approves-switch-data-center-project-southwest-valley-after-public-opposition/",
+        "date": "2026-06-17",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center expansion in southwest valley unanimously approved by zoning commission",
+        "outlet": "KTNV",
+        "url": "https://ktnv.com/neighborhoods/southwest-las-vegas/data-center-expansion-in-southwest-valley-unanimously-approved-by-zoning-commission",
+        "date": "2026-06-17",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [
+      {
+        "what": "Enterprise Town Advisory Board recommended denial of the design review and some waivers for Switch's LAS 19 building (Warm Springs Rd and Edmond St); Sierra Club Toiyabe Chapter and residents spoke against at the county hearing. County approved anyway.",
+        "source": "https://www.fox5vegas.com/2026/06/18/clark-county-approves-switch-data-center-project-southwest-valley-after-public-opposition/",
+        "date": "2026-06-17"
+      }
+    ],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "LAS 19 (about 56,000 sq ft, Warm Springs Rd / Edmond St, Enterprise) approved by Clark County June 2026 is filed here as part of Switch's Las Vegas campus; KTNV calls it an expansion of 'the largest data center campus in Southern Nevada'. Check whether it belongs to The Core or a separate Switch site.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://services2.arcgis.com/MLoS3Qx4BXmDoTIY/arcgis/rest/services/StationarySource/FeatureServer/0/query?outFields=*&outSR=4326&f=json&where=Source_ID%3D16304",
+    "pin_address": "7135 S DECATUR BLVD, LAS VEGAS, NV, 89118"
+  },
+  {
+    "id": "nv-storey-google-tric",
+    "name": "Google Storey County Data Center",
+    "owner": "Google",
+    "operator": "Google (Design, LLC)",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2020-09-16",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 600000000,
+        "unit": "USD (initial plan)",
+        "kind": "real",
+        "source": "https://goed.nv.gov/newsroom/goed-approves-google-and-lithium-nevada-corp-for-abatements/",
+        "date": "2020-09-16"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 50,
+        "unit": "full-time jobs (at least), avg wage $31.29/hr",
+        "kind": "real",
+        "source": "https://goed.nv.gov/newsroom/goed-approves-google-and-lithium-nevada-corp-for-abatements/",
+        "date": "2020-09-16"
+      },
+      "jobs_promised_build": {
+        "value": 2500,
+        "unit": "construction jobs (more than)",
+        "kind": "real",
+        "source": "https://goed.nv.gov/newsroom/goed-approves-google-and-lithium-nevada-corp-for-abatements/",
+        "date": "2020-09-16"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Google says it began using geothermal energy for the Storey County campus in 2023",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/storey-county-nevada/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "GOED: 2% sales tax abatement for 20 years (~$16.8M) + 75% personal property tax abatement for 20 years (~$8.25M); about $25M total",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://goed.nv.gov/newsroom/goed-approves-google-and-lithium-nevada-corp-for-abatements/",
+        "date": "2020-09-16"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Google page says built 2021. Google says more than $6B invested in Nevada across Henderson and Storey County (statewide figure).",
+    "checked": {
+      "metrics": "2026-10-15"
+    }
+  },
+  {
+    "id": "nv-clark-google-henderson",
+    "name": "Google Henderson Data Center",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "NV",
+    "county": "Clark County",
+    "town": "Henderson",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2018",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1200000000,
+        "unit": "USD (original $600M plus additional $600M announced 2020; GOED: total Southern Nevada investment $1.2B)",
+        "kind": "real",
+        "source": "https://goed.nv.gov/newsroom/goed-approves-google-and-lithium-nevada-corp-for-abatements/",
+        "date": "2020-09-16"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Google says groundbreaking on the first Henderson data center in 2019; GOED approved about $25M of abatements for Henderson in late 2018 (per search summary of press, not fetched). Announced year 2018 from that abatement report.",
+    "checked": {
+      "metrics": "2026-10-15"
+    }
+  },
+  {
+    "id": "nv-washoe-apple-reno",
+    "name": "Apple Reno Data Center (Reno Technology Park)",
+    "owner": "Apple",
+    "operator": "Apple",
+    "tier": "large",
+    "state": "NV",
+    "county": "Washoe County",
+    "town": "Reno (Reno Technology Park)",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2012-06",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD (about $1B announced 2012 plus about $1B expansion announced 2017)",
+        "kind": "real",
+        "source": "https://appleinsider.com/articles/17/05/10/apple-plans-major-expansions-at-arizona-and-nevada-data-centers/amp",
+        "date": "2017-05-10"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent workers for the 2017 expansion",
+        "kind": "real",
+        "source": "https://appleinsider.com/articles/17/05/10/apple-plans-major-expansions-at-arizona-and-nevada-data-centers/amp",
+        "date": "2017-05-10"
+      },
+      "jobs_promised_build": {
+        "value": 300,
+        "unit": "construction jobs for the 2017 expansion (about)",
+        "kind": "real",
+        "source": "https://appleinsider.com/articles/17/05/10/apple-plans-major-expansions-at-arizona-and-nevada-data-centers/amp",
+        "date": "2017-05-10"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "About $89M in tax breaks for the original project, including an 85% personal property tax reduction",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://appleinsider.com/articles/12/06/26/apple_to_invest_1b_in_nevada_data_center_business_facilities.html",
+        "date": "2012-06-26"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Apple to invest $1B in Nevada data center, business facilities",
+        "outlet": "AppleInsider",
+        "url": "https://appleinsider.com/articles/12/06/26/apple_to_invest_1b_in_nevada_data_center_business_facilities.html",
+        "date": "2012-06-26",
+        "tone": "neutral"
+      },
+      {
+        "title": "Apple plans major expansions at Arizona and Nevada data centers",
+        "outlet": "AppleInsider",
+        "url": "https://appleinsider.com/articles/17/05/10/apple-plans-major-expansions-at-arizona-and-nevada-data-centers/amp",
+        "date": "2017-05-10",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Reno Technology Park, east of Reno; Apple filed building permits with Washoe County. One report says the 2,200-acre property has room for more buildings. County placement (Washoe vs. Storey) worth a parcel check.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    }
+  },
+  {
+    "id": "nv-storey-vantage-nv1",
+    "name": "Vantage NV1 Campus (Reno)",
+    "owner": "Vantage Data Centers",
+    "operator": "Vantage Data Centers",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": 39.553078,
+    "lng": -119.482649,
+    "stage": "building",
+    "announced": "2025-07-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (nearly $3B)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-invests-3-billion-to-deliver-ai-campus-in-growing-nevada-market/",
+        "date": "2025-07-15"
+      },
+      "power_mw": {
+        "value": 224,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-invests-3-billion-to-deliver-ai-campus-in-growing-nevada-market/",
+        "date": "2025-07-15"
+      },
+      "acres": {
+        "value": 137,
+        "unit": "acres (nearly)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-invests-3-billion-to-deliver-ai-campus-in-growing-nevada-market/",
+        "date": "2025-07-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Vantage announces 224MW data center campus in Reno, Nevada",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/vantage-announces-224mw-data-center-campus-in-reno-nevada/",
+        "date": "2025-07-15",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Four multi-story buildings, more than 1M sq ft; first two buildings leased, first building to open Q2 2026. Trackers also list Vantage NV11/NV12 at Electric Ave and USA Parkway and a GOED abatement of $19.2M for a $254M facility; not confirmed here whether those are part of NV1 or a separate Vantage site.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://ndep-emap.ndep.nv.gov/arcgis/rest/services/eMap_Services/eMap_Air/MapServer/1/query?outFields=*&f=json&where=FIN%3D%27A2540%27",
+    "pin_address": "Vantage NV1 (Vantage Data Center NV11 LLC), TRIC Storey County NV (NDEP air facility A2540 point)"
+  },
+  {
+    "id": "nv-storey-edgecore-reno",
+    "name": "EdgeCore Reno Campus",
+    "owner": "EdgeCore Digital Infrastructure",
+    "operator": "EdgeCore",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": 39.523234,
+    "lng": -119.482551,
+    "stage": "building",
+    "announced": "2023-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 216,
+        "unit": "MW critical IT load at completion",
+        "kind": "real",
+        "source": "https://edgecore.com/locations/reno/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 56,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://edgecore.com/locations/reno/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "NV Energy (agreement for utility power, on-site substation planned H2 2025)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/edgecore-breaks-ground-on-data-center-in-reno-nevada/",
+        "date": "2023-08"
+      },
+      "cooling_type": {
+        "value": "Air-cooled design with closed-loop chilled water; WUE below 0.01 L/kWh (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://edgecore.com/locations/reno/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "EdgeCore breaks ground on data center in Reno, Nevada",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/edgecore-breaks-ground-on-data-center-in-reno-nevada/",
+        "date": "2023-08",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Company page: 3 hyperscale buildings, nearly 1M sq ft. A 2018 Review-Journal report mentioned a $26.3M abatement up for GOED approval (not fetched).",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://ndep-emap.ndep.nv.gov/arcgis/rest/services/eMap_Services/eMap_Air/MapServer/1/query?outFields=*&f=json&where=FIN%3D%27A2618%27",
+    "pin_address": "Edgecore RNO1 construction site, TRIC Storey County NV (NDEP air facility A2618 point)"
+  },
+  {
+    "id": "nv-storey-powerhouse-reno",
+    "name": "PowerHouse Reno",
+    "owner": "PowerHouse Data Centers (Harrison Street)",
+    "operator": "PowerHouse Data Centers",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": 39.554149,
+    "lng": -119.495733,
+    "stage": "announced",
+    "announced": "2024-01-19",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 65,
+        "unit": "MW of bridging power (more than), planned by end of 2025; full build-out MW not published by company",
+        "kind": "real",
+        "source": "https://harrisonst.com/wp-content/uploads/2025/06/PowerHouse-Reno.pdf",
+        "date": "2024-01-19"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "PowerHouse Data Centers expands into Reno, Nevada with 900,000 sq ft campus",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/powerhouse-data-centers-expands-into-reno-nevada-with-900000-sq-ft-campus/",
+        "date": "2024-01",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Three-building, 900,000 sq ft powered-shell campus. Trackers say 200 MW and under construction (not used). Stage left at announced because no source here confirms construction.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://ndep-emap.ndep.nv.gov/arcgis/rest/services/eMap_Services/eMap_Air/MapServer/1/query?outFields=*&f=json&where=FIN%3D%27A2587%27",
+    "pin_address": "Powerhouse Data Center construction site, TRIC Storey County NV (NDEP air facility A2587 point)"
+  },
+  {
+    "id": "nv-storey-novva-tahoe-reno",
+    "name": "Novva Tahoe Reno Data Center",
+    "owner": "Novva Data Centers",
+    "operator": "Novva Data Centers",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": 39.526495,
+    "lng": -119.487192,
+    "stage": "running",
+    "announced": "2025-07-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 60,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/launch-of-tahoe-reno-data-center/",
+        "date": "2025-07-08"
+      },
+      "acres": {
+        "value": 20,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/launch-of-tahoe-reno-data-center/",
+        "date": "2025-07-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "New 300,000 square foot data center coming to Storey County",
+        "outlet": "KOLO 8",
+        "url": "https://www.kolotv.com/2025/07/08/new-300000-square-foot-data-center-coming-storey-county/",
+        "date": "2025-07-08",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "300,000 sq ft; remaining capacity expected in 2026.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://ndep-emap.ndep.nv.gov/arcgis/rest/services/eMap_Services/eMap_Air/MapServer/1/query?outFields=*&f=json&where=FIN%3D%27A2569%27",
+    "pin_address": "NOVVA Data Center (NOVVA Reno LLC), TRIC Storey County NV (NDEP air facility A2569 point)"
+  },
+  {
+    "id": "nv-storey-fleet-south-valley",
+    "name": "Fleet Data Centers South Valley Campus",
+    "owner": "Tract (Tract Capital Management)",
+    "operator": "Fleet Data Centers",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": 39.460346,
+    "lng": -119.40391,
+    "stage": "building",
+    "announced": "2026-05-20",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 4600000000,
+        "unit": "USD (financing secured via senior secured notes; Fleet says ~$10B construction across South Valley and Peru Ridge)",
+        "kind": "real",
+        "source": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+        "date": "2026-06-09"
+      },
+      "power_mw": {
+        "value": 200,
+        "unit": "MW critical compute (about, plus 30 MW utility computing); initial load 57 MW",
+        "kind": "real",
+        "source": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+        "date": "2026-06-09"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "long-term tech staff",
+        "kind": "real",
+        "source": "https://www.kolotv.com/2026/05/20/gov-lombardo-construction-companies-break-ground-2-million-sq-ft-data-center-storey-co/",
+        "date": "2026-05-20"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "construction jobs at peak (about)",
+        "kind": "real",
+        "source": "https://www.kolotv.com/2026/05/20/gov-lombardo-construction-companies-break-ground-2-million-sq-ft-data-center-storey-co/",
+        "date": "2026-05-20"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Filed with PUCN for a temporary 144 MW behind-the-meter gas plant (90 gas engines, 40 LNG tanks) until NV Energy grid power arrives",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+        "date": "2026-06-09"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Gov. Lombardo, construction companies break ground on 2 million sq. ft. data center in Storey Co.",
+        "outlet": "KOLO 8",
+        "url": "https://www.kolotv.com/2026/05/20/gov-lombardo-construction-companies-break-ground-2-million-sq-ft-data-center-storey-co/",
+        "date": "2026-05-20",
+        "tone": "good"
+      },
+      {
+        "title": "Data center firm working on 2 campuses at Tahoe Reno Industrial Center",
+        "outlet": "Nevada Appeal",
+        "url": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+        "date": "2026-06-09",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "2M sq ft along USA Parkway; tenant not disclosed. South Valley land holding 1,600 acres. Online expected Q4 2027. Trackers list a 1,215 MW 'Tract South Valley Technology Park' (likely the full land plan).",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://ndep-emap.ndep.nv.gov/arcgis/rest/services/eMap_Services/eMap_Air/MapServer/1/query?outFields=*&f=json&where=FIN%3D%27A2623%27",
+    "pin_address": "Tract Capital Management South Valley site, TRIC Storey County NV (NDEP air facility A2623 point)"
+  },
+  {
+    "id": "nv-lyon-copia-monarch",
+    "name": "Monarch Data Center",
+    "owner": "Copia Power",
+    "operator": "Copia Power DevCo, LLC",
+    "tier": "large",
+    "state": "NV",
+    "county": "Lyon County",
+    "town": "Yerington area (Mason Valley, Penrose Lane)",
+    "lat": 39.098906,
+    "lng": -119.16051,
+    "stage": "announced",
+    "announced": "2025-12",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW data center campus",
+        "kind": "real",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      },
+      "acres": {
+        "value": 505,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "500 MW natural gas backup plant plus 500 MW battery storage; self-supply until NV Energy grid integration",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      },
+      "utility": {
+        "value": "NV Energy (expected); North Lyon County Power General Improvement District created July 2026",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.carsonnow.org/07/10/2026/lyon-county-leaders-face-public-pushback-amid-surge-in-data-center-and-energy-development",
+        "date": "2026-07-10"
+      },
+      "cooling_type": {
+        "value": "Air-cooled closed-loop system",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      },
+      "water_use": {
+        "value": "Application: under 100 acre-feet/yr; county staff report: under 800 acre-feet/yr; groundwater in an over-appropriated basin (Sierra Club)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "A massive data center in rural Nevada is one step closer to being built",
+        "outlet": "The Nevada Independent",
+        "url": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "Lyon County leaders face public pushback amid surge in data center and energy development",
+        "outlet": "Carson Now",
+        "url": "https://www.carsonnow.org/07/10/2026/lyon-county-leaders-face-public-pushback-amid-surge-in-data-center-and-energy-development",
+        "date": "2026-07-10",
+        "tone": "bad"
+      }
+    ],
+    "opposition": [
+      {
+        "what": "Walker River Paiute and Yerington Paiute tribes passed resolutions opposing the project; Sierra Club Toiyabe Chapter said it will pursue legal options.",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      },
+      {
+        "what": "Residents asked Lyon County commissioners for a moratorium on data center approvals until land use rules are written.",
+        "source": "https://www.carsonnow.org/07/10/2026/lyon-county-leaders-face-public-pushback-amid-surge-in-data-center-and-energy-development",
+        "date": "2026-07-10"
+      },
+      {
+        "what": "One commissioner voted against the zoning change (3-1, one abstention).",
+        "source": "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+        "date": "2026-08-10"
+      }
+    ],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Master plan amendment (agriculture to specific plan) approved December 2025; PUD zoning tentatively approved 3-1 in August 2026. Still needs final design approval, NDEP and State Engineer approvals, and land purchase. 4.6M sq ft.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://www.lyon-county.org/AgendaCenter/ViewFile/Agenda/_08062026-2081",
+    "pin_address": "150 PENROSE LN, YERINGTON, NV, 89447"
+  },
+  {
+    "id": "nv-clark-townsite-solar2-boulder-city",
+    "name": "Townsite Solar 2 (TS2) Data Center",
+    "owner": "Skylar Capital Management",
+    "operator": "Townsite Solar 2",
+    "tier": "large",
+    "state": "NV",
+    "county": "Clark County",
+    "town": "Boulder City area (BLM land)",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 167,
+        "unit": "MW data center plus 70 MW battery storage",
+        "kind": "real",
+        "source": "https://thenevadaindependent.com/article/judge-orders-pause-on-boulder-city-data-center",
+        "date": "2026-09-01"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Judge orders pause on Boulder City data center",
+        "outlet": "The Nevada Independent",
+        "url": "https://thenevadaindependent.com/article/judge-orders-pause-on-boulder-city-data-center",
+        "date": "2026-09-01",
+        "tone": "bad"
+      },
+      {
+        "title": "BLM asks judge to set aside Boulder City data center approval",
+        "outlet": "Las Vegas Review-Journal",
+        "url": "https://www.reviewjournal.com/news/environment/blm-asks-judge-to-set-aside-boulder-city-data-center-approval-3889402/",
+        "date": "2026",
+        "tone": "bad"
+      }
+    ],
+    "opposition": [
+      {
+        "what": "Boulder City filed an administrative appeal of BLM's June 2026 approval (NEPA claim); Sierra Club and Center for Biological Diversity filed a second appeal. Interior Department administrative judge David Gunter ordered a stay; construction paused.",
+        "source": "https://thenevadaindependent.com/article/judge-orders-pause-on-boulder-city-data-center",
+        "date": "2026-09-01"
+      }
+    ],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Site was approved in 2023 as a solar field; developer withdrew an earlier application on city land. RJ article not read (403); date unknown.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    }
+  },
+  {
+    "id": "nv-storey-fleet-peru-ridge",
+    "name": "Fleet Data Centers Peru Ridge Campus",
+    "owner": "Tract (Tract Capital Management)",
+    "operator": "Fleet Data Centers",
+    "tier": "large",
+    "state": "NV",
+    "county": "Storey County",
+    "town": "Tahoe Reno Industrial Center (McCarran)",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 200,
+        "unit": "critical MW (plus 30 MW utility computing power); initial load 57 MW expected Q3 2026",
+        "kind": "real",
+        "source": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+        "date": "2026-06-09"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "NV Energy (Sierra Pacific Power); PUCN docket 26-05027 seeks approval of Large Load Electric Service Agreements with PR RNO Property Owner 1, LLC and SV RNO Property Owner 1, LLC",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+        "date": "2026-05-29"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Nevada data center firm working on two campuses at Tahoe Reno Industrial Center",
+        "outlet": "Nevada Appeal / NNBW",
+        "url": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+        "date": "2026-06-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "On Peru Drive in TRIC; Fleet has broken ground. Peru Ridge and adjacent Peru Shelf total 1,200 acres and could support an additional 1,040 MW (Peru Shelf not a separate record). Fleet's $10B construction figure covers both TRIC campuses (South Valley is nv-storey-fleet-south-valley). Reading 'PR RNO' as Peru Ridge and 'SV RNO' as South Valley in PUCN 26-05027 is our inference from the names."
+  },
+  {
+    "id": "nv-lyon-microsoft-silver-springs",
+    "name": "Microsoft Silver Springs datacenter",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "NV",
+    "county": "Lyon County",
+    "town": "Silver Springs",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Early construction activities have started at the Silver Springs site.",
+        "source": "https://local.microsoft.com/blog/silver-springs-datacenter-construction-update/",
+        "date": "2026-09-01"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft local page (Construction update September 2026): 'Early construction activities have started at the Silver Springs site.' Microsoft bought about 274 acres off Highway 50 in Silver Springs (DCD); Lyon County approved CUPs for Microsoft-affiliated Nighthawk and RNO18 substations on 2026-03-05 (Carson Now). Promoted from lead nv-lyon-microsoft-silver-springs."
+  }
+]

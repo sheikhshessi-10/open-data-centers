@@ -1,0 +1,368 @@
+[
+  {
+    "id": "mt-silver-bow-sabey-butte",
+    "name": "Sabey Data Centers Butte campus (Montana Connections Business Park)",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "MT",
+    "county": "Silver Bow County",
+    "town": "Butte",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2024-12-17",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 250,
+        "unit": "MW (50 MW initially from 2027, up to 250 MW by about 2029)",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "water_use": {
+        "value": "Plans to use Silver Lake water under an existing right; 'air-first cooling' using water only on hottest days. Montana Tech estimate (not confirmed by Sabey): about 16 million gallons a year",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Air-first cooling with evaporative assist on hottest days (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "NorthWestern Energy (letter of intent, December 2024)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "acres": {
+        "value": 600,
+        "unit": "acres (about 606) in Montana Connections Business Park, tentative purchase from Butte-Silver Bow",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "How some Montanans are taking data center regulation into their own hands",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/06/18/how-some-montanans-are-taking-data-center-regulation-into-their-own-hands/",
+        "date": "2026-06-18",
+        "tone": "neutral"
+      },
+      {
+        "title": "As AI investors eye Montana for new data centers, communities brace for water impacts",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Groups push back on Montana's 'data center boom'",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2025/11/18/groups-push-back-on-montanas-data-center-boom/",
+        "date": "2025-11-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "NorthWestern announced the power letter of intent Dec 17, 2024. Land deal (about $1.2M) still pending; closing extended to Feb 11, 2026, and Sabey had until late July 2026 to decide (sought extension). No groundbreaking or county deal as of 2026. Current status after July 2026 not checked (search budget ran out). Update 2026-10-15: Montana Free Press (June 18, 2026) reports Sabey pulled out of its Butte agreement in May 2026 but is still exploring southwest Montana sites, including in Silver Bow County. NorthWestern's Q2 2026 10-Q (July 30, 2026) still lists a development agreement with Sabey. Stage set to cancelled for this business-park site; a new Sabey site would be a new record."
+  },
+  {
+    "id": "mt-silver-bow-atlas-power-butte",
+    "name": "Atlas Power Butte data center",
+    "owner": "Atlas Power Group",
+    "operator": "Atlas Power Group",
+    "tier": "large",
+    "state": "MT",
+    "county": "Silver Bow County",
+    "town": "Butte",
+    "lat": 45.930923,
+    "lng": -112.518211,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW expansion under letter of intent with NorthWestern (75 MW from 2026 plus up to 75 MW more within 3-5 years)",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "water_use": {
+        "value": "Groundwater right of up to 2 acre-feet per year (bought from former CryptoWatt site)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Mainly air-based, rooftop fans",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "NorthWestern Energy (existing customer; letter of intent end of 2024)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "As AI investors eye Montana for new data centers, communities brace for water impacts",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Groups push back on Montana's 'data center boom'",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2025/11/18/groups-push-back-on-montanas-data-center-boom/",
+        "date": "2025-11-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Operating facility in Butte; unclear whether it hosts crypto mining or other computing. Current running load not stated. Opening year unknown.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110070235199",
+    "pin_address": "200 TECHNOLOGY WAY, BUTTE, MT, 59701"
+  },
+  {
+    "id": "mt-yellowstone-quantica-broadview",
+    "name": "Big Sky Digital Infrastructure campus (Quantica Infrastructure)",
+    "owner": "Quantica Infrastructure",
+    "operator": "Quantica Infrastructure",
+    "tier": "large",
+    "state": "MT",
+    "county": "Yellowstone County",
+    "town": "Broadview",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW by 2030 (175 MW by late 2027)",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2025/11/18/groups-push-back-on-montanas-data-center-boom/",
+        "date": "2025-11-18"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "Own natural gas plants (per MTFP May 2026); NorthWestern supply likely tied to Colstrip coal near term",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/",
+        "date": "2026-05-21"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "NorthWestern Energy (letter of intent); company also plans its own gas plants",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/",
+        "date": "2026-05-21"
+      },
+      "acres": {
+        "value": 5000,
+        "unit": "acres purchased in 2025 (company says 45,000 acres under lease)",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "As AI investors eye Montana for new data centers, communities brace for water impacts",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+        "date": "2026-02-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Agreement between data center developer and union federation thin on details",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2026/06/17/agreement-between-data-center-developer-and-union-federation-thin-on-details/",
+        "date": "2026-06-17",
+        "tone": "neutral"
+      },
+      {
+        "title": "A guide to data center proposals in Montana",
+        "outlet": "Bozeman Daily Chronicle",
+        "url": "https://www.bozemandailychronicle.com/news/power-drain-a-guide-to-proposed-data-centers-so-far-in-montana/article_a01fd8b1-ba3e-5eeb-8ffa-38b809273906.html",
+        "date": "2026",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Texas-based developer; near Broadview, unzoned area. Company expected site construction in 2026; environmental assessments pending; no water rights. Yellowstone County said no proposal had been submitted (Nov 2025). Agreement with regional building trades council (June 2026)."
+  },
+  {
+    "id": "mt-cascade-tac-data-centers-great-falls",
+    "name": "TAC Data Centers Great Falls proposal",
+    "owner": "TAC Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "MT",
+    "county": "Cascade County",
+    "town": "Great Falls",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 600,
+        "unit": "MW proposed",
+        "kind": "real",
+        "source": "https://montanafreepress.org/2025/11/18/groups-push-back-on-montanas-data-center-boom/",
+        "date": "2025-11-18"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 569,
+        "unit": "acres under lease option",
+        "kind": "real",
+        "source": "https://dailymontanan.com/2025/11/17/data-center-pulls-out-of-great-falls-group-says-others-charge-ahead/",
+        "date": "2025-11-17"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center pulls out of Great Falls; group says others charge ahead",
+        "outlet": "Daily Montanan",
+        "url": "https://dailymontanan.com/2025/11/17/data-center-pulls-out-of-great-falls-group-says-others-charge-ahead/",
+        "date": "2025-11-17",
+        "tone": "neutral"
+      },
+      {
+        "title": "Groups push back on Montana's 'data center boom'",
+        "outlet": "Montana Free Press",
+        "url": "https://montanafreepress.org/2025/11/18/groups-push-back-on-montanas-data-center-boom/",
+        "date": "2025-11-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Upper Missouri Waterkeeper announced the withdrawal in mid-November 2025; TAC could not be reached. County assumed from the Great Falls location (Cascade County); exact parcel not given. Announcement date not found."
+  }
+]

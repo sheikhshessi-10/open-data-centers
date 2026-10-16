@@ -1,0 +1,150 @@
+{
+  "state": "SD",
+  "checked": {
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "None: no data-center-specific state tax incentive found",
+      "law": null,
+      "what": "South Dakota has no data center tax incentive in NCSL's 'Status of Data Center Tax Incentives, by State (2026)' table (adapted from Husch Blackwell's 50-state survey, last updated 2026-07-27; listed as N/A; table data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv). HB 1005 (2026), which would have created a sales and use tax exemption for data center operations, was deferred to the 41st legislative day (killed) in House State Affairs; NCSL says the South Dakota bill was defeated in committee.",
+      "value_known": null,
+      "source": "https://sdlegislature.gov/Session/Bill/26317",
+      "date": "2026-02-04"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "EL24-027",
+      "regulator": "South Dakota Public Utilities Commission",
+      "utility": "Montana-Dakota Utilities Co. (vs. FEM Electric Association)",
+      "what": "Leola Data Center LLC petition to have MDU assigned as its electric provider in FEM Electric's service area; settlement approved and provider assigned under SDCL 49-34A-56",
+      "site_ids": [
+        "sd-mcpherson-leola-data-center"
+      ],
+      "status": "approved, closed",
+      "url": "https://puc.sd.gov/Dockets/Electric/2024/el24-027.aspx",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "EL24-028",
+      "regulator": "South Dakota Public Utilities Commission",
+      "utility": "Montana-Dakota Utilities Co.",
+      "what": "MDU request for a new data center rate for the Leola Data Center project",
+      "site_ids": [
+        "sd-mcpherson-leola-data-center"
+      ],
+      "status": null,
+      "url": "https://www.yahoo.com/news/politics/articles/state-regulators-county-board-decide-211918814.html",
+      "date": "2026-09-02"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "Two data center bills, 2026 session (names not confirmed)",
+      "status": "failed",
+      "what": "Two data center bills died in the South Dakota Senate in February 2026 (per related headline); a separate proposal would have required data centers to get permits from neighboring cities and counties",
+      "source": "https://www.mitchellrepublic.com/news/south-dakota/lincoln-county-backs-down-on-hyperscale-data-center-moratorium",
+      "date": "2026-02-26"
+    },
+    {
+      "name": "HB 1038 (2026)",
+      "status": "enacted",
+      "what": "Allows the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities. Signed by the governor.",
+      "source": "https://sdlegislature.gov/Session/Bill/26923",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "SB 135 (2026)",
+      "status": "enacted",
+      "what": "Protects residents from increased utility costs and utility shortages caused by data centers and clarifies authority to regulate data centers. Signed by the governor.",
+      "source": "https://sdlegislature.gov/Session/Bill/27028",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "HB 1005 (2026)",
+      "status": "failed",
+      "what": "Would have provided a sales and use tax exemption for goods and services related to data center operations; deferred to the 41st legislative day by House State Affairs (9-3).",
+      "source": "https://sdlegislature.gov/Session/Bill/26317",
+      "date": "2026-02-04"
+    },
+    {
+      "name": "HB 1246 (2026)",
+      "status": "failed",
+      "what": "Would have prohibited nondisclosure of certain agreements related to data centers; failed on the House floor.",
+      "source": "https://sdlegislature.gov/Session/Bill/27243",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "HB 1301 (2026)",
+      "status": "failed",
+      "what": "Would have limited costs and risks of data center electricity use and imposed a moratorium; deferred to the 41st day in House State Affairs.",
+      "source": "https://sdlegislature.gov/Session/Bill/27287",
+      "date": "2026-02-18"
+    },
+    {
+      "name": "SB 127 (2026)",
+      "status": "failed",
+      "what": "Would have limited nuisances caused by data centers; deferred to the 41st day in Senate State Affairs.",
+      "source": "https://sdlegislature.gov/Session/Bill/26300",
+      "date": "2026-02-18"
+    },
+    {
+      "name": "SB 232 (2026)",
+      "status": "failed",
+      "what": "One-year moratorium on construction or expansion of hyperscale data centers; tabled in Senate State Affairs.",
+      "source": "https://sdlegislature.gov/Session/Bill/27269",
+      "date": "2026-02-18"
+    },
+    {
+      "name": "SB 234 (2026)",
+      "status": "failed",
+      "what": "Would have modified provisions on purchasing of goods and services related to data center operations; deferred to the 41st day.",
+      "source": "https://sdlegislature.gov/Session/Bill/27289",
+      "date": "2026-02-18"
+    },
+    {
+      "name": "SB 235 (2026)",
+      "status": "failed",
+      "what": "Utility cost and shortage protections, regulatory authority, and data center purchasing provisions; deferred to the 41st day.",
+      "source": "https://sdlegislature.gov/Session/Bill/27290",
+      "date": "2026-02-18"
+    },
+    {
+      "name": "SB 177 (2025)",
+      "status": "failed",
+      "what": "Would have provided a sales and use tax refund for goods and services related to data center operations; failed on the Senate floor (no reconsideration).",
+      "source": "https://sdlegislature.gov/Session/Bill/25901",
+      "date": "2025-02-18"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Yankton County",
+      "type": "moratorium",
+      "what": "6-month moratorium on permits for data centers and bitcoin mining (extendable 6 months); planning commission told to draft an ordinance",
+      "status": "enacted",
+      "source": "https://www.dakotanewsnow.com/2026/07/22/data-center-moratorium-passes-yankton-county-south-dakota/",
+      "date": "2026-07-21"
+    },
+    {
+      "place": "Lincoln County",
+      "type": "moratorium",
+      "what": "Proposed one-year moratorium on AI hyperscale data centers failed for lack of a second (Feb 24, 2026)",
+      "status": "failed",
+      "source": "https://www.mitchellrepublic.com/news/south-dakota/lincoln-county-backs-down-on-hyperscale-data-center-moratorium",
+      "date": "2026-02-26"
+    },
+    {
+      "place": "Rapid City",
+      "type": "ordinance",
+      "what": "Planning Commission delayed vote on data center ordinance amendments (micro, large-scale, hyperscale definitions) to Nov 4, 2026",
+      "status": "pending",
+      "source": "https://rapidcityjournal.com/news/local/government-politics/article_04487858-ca91-44ac-99fc-35cb2c97fb3c.html",
+      "date": "2026-09-17"
+    }
+  ]
+}

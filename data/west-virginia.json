@@ -1,0 +1,573 @@
+[
+  {
+    "id": "wv-berkeley-penzance-bedington",
+    "name": "Penzance Bedington Campus (High Impact Intelligence Center)",
+    "owner": "Penzance Management",
+    "operator": null,
+    "tier": "large",
+    "state": "WV",
+    "county": "Berkeley County",
+    "town": "Bedington / Falling Waters",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-02-26",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 4000000000,
+        "unit": "USD (total capital investment at full build out)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "date": "2026-02-26"
+      },
+      "power_mw": {
+        "value": 600,
+        "unit": "MW of critical IT capacity at full buildout",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "date": "2026-02-26"
+      },
+      "acres": {
+        "value": 548,
+        "unit": "acres (Falling Waters District); about 1.9 million sq ft of buildings",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "date": "2026-02-26"
+      },
+      "jobs_promised_perm": {
+        "value": 125,
+        "unit": "full-time permanent jobs (approximately)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "date": "2026-02-26"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (approximately)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "date": "2026-02-26"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Governor said it will 'likely' be grid-connected; no power purchase details released",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2026/02/26/d-c-based-real-estate-firm-investing-4b-for-new-data-center-development-in-berkeley-county-wv/",
+        "date": "2026-02-26"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "First certified High Impact Intelligence Center (High Impact Data Center) under HB 2014: state siting preemption and HB 2014 tax revenue split apply. Dollar value not disclosed.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+        "date": "2026-02-26"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Hundreds of Berkeley County residents raised concerns at a March 20, 2026 community meeting; County Commission President said officials learned of the project only days before it was announced.",
+        "source": "https://westvirginiawatch.com/2026/03/27/morrisey-google-commits-to-build-data-center-campus-in-putnam-county-wv-limited-details-available/",
+        "date": "2026-03-27"
+      }
+    ],
+    "news": [
+      {
+        "title": "D.C.-based real estate firm investing $4B for new data center development in Berkeley County, WV",
+        "outlet": "West Virginia Watch",
+        "url": "https://westvirginiawatch.com/2026/02/26/d-c-based-real-estate-firm-investing-4b-for-new-data-center-development-in-berkeley-county-wv/",
+        "date": "2026-02-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer is a real estate firm that plans to lease to hyperscale tenants; no tenant named as of 2026-02-26."
+  },
+  {
+    "id": "wv-putnam-google-buffalo",
+    "name": "Google Putnam County data center campus",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "WV",
+    "county": "Putnam County",
+    "town": "Buffalo",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03-27",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Governor: Google will cover 100 percent of the electricity used to power the facility; source of power not stated",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-google-data-center-project-putnam-county",
+        "date": "2026-03-27"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "No figure. Google pledged to replenish more water than it consumes by 2030 (company-wide 120% target) and to pay for water and sewer upgrades",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-google-data-center-project-putnam-county",
+        "date": "2026-03-27"
+      },
+      "tax_break": {
+        "value": "Approved as a High Impact Data Center Project under HB 2014. Dollar value not disclosed.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-google-data-center-project-putnam-county",
+        "date": "2026-03-27"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Morrisey: Google commits to build data center campus in Putnam County, WV; limited details available",
+        "outlet": "West Virginia Watch",
+        "url": "https://westvirginiawatch.com/2026/03/27/morrisey-google-commits-to-build-data-center-campus-in-putnam-county-wv-limited-details-available/",
+        "date": "2026-03-27",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Governor called it a multibillion-dollar High Impact Data Center Project; no dollar figure released. Land along Charleston Road north of Buffalo (WV Watch photo caption). Size and timeline not released."
+  },
+  {
+    "id": "wv-mason-nscale-monarch",
+    "name": "Monarch Compute Campus (Nscale)",
+    "owner": "Nscale (acquiring American Intelligence & Power Corp., AIPCorp)",
+    "operator": "Nscale",
+    "tier": "large",
+    "state": "WV",
+    "county": "Mason County",
+    "town": "Point Pleasant",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 69200000000,
+        "unit": "USD (Phase One, projected)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "power_mw": {
+        "value": 2000,
+        "unit": "MW (Phase One, approximately 2 GW)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 645,
+        "unit": "permanent jobs (Phase One, approximately)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "jobs_promised_build": {
+        "value": 4375,
+        "unit": "construction jobs (Phase One, approximately)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Off-grid: natural gas plant plus hundreds of onsite gas generators; power not sold to the grid. A biomass/carbon-capture unit (MGS CNP1, LLC, a Fidelis New Energy affiliate) holds a DEP air permit under appeal.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+        "date": "2026-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "High Impact Data Center certification approved by WV Commerce (announced 2026-09-03). Dollar value not disclosed.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "West Virginia Citizen Action Group appeal to the DEP Air Quality Board of the air permit for the campus's biomass/carbon-capture facility (developer MGS CNP1, LLC)",
+        "source": "https://westvirginiawatch.com/2026/03/26/wv-house-speaker-representing-data-center-linked-developer-in-mason-county-air-permit-appeal-case/",
+        "date": "2026-03-26"
+      },
+      {
+        "what": "Mason County United, a local group organized in opposition (homes reported flooded by site construction)",
+        "source": "https://mountainstatespotlight.org/2026/09/13/data-center-plan/",
+        "date": "2026-09-13"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Governor Morrisey's AI Strategy Positions West Virginia for Reported $45 Billion Agreement",
+        "outlet": "Office of the Governor of West Virginia",
+        "url": "https://governor.wv.gov/article/governor-morriseys-ai-strategy-positions-west-virginia-reported-45-billion-agreement",
+        "date": "2026-08-27",
+        "tone": "good"
+      },
+      {
+        "title": "New data center project coming to Mason County, WV spearheaded by Florida-based real estate group",
+        "outlet": "West Virginia Watch",
+        "url": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+        "date": "2026-09-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Campus first planned by Fidelis New Energy / AIPCorp; Nscale said it would seek to acquire AIPCorp incl. Monarch (governor statement 2026-03-16). 'announced' = 2025: the campus's DEP air permit was approved 'last year' per WV Watch 2026-03-26. Stage 'permitted' = HIDC certification + DEP air permit; site work under way (flooding reports). Reported Anthropic deal for about 460 MW / about $45B over six years (Bloomberg, via governor 2026-08-27). Stage set to 'building' 2026-10-15: WVPB (2026-08-03) reports the campus is breaking ground with earthworks and a flood-prevention berm under way; 1.3 GW at completion, possible expansion to 8 GW, about 2,000 acres (https://wvpublic.org/story/energy-environment/as-data-centers-eye-w-va-local-communities-feel-overlooked/)."
+  },
+  {
+    "id": "wv-mason-starwood-tamarack",
+    "name": "Project Tamarack (Starwood Digital Ventures)",
+    "owner": "Starwood Digital Ventures (Starwood Capital Group)",
+    "operator": null,
+    "tier": "large",
+    "state": "WV",
+    "county": "Mason County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-09-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 12000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "power_mw": {
+        "value": 2160,
+        "unit": "MW required (approximately 2.16 GW)",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Existing grid (per governor at announcement); Starwood to pay infrastructure costs",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+        "date": "2026-09-08"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling (stated at announcement)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+        "date": "2026-09-08"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "High Impact Data Center certification under HB 2014. Dollar value not disclosed.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://governor.wv.gov/article/governor-morrisey-announces-more-81-billion-new-investment-west-virginia-business-summit",
+        "date": "2026-09-03"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "New data center project coming to Mason County, WV spearheaded by Florida-based real estate group",
+        "outlet": "West Virginia Watch",
+        "url": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+        "date": "2026-09-08",
+        "tone": "neutral"
+      },
+      {
+        "title": "Morrisey's data center plan includes local involvement. West Virginia communities are still in the dark.",
+        "outlet": "Mountain State Spotlight",
+        "url": "https://mountainstatespotlight.org/2026/09/13/data-center-plan/",
+        "date": "2026-09-13",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About 20 miles north of the Monarch campus in Mason County; town not given. Governor said it will support about 1,500 jobs (construction vs permanent not split)."
+  },
+  {
+    "id": "wv-tucker-fundamental-data-ridgeline",
+    "name": "Ridgeline Facility (Fundamental Data)",
+    "owner": "Fundamental Data",
+    "operator": "Fundamental Data",
+    "tier": "large",
+    "state": "WV",
+    "county": "Tucker County",
+    "town": "between Thomas and Davis",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Off-grid natural gas power plant (gas turbines with heat recovery steam generators); diesel backup in three 10-million-gallon tanks. DEP air permit issued 2025.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2025/05/28/it-will-destroy-this-place-tucker-county-residents-fight-for-future-against-proposed-data-center/",
+        "date": "2025-05-28"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Tucker United, a grassroots coalition, formed to oppose the project",
+        "source": "https://westvirginiawatch.com/2025/05/28/it-will-destroy-this-place-tucker-county-residents-fight-for-future-against-proposed-data-center/",
+        "date": "2025-05-28"
+      },
+      {
+        "what": "Tucker United, WV Highlands Conservancy, Friends of Blackwater and Sierra Club appealed the DEP air permit; Intermediate Court of Appeals dismissed on jurisdiction (not merits) on 2026-08-26; groups are taking it to the WV Supreme Court",
+        "source": "https://westvirginiawatch.com/2026/08/27/wv-intermediate-court-dismisses-environmental-groups-challenges-to-fundamental-data-permit/",
+        "date": "2026-08-27"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "WV Commerce questioned who owned the land; DEP found Fundamental Data had site control via a heavily redacted 291-acre purchase agreement",
+        "source": "https://westvirginiawatch.com/2026/08/17/wv-dep-says-fundamental-data-controls-site-of-proposed-tucker-county-data-center-power-plant/",
+        "date": "2026-08-17"
+      },
+      {
+        "what": "As of 2026-06-11 the state had received no High Impact Data Center application from Fundamental Data",
+        "source": "https://westvirginiawatch.com/2026/06/11/wv-data-center-head-says-state-received-first-application-for-microgrid-certification-this-week/",
+        "date": "2026-06-11"
+      }
+    ],
+    "news": [
+      {
+        "title": "WV Intermediate Court dismisses environmental groups' challenges to Fundamental Data permit",
+        "outlet": "West Virginia Watch",
+        "url": "https://westvirginiawatch.com/2026/08/27/wv-intermediate-court-dismisses-environmental-groups-challenges-to-fundamental-data-permit/",
+        "date": "2026-08-27",
+        "tone": "neutral"
+      },
+      {
+        "title": "Tucker County residents want to know what Fundamental Data is planning",
+        "outlet": "Mountain State Spotlight",
+        "url": "https://mountainstatespotlight.org/2026/07/23/data-center-sidestep-oversight/",
+        "date": "2026-07-23",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company told the WSJ (per WV Watch 2025-05-28) the campus could span 10,000 acres across Tucker and Grant counties if fully realized; not recorded as a metric because it is an aspiration. Operations targeted by 2028 per air permit application. 'permitted' refers to the power plant air permit; no HIDC certification."
+  },
+  {
+    "id": "wv-mingo-transgas-twisted-gun",
+    "name": "TransGas Adams Fork data center (Twisted Gun Golf Course site)",
+    "owner": "TransGas Development Systems",
+    "operator": null,
+    "tier": "large",
+    "state": "WV",
+    "county": "Mingo County",
+    "town": "Wharncliffe",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-08",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 2400,
+        "unit": "MW generation capacity of the onsite gas plant (more than 2,400 MW per air permit application; 117 gas engines); not IT load",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2025/09/02/enough-devastation-mingo-logan-residents-worry-about-proposed-power-plants-data-centers-in-wv/",
+        "date": "2025-09-02"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Off-grid methane/natural gas engine plant ('microgrid'), diesel backup stored in 40 tanks",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://westvirginiawatch.com/2025/12/05/mingo-county-residents-file-federal-lawsuit-against-company-building-power-plants-data-center-in-wv/",
+        "date": "2025-12-05"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Ten Mingo County residents filed a federal lawsuit (S.D. W.Va., 2025-12-03) against TransGas, the Army Corps, Fish and Wildlife Service and FERC over the Adams Fork projects",
+        "source": "https://westvirginiawatch.com/2025/12/05/mingo-county-residents-file-federal-lawsuit-against-company-building-power-plants-data-center-in-wv/",
+        "date": "2025-12-05"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Governor's office said the Mingo project had not received High Impact Data Center designation",
+        "source": "https://mountainstatespotlight.org/2026/05/03/mingo-county-data-centers/",
+        "date": "2026-05-03"
+      }
+    ],
+    "news": [
+      {
+        "title": "'Enough devastation:' Mingo, Logan residents worry about proposed power plants, data centers in WV",
+        "outlet": "West Virginia Watch",
+        "url": "https://westvirginiawatch.com/2025/09/02/enough-devastation-mingo-logan-residents-worry-about-proposed-power-plants-data-centers-in-wv/",
+        "date": "2025-09-02",
+        "tone": "bad"
+      },
+      {
+        "title": "After lawmakers stripped local control over data center projects, West Virginians say they'll take their grievances to the ballot box",
+        "outlet": "Mountain State Spotlight",
+        "url": "https://mountainstatespotlight.org/2026/05/03/mingo-county-data-centers/",
+        "date": "2026-05-03",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Part of TransGas's Adams Fork Energy project (also a permitted ammonia plant). A twin gas plant and data center at Harless Industrial Park (Holden) is tracked as a lead. 'announced' approximate: DEP air permit applications were public by Aug 2025."
+  }
+]

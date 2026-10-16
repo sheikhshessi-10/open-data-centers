@@ -1,0 +1,178 @@
+{
+  "state": "PA",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Computer Data Center Equipment Exemption Program",
+      "law": "Act 25 of 2021 (Tax Reform Code sales and use tax exemption)",
+      "what": "Exempts qualifying data center owners, operators and tenants from Pennsylvania sales and use tax on computer data center equipment; certificate valid 25 years; minimum investment and job thresholds by county population; at least $1M per year in employee pay to continue",
+      "value_known": null,
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "M-2025-3054271",
+      "regulator": "Pennsylvania Public Utility Commission",
+      "utility": "All electric distribution companies (statewide model tariff)",
+      "what": "Interconnection and Tariffs for Large Load Customers: statewide model large-load tariff (data centers and other big loads): cost-causation, collateral, minimum contract terms, clustered interconnection studies, interruptible rate options. Tentative Order Nov 6, 2025; Final Order April 30, 2026 (served May 12, 2026); reconsideration orders June 4 and July 16, 2026",
+      "site_ids": [],
+      "status": "final order issued; docket active",
+      "url": "https://www.puc.pa.gov/docket/M-2025-3054271",
+      "date": "2026-07-16"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 939, Artificial Intelligence and Data Center Act",
+      "status": "pending",
+      "what": "Oversight of high-impact data centers (50 MW+) on energy needs; limits on local ordinances; AI and data center regulatory sandbox (status as of Jan 2026 report)",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "name": "HB 1834, Data Center Act",
+      "status": "pending",
+      "what": "PUC regulation of data centers: data centers pay for their own grid upgrades, clean energy and low-income assistance funding (as described at Allen Twp meeting); passed House (per Allen Township minutes, March 2026)",
+      "source": "https://www.allentownship.org/minutes/24mar26.pdf",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "HB 1924, Load Forecast Accountability Act",
+      "status": "pending",
+      "what": "PUC oversight of utility reports of energy needs; laid on table Oct 29, 2025",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "name": "HB 2061",
+      "status": "pending",
+      "what": "Requires data center construction projects to pay prevailing wage; in House Finance Dec 3, 2025",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "name": "SB 1114, Pennsylvania Ratepayer Protection Act",
+      "status": "pending",
+      "what": "Protects residents and small businesses from data center energy costs; in Senate committee Dec 15, 2025",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "name": "HB 1625, Keystone Artificial Intelligence Authority Act",
+      "status": "pending",
+      "what": "Streamlined permitting and investment support for target industries including data centers",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "name": "SB 991",
+      "status": "pending",
+      "what": "Accelerated air, earthwork and stormwater permitting (applies to data center projects); in Senate Environmental Resources and Energy Committee",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "name": "HB 2515 and HB 2516, Commercial Data Center Transparency Act",
+      "status": "pending",
+      "what": "Standards for responsible, transparent data center development with community involvement (Rep. Jamie Walsh), modeled on Florida proposals",
+      "source": "https://www.timesleader.com/news/1741762/rep-walsh-introduces-legislation-addressing-data-center-growth-in-pennsylvania",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "House six-month data center moratorium bill",
+      "status": "pending",
+      "what": "Lehigh Valley Public Media reports the House passed a six-month moratorium bill; Sen. Jarrett Coleman proposed an 18-month municipal moratorium and ending the data center sales tax exemption. Bill numbers not captured",
+      "source": "https://www.lehighvalleypublicmedia.org/news/all/hyperscale-data-center-back-on-the-agenda-in-south-whitehall-township/",
+      "date": "2026-07-07"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Archbald Borough (Lackawanna County)",
+      "type": "zoning",
+      "what": "Council adopted a zoning amendment permitting data centers (4-2-1 vote) on Nov 24, 2025; residents appealed in Common Pleas court",
+      "status": "adopted; under appeal",
+      "source": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+      "date": "2026-03-11"
+    },
+    {
+      "place": "Hampden Township (Cumberland County)",
+      "type": "zoning",
+      "what": "Commissioners voted unanimously in Sept 2025 against a zoning change that would have allowed data centers in office park zones, after a ~300-signature petition",
+      "status": "rejected",
+      "source": "https://www.spotlightpa.org/news/2025/10/pennsylvania-data-centers-community-opposition-ai-development-environment/",
+      "date": "2025-10-17"
+    },
+    {
+      "place": "City of Allentown (Lehigh County)",
+      "type": "ordinance",
+      "what": "Bill 20 defines data centers, limits them to the most intense industrial zones, 5-acre minimum, water, power, environmental and noise studies, large setbacks",
+      "status": "adopted June 17, 2026 (4-2); amendments considered for Aug 5, 2026",
+      "source": "https://www.lehighvalleypublicmedia.org/news/politics/allentown-officials-look-to-bolster-data-center-regulations-immediately-after-adopting-them/",
+      "date": "2026-06-23"
+    },
+    {
+      "place": "South Hanover Township (Dauphin County)",
+      "type": "ordinance",
+      "what": "Proposed data center ordinance: conditional use only, 400-ft setback from residential zones, 55-ft height cap, pre- and post-construction sound reports, water feasibility study",
+      "status": "advertised July 2026",
+      "source": "https://www.govtech.com/artificial-intelligence/data-center-law-proposal-draws-crowd-in-dauphin-county-pa",
+      "date": "2026-07-02"
+    },
+    {
+      "place": "Watts Township (Perry County)",
+      "type": "zoning",
+      "what": "Data center zoning ordinance hearing delayed to May 2026 after 125+ residents turned out",
+      "status": "pending",
+      "source": "https://www.witf.org/2026/04/02/perry-co-residents-get-delay-in-watts-township-data-center-ordinance/",
+      "date": "2026-04-02"
+    },
+    {
+      "place": "Upper Macungie Township (Lehigh County)",
+      "type": "ordinance",
+      "what": "Data center ordinance adopted shortly before Air Products filed its data center plan (Feb 2026 report)",
+      "status": "adopted",
+      "source": "https://www.lehighvalleypublicmedia.org/news/business/as-data-center-boom-approaches-lehigh-valley-officials-working-to-prepare/",
+      "date": "2026-02-26"
+    },
+    {
+      "place": "Middlesex, North Middleton, Hampden and West Pennsboro townships (Cumberland County); Blakely Borough; Anthony Township (Montour County); Conshohocken Borough and Plymouth Township (Montgomery County); East Manchester, West Manchester, Conewago, Windsor, Fairview and Peach Bottom townships (York County)",
+      "type": "zoning",
+      "what": "Municipalities modifying or reviewing zoning to control data center siting (JSG list)",
+      "status": "various",
+      "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+      "date": "2026-01-28"
+    },
+    {
+      "place": "Gregg Township (Union County)",
+      "type": "moratorium",
+      "what": "Temporary moratorium (up to 180 days) on new data center applications while a curative zoning amendment is finished; PNK Group's pending application excluded",
+      "status": "adopted Aug 20, 2026",
+      "source": "https://www.wfmz.com/news/state/gregg-township-supervisors-approve-data-center-moratorium-pnks-still-on-the-table/article_07e16bde-b50b-5e75-bb56-4a0c0f4a5e81.html",
+      "date": "2026-08-21"
+    },
+    {
+      "place": "Conewago Township (York County)",
+      "type": "ordinance",
+      "what": "Draft data center ordinance and data center overlay map; special meetings July 23 and Aug 20, 2026",
+      "status": "pending",
+      "source": "https://www.conewagotwp.com/?p=3274",
+      "date": "2026-05-12"
+    },
+    {
+      "place": "Upper Mount Bethel Township (Northampton County)",
+      "type": "zoning",
+      "what": "Slate Belt Holdings filed a zoning validity challenge (July 2026) claiming the ordinance excludes data centers; supervisors updating a text amendment with water, environmental and power protections and negotiating an MOU",
+      "status": "pending",
+      "source": "https://www.wfmz.com/news/area/lehighvalley/northampton-county/slate-belt/no-longer-just-a-concept-plan-23-data-center-buildings-pitched-for-umbt-project/article_3cbc6957-eb54-4e10-82e9-f43c9a3f0325.html",
+      "date": "2026-09-04"
+    }
+  ]
+}

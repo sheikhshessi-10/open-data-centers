@@ -1,0 +1,128 @@
+{
+  "state": "VA",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center retail sales and use tax exemption",
+      "law": "Va. Code § 58.1-609.3(18)",
+      "what": "Exempts computer equipment and enabling software bought or leased for qualifying data centers that meet capital investment and job thresholds; runs through 2035. The 2026-2028 budget (law June 29, 2026) left it in place.",
+      "value_known": "About $928 million in forgone state and local tax in FY2023 (JLARC); about 90 percent of the industry uses it.",
+      "source": "https://www.hunton.com/insights/legal/virginia-adds-electricity-consumption-tax-but-stops-short-of-repealing-data-center-sales-tax-exemption",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "JLARC review of the exemption",
+      "law": "JLARC report, Data Centers in Virginia (2024)",
+      "what": "State audit agency found the exemption cost about $928M in FY23 and gave options: extend, let expire in 2035, or replace with a partial exemption through 2050.",
+      "value_known": "$928 million (FY2023)",
+      "source": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
+      "date": "2024-12"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "2026-2028 budget: data center electricity consumption tax",
+      "status": "enacted",
+      "what": "Tax of $0.011 per kWh on electricity used by data centers, effective July 1, 2026, capped at $600M a year statewide, expires after June 30, 2028; SCC to issue guidelines within 60 days. Did not repeal the sales tax exemption.",
+      "source": "https://www.hunton.com/insights/legal/virginia-adds-electricity-consumption-tax-but-stops-short-of-repealing-data-center-sales-tax-exemption",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "SB 30 (2026 Senate budget): end data center sales tax exemption Jan 1, 2027",
+      "status": "failed",
+      "what": "Senate proposal to end the exemption eight years early; dropped in the final budget compromise.",
+      "source": "https://www.dlapiper.com/en-ie/insights/publications/2026/03/virginia-general-assembly-proposes-to-eliminate-sales-and-use-tax-exemption-for-data-centers",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "HB 30 (2026 House budget): conditions on the exemption",
+      "status": "failed",
+      "what": "House proposal to keep the exemption only if data centers remove co-located fossil generation by July 1, 2027, meet clean energy targets 10 years early and install Tier 4 backup generators by 2031; not in the final budget.",
+      "source": "https://www.dlapiper.com/en-ie/insights/publications/2026/03/virginia-general-assembly-proposes-to-eliminate-sales-and-use-tax-exemption-for-data-centers",
+      "date": "2026-03-09"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Prince William County",
+      "type": "zoning",
+      "what": "Digital Gateway rezonings (about 1,790 acres) voided by Circuit Court (Aug 2025) for faulty public notice; affirmed by the Court of Appeals Mar 31, 2026; project ended Jul 2, 2026.",
+      "status": "voided",
+      "source": "https://virginiabusiness.com/prince-william-digital-gateway-data-center-project-officially-dies/",
+      "date": "2026-07-06"
+    },
+    {
+      "place": "Loudoun County",
+      "type": "zoning",
+      "what": "Phase 1 of the Data Center Standards and Locations amendments (CPAM-2024-0001, ZOAM-2024-0001), approved Mar 18, 2025: data centers no longer allowed by right; they need a rezoning or Special Exception. Applications accepted before Feb 12, 2025 may be grandfathered. Phase 2 (use-specific standards for data centers and substations) is underway.",
+      "status": "enacted",
+      "source": "https://www.loudoun.gov/datacenterstandards",
+      "date": "2025-03-18"
+    },
+    {
+      "place": "Loudoun County",
+      "type": "moratorium",
+      "what": "Board voted Sept 15, 2026 to move toward a pause of up to 12 months (the most Virginia law allows) on final Board action on data center and substation applications that need legislative approval; administrative (by-right) applications are not covered; exceptions possible for grid-reliability substations and applications near their legal decision deadline. Final resolution set for Oct 20, 2026, retroactive to Sept 15.",
+      "status": "pending",
+      "source": "https://www.loudoun.gov/CivicAlerts.aspx?AID=10874",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "Spotsylvania County",
+      "type": "zoning",
+      "what": "Code amendment approved Feb 24, 2026 ends by-right data centers; a Special Use Permit with public hearings is now needed in all Office, Commercial and Industrial districts.",
+      "status": "enacted",
+      "source": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs",
+      "date": "2026-02-24"
+    },
+    {
+      "place": "Manassas city",
+      "type": "ordinance",
+      "what": "Ordinance O-2026-455: data center standards in the I-1 and I-2 districts (pre-construction noise studies, facade variety, screened generators and HVAC, bigger setbacks from homes, parks and childcare). Passed first reading unanimously Feb 9, 2026; second reading not confirmed.",
+      "status": "pending",
+      "source": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/",
+      "date": "2026-02-11"
+    },
+    {
+      "place": "Front Royal (Warren County)",
+      "type": "moratorium",
+      "what": "Outright data center moratorium adopted in June 2026 (per law firm summary).",
+      "status": "enacted",
+      "source": "https://www.venable.com/insights/publications/2026/07/data-center-moratoria-spread-across-the-dmv",
+      "date": "2026-07"
+    },
+    {
+      "place": "Prince William County",
+      "type": "zoning",
+      "what": "Board directed staff to draft zoning amendments removing data centers as a by-right use, ending the by-right framework of the Data Center Opportunity Zone Overlay District.",
+      "status": "pending",
+      "source": "https://www.venable.com/insights/publications/2026/07/data-center-moratoria-spread-across-the-dmv",
+      "date": "2026-07"
+    },
+    {
+      "place": "Frederick County",
+      "type": "zoning",
+      "what": "Board directed staff to draft zoning ordinance amendments removing data centers as a by-right use.",
+      "status": "pending",
+      "source": "https://www.venable.com/insights/publications/2026/07/data-center-moratoria-spread-across-the-dmv",
+      "date": "2026-07"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "PUR-2025-00058",
+      "regulator": "Virginia State Corporation Commission",
+      "utility": "Dominion Energy Virginia",
+      "what": "Biennial review final order (Nov 25, 2025): created a new GS-5 rate class for customers of 25 MW or more (mostly data centers) from Jan 1, 2027, with 14-year contracts and minimum payments of at least 85% of contracted transmission/distribution demand and 60% of generation demand; approved $565.7M (2026) and $209.9M (2027) rate increases; told Dominion to study shifting more data center costs away from homes.",
+      "site_ids": [],
+      "status": "decided",
+      "url": "https://cardinalnews.org/2025/11/26/regulators-approve-dominion-energy-rate-increase/",
+      "date": "2025-11-25"
+    }
+  ]
+}

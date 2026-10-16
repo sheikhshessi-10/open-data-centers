@@ -1,0 +1,51 @@
+{
+  "state": "RI",
+  "checked": {
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "2026-H 7331 (Kennedy) data center regulation",
+      "status": "pending",
+      "what": "PUC must stop data centers shifting electricity costs to other customers; annual DEM reports on daily water withdrawal and cooling; DEM may require water plans; closed-loop cooling; financial assurance for site restoration. Referred to House Corporations.",
+      "source": "https://www.rilegislature.gov/pressrelease/Lists/PressReleases/DispForm.aspx?ID=376071",
+      "date": "2026-01-29"
+    },
+    {
+      "name": "2026-H 7695 data center sales and use tax exemption",
+      "status": "pending",
+      "what": "Would exempt qualified data centers and their equipment from sales and use tax (opponents say at least 30 years, no caps). House Finance hearing 2026-05-07; final outcome not found.",
+      "source": "https://www.rilegislature.gov/Special/comdoc/House%20Finance%202026/05-07-2026--H7695--Alan%20Krinsky(The%20Economic%20Progress%20Instiute)--FIN.pdf",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "S 2427 (2026) data center grid integration / affordability",
+      "status": "pending",
+      "what": "Would require the PUC to create a separate class of electric service for large energy use facilities such as data centers (Acadia Center testimony to Senate Commerce supports it). Final outcome not found; check whether it died at the end of the 2026 session.",
+      "source": "https://www.rilegislature.gov/senators/SenateComDocs/2026%20Commerce/S2427%20Acadia%20Center.pdf",
+      "date": "2026-03-10"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Town of Smithfield (Providence County)",
+      "type": "ordinance",
+      "what": "Town Council voted 4-1 (on or about 2026-05-05) to ban data centers; takes effect after 30 days. Hanton City Investments argues its May 4 application is grandfathered.",
+      "status": "enacted",
+      "source": "https://www.oceanstatemedia.org/technology/proposed-data-center-still-looms-over-smithfield-even-after-town-council-enacts-ban",
+      "date": "2026-05-13"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "None: no data-center-specific state tax incentive found",
+      "law": null,
+      "what": "Rhode Island has no data center tax incentive in NCSL's 'Status of Data Center Tax Incentives, by State (2026)' table (adapted from Husch Blackwell's 50-state survey, last updated 2026-07-27; listed as N/A; table data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv). Checked R.I. Gen. Laws 44-18-30 (sales and use tax exemptions) on 2026-10-15: no data center exemption. 2026-H 7695 would create one (see laws_and_bills). NCSL (2026-04-09) lists Rhode Island among states considering new incentives with energy and labor conditions.",
+      "value_known": null,
+      "source": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-18/44-18-30.htm",
+      "date": "2026-10-15"
+    }
+  ]
+}

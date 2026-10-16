@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "mo-clay-meta-kansas-city",
+    "name": "Meta Kansas City Data Center (Northland)",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "MO",
+    "county": "Clay County",
+    "town": "Kansas City",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2022",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://www.startlandnews.com/2025/08/meta-data-center-kansas-city/",
+        "date": "2025-08-21"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (more than)",
+        "kind": "real",
+        "source": "https://www.startlandnews.com/2025/08/meta-data-center-kansas-city/",
+        "date": "2025-08-21"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "skilled trade workers at peak",
+        "kind": "real",
+        "source": "https://www.startlandnews.com/2025/08/meta-data-center-kansas-city/",
+        "date": "2025-08-21"
+      },
+      "power_source": {
+        "value": "Meta says its electricity use is matched with 100% clean and renewable energy",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.startlandnews.com/2025/08/meta-data-center-kansas-city/",
+        "date": "2025-08-21"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Could use up to 9.5 million gallons per day; on-site retention ponds",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kshb.com/news/local-news/metas-northland-data-center-now-operational",
+        "date": "2025-08-20"
+      },
+      "tax_break": null,
+      "community_deal": {
+        "value": "About $50 million to local water, sewer and road infrastructure; donations to Clay County, Platte County, KCMO, schools and nonprofits",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kshb.com/news/local-news/metas-northland-data-center-now-operational",
+        "date": "2025-08-20"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Meta's Northland data center now operational",
+        "outlet": "KSHB 41",
+        "url": "https://www.kshb.com/news/local-news/metas-northland-data-center-now-operational",
+        "date": "2025-08-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Meta switches on $1B Kansas City data center",
+        "outlet": "Startland News",
+        "url": "https://www.startlandnews.com/2025/08/meta-data-center-kansas-city/",
+        "date": "2025-08-21",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Construction began 2022 ('announced' set to that year). 1.4M sq ft, three data center buildings plus warehouse, off US-169 in the Northland. County is Clay per a local tracker; sources only say Kansas City Northland. KSHB page shows no date; date used is the opening day."
+  },
+  {
+    "id": "mo-clay-google-kansas-city",
+    "name": "Google Kansas City data center (Northland, near Worlds of Fun)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "MO",
+    "county": "Clay County",
+    "town": "Kansas City",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD",
+        "kind": "estimate",
+        "source": "https://www.kcur.org/housing-development-section/2026-03-22/kansas-citys-ai-data-center-building-boom-could-hurt-regional-job-market-in-the-long-term",
+        "date": "2026-03-22"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction workers (reported)",
+        "kind": "estimate",
+        "source": "https://www.kcur.org/housing-development-section/2026-03-22/kansas-citys-ai-data-center-building-boom-could-hurt-regional-job-market-in-the-long-term",
+        "date": "2026-03-22"
+      },
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Kansas City's AI data center building boom could hurt regional job market in the long term",
+        "outlet": "KCUR",
+        "url": "https://www.kcur.org/housing-development-section/2026-03-22/kansas-citys-ai-data-center-building-boom-could-hurt-regional-job-market-in-the-long-term",
+        "date": "2026-03-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google lists Kansas City, MO as 'in development' with two new data centers (this one and Project Mica). KC Star (Feb 2026) says the first Northland campus broke ground in 2024 and is under construction. County inferred from the Worlds of Fun area (Clay County); check. Pass 3 (2026-10-15): Checked against Project Mica (mo-clay-google-mica): separate campuses. KCUR (2026-03-22) puts this first $1B campus 'near Worlds of Fun' and Mica 'near Smithville'; KC Star (2026-02-14) calls Mica Google's second Northland development, off I-435 and US-169."
+  },
+  {
+    "id": "mo-clay-google-mica",
+    "name": "Project Mica (Google, Northland)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "MO",
+    "county": "Clay County",
+    "town": "Kansas City",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2026-02-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/articles/google-confirms-10b-500-acre-120000333.html",
+        "date": "2026-02-14"
+      },
+      "power_mw": {
+        "value": 700,
+        "unit": "MW (nearly)",
+        "kind": "real",
+        "source": "https://portkc.com/project/project-mica/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 500,
+        "unit": "acres (nearly)",
+        "kind": "real",
+        "source": "https://portkc.com/project/project-mica/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Adjacent Nashua Power Station and onsite substations",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://portkc.com/project/project-mica/",
+        "date": "2026-10-15"
+      },
+      "utility": {
+        "value": "Evergy (Google covers full energy costs under its agreement with Evergy)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/articles/google-confirms-10b-500-acre-120000333.html",
+        "date": "2026-02-14"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Port KC: up to $10B taxable revenue bonds, 25-year 75% property tax abatement, 100% state and local sales tax exemption on construction materials and equipment",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://portkc.com/project/project-mica/",
+        "date": "2026-10-15"
+      },
+      "community_deal": {
+        "value": "$1.5M to Smithville School District workforce program and $250K to Northland Career Center, paid upfront",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://portkc.com/project/project-mica/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google confirms $10B, 500-acre data center in Kansas City's Northland",
+        "outlet": "Kansas City Star",
+        "url": "https://www.yahoo.com/news/articles/google-confirms-10b-500-acre-120000333.html",
+        "date": "2026-02-14",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "NE corner of I-435 and US-169, former Rocky Branch Creek Technology Park. Five buildings, 1.56M sq ft. Port KC page has no date; dated as checked."
+  },
+  {
+    "id": "mo-clay-metrobloks-liberty",
+    "name": "Metrobloks Liberty data center campus",
+    "owner": "Metrobloks",
+    "operator": "Metrobloks",
+    "tier": "large",
+    "state": "MO",
+    "county": "Clay County",
+    "town": "Liberty",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03-24",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1400000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://ded.mo.gov/press-room/metrobloks-announces-plans-14-billion-data-center-liberty",
+        "date": "2026-03-24"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 30,
+        "unit": "jobs (at least, avg pay $95,649)",
+        "kind": "real",
+        "source": "https://ded.mo.gov/press-room/metrobloks-announces-plans-14-billion-data-center-liberty",
+        "date": "2026-03-24"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Evergy (listed as a project partner)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://ded.mo.gov/press-room/metrobloks-announces-plans-14-billion-data-center-liberty",
+        "date": "2026-03-24"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Missouri Data Center Sales Tax Exemption Program, plus unspecified regional, local and state incentives",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://ded.mo.gov/press-room/metrobloks-announces-plans-14-billion-data-center-liberty",
+        "date": "2026-03-24"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Three buildings, 568,800 sq ft. A tracker cites about 150 MW and 29 acres; not confirmed."
+  },
+  {
+    "id": "mo-jackson-nebius-independence",
+    "name": "Nebius AI factory (Independence)",
+    "owner": "Nebius",
+    "operator": "Nebius",
+    "tier": "large",
+    "state": "MO",
+    "county": "Jackson County",
+    "town": "Independence",
+    "lat": 39.101918,
+    "lng": -94.309778,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 800,
+        "unit": "MW expected (Nebius says up to 1.2 GW potential)",
+        "kind": "real",
+        "source": "https://www.kshb.com/news/local-news/missouri/jackson-county/independence-approves-hyperscale-ai-data-center-issues-150-billion-in-bonds",
+        "date": "2026-03-03"
+      },
+      "acres": {
+        "value": 400,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://nebius.com/newsroom/nebius-secures-approval-for-its-first-gigawatt-scale-ai-factory",
+        "date": "2026-03-03"
+      },
+      "jobs_promised_perm": {
+        "value": 130,
+        "unit": "permanent jobs (about)",
+        "kind": "real",
+        "source": "https://nebius.com/newsroom/nebius-secures-approval-for-its-first-gigawatt-scale-ai-factory",
+        "date": "2026-03-03"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://nebius.com/newsroom/nebius-secures-approval-for-its-first-gigawatt-scale-ai-factory",
+        "date": "2026-03-03"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "Independence Power & Light (municipal); power from a separate privately funded plant",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kshb.com/news/local-news/missouri/jackson-county/independence-approves-hyperscale-ai-data-center-issues-150-billion-in-bonds",
+        "date": "2026-03-03"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://nebius.com/newsroom/nebius-secures-approval-for-its-first-gigawatt-scale-ai-factory",
+        "date": "2026-03-03"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "About $6.26B-$6.6B in tax breaks over 20 years (no real/personal property tax, no sales tax on construction); Chapter 100 bonds authorized ($150.6B bond ceiling as reported); PILOT about $651M over 20 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.kshb.com/news/local-news/missouri/jackson-county/independence-approves-hyperscale-ai-data-center-issues-150-billion-in-bonds",
+        "date": "2026-03-03"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Three residents (incl. Misty Vaughn, Rachel Gonzalez) sued after the city rejected their referendum petition on the incentive ordinance (case 2616-CV08337)",
+        "source": "https://www.kcur.org/politics-elections-and-government/2026-03-12/independence-residents-sue-tax-breaks-data-center",
+        "date": "2026-03-12"
+      },
+      {
+        "what": "Referendum petition drive against the council's incentive ordinance",
+        "source": "https://www.kshb.com/news/local-news/missouri/jackson-county/independence-approves-hyperscale-ai-data-center-issues-150-billion-in-bonds",
+        "date": "2026-03-03"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Independence approves hyperscale AI data center",
+        "outlet": "KSHB 41",
+        "url": "https://www.kshb.com/news/local-news/missouri/jackson-county/independence-approves-hyperscale-ai-data-center-issues-150-billion-in-bonds",
+        "date": "2026-03-03",
+        "tone": "neutral"
+      },
+      {
+        "title": "Independence residents sue over tax breaks for data center",
+        "outlet": "KCUR",
+        "url": "https://www.kcur.org/politics-elections-and-government/2026-03-12/independence-residents-sue-tax-breaks-data-center",
+        "date": "2026-03-12",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Site at Little Blue Parkway and MO-78 (Eastgate). Council approved 5-2 on March 2, 2026. Investment total not disclosed; $150.6B is a bond ceiling, not investment. KCUR (Mar 12) says crews began moving land. A tracker says a judge denied the referendum suit on March 25, 2026; not confirmed here.",
+    "pin_address": "250 Bly Rd, Independence, MO",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072161564"
+  },
+  {
+    "id": "mo-montgomery-amazon-new-florence",
+    "name": "Amazon Web Services Montgomery County campus (Project Green)",
+    "owner": "Amazon (AWS)",
+    "operator": "Amazon (AWS)",
+    "tier": "large",
+    "state": "MO",
+    "county": "Montgomery County",
+    "town": "New Florence",
+    "lat": 38.911925,
+    "lng": -91.425327,
+    "stage": "building",
+    "announced": "2026-06-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/amazon-selects-missouri-for-10-billion-data-center-campus-302800859.html",
+        "date": "2026-06-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 400,
+        "unit": "full-time jobs (over)",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/amazon-selects-missouri-for-10-billion-data-center-campus-302800859.html",
+        "date": "2026-06-15"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Ameren Missouri; Amazon pays 100% of electric service and grid connection costs, no rate discounts",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/amazon-selects-missouri-for-10-billion-data-center-campus-302800859.html",
+        "date": "2026-06-15"
+      },
+      "cooling_type": {
+        "value": "Free air cooling about 90% of the time; water cooling 7% of the year or less; rainwater harvesting",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.aboutamazon.com/news/company-news/amazon-data-center-missouri-new-jobs",
+        "date": "2026-06-15"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "County Chapter 100 deal approved Dec 2025; incentives apply only to personal property taxes on a declining schedule. Tax revenue projected about $400M (min) to $1.8B (max) over 25 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://themissouritimes.com/aws-new-facilities-near-new-florence-will-double-tax-revenue-for-montgomery-county/",
+        "date": "2026-02-04"
+      },
+      "community_deal": {
+        "value": "Over $7M total: $3M for emergency dispatch, $1M+ fairgrounds space, road work and bridge, $150K community fund, $50K school grants; NorthPoint $3M in 2026",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.aboutamazon.com/news/company-news/amazon-data-center-missouri-new-jobs",
+        "date": "2026-06-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Community group sued county commissioners in Feb 2026 over alleged Sunshine Law violations (notice, water use details, closed meetings), seeking to halt the project",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21"
+      },
+      {
+        "what": "Large crowds opposed the project at Dec 2025 and Jan 30, 2026 town halls; residents pushed for a moratorium",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon Selects Missouri for $10 Billion Data Center Campus",
+        "outlet": "PR Newswire (Missouri Partnership)",
+        "url": "https://www.prnewswire.com/news-releases/amazon-selects-missouri-for-10-billion-data-center-campus-302800859.html",
+        "date": "2026-06-15",
+        "tone": "good"
+      },
+      {
+        "title": "Missouri governor and Google announce $15 billion data center in Montgomery County",
+        "outlet": "St. Louis Public Radio",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer NorthPoint Development. Site near Hudson Rd and Ellis Rd, New Florence. Amazon page date not shown; dated by the PRN release. 'building' per STLPR describing it as under construction.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072113242",
+    "pin_address": "50 HUDSON RD, NEW FLORENCE, MO, 63363"
+  },
+  {
+    "id": "mo-montgomery-google-new-florence",
+    "name": "Google New Florence data center (Project Spade)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "MO",
+    "county": "Montgomery County",
+    "town": "New Florence",
+    "lat": 38.890448,
+    "lng": -91.425273,
+    "stage": "building",
+    "announced": "2026-05-20",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 15000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Advanced air cooling; water limited to uses like kitchens",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "Training for 2,300+ construction workers over two years with the Construction Laborers and Contractors Joint Training Fund of Eastern Missouri",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Missouri governor and Google announce $15 billion data center in Montgomery County",
+        "outlet": "St. Louis Public Radio",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-05-21/missouri-governor-google-announce-15-billion-data-center-montgomery-county",
+        "date": "2026-05-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google lists New Florence, MO as in development. Near I-70 / Hwy 19. A tracker names Related Digital as developer and 934 acres; not confirmed.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072130156",
+    "pin_address": "656 TREE FARM RD, NEW FLORENCE, MO, 63363"
+  },
+  {
+    "id": "mo-jefferson-crg-festus",
+    "name": "CRG Festus data center",
+    "owner": "CRG (Clayco)",
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "Jefferson County",
+    "town": "Festus",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 360,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Ameren Missouri; CRG pays for its energy use and added infrastructure",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Five-year tax abatement",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31"
+      },
+      "community_deal": {
+        "value": "$3M/yr to the city for 5 years, then $5M/yr for 5 more; developer pays water, sewer and street upgrades",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Opposition group sued the city and developer",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer",
+        "date": "2026-04-10"
+      },
+      {
+        "what": "Wake Up Jeffco grassroots group formed an LLC to pursue litigation; at least two residents filed lawsuits",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center",
+        "date": "2026-02-27"
+      },
+      {
+        "what": "Council approved 6-2 (Templeton, Wehner voted no) amid hundreds of opponents",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Festus voters ousted every incumbent council member after the approval",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-08/6b-data-center-festus-voters-oust-every-incumbent-council-member",
+        "date": "2026-04-08"
+      }
+    ],
+    "news": [
+      {
+        "title": "Festus council approves $6 billion data center plan despite massive public pushback",
+        "outlet": "St. Louis Public Radio",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-03-31/festus-data-center-development-approval",
+        "date": "2026-03-31",
+        "tone": "bad"
+      },
+      {
+        "title": "After $6B data center plan, Festus voters oust every incumbent council member",
+        "outlet": "St. Louis Public Radio",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-04-08/6b-data-center-festus-voters-oust-every-incumbent-council-member",
+        "date": "2026-04-08",
+        "tone": "bad"
+      },
+      {
+        "title": "Festus data center opposition group sues the city and developer",
+        "outlet": "St. Louis Public Radio",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer",
+        "date": "2026-04-10",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Council annexed 240 acres in Nov 2025 after CRG withdrew from St. Charles. North of Hwy 67, west of Hwy CC. No end user named."
+  },
+  {
+    "id": "mo-st-charles-crg-cumulus",
+    "name": "Project Cumulus (St. Charles)",
+    "owner": "CRG (Clayco)",
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "St. Charles County",
+    "town": "St. Charles",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (more than, developer claim)",
+        "kind": "real",
+        "source": "https://www.firstalert4.com/2026/05/18/st-charles-weighs-data-center-ban-developer-says-project-would-have-upgraded-water-system/?outputType=amp",
+        "date": "2026-05-18"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents opposed the site over the city wellfield; the Good Government Committee spent $15,000+ on anti-data center mailers",
+        "source": "https://www.firstalert4.com/2026/05/18/st-charles-weighs-data-center-ban-developer-says-project-would-have-upgraded-water-system/?outputType=amp",
+        "date": "2026-05-18"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "St. Charles prepares to vote on data center ban",
+        "outlet": "KMOV First Alert 4",
+        "url": "https://www.firstalert4.com/2026/05/18/st-charles-weighs-data-center-ban-developer-says-project-would-have-upgraded-water-system/?outputType=amp",
+        "date": "2026-05-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "CRG Cumulus LLC proposal near St. Charles water wells pulled before a council vote (2025); city then passed a ~1-year moratorium. STLPR (2026-02-27) confirms CRG withdrew its St. Charles proposal. Developer claimed about $2B construction payroll."
+  },
+  {
+    "id": "mo-franklin-beltline-meramec-valley",
+    "name": "Meramec Valley Technology Park (Crooked Creek, Pacific)",
+    "owner": "Beltline Energy",
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "Franklin County",
+    "town": "Pacific",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents and groups sued to stop the rezonings and projects; Planning & Zoning had recommended denial",
+        "source": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/",
+        "date": "2026-09-14"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data centers approved by Franklin County Commissioners in Tuesday vote",
+        "outlet": "KMOV First Alert 4",
+        "url": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/",
+        "date": "2026-09-14",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "County Commission rezoned agricultural to industrial (Sept 2026). Earlier (Feb 2026) Beltline withdrew a $16B rezoning request at a hearing; same Crooked Creek land. A tracker lists 495 acres and 16 buildings; not confirmed."
+  },
+  {
+    "id": "mo-franklin-provident-gateway-digital",
+    "name": "Gateway Digital Campus (Diamond Farms, Villa Ridge)",
+    "owner": "Provident Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "Franklin County",
+    "town": "Villa Ridge",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 600,
+        "unit": "acres (more than)",
+        "kind": "real",
+        "source": "https://themissouritimes.com/franklin-county-planning-and-zoning-approves-diamond-farms-data-center-project/",
+        "date": "2026-04-23"
+      },
+      "jobs_promised_perm": {
+        "value": 250,
+        "unit": "permanent jobs (project claim)",
+        "kind": "real",
+        "source": "https://themissouritimes.com/franklin-county-planning-and-zoning-approves-diamond-farms-data-center-project/",
+        "date": "2026-04-23"
+      },
+      "jobs_promised_build": {
+        "value": 2000,
+        "unit": "construction jobs (project claim)",
+        "kind": "real",
+        "source": "https://themissouritimes.com/franklin-county-planning-and-zoning-approves-diamond-farms-data-center-project/",
+        "date": "2026-04-23"
+      },
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "'Gateway Guarantee': developer funds infrastructure upgrades so local electric bills do not rise",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://themissouritimes.com/franklin-county-planning-and-zoning-approves-diamond-farms-data-center-project/",
+        "date": "2026-04-23"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents and groups sued to stop the rezonings and projects",
+        "source": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/",
+        "date": "2026-09-14"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data centers approved by Franklin County Commissioners in Tuesday vote",
+        "outlet": "KMOV First Alert 4",
+        "url": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/",
+        "date": "2026-09-14",
+        "tone": "bad"
+      },
+      {
+        "title": "Franklin County Planning and Zoning Approves Diamond Farms Data Center Project (press release)",
+        "outlet": "The Missouri Times",
+        "url": "https://themissouritimes.com/franklin-county-planning-and-zoning-approves-diamond-farms-data-center-project/",
+        "date": "2026-04-23",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near Villa Ridge / Gray Summit by I-44, next to Shaw Nature Reserve. Provident and Diamond Farms are the same project. County Commission approved the rezoning Sept 2026."
+  },
+  {
+    "id": "mo-platte-unknown-kestrel",
+    "name": "Project Kestrel (KCI-29)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "Platte County",
+    "town": "Kansas City",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-08-26",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 100000000000,
+        "unit": "USD (planned, all phases)",
+        "kind": "real",
+        "source": "https://portkc.com/100-billion-data-center-development-to-bring-infrastructure-investment-and-jobs-to-the-northland/",
+        "date": "2025-08-26"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 379,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://portkc.com/100-billion-data-center-development-to-bring-infrastructure-investment-and-jobs-to-the-northland/",
+        "date": "2025-08-26"
+      },
+      "jobs_promised_perm": {
+        "value": 50,
+        "unit": "jobs per phase (about)",
+        "kind": "real",
+        "source": "https://portkc.com/100-billion-data-center-development-to-bring-infrastructure-investment-and-jobs-to-the-northland/",
+        "date": "2025-08-26"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "$2.62M to Northland Career Center over 5 years; $0.25/sq ft workforce charge (~$15.75M at full build); 110M+ new tax revenue over bond term",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://portkc.com/100-billion-data-center-development-to-bring-infrastructure-investment-and-jobs-to-the-northland/",
+        "date": "2025-08-26"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Port KC release: six hyperscale buildings, 1.8M sq ft, end user 'one of the world's leading tech companies' (unnamed), phase one construction to begin 2026. County is Platte, inferred from the KCI-29 mega site near the airport; check."
+  },
+  {
+    "id": "mo-jasper-wildwood-ranch-joplin",
+    "name": "Wildwood Ranch data center (Joplin)",
+    "owner": "Wildwood Ranch LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "Jasper County",
+    "town": "Joplin",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-12-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 600.4,
+        "unit": "acres rezoned R-1 to M-2 (540 acres annexed)",
+        "kind": "real",
+        "source": "https://mo-joplin2.civicplus.com/1286/Wildwood-Ranch-Industrial-Complex",
+        "date": "2026-03-06"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Joplin Sustainable Technology Alliance petition drive for a 12-month data center moratorium turned in 2,832 signatures (goal 5,032), short of the requirement",
+        "source": "https://www.joplinglobe.com/news/petitions-to-stop-joplin-data-center-project-fall-short-of-goal/article_e60887e9-c142-4652-9d4b-990cb5a79e7f.html",
+        "date": "2026-03-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Joplin City Council advances data center annexation, zoning",
+        "outlet": "Joplin Globe",
+        "url": "https://www.joplinglobe.com/news/joplin-city-council-advances-data-center-annexation-zoning/article_e9c57ea7-3cbe-4a50-a7f5-ef805c69502f.html",
+        "date": "2026-01-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "Petitions to stop Joplin data center project fall short of goal",
+        "outlet": "Joplin Globe",
+        "url": "https://www.joplinglobe.com/news/petitions-to-stop-joplin-data-center-project-fall-short-of-goal/article_e60887e9-c142-4652-9d4b-990cb5a79e7f.html",
+        "date": "2026-03-10",
+        "tone": "bad"
+      },
+      {
+        "title": "Officials in Joplin, Missouri greenlight rezoning request for potential data center",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/officials-in-joplin-missouri-greenlight-rezoning-request-for-potential-data-center/",
+        "date": "2026-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [
+      {
+        "who": "City of Joplin project page",
+        "how": "web page",
+        "value": "https://mo-joplin2.civicplus.com/1286/Wildwood-Ranch-Industrial-Complex",
+        "source": "https://mo-joplin2.civicplus.com/1286/Wildwood-Ranch-Industrial-Complex"
+      }
+    ],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "SW corner of Central City Rd and 20th St, west Joplin. Applicant James (Jimmer) Pinjuv, managing member of Wildwood Ranch LLC. Annexation applied 2025-12-04; P&Z approved 2026-01-12; council final approval of annexation and M-2 rezoning (Bills 2026-256/257) 2026-02-17. City, 2026-03-06: no construction permit applications; developer doing an electric power feasibility study. End user not named (trackers link Abits Group, unconfirmed). Regional listing says 200 MW+ (via DCD, not read). Promotes lead mo-jasper-wildwood-ranch-joplin. Tracker (missouridatacenters.org) reports Geronimo Power emerged as developer and a March 2026 lawsuit in Jasper County Circuit Court to void the rezoning; neither verified in a news or court source. Pass 3 (2026-10-15): Lead mo-jasper-geronimo re-checked: KOAM's Geronimo story names no site and does not mention Wildwood Ranch; kept separate."
+  },
+  {
+    "id": "mo-st-louis-city-contour-armory",
+    "name": "Armory Innovation District data center (Midtown St. Louis)",
+    "owner": "Contour, TerraWatt and THO Investments (development team)",
+    "operator": null,
+    "tier": "large",
+    "state": "MO",
+    "county": "St. Louis city",
+    "town": "St. Louis",
+    "lat": 38.63197,
+    "lng": -90.23776,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (whole Armory Innovation District, incl. the data center)",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "power_mw": {
+        "value": 120,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "At least half from renewable sources within five years (permit condition)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling and air-cooled chillers (permit condition)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "None: developers agreed not to seek tax abatements for the data center or the Armory buildings",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Community development agreement; about $15M toward multimodal projects incl. the Brickline Greenway",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "utility": {
+        "value": "Ameren Missouri (new large-load rate structure)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents protested at the Board of Public Service vote and spoke for hours against it at an earlier hearing",
+        "source": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center project near Armory gets final approval from St. Louis",
+        "outlet": "St. Louis Public Radio",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-04-21/data-center-project-near-armory-final-approval-st-louis",
+        "date": "2026-04-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center project near Armory gets final approval from city",
+        "outlet": "St. Louis American",
+        "url": "https://www.stlamerican.com/news/local-news/data-center-project-near-armory-gets-final-approval-from-city/",
+        "date": "2026-04",
+        "tone": "neutral"
+      },
+      {
+        "title": "City of St. Louis approves permit for Armory Innovation Data Center project",
+        "outlet": "St. Louis Labor Tribune",
+        "url": "https://labortribune.com/city-of-st-louis-approves-permit-for-armory-innovation-data-center-project/",
+        "date": "2026-04",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Board of Public Service unanimously approved the conditional use permit 2026-04-21 after Mayor Spencer's requested delay. Data center on the former Macy's/Famous-Barr warehouse site next to the Armory; the Armory becomes offices for the data center user. Team also includes Steadfast City, ARCO, Lewis Rice. End user not named. Projected about $423M in taxes over 10 years (about $206.3M to St. Louis Public Schools, $139.3M to the city). Promotes lead mo-st-louis-city-armory.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071977238",
+    "pin_address": "3660 MARKET ST, SAINT LOUIS, MO, 63110"
+  },
+  {
+    "id": "mo-warren-crusoe-warrenton",
+    "name": "Crusoe Warrenton campus (Warrenton North Industrial Park)",
+    "owner": "Crusoe",
+    "operator": "Crusoe",
+    "tier": "large",
+    "state": "MO",
+    "county": "Warren County",
+    "town": "Warrenton",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "change.org petition to the Warrenton Board of Aldermen asking for a 6-12 month data center moratorium and special use permits",
+        "source": "https://www.change.org/p/protect-warrenton-no-data-center-without-local-safeguards",
+        "date": "2026"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Neighbors (incl. a bordering family farm) asked for bigger buffers and generator setbacks at the Warrenton P&Z hearing on the data center ordinance",
+        "source": "https://www.firstalert4.com/2025/12/05/warrenton-planning-commission-approves-data-center-ordinance-amid-resident-concerns/",
+        "date": "2025-12-05"
+      }
+    ],
+    "news": [
+      {
+        "title": "Warrenton planning commission approves data center ordinance amid resident concerns",
+        "outlet": "KMOV First Alert 4",
+        "url": "https://www.firstalert4.com/2025/12/05/warrenton-planning-commission-approves-data-center-ordinance-amid-resident-concerns/",
+        "date": "2025-12-05",
+        "tone": "neutral"
+      },
+      {
+        "title": "Meta strikes new AI computing deals with data center firm Crusoe",
+        "outlet": "Bloomberg",
+        "url": "https://news.bgov.com/artificial-intelligence/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
+        "date": "2026-06-18",
+        "tone": "neutral"
+      },
+      {
+        "title": "Crusoe data center could be built west of St. Louis, Missouri",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/crusoe-data-center-could-be-built-west-of-st-louis-missouri/",
+        "date": "2025-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Off I-70 on the west edge of Warrenton. Crusoe named as developer by a Warren County economic consultant (Nov 2025, KMOV). Bloomberg (June 18, 2026, unconfirmed by the companies) reported Meta contracted capacity at Crusoe's Childress TX and Warrenton MO sites, about 1.6 GW combined. Trackers say: ~340 acres at 22151 NW Service Rd, two 805,000 sq ft buildings, Board of Aldermen approved a CUP and site plan Jan 2026 (unverified; stage kept 'announced'). Developer considering closed-loop cooling. Bloomberg page not opened (paywall); DCD page 403. Promotes lead mo-warren-warrenton."
+  }
+]

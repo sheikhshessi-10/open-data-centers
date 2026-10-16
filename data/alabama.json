@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "al-jackson-google-widows-creek",
+    "name": "Google Jackson County data center (former Widows Creek coal plant)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Jackson County",
+    "town": "Bridgeport",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2015",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/alabama/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Solar farm built to supply carbon-free energy (Google location page)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/alabama/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Alabama data centers multiply as artificial intelligence fuels growth",
+        "outlet": "WAFF",
+        "url": "https://www.waff.com/2026/02/18/alabama-data-centers-multiply-artificial-intelligence-fuels-growth/",
+        "date": "2026-02-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google page: broke ground on first Alabama data center; opened 2018 at the site of a former coal plant (TVA's Widows Creek); solar farm begun 2019. '$2 billion invested in Alabama since building our Jackson County data center in 2018' is statewide. Announcement year 2015 is from older reports (Google timeline shows groundbreaking without a year in the captured text), treat as approximate."
+  },
+  {
+    "id": "al-madison-meta-huntsville",
+    "name": "Meta Huntsville Data Center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Madison County",
+    "town": "Huntsville",
+    "lat": 34.840957,
+    "lng": -86.633838,
+    "stage": "running",
+    "announced": "2018-06-14",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/all-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 340,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://governor.alabama.gov/press-releases/governor-ivey-announces-facebook-to-invest-750-million-in-new-data-center-in-huntsville",
+        "date": "2018-06-14"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://governor.alabama.gov/press-releases/governor-ivey-announces-facebook-to-invest-750-million-in-new-data-center-in-huntsville",
+        "date": "2018-06-14"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/all-locations/",
+        "date": "2026-10-15"
+      },
+      "power_source": {
+        "value": "100% clean energy matched; three Alabama projects adding 487 MW of new renewable energy",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/huntsville-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "utility": {
+        "value": "TVA (power); Huntsville Utilities (water and wastewater)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/huntsville-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Alabama Jobs Act investment credit estimated at $86.25 million over 10 years",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://governor.alabama.gov/press-releases/governor-ivey-announces-facebook-to-invest-750-million-in-new-data-center-in-huntsville",
+        "date": "2018-06-14"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Governor Ivey Announces Facebook to Invest $750 million in New Data Center in Huntsville",
+        "outlet": "Office of the Governor of Alabama",
+        "url": "https://governor.alabama.gov/press-releases/governor-ivey-announces-facebook-to-invest-750-million-in-new-data-center-in-huntsville",
+        "date": "2018-06-14",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "340 acres in North Huntsville Industrial Park bought by Meta entity Starbelt LLC for $8.5M (city council approval May 24, 2018). Original investment $750M; Meta's page now says $1.5B+ and 300+ operational jobs once completed. County taken from the release (Huntsville/Madison County announcement, North Huntsville Industrial Park); confirm parcel county.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110070255546",
+    "pin_address": "5400 Prosperity Dr NW, Huntsville, AL 35810"
+  },
+  {
+    "id": "al-montgomery-meta-montgomery",
+    "name": "Meta Montgomery Data Center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Montgomery County",
+    "town": "Montgomery",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/montgomery-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/montgomery-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 4000,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/montgomery-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "Alabama Power (electricity); Montgomery Water Works & Sanitary Sewer Board",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/montgomery-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "AL: Meta to Expand Montgomery Data Hub, Pushing Total Investment to More Than $1.5 Billion",
+        "outlet": "Trade and Industry Development",
+        "url": "https://www.tradeandindustrydev.com/region/alabama/news/al-meta-expand-montgomery-data-hub-pushing-total-35510",
+        "date": "2026-02-13",
+        "tone": "good"
+      },
+      {
+        "title": "Alabama data centers multiply as artificial intelligence fuels growth",
+        "outlet": "WAFF",
+        "url": "https://www.waff.com/2026/02/18/alabama-data-centers-multiply-artificial-intelligence-fuels-growth/",
+        "date": "2026-02-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First announced April 2024 at $800M; expansion announced Feb 2026 on a closed construction tour brings total to more than $1.5B; campus to exceed 1.3 million sq ft. Broke ground 2024 (Meta page). Meta's info sheet says 300 operational jobs and 4,000 peak construction workers; the all-locations page says 100+ and 1,000+."
+  },
+  {
+    "id": "al-jefferson-logistic-land-project-marvel",
+    "name": "Project Marvel",
+    "owner": "Logistic Land Investment LLC (TPA Group, Atlanta)",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Jefferson County",
+    "town": "Bessemer",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 14500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.wbrc.com/2026/06/25/bessemer-data-center-rezoning-lawsuit-dismissed/",
+        "date": "2026-06-25"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.waff.com/2026/02/18/alabama-data-centers-multiply-artificial-intelligence-fuels-growth/",
+        "date": "2026-02-18"
+      },
+      "acres": {
+        "value": 1600,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://abc3340.com/news/abc-3340-news-iteam/bessemer-unveils-revised-project-marvel-data-center-campus-plan-amid-ongoing-controversy",
+        "date": "2026-02-09"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents near Rock Mountain Lake Road sued the City of Bessemer (filed April 2025) over the rezoning process; a TRO briefly halted council action; case dismissed with prejudice June 22, 2026.",
+        "source": "https://www.wbrc.com/2026/06/25/bessemer-data-center-rezoning-lawsuit-dismissed/",
+        "date": "2026-06-25"
+      },
+      {
+        "what": "Bessemer City Council approved the rezoning 5-2 in November 2025; council members Cleo King and Donna Thigpen voted no.",
+        "source": "https://insideclimatenews.org/news/18112025/alabama-city-council-approves-rezoning-for-massive-data-center/",
+        "date": "2025-11-18"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Bessemer data center rezoning lawsuit dismissed",
+        "outlet": "WBRC",
+        "url": "https://www.wbrc.com/2026/06/25/bessemer-data-center-rezoning-lawsuit-dismissed/",
+        "date": "2026-06-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "An Alabama City Council Approves Rezoning for a Massive Data Center, Dividing a Community",
+        "outlet": "Inside Climate News",
+        "url": "https://insideclimatenews.org/news/18112025/alabama-city-council-approves-rezoning-for-massive-data-center/",
+        "date": "2025-11-18",
+        "tone": "bad"
+      },
+      {
+        "title": "Bessemer unveils revised 'Project Marvel' data center campus plan amid ongoing controversy",
+        "outlet": "ABC 33/40",
+        "url": "https://abc3340.com/news/abc-3340-news-iteam/bessemer-unveils-revised-project-marvel-data-center-campus-plan-amid-ongoing-controversy",
+        "date": "2026-02-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "18 buildings, about 4.5 million sq ft, originally on about 677-700 acres off Rock Mountain Lake Road; a revised Feb 2026 plan spreads the 18 buildings over 1,600 acres with 300-ft residential setbacks. A 900-acre expansion rezoning got a planning commission recommendation (DCD, Oct 2026); council vote on the expansion not confirmed. Investment reported as $14.4B-$14.5B. Trackers link QTS as end user; not confirmed by an official source, so owner is the land developer. Stage 'permitted' = rezoning approved; no building permit confirmed."
+  },
+  {
+    "id": "al-jefferson-nebius-birmingham-oxmoor",
+    "name": "Nebius Birmingham AI factory (BHM01, Oxmoor)",
+    "owner": "Nebius (via Alabama ADC Holdings LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Jefferson County",
+    "town": "Birmingham",
+    "lat": 33.429109,
+    "lng": -86.8852,
+    "stage": "building",
+    "announced": "2025-09",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (reporter's figure for the Birmingham campus tied to the Alabama ADC Holdings contract)",
+        "kind": "estimate",
+        "source": "https://insideclimatenews.org/news/19082026/alabama-power-proposed-data-centers-utility-bills/",
+        "date": "2026-08-19"
+      },
+      "acres": {
+        "value": 75,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://nebius.com/birminghamal",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://nebius.com/birminghamal",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "Alabama Power (contract with Alabama ADC Holdings filed at the PSC, terms largely redacted)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.wbrc.com/2026/07/30/public-can-read-alabama-powers-data-center-contract-just-not-parts-that-could-affect-bill/",
+        "date": "2026-07-30"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling with minimal ongoing water needs (company)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://nebius.com/birminghamal",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Public can read Alabama Power's data center contract, just not parts that could affect bill",
+        "outlet": "WBRC",
+        "url": "https://www.wbrc.com/2026/07/30/public-can-read-alabama-powers-data-center-contract-just-not-parts-that-could-affect-bill/",
+        "date": "2026-07-30",
+        "tone": "bad"
+      },
+      {
+        "title": "New 75-acre data center in Birmingham issued building permit",
+        "outlet": "Bham Now",
+        "url": "https://bhamnow.com/2026/04/13/new-75-acre-data-center-building-permit/",
+        "date": "2026-04-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Regions Bank back-office (Lakeshore Operations Center) at 201 Milan Parkway, Oxmoor; affiliate bought 201, 250 and 260 Milan Parkway and 2500 Venice Road for about $90M (secondary reports). Nebius timeline: site prep permits Q1 2026, construction from Q2 2026, first commissioning Q4 2026. About 300 MW reported by trade press, not confirmed by Nebius. Nebius 20-F (2026-04-30) confirms a newly owned Alabama site secured Feb 2026. A search snippet says the Greater Birmingham Humane Society sued the city and companies involved (date unknown, seen only via a tracker); not verified, so not listed as opposition. Birmingham's six-month moratorium did not apply to this project.",
+    "pin_source": "https://nebius.com/birminghamal",
+    "pin_address": "201 MILAN PKWY, BIRMINGHAM, AL, 35211"
+  },
+  {
+    "id": "al-lowndes-cloverleaf-project-red-clay",
+    "name": "Project Red Clay",
+    "owner": "Cloverleaf Infrastructure (via Sandstone Cliffs DevCo LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Lowndes County",
+    "town": "Hayneville",
+    "lat": 32.27514,
+    "lng": -86.611366,
+    "stage": "permitted",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1500,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 800,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/08/25/lowndes-county-residents-demand-transparency-in-hyperscale-data-center-development/",
+        "date": "2026-08-25"
+      },
+      "jobs_promised_perm": {
+        "value": 225,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "Alabama Power (1,500 MW capacity requested)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "20-year, $1.15 billion abatement (50% of non-educational county taxes, about $57.5M a year) approved by the Lowndes County Commission",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      },
+      "community_deal": {
+        "value": "Developer agreed to a 55-decibel cap, limits on vegetation removal, low water use and paying for water infrastructure improvements; agreements not released to the public",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "About 150 residents petitioned the Lowndes County Commission on Aug 24, 2026 demanding records, a list of entities and an online project dashboard.",
+        "source": "https://alabamareflector.com/2026/08/25/lowndes-county-residents-demand-transparency-in-hyperscale-data-center-development/",
+        "date": "2026-08-25"
+      },
+      {
+        "what": "Residents and SELC objected to the surprise vote approving the tax break; around 150 attended the Friday public hearing.",
+        "source": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Lowndes commission approves $1.15 billion tax break for a data center despite pushback",
+        "outlet": "Alabama Reflector",
+        "url": "https://alabamareflector.com/2026/10/15/lowndes-commission-approves-1-15-billion-tax-break-for-a-data-center-despite-pushback/",
+        "date": "2026-10-15",
+        "tone": "bad"
+      },
+      {
+        "title": "Lowndes County residents demand transparency in hyperscale data center development",
+        "outlet": "Alabama Reflector",
+        "url": "https://alabamareflector.com/2026/08/25/lowndes-county-residents-demand-transparency-in-hyperscale-data-center-development/",
+        "date": "2026-08-25",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Alabama's largest planned data center per its proposal; a few miles from the Hayneville courthouse. Project says it will bring $124M local and $25M state tax revenue a year. Stage 'permitted' = county commission approved the project proposal and abatement on 2026-10-13 (Tuesday before the article). Both sources are the same outlet; confidence medium because the commission vote is an official act.",
+    "pin_address": "US Hwy 80 and AL Hwy 21, Lowndesboro, Lowndes County, AL",
+    "pin_geocoder": "osm",
+    "pin_precision": "intersection",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072232780"
+  },
+  {
+    "id": "al-lee-corescientific-auburn",
+    "name": "Core Scientific Auburn data center (former AUBix)",
+    "owner": "Core Scientific",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Lee County",
+    "town": "Auburn",
+    "lat": 32.600885,
+    "lng": -85.507595,
+    "stage": "running",
+    "announced": "2025-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 400000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://openline.auburnalabama.org/article/9067/New%20high-performance%20computing%20operation%20coming%20to%20Auburn",
+        "date": "2025-03"
+      },
+      "power_mw": {
+        "value": 50,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 20,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://openline.auburnalabama.org/article/9067/New%20high-performance%20computing%20operation%20coming%20to%20Auburn",
+        "date": "2025-03"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Alabama Power",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City of Auburn: $135M to take over the existing AUBix data center on West Samford Avenue, expected total $400M; launches at 16 MW with room to expand; keeps 11 AUBix staff, grows to at least 20. Core Scientific 10-K: Auburn, 50 MW gross utility capacity from Alabama Power, leased site.",
+    "pin_address": "1571 W Samford Ave, Auburn, AL 36832",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://corescientific.com/high-density-data-centers/auburn-al/"
+  },
+  {
+    "id": "al-jefferson-dcblox-birmingham",
+    "name": "DC BLOX Birmingham campus (former Trinity Steel site)",
+    "owner": "DC BLOX",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Jefferson County",
+    "town": "Birmingham",
+    "lat": 33.501454,
+    "lng": -86.822286,
+    "stage": "running",
+    "announced": "2018-07-09",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 785000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.madeinalabama.com/2018/07/dc-blox/",
+        "date": "2018-07-09"
+      },
+      "power_mw": {
+        "value": 40,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.dcblox.com/hyperscale-data-centers/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 27,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.madeinalabama.com/2018/07/dc-blox/",
+        "date": "2018-07-09"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2018 state release: potential $785M over 10 years on a 27-acre former Trinity Steel site downtown. DC BLOX page: Birmingham campus offers colocation today plus a new 263,000 sq ft expansion with 40 MW critical power at full build-out (power_mw is the expansion only). Uptime Tier III certified.",
+    "pin_source": "https://www.dcblox.com/data-centers/birmingham/",
+    "pin_address": "433 6th St S, Birmingham, AL 35233"
+  },
+  {
+    "id": "al-shelby-digipowerx-columbiana",
+    "name": "Digi Power X Columbiana AI data center (Cerebras)",
+    "owner": "Digi Power X (formerly Digihost)",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Shelby County",
+    "town": "Columbiana",
+    "lat": 33.182785,
+    "lng": -86.618478,
+    "stage": "building",
+    "announced": "2026-05-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 40,
+        "unit": "MW IT load (Phase 1 15 MW, Phase 2 25 MW)",
+        "kind": "real",
+        "source": "https://finance.yahoo.com/sectors/technology/articles/digi-power-x-secures-1-132900027.html",
+        "date": "2026-05-05"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Alabama Power (power delivery agreement; on-site substation for Phase 1 complete)",
+        "unit": null,
+        "kind": "real",
+        "source": "https://finance.yahoo.com/sectors/technology/articles/digi-power-x-secures-1-132900027.html",
+        "date": "2026-05-05"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Digi Power X secures $1.1B data center contract with AI chip maker Cerebras Systems",
+        "outlet": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/digi-power-x-secures-1-132900027.html",
+        "date": "2026-05-05",
+        "tone": "good"
+      },
+      {
+        "title": "Cerebras signs on for 40MW of capacity at Digi Power X data center in Alabama",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/cerebras-signs-on-for-40mw-of-capacity-at-digi-power-x-data-center-in-alabama/",
+        "date": "2026-05-05",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company owns the land; Cerebras leases 40 MW for 10 years (about $1.1B, up to $2.5B with renewals). Phase 1 ready for service targeted mid-December 2026, full build Q1 2027. Digihost bought a 55 MW Alabama Power-served site in 2022 for bitcoin mining (release did not name the town; Columbiana per later company statements in search summaries); this record covers the Columbiana campus as one site. No street address, so lat/lng null.",
+    "pin_source": "https://www.sec.gov/Archives/edgar/data/1854368/000121390025020774/ea0232528-20fa1_digihost.htm",
+    "pin_address": "130 Industrial Pkwy, Columbiana, AL 35051"
+  },
+  {
+    "id": "al-montgomery-dcblox-montgomery",
+    "name": "DC BLOX Montgomery hyperscale edge node",
+    "owner": "DC BLOX",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Montgomery County",
+    "town": "Montgomery",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-11-22",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 40,
+        "unit": "MW potential (5 MW initially for a hyperscale anchor tenant)",
+        "kind": "real",
+        "source": "https://www.madeinalabama.com/2024/11/dc-blox-plans-new-advanced-data-centers-in-montgomery-and-huntsville/",
+        "date": "2024-11-22"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "DC BLOX plans new advanced data centers in Montgomery and Huntsville",
+        "outlet": "Alabama Department of Commerce",
+        "url": "https://www.madeinalabama.com/2024/11/dc-blox-plans-new-advanced-data-centers-in-montgomery-and-huntsville/",
+        "date": "2024-11-22",
+        "tone": "good"
+      },
+      {
+        "title": "Alabama data centers multiply as artificial intelligence fuels growth",
+        "outlet": "WAFF",
+        "url": "https://www.waff.com/2026/02/18/alabama-data-centers-multiply-artificial-intelligence-fuels-growth/",
+        "date": "2026-02-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "WAFF (Feb 2026): two-building campus under construction. No address, investment or jobs found. Promoted from lead al-montgomery-dcblox."
+  },
+  {
+    "id": "al-tuscaloosa-applied-digital-brookwood",
+    "name": "Delta Forge 2 AI Factory (Brookwood)",
+    "owner": "Applied Digital",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Tuscaloosa County",
+    "town": "Brookwood",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-09-25",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3200000000,
+        "unit": "USD (Applied Digital and its tenant)",
+        "kind": "real",
+        "source": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "peak construction workers",
+        "kind": "real",
+        "source": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "full-time jobs",
+        "kind": "real",
+        "source": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25"
+      },
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "Local taxes abated (amount not given)",
+        "unit": null,
+        "kind": "real",
+        "source": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$270M in community benefit payments over 20 years to the Tuscaloosa County Economic Development Authority, plus about $131.5M in education taxes",
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25"
+      },
+      "utility": null,
+      "acres": {
+        "value": 160,
+        "unit": "acres for the 1.26 million sq ft campus, within a roughly 1,300-acre site",
+        "kind": "real",
+        "source": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Residents at a Sept. 2026 town hall raised school proximity, Hurricane Creek, power bills, noise and NDAs",
+        "source": "https://tuscaloosathread.com/brookwoods-data-center-town-hall-debate/",
+        "date": "2026-09-03"
+      }
+    ],
+    "news": [
+      {
+        "title": "Applied Digital confirms $3.2 billion data center campus in Brookwood",
+        "outlet": "Fox10 / WBRC",
+        "url": "https://www.fox10tv.com/2026/09/25/applied-digital-confirms-32-billion-data-center-campus-brookwood/",
+        "date": "2026-09-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Brookwood mayor confirms proposed project is 'AI data center' during community meeting",
+        "outlet": "WBRC",
+        "url": "https://www.wbrc.com/2026/09/02/brookwood-mayor-confirms-proposed-project-is-ai-data-center-during-community-meeting-economic-development/",
+        "date": "2026-09-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "WBRC requests records connected to proposed data center development in Brookwood",
+        "outlet": "WBRC",
+        "url": "https://www.wbrc.com/2026/09/08/wbrc-requests-records-connected-proposed-data-center-development-brookwood/",
+        "date": "2026-09-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near Brookwood (Industrial) Parkway, near Brookwood Middle School. ADEM approved a construction stormwater permit application July 20, 2026 (earlier application cited 2 million sq ft); Tuscaloosa County EDA signed off Sept. 24, 2026. Earlier rezoning records: Evolve Energy Partners ('Project Evolve', 2025), EEP Tuscaloosa LLC (2026), landowner Alawest AL LLC. Stage 'permitted' = state permit plus county EDA approval; construction start not confirmed. MW not stated by the company (a tracker lists 210 MW). WVUA 23 also tied Applied Digital to the site via public records: https://www.wvua23.com/news/local/tuscaloosa_county/public-records-connect-applied-digital-to-proposed-brookwood-development/article_51b33d4c-11f0-4dd9-adc9-e07c52ed5ca3.html. Separate from the Youngwoo/Project Brookwood LLC rezoning next door (lead al-tuscaloosa-youngwoo-brookwood)."
+  },
+  {
+    "id": "al-shelby-swift-westover",
+    "name": "Westover data center campus (former Westervelt property)",
+    "owner": "Swift Data Development (Swift Willow Property, LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "AL",
+    "county": "Shelby County",
+    "town": "Westover",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-02-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 437,
+        "unit": "acres rezoned (recorded ordinance)",
+        "kind": "real",
+        "source": "https://abc3340.com/news/abc-3340-news-iteam/how-did-westovers-proposed-data-center-get-here-records-show-the-timeline",
+        "date": "2026-08-24"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents opposed the project at an Aug. 2026 town hall; council unanimously adopted a six-month data center moratorium",
+        "source": "https://abc3340.com/news/abc-3340-news-iteam/how-did-westovers-proposed-data-center-get-here-records-show-the-timeline",
+        "date": "2026-08-24"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "How did Westover's proposed data center get here? Records show the timeline",
+        "outlet": "ABC 33/40",
+        "url": "https://abc3340.com/news/abc-3340-news-iteam/how-did-westovers-proposed-data-center-get-here-records-show-the-timeline",
+        "date": "2026-08-24",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near Cheshire Drive / U.S. 280. Council rezoned ~437 acres to Employment Center-Industrial on Feb. 4, 2025 (a proposal to add 'Data Center' as a permitted use went to council in April 2025; outcome not confirmed); Westervelt Realty transferred the land to Swift Willow Property LLC in June 2025 (about $6.57M). WKRG/CBS 42 (https://www.wkrg.com/news/westover-residents-voice-concerns-over-proposed-data-center/amp/, undated, about Aug 2026) describes two data center buildings on 450+ acres near U.S. 280, tenant undisclosed, and a development agreement under negotiation (sound, water, lighting, power standards). Council adopted a six-month data center moratorium in Aug 2026, but data centers remain permitted by right in the district. Inside Climate News (Aug 2026) mentions a 'conceptual zoning plan' for 14 buildings in probate records, possibly this site."
+  }
+]

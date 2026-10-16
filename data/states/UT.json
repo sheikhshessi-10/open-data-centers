@@ -1,0 +1,166 @@
+{
+  "state": "UT",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Sales and use tax exemption for qualifying data centers",
+      "law": "Utah Code 59-12-104(84)",
+      "what": "Exempts purchases or leases of machinery, equipment, and normal operating repair or replacement parts (economic life of one year or more) by a qualifying data center or an occupant of one, used in operating the data center.",
+      "value_known": null,
+      "source": "https://le.utah.gov/xcode/Title59/Chapter12/C59-12-S104_2026050620260701.html",
+      "date": "2026-07-01"
+    },
+    {
+      "name": "MIDA project-area tax terms (Stratos)",
+      "law": "Military Installation Development Authority Act",
+      "what": "In a MIDA project area the authority set a 0.5% energy use tax (normally 6%), a 1.2% flat property tax with rebates, and personal property tax rebates for the Stratos data center; the developer keeps 80% of tax revenue at the county rate.",
+      "value_known": null,
+      "source": "https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/",
+      "date": "2026-04-25"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "S.B. 132 (2025) Electric Utility Amendments",
+      "status": "enacted",
+      "what": "Sponsors Sen. Scott Sandall / Rep. Colin Jack. Creates Utah Code 54-26: alternative processes to serve large electrical loads, lets large-scale generation providers serve large load customers when the utility can't, closed private generation systems, transparency rules to protect retail customers, and requires the PSC to study a large load flexible tariff. (Enrolled copy read; governor signature not checked.)",
+      "source": "https://le.utah.gov/Session/2025/bills/enrolled/SB0132.pdf",
+      "date": "2025-03-12"
+    },
+    {
+      "name": "Gov. Cox executive order on data centers (May 2026)",
+      "status": "enacted",
+      "what": "Executive order setting a 'higher bar' / guardrails for data center development (details not read).",
+      "source": "https://www.csmonitor.com/Environment/2026/0901/utah-data-centers-stratos-project",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "2027 bill files: define large-scale data centers; environmental impact studies; incentive and water guidelines",
+      "status": "pending",
+      "what": "Economic Development and Workforce Services Interim Committee (Sen. Ann Millner) opened a bill file to define large-scale data centers; Rep. Doug Owens plans an environmental impact study requirement; Rep. Paul Cutler drafting guidelines for data centers seeking state incentives, including water limits in the Great Salt Lake and Colorado River basins.",
+      "source": "https://www.fox13now.com/news/politics/utah-lawmakers-start-drafting-data-center-bills",
+      "date": "2026"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Box Elder County",
+      "type": "moratorium",
+      "what": "180-day moratorium on new data centers and data center power plants on unincorporated land, unanimous; does not apply to Stratos (land-use authority transferred to MIDA for 50 years).",
+      "status": "in effect",
+      "source": "https://www.sltrib.com/news/2026/06/10/box-elder-county-consider/",
+      "date": "2026-06-10"
+    },
+    {
+      "place": "Iron County",
+      "type": "moratorium",
+      "what": "Unanimous 180-day temporary land use regulation barring new or incomplete applications for data centers, data center power plants and utility-scale solar.",
+      "status": "in effect",
+      "source": "https://www.sltrib.com/news/2026/05/26/iron-county-bans-approval-new-data/",
+      "date": "2026-05-26"
+    },
+    {
+      "place": "Cache County (unincorporated)",
+      "type": "moratorium",
+      "what": "180-day moratorium on data center development in unincorporated areas, 6-0; no applications received.",
+      "status": "in effect",
+      "source": "https://www.hjnews.com/news/government/cache-county-enacts-moratorium-on-data-center-developments-talks-rec-centers/article_ffa1389d-e294-4c01-b924-c53c1d129a93.html",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Logan (Cache County)",
+      "type": "moratorium",
+      "what": "Ordinance 26-12, temporary land use regulation prohibiting development and construction of data centers and data center power plants, adopted 2026-06-30.",
+      "status": "in effect",
+      "source": "https://www.utah.gov/pmn/sitemap/notice/1092721.html",
+      "date": "2026-07-01"
+    },
+    {
+      "place": "Grand County",
+      "type": "moratorium",
+      "what": "Unanimous 180-day pause (2026-07-07) on applications, permits and licenses for data centers, data center power plants and related digital infrastructure; no pending applications.",
+      "status": "in effect",
+      "source": "https://www.sltrib.com/news/2026/07/10/grand-county-pauses-data-center/",
+      "date": "2026-07-10"
+    },
+    {
+      "place": "Wayne County",
+      "type": "moratorium",
+      "what": "Resolution 2026-04, unanimous 180-day moratorium on land use applications for data centers and data center power plants (including nuclear).",
+      "status": "in effect",
+      "source": "https://ironcountytoday.com/2026/07/21/industrial-developers-target-rural-utah-as-wayne-county-enacts-temporary-freeze-community-urged-to-stay-vigilant/",
+      "date": "2026-07-21"
+    },
+    {
+      "place": "Clearfield (Davis County)",
+      "type": "moratorium",
+      "what": "180-day moratorium on data center development, 4-0; no proposal pending.",
+      "status": "in effect",
+      "source": "https://www.ksl.com/article/51622427/clearfield-leaders-ok-180-day-moratorium-on-data-center-development",
+      "date": "2026-09-11"
+    },
+    {
+      "place": "Nephi (Juab County)",
+      "type": "zoning",
+      "what": "Industrial 4 zone for data centers adopted late 2025: air-cooled or closed-loop cooling required, light rules, air permits before city approval, council discretion on large sites. Juab County adopted temporary moratoriums while updating land use law (details not given).",
+      "status": "adopted",
+      "source": "https://www.kuer.org/politics-government/2026-06-17/utah-data-centers-nephi-zoning",
+      "date": "2026-06-17"
+    },
+    {
+      "place": "Provo (Utah County)",
+      "type": "zoning",
+      "what": "City council denied 7-0 a rezoning for a 66,000 sq ft data center (B+F Timpanogos Tech Center, 6-10 MW) in East Bay.",
+      "status": "denied",
+      "source": "https://www.heraldextra.com/news/2026/mar/11/provo-city-council-denies-rezoning-request-for-data-center-at-east-bay/",
+      "date": "2026-03-11"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "26-035-05",
+      "regulator": "Utah Public Service Commission",
+      "utility": "Rocky Mountain Power (PacifiCorp)",
+      "what": "Approval of a large-load service contract between PacifiCorp and an unnamed large-load customer; settlement stipulation approved, UAE motion for access to 'regulator access only' materials denied",
+      "site_ids": [],
+      "status": "approved 2026-04-10",
+      "url": "https://psc.utah.gov/2026/02/10/docket-no-26-035-05/",
+      "date": "2026-04-10"
+    },
+    {
+      "id": "25-R318-01",
+      "regulator": "Utah Public Service Commission",
+      "utility": null,
+      "what": "Rulemaking implementing Utah Code 54-26-101 to -901 (Large-Scale Electric Service Requirements, from S.B. 132 of 2025); comments filed through Sept 2026",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://psc.utah.gov/2025/05/09/docket-no-25-r318-01/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "25-2660-01",
+      "regulator": "Utah Public Service Commission",
+      "utility": "Will-Power UT, LLC",
+      "what": "Registration of Will-Power UT, LLC as a Large-Scale Generation Provider under Utah Code 54-26",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://psc.utah.gov/2025/11/25/docket-no-25-2660-01/",
+      "date": "2025-11-25"
+    },
+    {
+      "id": "26-2660-01",
+      "regulator": "Utah Public Service Commission",
+      "utility": "Will-Power UT, LLC (Rocky Mountain Power intervening)",
+      "what": "Approval of a Closed Private Generation Contract ('Project Aquila' PPA; includes a Large Load Customer Entitlement Notice); customer not named",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://psc.utah.gov/2026/04/02/docket-no-26-2660-01/",
+      "date": "2026-07-08"
+    }
+  ]
+}

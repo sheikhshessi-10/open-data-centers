@@ -1,0 +1,373 @@
+{
+  "state": "GA",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "High-technology data center sales and use tax exemption",
+      "law": "O.C.G.A. § 48-8-3(68.1); Ga. Comp. R. & Regs. 560-12-2-.117; thresholds changed by HB 1291 (2022)",
+      "what": "Enacted 2018. Exempts a portion of construction materials and purchases of servers and related equipment from state and local sales and use taxes for data centers that meet minimum investment and job thresholds, which vary by county population (lower bar for counties under 50,000). Sunset: Inside Climate News (Apr 9, 2026) says it stays until 2032 after no 2026 change passed; Gov. Kemp's May 2024 veto message described an extension through 2031 (end year needs a check of the statute). In May 2024 Kemp vetoed HB 1192, which would have suspended new exemption certificates from July 2024 to June 2026 (Capitol Beat: https://capitol-beat.org/2024/05/kemp-vetoes-bill-suspending-data-centers-tax-break/). In 2026, SB 408 and SB 410 to cut it back failed.",
+      "value_known": "State auditors (UGA Carl Vinson Institute evaluation) estimated $474.2 million in forgone state tax revenue in FY 2025, and judged 30% of Georgia data centers attributable to the exemption. Fulton County cites an estimated $1.1 billion in 2026 local sales tax revenue lost statewide.",
+      "source": "https://audits2.ga.gov/wp-content/uploads/2025/12/Data-Center-Tax-Exemption-Summary-Revised.pdf",
+      "date": "2026-01-14"
+    },
+    {
+      "name": "Local development authority property tax abatements (bond-for-title)",
+      "law": "Local development authority law (case-by-case agreements)",
+      "what": "County and city development authorities grant property tax abatements to data centers. Auditors' sample of a representative $2B+ metro Atlanta three-building complex found $5.9M of a $33.6M tax bill abated. The Development Authority of Fulton County has granted $150M in data center tax breaks since 2020, half for one Microsoft project; Fulton County commissioners passed a resolution on Aug 5, 2026 opposing such incentives.",
+      "value_known": "Fulton DAFC: $150M since 2020 (county statement); statewide total unknown",
+      "source": "https://www.fultoncountyga.gov/News/2026/08/10/Fulton-County-Opposes-Local-Incentives-For-Data-Centers",
+      "date": "2026-08-10"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "GA PSC Docket 55378 (Georgia Power 2023 IRP update) / large-load rule",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "Unanimous Jan 23, 2025 rule: new customers over 100 MW can be billed on non-standard terms that make them pay for upstream generation, transmission and distribution costs; contracts may run 15 years instead of 5, with minimum bills; every new 100 MW+ contract must go to the PSC for review (fact sheet: at least 30 days before signing). Follows an April 2024 order requiring quarterly data center reports and cost-allocation studies.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://psc.ga.gov/site/assets/files/8617/media_advisory_data_centers_rule_1-23-2025.pdf",
+      "date": "2025-01-23"
+    },
+    {
+      "id": "GA PSC 2025 large-load price structure changes",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "PSC approved changes to Georgia Power price structures for large-load customers such as data centers (April 2025).",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://psc.ga.gov/site/downloads/datacenterfactsheet_202609.pdf",
+      "date": "2025-04"
+    },
+    {
+      "id": "GA PSC 2025 Georgia Power Integrated Resource Plan",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "July 2025 order lets Georgia Power propose at least 6,000 MW of new generation, plus up to 2,500 MW more if need is proven (8,500 MW total), driven by data center load. Georgia Power's 7-year growth forecast rose from 400 MW (2022) to 6,600 MW (2023) to 8,500 MW (2025).",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://psc.ga.gov/site/downloads/datacenterfactsheet_202609.pdf",
+      "date": "2025-07"
+    },
+    {
+      "id": "GA PSC Georgia Power base rate freeze",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "July 31, 2025 order freezing Georgia Power base rates through 2028 while the PSC works to keep data center costs off residential bills.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://psc.ga.gov/site/downloads/datacenterfactsheet_202609.pdf",
+      "date": "2025-07-31"
+    },
+    {
+      "id": "GA PSC certification of 9,985 MW new generation (Dec 2025 stipulation)",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "Dec 19, 2025 vote approving a staff-Georgia Power agreement certifying 9,985 MW of new generation, about 80% expected to serve data centers. Georgia Power financially backstops the costs through 2031 if data center contracts fall short. With the Aug 2026 contract, Georgia Power says it has customers for all 9,985 MW.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://psc.ga.gov/site/downloads/datacenterfactsheet_202609.pdf",
+      "date": "2025-12-19"
+    },
+    {
+      "id": "GA PSC staff review of Georgia Power 3,200 MW data center contract (OpenAI / Octans Georgia)",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "Aug 26, 2026 staff review of a 3,200 MW contract. Georgia Power agreed not to recover early-exit costs from residential and small business customers, to raise promised downward rate pressure from $8.50 to at least $15.00 per month for typical residential customers in 2029-2031, and to publish twice-yearly reports on data center customers. News reports identify the customer as OpenAI's Effingham campus.",
+      "site_ids": [
+        "ga-effingham-openai-rincon"
+      ],
+      "status": "reviewed by PSC staff; Georgia Power signed added protections",
+      "url": "https://psc.ga.gov/site/downloads/datacenterfactsheet_202609.pdf",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "GA PSC investigation of data center fuel cost allocation (Real-Time Pricing)",
+      "regulator": "Georgia Public Service Commission",
+      "utility": "Georgia Power",
+      "what": "Investigation, stemming from the 2026 fuel case agreement, into how large users like data centers pay for fuel under the Real-Time Pricing method, so other customers do not pay extra. First hearings set for September 2026.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://thecurrentga.org/2026/07/08/georgia-regulators-launch-investigation-into-data-center-energy-costs/",
+      "date": "2026-07-08"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 34 (Sen. Chuck Hufstetler) - bar passing data center power costs to residential customers",
+      "status": "failed",
+      "what": "Would have explicitly barred passing the cost of serving data centers to residential ratepayers. Stalled in the Senate in Feb 2026 after being rewritten in committee; did not pass in the 2026 session. First filed in the 2025 session and debated that year without passing (Capitol Beat, Jan 2026); revived in 2026.",
+      "source": "https://thecurrentga.org/2026/02/27/data-center-bill-stalls-after-last-minute-change-opposed-by-industry-finds-support/",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "HB 1063 (Rep. Brad Thomas) - longer Georgia Power data center contracts and down payments",
+      "status": "failed",
+      "what": "Would have required longer contracts and a down payment from data centers toward the cost of serving them. Passed the House 159-5 (Feb 2026) but did not become law; a weaker cost-shift measure fell short.",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "HB 1012 - statewide halt on new data center construction",
+      "status": "failed",
+      "what": "Democratic-backed moratorium on new data centers; no final vote.",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "SB 408 - sunset the data center sales tax exemption in 2027",
+      "status": "failed",
+      "what": "Would have ended the exemption five years early (2027 instead of 2032); did not reach a Senate vote.",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "SB 410 - end the sales tax exemption for new data centers",
+      "status": "failed",
+      "what": "Would have denied the exemption to new data centers; crossed to the House but did not advance.",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Data center water/electricity disclosure and local NDA-ban proposals (2026 session)",
+      "status": "failed",
+      "what": "Would have required data centers to disclose water and power use and barred local governments from signing NDAs hiding those figures. About 20 data center bills were filed in 2026; none passed.",
+      "source": "https://thecurrentga.org/2026/04/18/advocates-frustrated-after-20-data-center-bills-fail-to-pass-georgia-legislature/",
+      "date": "2026-04-18"
+    },
+    {
+      "name": "Georgia DCA Development of Regional Impact rules for data centers",
+      "status": "enacted",
+      "what": "DCA board classed data centers as 'technological facilities' needing regional review at 500,000 sq ft (300,000 sq ft in urban/suburban metro Atlanta) and requires developers to estimate water and electricity needs. Review is advisory; local governments decide.",
+      "source": "https://thecurrentga.org/2025/11/21/georgia-board-approves-new-review-process-for-large-data-centers/",
+      "date": "2025-11-21"
+    },
+    {
+      "name": "HB 1192 (2024) - pause new data center sales tax exemption certificates",
+      "status": "vetoed",
+      "what": "Would have suspended new sales tax exemption certificates for data centers from July 2024 to June 2026 and set up a study commission on data center energy planning. Passed both chambers; Gov. Kemp vetoed it in May 2024, keeping the exemption in place.",
+      "source": "https://dmainc.com/news-and-insights/georgia-governor-vetoes-bill-pausing-data-center-tax-exemptions/",
+      "date": "2024-05-08"
+    },
+    {
+      "name": "HB 559 (Rep. John Carson) - end the data center sales tax exemption on Dec 31, 2026",
+      "status": "failed",
+      "what": "Filed Feb 2025, carried over into 2026; would have moved the exemption's end from Dec 31, 2031 to Dec 31, 2026. Details: Alston & Bird advisory, Feb 19, 2026 (https://www.alston.com/en/insights/publications/2026/02/georgia-sales-tax-exemptions-data-centers). Status: the 2026 session adjourned without passing any data center measure (Inside Climate News).",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "HB 528 (Rep. Debbie Buckner) - yearly public energy and water reports for large facilities",
+      "status": "failed",
+      "what": "Filed in the 2025 session; would have required data centers (30 MW+ peak demand) to publish yearly energy and water use and community impacts. Pending in Jan 2026; Details: Capitol Beat via The Augusta Press, Jan 28, 2026 (https://theaugustapress.com/resistance-to-data-centers-fuels-flood-of-georgia-bills-targeting-the-industry). Status: the 2026 session adjourned without passing any data center measure (Inside Climate News).",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "SB 436 - suspend new data center sales tax exemption certificates July 2026 to June 2027",
+      "status": "failed",
+      "what": "Introduced Jan 2026; would have paused new exemption certificates for a year. Details: Alston & Bird advisory, Feb 19, 2026 (https://www.alston.com/en/insights/publications/2026/02/georgia-sales-tax-exemptions-data-centers). Status: the 2026 session adjourned without passing any data center measure (Inside Climate News).",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "SB 421 - local governments must disclose data centers' water and electricity use",
+      "status": "failed",
+      "what": "Pending in Jan 2026; Details: Capitol Beat via The Augusta Press, Jan 28, 2026 (https://theaugustapress.com/resistance-to-data-centers-fuels-flood-of-georgia-bills-targeting-the-industry). Status: the 2026 session adjourned without passing any data center measure (Inside Climate News).",
+      "source": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
+      "date": "2026-04-09"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Atlanta (Fulton/DeKalb counties)",
+      "type": "zoning",
+      "what": "City council approved ordinances defining data centers and banning new ones in the BeltLine Overlay District and within 2,640 ft of high-capacity transit stops; existing and already-approved facilities not affected.",
+      "status": "adopted",
+      "source": "https://wsbtv.com/news/local/atlanta/atlanta-city-council-approves-ban-data-center-construction-near-belt-line/NDC5LKCCK5FEZNWNPYAK7HUOU4",
+      "date": "2024"
+    },
+    {
+      "place": "Cherokee County",
+      "type": "moratorium",
+      "what": "30-day moratorium on data center development, with a planned 180-day extension to about mid-February 2027 while the county writes an ordinance.",
+      "status": "in effect (extension hearing Aug 18, 2026)",
+      "source": "https://www.atlantanewsfirst.com/2026/07/22/cherokee-county-approves-data-center-moratorium/",
+      "date": "2026-07-21"
+    },
+    {
+      "place": "Camden County",
+      "type": "moratorium",
+      "what": "Six-month moratorium on data centers in unincorporated areas (first on the coast).",
+      "status": "adopted",
+      "source": "https://thecurrentga.org/2026/05/02/camden-set-to-vote-on-data-center-moratorium-amid-kingsland-rezone-vote/",
+      "date": "2026-05-02"
+    },
+    {
+      "place": "Kingsland (Camden County)",
+      "type": "ordinance",
+      "what": "City adopted a data center ordinance in March 2026; staff recommended a moratorium in May 2026 (outcome not confirmed).",
+      "status": "ordinance adopted",
+      "source": "https://thecurrentga.org/2026/05/02/camden-set-to-vote-on-data-center-moratorium-amid-kingsland-rezone-vote/",
+      "date": "2026-03"
+    },
+    {
+      "place": "Lowndes County",
+      "type": "moratorium",
+      "what": "60-day countywide moratorium on data center applications while an ordinance is written.",
+      "status": "adopted",
+      "source": "https://valdostadailytimes.com/2026/08/26/lowndes-county-approves-60-day-data-center-moratorium/",
+      "date": "2026-08-25"
+    },
+    {
+      "place": "DeKalb County",
+      "type": "moratorium",
+      "what": "Pause on new data center applications since July 2025, extended July 7, 2026 to March 30, 2027; commissioners voted down a proposed data center zoning ordinance June 23, 2026. Shadowbox Studios sued over the moratorium.",
+      "status": "in effect; under legal challenge",
+      "source": "https://atlanta.capitalbnews.org/dekalb-county-ellenwood-data-center-rejected/",
+      "date": "2026-07-07"
+    },
+    {
+      "place": "Athens-Clarke County",
+      "type": "moratorium",
+      "what": "Pause on new data centers (Dec 2025) to write zoning rules, extended in March 2026; commissioners asked whether an outright ban is possible.",
+      "status": "extended",
+      "source": "https://www.redandblack.com/athensnews/plans-for-new-data-center-in-athens-raise-concern-in-community/article_5518d809-b95a-47e2-af1f-997972673e0d.html",
+      "date": "2026-03-23"
+    },
+    {
+      "place": "Fayetteville (Fayette County)",
+      "type": "moratorium",
+      "what": "Temporary pause on new data center applications (projects already under review not covered).",
+      "status": "adopted",
+      "source": "https://thecitizen.com/?p=242822",
+      "date": "2026-02"
+    },
+    {
+      "place": "Rockdale County",
+      "type": "ordinance",
+      "what": "Pause on new data center and battery storage applications extended in 2026; county adopted data center development code section 9.5.3 on Oct 6, 2026.",
+      "status": "ordinance adopted",
+      "source": "https://www.rockdalecitizen.com/news/rockdale-commissioners-deny-project-rock-forge-requests/article_6e229607-16b6-489c-9a65-ba6b2347d180.html",
+      "date": "2026-10-06"
+    },
+    {
+      "place": "Americus (Sumter County)",
+      "type": "moratorium",
+      "what": "City council voted 5-1 for a 30-day moratorium on new data centers while writing rules.",
+      "status": "adopted",
+      "source": "https://americustimesrecorder.com/2026/09/24/americus-city-council-votes-for-data-center-moratorium/",
+      "date": "2026-09-24"
+    },
+    {
+      "place": "Social Circle (Walton/Newton counties)",
+      "type": "moratorium",
+      "what": "90-day pause on new data center applications.",
+      "status": "adopted (expired)",
+      "source": "https://www.datacenterdynamics.com/en/news/data-center-proposal-in-social-circle-georgia-fails-to-receive-recommendation-from-planning-commission/",
+      "date": "2025-09-16"
+    },
+    {
+      "place": "Calhoun (Gordon County)",
+      "type": "moratorium",
+      "what": "City council extended its data center moratorium to Jan 1, 2027.",
+      "status": "in effect",
+      "source": "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k/",
+      "date": "2026-06-08"
+    },
+    {
+      "place": "Crawford County",
+      "type": "moratorium",
+      "what": "180-day moratorium on data center applications.",
+      "status": "adopted",
+      "source": "https://wgxa.tv/news/local/crawford-county-commissioners-pass-180-day-moratorium-on-data-center-applications",
+      "date": "2026-01-06"
+    },
+    {
+      "place": "Byron (Peach/Houston counties)",
+      "type": "ordinance",
+      "what": "City council unanimously adopted a data center ordinance and extended its moratorium to Oct 13, 2026.",
+      "status": "adopted",
+      "source": "https://www.msn.com/en-us/news/other/byron-city-council-unanimously-adopts-data-center-ordinance-after-months-of-review-heres-what-that-means/ar-AA2ceh9i",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "Columbus (Muscogee County)",
+      "type": "zoning",
+      "what": "Technology Overlay District (Ord. 26-034) allowing large data centers on 75+ acre farm/rural land and banning diesel backup generators; passed 6-2, challenged in Superior Court by landowners.",
+      "status": "adopted; under legal challenge",
+      "source": "https://thegeorgiasun.com/news/neighbors-sue-columbus-in-data-center-fight/",
+      "date": "2026-06-16"
+    },
+    {
+      "place": "Statesboro (Bulloch County)",
+      "type": "ordinance",
+      "what": "Data center rules: 50-acre cap, noise study, special use permit.",
+      "status": "adopted",
+      "source": "https://www.wsav.com/news/datacenters/statesboro-provides-timeline-of-data-center-discussions/",
+      "date": "2026-06-02"
+    },
+    {
+      "place": "Marietta (Cobb County)",
+      "type": "moratorium",
+      "what": "Council paused new data center projects through Dec 31, 2026 (while approving Prime Storage's 18 MW Delk Road project in August).",
+      "status": "in effect",
+      "source": "https://eastcobbnews.com/marietta-city-council-approves-data-center-off-delk-road/",
+      "date": "2026-07-08"
+    },
+    {
+      "place": "Fulton County",
+      "type": "ordinance",
+      "what": "Board of Commissioners resolution opposing tax abatements or other incentives for data centers from any development authority in the county; notes Milton and Roswell have adopted data center moratoriums.",
+      "status": "adopted (non-binding resolution)",
+      "source": "https://www.fultoncountyga.gov/News/2026/08/10/Fulton-County-Opposes-Local-Incentives-For-Data-Centers",
+      "date": "2026-08-05"
+    },
+    {
+      "place": "Bartow County",
+      "type": "ordinance",
+      "what": "Data center ordinance with 200-ft buffer and 65 dB day / 55 dB night noise limits.",
+      "status": "adopted",
+      "source": "https://www.daily-tribune.com/news/bcpc-recommends-denial-of-brown-farm-data-center/article_54fd01af-4dd1-556e-9365-80b4b6ac8cc2.html",
+      "date": "2025-01"
+    },
+    {
+      "place": "Early County",
+      "type": "ordinance",
+      "what": "Data center rules including a 1,000-ft buffer from homes, schools and churches, adopted ahead of the QTS Blakely project.",
+      "status": "adopted",
+      "source": "https://wiregrassdailynews.com/news/community-alerts/2026-07-14/blakely-early-county-adopts-data-center-rules-ahead-of-major-qts-project/",
+      "date": "2026-07-13"
+    },
+    {
+      "place": "Candler County",
+      "type": "moratorium",
+      "what": "Commissioners voted unanimously to drop a proposed data center moratorium from future agendas.",
+      "status": "rejected",
+      "source": "https://www.wsav.com/news/datacenters/candler-county-to-renew-discussion-on-data-center-moratorium/",
+      "date": "2026-10-05"
+    },
+    {
+      "place": "Columbia County",
+      "type": "ballot",
+      "what": "Nov 3, 2026 county vote on a fund for homeowner property tax credits paid from Google data center campuses (under HB 439).",
+      "status": "pending",
+      "source": "https://www.wrdw.com/2026/08/26/columbia-county-advances-17-billion-data-center-deal/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Savannah (Chatham County)",
+      "type": "moratorium",
+      "what": "155-day moratorium on new data centers of 10 MW or more and on building or converting industrial buildings of 200,000 sq ft or more for data center use, with an option to extend; runs to about late January 2027.",
+      "status": "adopted",
+      "source": "https://agenda.savannahga.gov/publishing/august-27-2026-city-council-regular-meeting/1589_12681.html",
+      "date": "2026-08-27"
+    }
+  ]
+}

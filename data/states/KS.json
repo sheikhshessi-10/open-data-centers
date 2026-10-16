@@ -1,0 +1,151 @@
+{
+  "state": "KS",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "ballot_measures": "2026-10-15",
+    "laws_and_bills": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales tax exemption (SB 98, 2025)",
+      "law": "2025 Senate Bill 98",
+      "what": "Sales tax exemption for construction or remodeling of a qualified data center and purchase of data center equipment (and certain labor) for qualified firms committing at least $250M investment and meeting new Kansas jobs and other requirements; reported as a 20-year state and local exemption.",
+      "value_known": null,
+      "source": "https://kslegislature.gov/li/b2025_26/measures/sb98/",
+      "date": "2025-04-11"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 98 (2025)",
+      "status": "enacted",
+      "what": "Creates the data center sales tax exemption ($250M minimum investment). Signed by the governor.",
+      "source": "https://kslegislature.gov/li/b2025_26/measures/sb98/",
+      "date": "2025-04-11"
+    },
+    {
+      "name": "SB 92 (2025-2026): large load customer parallel generation and peak demand provisions",
+      "status": "enacted",
+      "what": "Extends the expiration date of provisions letting an electric utility decline parallel generation service to certain large load customers and leaving certain large load customers out of the utility's peak demand calculation (enrolled title). Conference report adopted (House 114-10 on 2026-03-26, Senate 39-0 on 2026-03-27); approved by the governor 2026-04-09.",
+      "source": "https://kslegislature.gov/bills/SB92/",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "SB 400 (2026): closed-loop cooling for data centers",
+      "status": "failed",
+      "what": "Would require data centers to use closed-loop cooling to limit water use. Introduced by Senate Utilities 2026-01-27; died in committee 2026-04-10.",
+      "source": "https://kslegislature.gov/bills/SB400/",
+      "date": "2026-04-10"
+    },
+    {
+      "name": "SB 531 (2026): no new large load data centers in drought counties",
+      "status": "failed",
+      "what": "Would bar developing or operating any new large load data center in a county with a drought emergency declared in the past three years. Introduced 2026-03-09 (Sen. Murphy request); died in committee 2026-04-10.",
+      "source": "https://kslegislature.gov/bills/SB531/",
+      "date": "2026-04-10"
+    },
+    {
+      "name": "HB 2664 (2026): private energy campus and industrial host-site electric generation act",
+      "status": "failed",
+      "what": "Would allow energy services to private enterprises on a 'private energy campus' (on-site generation outside normal utility service). Introduced 2026-02-03; died in House Energy, Utilities and Telecommunications 2026-04-10.",
+      "source": "https://kslegislature.gov/bills/HB2664/",
+      "date": "2026-04-10"
+    },
+    {
+      "name": "SB 81 (2025-2026): no economic development rates for certain large facilities",
+      "status": "failed",
+      "what": "Would bar large facilities on certain tariffs, or that miss workforce and electric demand requirements, from economic development electric rates. Senate Utilities hearings Feb. 5 and 11, 2025; died in committee 2026-04-10.",
+      "source": "https://kslegislature.gov/bills/SB81/",
+      "date": "2026-04-10"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "25-EKME-315-TAR",
+      "regulator": "Kansas Corporation Commission",
+      "utility": "Evergy Kansas Central and Evergy Kansas Metro",
+      "what": "Large Load Power Service (LLPS) rate plan: applies to new loads of 75 MW+ peak (or expansions of 75 MW+); 'Path to Power' queue for 25 MW+ loads; minimum term 12 years plus up to 5 years ramp; collateral of two years of minimum bills; capacity reduction fee; clean energy, customer capacity and demand response riders. Unanimous settlement (Evergy, Sierra Club, Google, others). Filed Feb 11, 2025.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://curb.kansas.gov/curb_news/CURB_News_25Q4.pdf",
+      "date": "2025-11-06"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Shawnee County",
+      "type": "moratorium",
+      "what": "Six-month moratorium on new data center applications; no final action on the pending Compass Datacenters application. Expires Feb 17, 2027.",
+      "status": "in effect",
+      "source": "https://www.ksnt.com/news/local-news/six-month-moratorium-approved-for-new-data-center-applications-in-shawnee-county/amp/",
+      "date": "2026-08-13"
+    },
+    {
+      "place": "Topeka (city)",
+      "type": "moratorium",
+      "what": "One-year moratorium on new data center development applications in city limits (voted July 14, 2026); later amended to restrict utility connections for data centers outside city limits.",
+      "status": "in effect",
+      "source": "https://www.ksnt.com/news/local-news/data-center-moratorium-language-amended-by-topeka-city-council-heres-what-changed/amp/",
+      "date": "2026-07-14"
+    },
+    {
+      "place": "Sedgwick County",
+      "type": "moratorium",
+      "what": "Interim development control: no data center applications accepted while staff draft rules. Imposed Jan 14, 2026; extended to June 11, then by 90 days to Sept 11, 2026; more extensions possible.",
+      "status": "in effect as of May 2026; status after Sept 11 not checked",
+      "source": "https://www.hppr.org/hppr-news/2026-05-08/sedgwick-countys-data-center-ban-continues-as-commissioners-approve-second-extension",
+      "date": "2026-05-08"
+    },
+    {
+      "place": "Harvey County",
+      "type": "moratorium",
+      "what": "Unanimous moratorium on data center construction in unincorporated Harvey County, through the end of 2028.",
+      "status": "in effect",
+      "source": "https://www.harveycounty.gov/commission-implements-moratorium-on-data-center-developments",
+      "date": "2026-01-13"
+    },
+    {
+      "place": "Saline County",
+      "type": "moratorium",
+      "what": "4-0 vote: three-year pause on data centers, nuclear and hydrogen facilities in unincorporated areas (can be shortened or extended).",
+      "status": "in effect",
+      "source": "https://www.yahoo.com/news/articles/kansas-county-puts-moratorium-data-230922244.html",
+      "date": "2026-03-17"
+    },
+    {
+      "place": "Riley County",
+      "type": "moratorium",
+      "what": "Data center moratorium effective May 18, 2026, ending Nov 12, 2026 (extension possible) while rules are drafted.",
+      "status": "in effect",
+      "source": "https://www.wibw.com/2026/06/02/riley-county-planning-director-shares-details-data-center-moratorium/",
+      "date": "2026-06-02"
+    },
+    {
+      "place": "Emporia (city)",
+      "type": "zoning",
+      "what": "City Commission unanimously created a Digital Infrastructure Overlay District and rezoned 11 tracts for industrial use inside it (for the Flint Hills Digital Campus).",
+      "status": "adopted; challenged by citizen ban petition",
+      "source": "https://www.ksn.com/news/state-regional/emporia-data-center-zoning/amp/",
+      "date": "2026-07"
+    },
+    {
+      "place": "Jefferson County",
+      "type": "moratorium",
+      "what": "At least 12-month moratorium on new applications for cryptocurrency mining facilities and data centers, after the McLouth crypto mine fight.",
+      "status": "adopted Feb 2023; current status not checked",
+      "source": "https://lawrencekstimes.com/2023/02/28/mclouth-crypto-moratorium/",
+      "date": "2023-02-28"
+    }
+  ],
+  "ballot_measures": [
+    {
+      "place": "Emporia (city)",
+      "what": "Citizen-initiated ordinance to ban high-impact data centers in Emporia (petition validated July 2026; court ordered it onto the ballot).",
+      "vote_date": "2026-11",
+      "result": null,
+      "source": "https://www.ksn.com/news/state-regional/lyon-county-judge-orders-emporia-data-center-ban-on-ballot/amp/"
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+  "state": "MS",
+  "checked": {
+    "news": "2026-10-15",
+    "incentives": "2026-10-14",
+    "laws_and_bills": "2026-10-14",
+    "dockets": "2026-10-14",
+    "rate_cases": "2026-10-14",
+    "local_rules": "2026-10-14",
+    "utilities": "2026-10-14",
+    "ballot_measures": "2026-10-14",
+    "polls": "2026-10-14"
+  },
+  "incentives": [
+    {
+      "name": "Data Center Enterprise tax exemptions (standard statewide program)",
+      "law": "Miss. Code Ann. Sec. 57-113-21 et seq. (thresholds lowered in 2019)",
+      "what": "MDA-certified data centers get a 10-year sales and use tax exemption on initial construction materials and equipment, plus state income and franchise tax exemptions. To qualify: MDA approval, at least $20 million investment, at least 20 full-time jobs paying 125% of the state average wage. Contract has recapture (clawback) clauses and annual review. In 2019 the Legislature cut the thresholds from $50M / 50 jobs / 150% of average wage. Used by xAI, Compass and AVAIO per Mississippi Today.",
+      "value_known": null,
+      "source": "https://mississippitoday.org/2026/07/29/data-centers-incentives-mississippi/",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Project Atlas incentive package for Amazon Web Services (Mississippi Major Economic Impact Act)",
+      "law": "Senate Bill 2001, 2024 Second Extraordinary Session (amends Sec. 57-75-5 and related sections; approved by Governor 2024-01-30)",
+      "what": "Special-session package written for a data center project of at least $10 billion and 1,000 jobs paying at least 125% of state average wage (only AWS qualifies so far). Includes sales tax exemption on equipment purchases (described by Mississippi Today as permanent), sales tax exemption on electricity and fuel bought by the project, income tax exemption for income from the data center project, fee-in-lieu of franchise tax and fee-in-lieu of ad valorem (property) tax authority for Madison County, state general obligation bonds, and clawback provisions.",
+      "value_known": "$44 million in state appropriations (mostly workforce training) plus a $215 million state loan to Madison County for roads, water and sewer, repaid from AWS fee-in-lieu payments (Mississippi Today). State economist estimated $41.3M state revenue during construction and $153.7M over first 15 years of operation.",
+      "source": "https://mississippitoday.org/2026/07/29/data-centers-incentives-mississippi/",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Fee-in-lieu of ad valorem (property) tax agreements",
+      "law": "Miss. Code Ann. Sec. 27-31-104 (and SB 2001 2024 2nd Ex. Sess. for AWS)",
+      "what": "Counties and cities can let a data center pay as little as one-third of the property taxes otherwise owed. Agreements start once at least $60 million is invested and the center is running; up to 30 years overall, each piece of property up to 10 years. Madison County ties the AWS fee to benchmarks (700 jobs by 2036, $10B invested by 2030) and is the only county that publishes estimated payments.",
+      "value_known": "AWS to pay an estimated $28 million to Madison County in 2027; over $1 billion estimated to local bodies in first 10 years (Mississippi Today).",
+      "source": "https://mississippitoday.org/2026/07/29/data-centers-incentives-mississippi/",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Compass Datacenters Meridian (Lauderdale County) - standard data center program plus state site grant",
+      "law": "Miss. Code Ann. Sec. 57-113-21 et seq. (standard program); no special session or project-specific law found",
+      "what": "MDA certification as a data center enterprise: 10-year state corporate income and franchise tax exemptions and sales and use tax exemption on construction materials, equipment and hardware/software replacements. State also gave site-prep help including a $4 million site grant. Mississippi Power serves the site under a PSC-approved special contract (docket 2025-UN-3). Mississippi Today (2026-07-29) reports the Center for Economic Accountability named it the 'Worst Economic Development Deal of the Year'.",
+      "value_known": "$4 million state site grant; value of tax exemptions not disclosed",
+      "source": "https://www.compassdatacenters.com/news/compass-10b-investment-lauderdale-county-mississippi/",
+      "date": "2025-01-09"
+    },
+    {
+      "name": "AVAIO Digital Taurus campus (Brandon, Rankin County) - standard data center program",
+      "law": "Miss. Code Ann. Sec. 57-113-21 et seq.; no special session or project-specific law found (separate 2026 SB 3410 covers Brandon/West Rankin water deals)",
+      "what": "MDA approved the Data Center Enterprises sales and use tax exemption; MDA Site Development Grant to the industrial park and MDA help to Brandon and Rankin County. Company sought a fee-in-lieu of property tax from county supervisors.",
+      "value_known": null,
+      "source": "https://governorreeves.ms.gov/avaio-digital-to-locate-6-billion-data-center-campus-in-rankin-county-campus-represents-the-third-largest-economic-development-project-in-state-history/",
+      "date": "2025-08-19"
+    },
+    {
+      "name": "xAI Southaven (DeSoto County) - data center incentive plus local fee-in-lieu",
+      "law": "Miss. Code Ann. Sec. 57-113-21 et seq.; fee-in-lieu under Sec. 27-31-104",
+      "what": "MDA data center incentive (sales and use tax exemption on computing equipment and software) plus fee-in-lieu of property tax agreements with the City of Southaven and DeSoto County.",
+      "value_known": null,
+      "source": "https://governorreeves.ms.gov/tech-leader-xai-investing-more-than-20-billion-in-southaven/",
+      "date": "2026-01-08"
+    },
+    {
+      "name": "AWS Vicksburg (Warren County) - uses 2024 SB 2001 framework",
+      "law": "SB 2001 (2024 2nd Ex. Sess.), Mississippi Major Economic Impact Act",
+      "what": "State says the Warren County AWS campus falls under the 2024 Project Atlas legislation; Warren County contributes; MDA said no additional state funds were needed.",
+      "value_known": null,
+      "source": "https://governorreeves.ms.gov/?p=1566",
+      "date": "2025-11-20"
+    },
+    {
+      "name": "AWS Clinton (Hinds County) - local fee-in-lieu agreement",
+      "law": "Fee-in-lieu of ad valorem taxes (Sec. 27-31-104); MMEIA funds",
+      "what": "Fee-in-lieu-of-taxes agreement approved by the Clinton Board of Aldermen and Hinds County Board of Supervisors (Jan. 15, 2026), plus Major Economic Impact Authority funds. Amounts not published.",
+      "value_known": null,
+      "source": "https://www.wlbt.com/2026/03/04/whos-building-data-center-clinton-records-provide-details/",
+      "date": "2026-03-04"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 2001 (2024 Second Extraordinary Session) - AWS Project Atlas package and Section 22 large customer supply and service agreements",
+      "status": "enacted",
+      "what": "Major Economic Impact Act package for AWS data centers (see incentives). Section 22, codified at Miss. Code Ann. Sec. 77-3-271, lets Entergy Mississippi sign a 'large customer supply and service agreement' with such a project and grants the utility a certificate of public convenience and necessity for power plants, lines and substations needed to serve it; the utility only files informational notices at the PSC. (Entergy's PSC filings, e.g. docket 2024-UA-144, call the agreements trade secrets exempt from the Public Records Act; see dockets.) Passed Senate and House 2024-01-25; approved by Governor 2024-01-30.",
+      "source": "https://billstatus.ls.state.ms.us/20242E/pdf/history/SB/SB2001.xml",
+      "date": "2024-01-30"
+    },
+    {
+      "name": "SB 3106 (2024) - revise data center enterprise tax exemption definitions",
+      "status": "failed",
+      "what": "Would have revised definitions of 'business enterprise' and 'data center' for the Sec. 57-113 exemptions and given 60 days to cure noncompliance before losing exemption. Passed Senate 2024-03-27; died in House Ways and Means 2024-04-16.",
+      "source": "https://billstatus.ls.state.ms.us/2024/pdf/history/SB/SB3106.xml",
+      "date": "2024-04-16"
+    },
+    {
+      "name": "HB 1641 (2024) - exempt economic development project records from Public Records Act",
+      "status": "failed",
+      "what": "Would have exempted public-body records with client information about economic development projects from the Public Records Act. Passed House; died on Senate calendar 2024-04-10.",
+      "source": "https://billstatus.ls.state.ms.us/2024/pdf/history/HB/HB1641.xml",
+      "date": "2024-04-10"
+    },
+    {
+      "name": "SB 2811 (2024) - exempt economic development project records from Public Records Act",
+      "status": "failed",
+      "what": "Would have kept economic development project records secret during review and negotiation. Died in Senate committee 2024-03-05.",
+      "source": "https://billstatus.ls.state.ms.us/2024/pdf/history/SB/SB2811.xml",
+      "date": "2024-03-05"
+    },
+    {
+      "name": "HB 1184 (2025) - expand large customer supply and service agreements",
+      "status": "failed",
+      "what": "Would have created Sec. 77-3-273 letting certain utilities sign large customer supply and service agreements with any customer whose project MDA approves as meeting capital investment and job minimums (extending the AWS-style setup beyond SB 2001). Passed House Public Utilities committee as amended; died on House calendar 2025-02-13.",
+      "source": "https://billstatus.ls.state.ms.us/2025/pdf/history/HB/HB1184.xml",
+      "date": "2025-02-13"
+    },
+    {
+      "name": "SB 2488 (2025) - exempt economic development project records from Public Records Act",
+      "status": "failed",
+      "what": "Same idea as 2024 SB 2811. Died in Senate committee 2025-02-04.",
+      "source": "https://billstatus.ls.state.ms.us/2025/pdf/history/SB/SB2488.xml",
+      "date": "2025-02-04"
+    },
+    {
+      "name": "HB 1239 (2025) - data center enterprise tax exemption changes",
+      "status": "failed",
+      "what": "Would have revised definitions and application contents for the Sec. 57-113 data center exemptions and added a 60-day cure period. Died in conference 2025-03-29.",
+      "source": "https://billstatus.ls.state.ms.us/2025/pdf/history/HB/HB1239.xml",
+      "date": "2025-03-29"
+    },
+    {
+      "name": "SB 3168 (2025) - data center enterprise tax exemption extensions",
+      "status": "failed",
+      "what": "Would have made data centers automatically eligible for up to two more 10-year exemption extensions for expansions, including hardware replacement, applied for directly at the Department of Revenue. Passed Senate 2025-02-26; died in House committee 2025-03-18.",
+      "source": "https://billstatus.ls.state.ms.us/2025/pdf/history/SB/SB3168.xml",
+      "date": "2025-03-18"
+    },
+    {
+      "name": "HB 1635 (2026) - share of big-project fee-in-lieu to a state fund",
+      "status": "failed",
+      "what": "For projects over $1 billion with fee-in-lieu deals signed after 2026-07-01, part of the fee on the amount above $1 billion would go to a new Mississippi Strategic Development Fund run by MDA. Sponsor Rep. Trey Lamar. Died in House Ways and Means 2026-02-03.",
+      "source": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1635.xml",
+      "date": "2026-02-03"
+    },
+    {
+      "name": "HB 4045 (2026) - end data center project income tax exemption after 2026",
+      "status": "failed",
+      "what": "Would have ended the income tax exemption for certain data center projects after calendar year 2026, revised the Major Economic Impact Act project definition, and sent part of fee-in-lieu on projects over $2 billion to a Mississippi Strategic Development Fund. Passed Ways and Means 2026-02-24; died on House calendar 2026-02-25.",
+      "source": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB4045.xml",
+      "date": "2026-02-25"
+    },
+    {
+      "name": "HB 1534 (2026) - Mississippi Energy Security and Agricultural Growth Act",
+      "status": "failed",
+      "what": "Not data-center specific. Would have defined clean energy to include advanced and renewable natural gas and provided for 'protection of ratepayer affordability'. Died on House calendar 2026-02-12. Companion SB 2922 died in committee.",
+      "source": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1534.xml",
+      "date": "2026-02-12"
+    },
+    {
+      "name": "SB 3410 (2026) - Brandon and West Rankin Utility Authority water deals with data centers",
+      "status": "enacted",
+      "what": "Lets the City of Brandon and West Rankin Utility Authority contract with a data center developer for water and wastewater infrastructure that the developer pays for on a progress-payment basis, and allows delivery of reclaimed water for cooling. Tied to Rankin County data center (AVAIO area). Approved by Governor 2026-04-08.",
+      "source": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB3410.xml",
+      "date": "2026-04-08"
+    }
+  ],
+  "regulators": [
+    {
+      "name": "Mississippi Public Service Commission (PSC)",
+      "role": "Regulates investor-owned electric utilities (Entergy Mississippi, Mississippi Power) and electric power associations' service areas and certificates; reviews special contracts and data center power agreements; receives Section 22 informational filings. Docket search at ctsportal.psc.ms.gov.",
+      "url": "https://www.psc.ms.gov/"
+    },
+    {
+      "name": "Mississippi Public Utilities Staff",
+      "role": "Separate state agency that represents the public interest in PSC cases and makes recommendations on utility filings.",
+      "url": "https://www.mpus.ms.gov/"
+    },
+    {
+      "name": "Mississippi Department of Environmental Quality (MDEQ) / Environmental Quality Permit Board",
+      "role": "Air permits for on-site gas turbines and generators (e.g. xAI Southaven), water withdrawal (surface and groundwater) permits through Office of Land and Water Resources, wastewater (NPDES) and stormwater permits.",
+      "url": "https://www.mdeq.ms.gov/"
+    },
+    {
+      "name": "Mississippi Development Authority (MDA)",
+      "role": "State economic development agency. Certifies data center enterprises for tax exemptions, negotiates incentive contracts, administers Major Economic Impact Act funds and site grants.",
+      "url": "https://mississippi.org/"
+    },
+    {
+      "name": "Mississippi Major Economic Impact Authority (MMEIA)",
+      "role": "Unit inside MDA that carries out special-session projects such as AWS Project Atlas (SB 2001, 2024).",
+      "url": "https://mississippi.org/"
+    },
+    {
+      "name": "Tennessee Valley Authority (TVA)",
+      "role": "Federal power agency. Sets wholesale and retail rates for its local power companies in north and east Mississippi (not regulated by the PSC) and its local power companies' service to large loads (e.g. TVA reviewed the proposed Starkville crypto mine's grid impact).",
+      "url": "https://www.tva.com/"
+    },
+    {
+      "name": "Mississippi Department of Revenue",
+      "role": "Administers sales, use, income and franchise tax exemptions for certified data centers.",
+      "url": "https://www.dor.ms.gov/"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "2024-UA-101",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Titled on portal 'Application of Entergy Mississippi for review of the Virilia/Catlett transmission project'; orders captioned 'Review of Interim Facilities Projects'. Prudence review under Sec. 77-3-271 (SB 2001 Section 22) of a three-phase transmission build for the March 8, 2024 Large Customer Supply and Service Agreement serving AWS's two Madison County data centers. Phase 1: Catlett upgrade + new Virilia 230 kV substation (order 2025-05-01). Phase 2: new 230 kV 'Cosmos Substation' on the Lake Castle-Northpark line, Madison County (filed 2025-08-07, order 2026-03-10). Phase 3 filings 2026-08-07. This matches the 'Project Cosmos' docket number Earthjustice cited.",
+      "site_ids": [
+        "ms-madison-aws-canton-megasite",
+        "ms-madison-aws-ridgeland"
+      ],
+      "status": "open; prudence orders 2025-05-01 (phase 1) and 2026-03-10 (phase 2); phase 3 filed 2026-08-07",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23863",
+      "date": "2024-08-28"
+    },
+    {
+      "id": "2024-UA-144",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. 'AWS informational tariff filing for Delta Blues Advanced Power Station.' Entergy's Sec. 77-3-271 informational filing for a combined cycle gas plant in Washington County to serve AWS under the March 8, 2024 agreement. Filing says the agreement is a trade secret exempt from the Public Records Act. Further filing 2026-07-07.",
+      "site_ids": [
+        "ms-madison-aws-canton-megasite",
+        "ms-madison-aws-ridgeland"
+      ],
+      "status": "informational filing (no approval required under Sec. 77-3-271); update filed 2026-07-07",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23956",
+      "date": "2024-12-12"
+    },
+    {
+      "id": "2025-UA-50",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Statutory informational-only filing (SB 2001 Section 22) for the Pickens-South Canton project: rebuild Pickens-Canton 230 kV line and reconductor Canton-South Canton 230 kV line, to add load-serving capacity for the two AWS Madison County data centers. More filings 2026-09-03.",
+      "site_ids": [
+        "ms-madison-aws-canton-megasite",
+        "ms-madison-aws-ridgeland"
+      ],
+      "status": "informational filing; updates filed 2026-09-03",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24020",
+      "date": "2025-04-16"
+    },
+    {
+      "id": "2025-AD-123",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Informational filing under Sec. 77-3-271 for the Vicksburg Advanced Power Station, a combined cycle gas plant in Warren County, tied to the AWS Warren County data center (Large Customer Supply and Service Agreement signed with AWS, terms confidential).",
+      "site_ids": [
+        "ms-warren-aws-vicksburg"
+      ],
+      "status": "informational filing",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24095",
+      "date": "2025-12-17"
+    },
+    {
+      "id": "2026-UA-55",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Informational filing under Sec. 77-3-271 for the Traceview Advanced Power Station, a combined cycle gas plant in Madison County. Cites the March 2024 agreement (two Madison County AWS campuses) and a February 2025 agreement (AWS Warren County), which Entergy says will also serve the April 2026 Madison County expansion.",
+      "site_ids": [
+        "ms-madison-aws-canton-megasite",
+        "ms-madison-aws-ridgeland",
+        "ms-warren-aws-vicksburg"
+      ],
+      "status": "informational filing",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24153",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "2026-UA-54",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Informational filing under Sec. 77-3-271 for the 190 MW Penton Solar facility in DeSoto County, built to help serve AWS's two Madison County data centers under the March 2024 agreement.",
+      "site_ids": [
+        "ms-madison-aws-canton-megasite",
+        "ms-madison-aws-ridgeland"
+      ],
+      "status": "informational filing",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24152",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "2026-UA-56",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Informational filing under Sec. 77-3-271 for the 80 MW Delta Solar facility in Bolivar County, tied to the March 2024 AWS agreement.",
+      "site_ids": [
+        "ms-madison-aws-canton-megasite",
+        "ms-madison-aws-ridgeland"
+      ],
+      "status": "informational filing",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24154",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "2025-UN-3",
+      "regulator": "Mississippi PSC",
+      "utility": "Mississippi Power",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Special contract between Mississippi Power and Compass Datacenters Jan I, LLC (effective 2024-12-20) for service to facilities in Lauderdale County. Southern Renewable Energy Association's motion to intervene was denied 2025-02-11. Mississippi Power told the PSC it must delay retiring at least one Plant Daniel coal unit to serve Compass (see rate_cases).",
+      "site_ids": [
+        "ms-lauderdale-compass-meridian"
+      ],
+      "status": "approved by order dated 2025-02-04 (3-0); intervention denied 2025-02-11",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23972",
+      "date": "2025-01-09"
+    },
+    {
+      "id": "2025-UA-25",
+      "regulator": "Mississippi PSC",
+      "utility": "Mississippi Power",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Mississippi Power CPCN petition for transmission lines, a new 230 kV breaker-and-a-half substation in the Meridian I-20/59 Industrial Park and related upgrades in Lauderdale County. Testimony (J. Halford) says it is needed to serve Compass Datacenters JAN I under the ESA approved in 2025-UN-3; load to ramp from 2026 to about 500 MW; MPC can serve only 180 MW on existing 115 kV. Estimated cost $117 million (2025-2032), partly offset by a Compass contribution-in-aid-of-construction.",
+      "site_ids": [
+        "ms-lauderdale-compass-meridian"
+      ],
+      "status": "approved by order 2025-05-01",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23994",
+      "date": "2025-02-18"
+    },
+    {
+      "id": "2025-UA-68",
+      "regulator": "Mississippi PSC",
+      "utility": "Mississippi Power / East Mississippi EPA",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Service area agreement between Mississippi Power and East Mississippi Electric Power Association; joint application cites Mississippi Power's service to Compass Datacenters' modular data centers in Meridian under the Dec. 20, 2024 special contract (2025-UN-3).",
+      "site_ids": [
+        "ms-lauderdale-compass-meridian"
+      ],
+      "status": "order issued 2025-09-09",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24038",
+      "date": "2025-07-21"
+    },
+    {
+      "id": "2025-UA-85",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Application for approval of Agreement for Electric Service with ADP Rankin Data Hub, LLC (AVAIO Digital) for its Brandon data center campus. Note: mississippi.json cites 'Docket EC-123-0082-00' for this; EC-123-0082-00 is Entergy's PSC company file number printed on all its filings, not a docket.",
+      "site_ids": [
+        "ms-rankin-avaio-taurus"
+      ],
+      "status": "approved by order 2025-10-16",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24055",
+      "date": "2025-08-19"
+    },
+    {
+      "id": "2025-UA-102",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Entergy CPCN petition to build the Marquette 230 kV switching station, lines and substation upgrades (Rankin, South Jackson, Brandon substations) in Rankin County. Petition says the facilities are needed to serve AVAIO's new data center load at East Metropolitan Center park in Brandon.",
+      "site_ids": [
+        "ms-rankin-avaio-taurus"
+      ],
+      "status": "CPCN granted by order 2026-02-17",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24073",
+      "date": "2025-10-31"
+    },
+    {
+      "id": "2026-AD-10",
+      "regulator": "Mississippi PSC",
+      "utility": null,
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Prado AI Industrial, LLC request for declaratory opinion on building its own power plant for a proposed AI campus. Motions to intervene granted 2026-03-19 and 2026-03-24 (Entergy Mississippi and Mississippi Power intervened per news). PSC order 2026-05-29; WLBT reported the PSC would not issue an opinion on a 'hypothetical' plant.",
+      "site_ids": [
+        "ms-jacksonmetro-prado-ai-industrial-campus"
+      ],
+      "status": "order 2026-05-29 (no opinion issued, per WLBT)",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24107",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "2022-UA-105",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Agreement for Service with Makerstar Capital, Inc. for facilities at Vicksburg, Warren County. Makerstar sold its Mississippi bitcoin mining sites to CleanSpark in February 2024 (CleanSpark SEC 8-K).",
+      "site_ids": [
+        "ms-warren-cleanspark-vicksburg"
+      ],
+      "status": "approved by order 2022-09-15",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23534",
+      "date": "2022-08-10"
+    },
+    {
+      "id": "2022-UN-123",
+      "regulator": "Mississippi PSC",
+      "utility": "Mississippi Power",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Special contract between Mississippi Power and Makerstar Capital for facilities in Wiggins (contract effective 2022-09-23); credit tied to minimum load. Site later bought by CleanSpark.",
+      "site_ids": [
+        "ms-stone-cleanspark-wiggins"
+      ],
+      "status": "approved by order October 2022",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23631",
+      "date": "2022-09-29"
+    },
+    {
+      "id": "2022-UN-124",
+      "regulator": "Mississippi PSC",
+      "utility": "Mississippi Power",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Special contract between Mississippi Power and Makerstar Capital for the Meridian facility. Approved 2022-11-16; amendment approved 2023-10-03; filing notes the Meridian facility was acquired by CleanSpark 2024-02-29.",
+      "site_ids": [
+        "ms-lauderdale-cleanspark-meridian"
+      ],
+      "status": "approved 2022-11-16; amended 2023-10-03",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23632",
+      "date": "2022-09-29"
+    },
+    {
+      "id": "2024-UA-58",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "VERIFIED on ctsportal.psc.ms.gov docket page (number, title, open date, filings list) on 2026-10-14. Application for approval of two Agreements for Electric Service with Makerstar Capital for facilities in Clinton, Hinds County (same terms as the 2022 Vicksburg agreement).",
+      "site_ids": [
+        "ms-hinds-cleanspark-clinton"
+      ],
+      "status": "approved by order 2024-07-02",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23849",
+      "date": "2024-06-10"
+    },
+    {
+      "id": "2023-UN-142",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "Number VERIFIED on ctsportal.psc.ms.gov: 'Entergy Mississippi, LLC's 2024 Formula Rate Plan filing'. Earthjustice/Synapse cite it for interim facilities (data center) cost recovery; that data center tie is per Earthjustice and NOT confirmed in docket documents.",
+      "site_ids": [],
+      "status": "portal status open",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23800",
+      "date": "2023-11-01"
+    },
+    {
+      "id": "2024-UN-129",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "Number VERIFIED on ctsportal.psc.ms.gov: 'Entergy Mississippi, LLC's 2025 Formula Rate Plan filing'. Data center cost tie per Earthjustice; NOT confirmed in docket documents.",
+      "site_ids": [],
+      "status": "portal status open",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23939",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "2025-UN-112",
+      "regulator": "Mississippi PSC",
+      "utility": "Entergy Mississippi",
+      "what": "Number VERIFIED on ctsportal.psc.ms.gov: 'Entergy Mississippi, LLC's 2026 Formula Rate Plan filing'. Entergy says the PSC-approved 2026 plan avoided a $4.87/month July increase thanks to data center revenue (see rate_cases). Data center cost tie per Earthjustice NOT confirmed in docket documents.",
+      "site_ids": [],
+      "status": "portal status open; rate plan approved per Entergy (order date not checked)",
+      "url": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24083",
+      "date": "2025-11-14"
+    },
+    {
+      "id": "Air Ref. No. 0680-00119 (PSD permit)",
+      "regulator": "MDEQ Environmental Quality Permit Board",
+      "utility": null,
+      "what": "Not a PSC docket. Air permit for xAI/MZX Tech's 41 permanent gas turbines in Southaven. Permit Board approved it unanimously 2026-03-10 over objections (SELC, NAACP, Memphis Communities Against Pollution). SELC requested an evidentiary hearing (appeal) 2026-04-10 for NAACP, Young Gifted & Green and Safe and Sound Coalition; outcome not found as of 2026-10-14.",
+      "site_ids": [
+        "ms-desoto-xai-southaven-power-plant"
+      ],
+      "status": "permit issued 2026-03-10; evidentiary hearing requested 2026-04-10, outcome unknown",
+      "url": "https://www.mississippifreepress.org/mississippi-permit-board-grants-xais-request-for-41-southaven-gas-turbines-to-power-memphis-data-center/",
+      "date": "2026-03-10"
+    },
+    {
+      "id": null,
+      "regulator": "MDEQ",
+      "utility": null,
+      "what": "Not a PSC docket. MDEQ order of 2026-07-30 setting a retirement schedule for xAI/MZX Tech's 69 temporary trailer-mounted gas turbines in Southaven (run without an air permit as 'temporary-mobile'); retirements start 2026-08-18, 13 units allowed past the 12-month limit, last by 2027-07-14.",
+      "site_ids": [
+        "ms-desoto-xai-southaven-power-plant"
+      ],
+      "status": "order issued 2026-07-30",
+      "url": "https://ourtupelo.com/state-sets-dates-to-retire-temporary-xai-turbines-but-allows-some-to-go-past-original-deadline/",
+      "date": "2026-07-31"
+    }
+  ],
+  "rate_cases": [
+    {
+      "utility": "Entergy Mississippi",
+      "what": "Delta Blues Advanced Power Station: new combined cycle gas plant in Washington County, built under Sec. 77-3-271 (no PSC certificate case) to serve AWS (docket 2024-UA-144).",
+      "impact": null,
+      "source": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23956",
+      "date": "2024-12-12"
+    },
+    {
+      "utility": "Entergy Mississippi",
+      "what": "Vicksburg Advanced Power Station: new combined cycle gas plant in Warren County tied to the AWS Warren County campus (docket 2025-AD-123).",
+      "impact": null,
+      "source": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24095",
+      "date": "2025-12-17"
+    },
+    {
+      "utility": "Entergy Mississippi",
+      "what": "Traceview Advanced Power Station: new combined cycle gas plant in Madison County tied to AWS agreements (docket 2026-UA-55); plus Penton Solar 190 MW (2026-UA-54) and Delta Solar 80 MW (2026-UA-56) filed the same day.",
+      "impact": null,
+      "source": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=24153",
+      "date": "2026-07-22"
+    },
+    {
+      "utility": "Entergy Mississippi",
+      "what": "Synapse Energy report for Environmental Advocates Mississippi and Earthjustice ('In the Dark'): residential customers paid $38 million by March 2026 for grid upgrades that appear to serve data centers, with $80 million more expected by end of 2026; 'Superpower Mississippi' grid program expected to cost $300 million over five years. Entergy disputes the findings.",
+      "impact": "Estimate: residential bills up to $10.60/month higher (Synapse estimate, kind=estimate)",
+      "source": "https://earthjustice.org/press/2026/new-report-data-centers-could-already-be-costing-utility-customers-11-mo-in-one-state",
+      "date": "2026-05-28"
+    },
+    {
+      "utility": "Entergy Mississippi",
+      "what": "2026 formula rate plan (docket 2025-UN-112) approved by PSC; Entergy says new data center revenue prevented a July increase, and it filed for a further $0.41/month cut (ad valorem tax adjustment, partly due to data center revenue) to take effect in October if approved. Entergy cites more than $2 billion in projected customer savings over 20 years under its 'Fair Share Plus Pledge'.",
+      "impact": "Avoided $4.87/month increase in July 2026 (Entergy claim)",
+      "source": "https://entergy.com/news/first-benefits-from-data-centers-appear-in-entergy-mississippi-customer-bills-eliminating-nearly-5-monthly-increase",
+      "date": "2026-08-27"
+    },
+    {
+      "utility": "Entergy Mississippi",
+      "what": "Entergy testimony to the state AI regulation task force: residential bills projected to be $30/month lower by 2030 than without data center growth. PSC Commissioner De'Keither Stamps also testified.",
+      "impact": "Projected -$30/month by 2030 vs. no-data-center case (Entergy projection, kind=estimate)",
+      "source": "https://www.wlox.com/2026/07/14/mississippi-ai-task-force-hears-competing-claims-data-center-costs-community-impacts/",
+      "date": "2026-07-14"
+    },
+    {
+      "utility": "Mississippi Power",
+      "what": "To power the Compass Datacenters Meridian campus, Mississippi Power told the PSC (2025-01-09) it must delay closing at least one Plant Daniel coal unit (Jackson County), and possibly other fossil steam units, until the mid-2030s; PSC unanimously approved the Compass special contract (docket 2025-UN-3). Plant had been slated to close its coal units by 2027-2028.",
+      "impact": null,
+      "source": "https://ourtupelo.com/state-ms-power-extend-life-of-coal-unit-to-energize-data-centers/",
+      "date": "2025-02-14"
+    },
+    {
+      "utility": "Mississippi Power",
+      "what": "New transmission and 230 kV substation to serve Compass's ~500 MW Meridian load (docket 2025-UA-25), estimated $117 million over 2025-2032; Mississippi Power pays upfront with part offset by a Compass contribution-in-aid-of-construction, and says the contract is designed to recover the investment.",
+      "impact": null,
+      "source": "https://ctsportal.psc.ms.gov/portal/PSC/DocketDetails?docketId=23994",
+      "date": "2025-02-18"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Jackson (Hinds County)",
+      "type": "moratorium",
+      "what": "City Council approved a 183-day citywide moratorium on data center zoning changes and permits, 5-2, the first in Mississippi. Took effect 30 days later because the vote was not unanimous. Council can extend or end it; during the pause it will pick suitable sites and study impacts. Triggered by a proposed data center on Forest Avenue in northwest Jackson. Sources differ on the second 'no' vote (Hartley vs. Parkinson); Ashby Foote voted no.",
+      "status": "in effect (6 months from about 2026-08-13)",
+      "source": "https://www.mississippifreepress.org/nobody-wants-this-jackson-pumps-the-brakes-on-data-centers-for-6-months-amid-local-opposition/",
+      "date": "2026-07-14"
+    },
+    {
+      "place": "Jackson (Hinds County)",
+      "type": "zoning",
+      "what": "Vote on rezoning Forest Avenue property for a data center postponed while the city works to amend its zoning ordinance to cover data centers.",
+      "status": "pending",
+      "source": "https://www.wlbt.com/2026/06/18/data-center-rezoning-vote-postponed-city-works-amend-zoning-ordinance/",
+      "date": "2026-06-18"
+    },
+    {
+      "place": "Clinton (Hinds County)",
+      "type": "zoning",
+      "what": "Board of Aldermen unanimously amended the zoning ordinance: adds a data center definition (incl. crypto mining, AI training and cloud storage), requires a conditional use permit, limits data centers to I-1 and I-2 industrial zones. More ordinances planned.",
+      "status": "enacted",
+      "source": "https://www.wlbt.com/2026/06/03/clinton-amends-zoning-ordinance-regulate-data-centers/",
+      "date": "2026-06-03"
+    },
+    {
+      "place": "Clarksdale (Coahoma County)",
+      "type": "zoning",
+      "what": "City approved rezoning of farmland for a proposed hyperscale data center; officials called it 'the beginning of the conversation'. Capital B News (https://capitalbnews.org/data-center-clarksdale-mississippi/) reports about 15 residents sued the city claiming improper public notice.",
+      "status": "approved; resident lawsuit filed",
+      "source": "https://mississippitoday.org/2026/03/24/clarksdale-data-center-rezoning/",
+      "date": "2026-03-24"
+    },
+    {
+      "place": "Starkville (Oktibbeha County)",
+      "type": "zoning",
+      "what": "Planning and Zoning Commission denied a special use exemption for a bitcoin mining facility (Starkville Energy LLC; DatacenterDynamics reported up to 30 MW) at 407 Industrial Park Road; staff cited missing water, wastewater, jobs, flood and environmental information. The Unified Development Code does not list this use, so an exemption was needed even in an industrial zone. Company said it may try again.",
+      "status": "denied 2026-08-11",
+      "source": "https://cdispatch.com/news/planning-commission-rejects-bitcoin-mining-facility/",
+      "date": "2026-08-13"
+    },
+    {
+      "place": "Southaven (DeSoto County)",
+      "type": "zoning",
+      "what": "Board of Aldermen approved the design plan for a 660,000 sq ft SpaceXAI/MZX Tech data center on the city's former 51-acre training site on Tulane Road (use allowed by right on industrial land). Ward 2 Alderman Charles Hoots voted no, citing turbine noise.",
+      "status": "design approved",
+      "source": "https://www.wlox.com/2026/09/02/southaven-approves-new-spacexai-data-center-fifth-location-area/",
+      "date": "2026-09-02"
+    },
+    {
+      "place": "Southaven (DeSoto County)",
+      "type": "ordinance",
+      "what": "Federal class action (Haley v. X.AI Corp., N.D. Miss., filed 2026-06-08) by three Southaven residents alleges noise, vibration, nuisance and negligence from xAI's gas turbines; Memphis Flyer reports it claims violations of Southaven's noise ordinance (https://www.memphisflyer.com/lawsuit-targets-continuous-squealing-roaring-from-xais-southaven-center/).",
+      "status": "lawsuit pending",
+      "source": "https://mississippitoday.org/2026/06/09/elon-musk-mississippi-southaven-lawsuit/",
+      "date": "2026-06-09"
+    },
+    {
+      "place": "Jefferson Davis County",
+      "type": "moratorium",
+      "what": "Residents delivered a 950-signature petition to the Board of Supervisors asking for a temporary pause on data center construction (Big Woods Technology Park). County has no zoning; residents also asked for noise and air ordinances.",
+      "status": "requested; no board action found",
+      "source": "https://www.mississippifreepress.org/jefferson-davis-county-residents-sound-alarm-over-proposed-6-billion-data-center-fearing-widespread-harms/",
+      "date": "2026-10-07"
+    }
+  ],
+  "ballot_measures": [
+    {
+      "place": "Mississippi (statewide and counties)",
+      "what": "None found: no state or county ballot measure on data centers found as of 2026-10-14. Ballotpedia's 2026 roundup of local data center ballot measures lists none in Mississippi.",
+      "vote_date": null,
+      "result": null,
+      "source": "https://news.ballotpedia.org/2026/03/24/voters-in-at-least-five-jurisdictions-will-decide-ballot-measures-related-to-data-centers-this-year/"
+    }
+  ],
+  "polls": [
+    {
+      "who": "None found",
+      "what": "No Mississippi-specific public poll on data centers found as of 2026-10-14. National polls (e.g. Annenberg, Aug 2026: 61% oppose a data center nearby) are not state-specific.",
+      "result": null,
+      "source": "https://www.mississippitoday.org/",
+      "date": "2026-10-14"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Entergy Mississippi",
+      "type": "investor-owned",
+      "serves": "About 459,000 electric customers in 45 of Mississippi's 82 counties (west and central Mississippi incl. Jackson metro, Madison, Rankin, Warren, Delta). Serves AWS, AVAIO and Makerstar/CleanSpark sites (PSC dockets).",
+      "url": "https://www.psc.ms.gov/psc/outagetracker"
+    },
+    {
+      "name": "Mississippi Power (Southern Company)",
+      "type": "investor-owned",
+      "serves": "192,523 customers in southern and eastern Mississippi (Gulf Coast to Meridian). Serves Compass Meridian and CleanSpark Meridian/Wiggins sites.",
+      "url": "https://www.psc.ms.gov/psc/outagetracker"
+    },
+    {
+      "name": "Cooperative Energy",
+      "type": "co-op",
+      "serves": "Generation and transmission co-op (Hattiesburg). Wholesale power to 11 member distribution co-ops; 55 of 82 counties; about 460,000 member homes and businesses. Does not sell directly to homes.",
+      "url": "https://cooperativeenergy.com/about-us"
+    },
+    {
+      "name": "Tennessee Valley Authority (TVA)",
+      "type": "TVA",
+      "serves": "Federal wholesale supplier to 14 electric power associations and several city utilities in north, east and central Mississippi. Does not sell directly to homes.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies"
+    },
+    {
+      "name": "Coahoma Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Lyon (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Coast Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Bay St. Louis (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Delta Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Greenwood (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Dixie Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Laurel (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Magnolia Electric Power",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in McComb (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Pearl River Valley Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Columbia (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Singing River Electric",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Lucedale (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Southern Pine Electric",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Taylorsville (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Southwest Electric (Southwest Mississippi EPA)",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Lorman (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Twin County Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Hollandale (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "Yazoo Valley Electric Power Association",
+      "type": "co-op",
+      "serves": "Rural homes and businesses around its area; headquartered in Yazoo City (PSC list). Buys wholesale power from Cooperative Energy.",
+      "url": "https://cooperativeenergy.com/the-power-of-12/"
+    },
+    {
+      "name": "4-County Electric Power Association",
+      "type": "co-op",
+      "serves": "Lowndes, Clay, Monroe, Oktibbeha, Choctaw, Webster, Noxubee, Chickasaw and Winston counties; 47,000+ customers (HQ Columbus). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/4-county-electric-power-association"
+    },
+    {
+      "name": "Alcorn County Electric Power Association",
+      "type": "co-op",
+      "serves": "Alcorn County; 18,500+ customers (HQ Corinth). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/alcorn-county-electric-power-association"
+    },
+    {
+      "name": "Central Electric Power Association",
+      "type": "co-op",
+      "serves": "Attala, Leake, Newton, Neshoba, Kemper, Scott and Rankin counties; 35,700+ customers (HQ Carthage). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/central-electric-power-association"
+    },
+    {
+      "name": "East Mississippi Electric Power Association",
+      "type": "co-op",
+      "serves": "Clarke, Lauderdale, Kemper, Winston, Jasper, Wayne, Neshoba and Noxubee counties (per PSC docket 2025-UA-68) (HQ Meridian). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/east-mississippi-electric-power-association"
+    },
+    {
+      "name": "Monroe County Electric Power Association",
+      "type": "co-op",
+      "serves": "Monroe, Itawamba and Lowndes counties (HQ Amory). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/monroe-county-electric-power-association"
+    },
+    {
+      "name": "Natchez Trace Electric Power Association",
+      "type": "co-op",
+      "serves": "Parts of Calhoun, Chickasaw, Clay, Grenada, Pontotoc, Webster and Yalobusha counties; 15,700+ customers (HQ Houston). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/natchez-trace-electric-power-association"
+    },
+    {
+      "name": "North East Mississippi Electric Power Association",
+      "type": "co-op",
+      "serves": "Parts of Lafayette, Union, Pontotoc and Marshall counties (HQ Oxford). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/north-east-mississippi-electric-power-association"
+    },
+    {
+      "name": "Northcentral Electric Cooperative",
+      "type": "co-op",
+      "serves": "Eastern DeSoto County, western Marshall County, small parts of Tate and Lafayette; 30,000+ members (HQ Olive Branch). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/northcentral-electric-cooperative"
+    },
+    {
+      "name": "Pontotoc Electric Power Association",
+      "type": "co-op",
+      "serves": "Parts of Pontotoc, Union, Calhoun, Chickasaw and Lafayette counties; 18,700+ members. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/pontotoc-electric-power-association"
+    },
+    {
+      "name": "Prentiss County Electric Power Association",
+      "type": "co-op",
+      "serves": "Tippah, Prentiss, Lee, Union, Alcorn and Itawamba counties; 13,700+ customers (HQ Booneville). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/prentiss-county-electric-power-association"
+    },
+    {
+      "name": "Tallahatchie Valley Electric Power Association",
+      "type": "co-op",
+      "serves": "Seven counties incl. Grenada, Panola and Tate; 27,000+ members (HQ Batesville). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/tallahatchie-valley-electric-power-association"
+    },
+    {
+      "name": "Tippah Electric Power Association",
+      "type": "co-op",
+      "serves": "Tippah, Union, Alcorn and Benton counties (plus Hardeman County, TN); 13,400+ members (HQ Ripley). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/tippah-electric-power-association"
+    },
+    {
+      "name": "Tishomingo County Electric Power Association",
+      "type": "co-op",
+      "serves": "Tishomingo County and parts of Alcorn, Prentiss and Itawamba; about 13,350 members (HQ Iuka). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/tishomingo-county-electric-power-association"
+    },
+    {
+      "name": "Tombigbee Electric Power Association",
+      "type": "co-op",
+      "serves": "Lee and Itawamba counties and parts of Prentiss, Pontotoc, Union, Monroe, Chickasaw and Tishomingo; about 43,000 members (HQ Tupelo). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/tombigbee-electric-power-association"
+    },
+    {
+      "name": "Tupelo Water & Light Department",
+      "type": "municipal",
+      "serves": "City of Tupelo. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/tupelo-water-light-department-city-of"
+    },
+    {
+      "name": "Starkville Electric Department (Starkville Utilities)",
+      "type": "municipal",
+      "serves": "Starkville and Mississippi State University; about 13,300 customers. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/starkville-electric-department"
+    },
+    {
+      "name": "Columbus Light & Water Department",
+      "type": "municipal",
+      "serves": "City of Columbus. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/columbus-light-and-water-department"
+    },
+    {
+      "name": "Oxford Utilities",
+      "type": "municipal",
+      "serves": "Oxford city limits; 8,900+ members. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/oxford-utilities"
+    },
+    {
+      "name": "West Point Electric System",
+      "type": "municipal",
+      "serves": "Clay County; 3,900+ customers. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/west-point-electric-system-city-of"
+    },
+    {
+      "name": "Holly Springs Utility Department",
+      "type": "municipal",
+      "serves": "Parts of Marshall, Benton and Lafayette counties (and Hardeman/Fayette, TN). TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/holly-springs-utility-department"
+    },
+    {
+      "name": "New Albany Light, Gas & Water",
+      "type": "municipal",
+      "serves": "Parts of Union, Marshall and Tippah counties; 10,500+ customers. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/new-albany-light-gas-water"
+    },
+    {
+      "name": "Philadelphia Utilities",
+      "type": "municipal",
+      "serves": "City of Philadelphia. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/philadelphia-utilities"
+    },
+    {
+      "name": "Aberdeen Electric Department",
+      "type": "municipal",
+      "serves": "City of Aberdeen. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/aberdeen-electric-department"
+    },
+    {
+      "name": "Amory Water & Electric",
+      "type": "municipal",
+      "serves": "City of Amory. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/amory-water-electric"
+    },
+    {
+      "name": "Okolona Electric Department",
+      "type": "municipal",
+      "serves": "Parts of Chickasaw, Monroe, Lee and Clay counties; 5,200+ members. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/okolona-electric-department-city-of"
+    },
+    {
+      "name": "Macon Electric Department",
+      "type": "municipal",
+      "serves": "City of Macon. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/macon-electric-department-city-of"
+    },
+    {
+      "name": "Water Valley Electric Department",
+      "type": "municipal",
+      "serves": "City of Water Valley. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/water-valley-electric-department-city-of"
+    },
+    {
+      "name": "Bolivar Energy Authority (Tennessee)",
+      "type": "municipal",
+      "serves": "Mostly West Tennessee; also a portion of Benton County, Mississippi. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/bolivar-energy-authority"
+    },
+    {
+      "name": "Pickwick Electric Cooperative (Tennessee)",
+      "type": "co-op",
+      "serves": "Mostly West Tennessee; also Tishomingo County, Mississippi. TVA local power company.",
+      "url": "https://www.tva.com/energy/public-power-partnerships/local-power-companies/lpc/pickwick-electric-cooperative"
+    },
+    {
+      "name": "Clarksdale Public Utilities",
+      "type": "municipal",
+      "serves": "City of Clarksdale; named utility for the proposed Clarksdale hyperscale data center. Not a TVA distributor per TVA list.",
+      "url": "https://mississippitoday.org/2026/03/10/clarksdale-data-center-proposal/"
+    }
+  ],
+  "news": [
+    {
+      "title": "Entergy Mississippi says customers are benefitting from data centers, not subsidizing them",
+      "outlet": "Magnolia Tribune (via Meridian Star)",
+      "url": "https://meridianstar.com/2026/10/06/entergy-mississippi-says-customers-are-benefitting-from-data-centers-not-subsidizing-them/",
+      "date": "2026-10-06",
+      "tone": "neutral"
+    },
+    {
+      "title": "Senate candidate Scott Colom calls for temporary ban on data centers in Mississippi",
+      "outlet": "Meridian Star",
+      "url": "https://meridianstar.com/2026/09/29/senate-candidate-scott-colom-calls-for-temporary-ban-on-data-centers-in-mississippi/",
+      "date": "2026-09-29",
+      "tone": "bad"
+    },
+    {
+      "title": "Mississippi supervisors get crash course on data centers as industry expands statewide",
+      "outlet": "WLBT",
+      "url": "https://www.wlbt.com/2026/09/15/mississippi-supervisors-get-crash-course-data-centers-industry-expands-statewide/",
+      "date": "2026-09-15",
+      "tone": "neutral"
+    },
+    {
+      "title": "Entergy Says Amazon Data Centers Will Help Mississippians Save on Power. Some Experts Fear Otherwise.",
+      "outlet": "Mississippi Free Press",
+      "url": "https://www.mississippifreepress.org/entergy-says-amazon-data-centers-will-help-mississippians-save-on-power-some-experts-fear-otherwise/",
+      "date": "2026-08-11",
+      "tone": "bad"
+    },
+    {
+      "title": "What incentives are available to data centers in Mississippi?",
+      "outlet": "Mississippi Today",
+      "url": "https://mississippitoday.org/2026/07/29/data-centers-incentives-mississippi/",
+      "date": "2026-07-29",
+      "tone": "neutral"
+    },
+    {
+      "title": "Mississippi AI task force hears competing claims on data center costs, community impacts",
+      "outlet": "WLBT / WLOX",
+      "url": "https://www.wlox.com/2026/07/14/mississippi-ai-task-force-hears-competing-claims-data-center-costs-community-impacts/",
+      "date": "2026-07-14",
+      "tone": "neutral"
+    },
+    {
+      "title": "'Nobody wants this': Jackson pumps the brakes on data centers for 6 months amid local opposition",
+      "outlet": "Mississippi Free Press",
+      "url": "https://www.mississippifreepress.org/nobody-wants-this-jackson-pumps-the-brakes-on-data-centers-for-6-months-amid-local-opposition/",
+      "date": "2026-07-14",
+      "tone": "bad"
+    },
+    {
+      "title": "New Report: Data Centers Could Already Be Costing Utility Customers ~$11/mo. in One State",
+      "outlet": "Earthjustice (press release)",
+      "url": "https://earthjustice.org/press/2026/new-report-data-centers-could-already-be-costing-utility-customers-11-mo-in-one-state",
+      "date": "2026-05-28",
+      "tone": "bad"
+    },
+    {
+      "title": "Amazon announces additional $12 billion for data centers in central Mississippi",
+      "outlet": "Mississippi Public Broadcasting",
+      "url": "https://www.mpbonline.org/blogs/news/amazon-announces-additional-12-billion-for-data-centers-in-central-mississippi/",
+      "date": "2026-04-10",
+      "tone": "good"
+    },
+    {
+      "title": "Mississippi Permit Board Grants xAI's Request for 41 Southaven Gas Turbines to Power Memphis Data Center",
+      "outlet": "Mississippi Free Press",
+      "url": "https://www.mississippifreepress.org/mississippi-permit-board-grants-xais-request-for-41-southaven-gas-turbines-to-power-memphis-data-center/",
+      "date": "2026-03-10",
+      "tone": "bad"
+    },
+    {
+      "title": "Mississippi Marketplace: Are state leaders rethinking data center deals?",
+      "outlet": "Mississippi Today (republished by OurTupelo)",
+      "url": "https://ourtupelo.com/mississippi-marketplace-are-state-leaders-rethinking-data-center-deals/",
+      "date": "2026-02-05",
+      "tone": "neutral"
+    },
+    {
+      "title": "xAI investing more than $20 billion in Southaven data center",
+      "outlet": "Magnolia Tribune",
+      "url": "https://magnoliatribune.com/2026/01/08/xai-investing-more-than-20-billion-in-southaven-data-center/",
+      "date": "2026-01-08",
+      "tone": "good"
+    },
+    {
+      "title": "Amazon to build $3B AI data center in Vicksburg as Gov. Reeves proclaims arrival of the 'Digital Delta'",
+      "outlet": "Mississippi Free Press",
+      "url": "https://www.mississippifreepress.org/amazon-to-build-3b-ai-data-center-in-vicksburg-as-gov-reeves-proclaims-arrival-of-the-digital-delta/",
+      "date": "2025-11-20",
+      "tone": "neutral"
+    },
+    {
+      "title": "Entergy Mississippi CEO Fisackerly answers questions on data centers and electricity rates",
+      "outlet": "Mississippi Today",
+      "url": "https://mississippitoday.org/2025/09/17/entergy-mississippi-ceo-fisackerly-answers-questions-on-data-centers-and-electricity-rates/",
+      "date": "2025-09-17",
+      "tone": "neutral"
+    },
+    {
+      "title": "$6B data center coming to Brandon",
+      "outlet": "WLBT",
+      "url": "https://www.wlbt.com/2025/08/19/6b-data-center-coming-brandon/",
+      "date": "2025-08-19",
+      "tone": "good"
+    },
+    {
+      "title": "State, MS Power extend life of coal unit to energize data centers",
+      "outlet": "Mississippi Today (republished by OurTupelo)",
+      "url": "https://ourtupelo.com/state-ms-power-extend-life-of-coal-unit-to-energize-data-centers/",
+      "date": "2025-02-14",
+      "tone": "bad"
+    },
+    {
+      "title": "Data center company plans to invest $10 billion in Meridian",
+      "outlet": "Mississippi Today",
+      "url": "https://mississippitoday.org/2025/01/09/meridian-data-center-mississippi-compass-tate-reeves/",
+      "date": "2025-01-09",
+      "tone": "neutral"
+    },
+    {
+      "title": "Lawmakers approve incentive package for two Amazon Web Services data centers",
+      "outlet": "Mississippi Public Broadcasting",
+      "url": "https://www.mpbonline.org/blogs/news/lawmakers-approve-incentive-package-for-two-amazon-web-services-data-centers",
+      "date": "2024-01-26",
+      "tone": "neutral"
+    }
+  ]
+}

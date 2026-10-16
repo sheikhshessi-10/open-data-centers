@@ -1,0 +1,35 @@
+{
+  "state": "AK",
+  "checked": {
+    "local_rules": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "local_rules": [
+    {
+      "place": "Anchorage Municipality",
+      "type": "ordinance",
+      "what": "Assembly data center ordinance adopted March 2026: location limits and a requirement for utility assurance of sufficient grid capacity.",
+      "status": "adopted",
+      "source": "https://www.adn.com/alaska-news/military/2026/05/05/the-military-wants-to-host-data-centers-in-alaska-raising-questions-about-whether-theres-enough-gas-to-power-them/",
+      "date": "2026-05-05"
+    },
+    {
+      "place": "Fairbanks North Star Borough",
+      "type": "moratorium",
+      "what": "Borough Assembly calling for a data center moratorium (cannot bind military land).",
+      "status": "proposed",
+      "source": "https://alaskapublic.org/news/alaska-desk/2026-09-15/forget-jets-and-helicopters-data-centers-could-be-alaska-military-towns-next-noisy-neighbors",
+      "date": "2026-09-15"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "None: no data-center-specific state tax incentive found",
+      "law": null,
+      "what": "Alaska has no data center tax incentive in NCSL's 'Status of Data Center Tax Incentives, by State (2026)' table (adapted from Husch Blackwell's 50-state survey, last updated 2026-07-27; listed as N/A; table data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv).",
+      "value_known": null,
+      "source": "https://www.ncsl.org/resources/details/does-your-state-offer-data-center-tax-incentives",
+      "date": "2026-07-27"
+    }
+  ]
+}

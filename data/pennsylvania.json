@@ -1,0 +1,3303 @@
+[
+  {
+    "id": "pa-luzerne-amazon-salem",
+    "name": "AWS Salem Township Innovation Campus (Susquehanna)",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Luzerne County",
+    "town": "Salem Township",
+    "lat": 41.109284517777844,
+    "lng": -76.14360504812937,
+    "stage": "building",
+    "announced": "2024-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 1200,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/salem-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 1000,
+        "unit": "permanent jobs at full buildout (about)",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/salem-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Susquehanna nuclear plant (Talen Energy); Talen-Amazon power purchase agreement for 1,920 MW",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/salem-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Outside-air cooling most of the year; direct evaporative cooling in hot periods (water-based cooling under 2% of the year, company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/salem-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": "Water to come from the Susquehanna River through Talen's existing intake and withdrawal docket; volume not stated",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/salem-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "community_deal": {
+        "value": "Amazon community giving: $290,000 Feeding Berwick Forward, $250,000 NEPA community fund, $250,000 Bloomsburg YMCA STEM lab, Berwick theatre revitalization; no binding host agreement found",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/salem-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon plans to invest $20 billion in Pennsylvania to expand cloud infrastructure and advance AI innovation",
+        "outlet": "About Amazon",
+        "url": "https://www.aboutamazon.com/news/aws/amazon-pennsylvania-investment-cloud-infrastructure-ai-innovation",
+        "date": "2025-06-09",
+        "tone": "good"
+      },
+      {
+        "title": "Rep. Walsh introduces legislation addressing data center growth in Pennsylvania",
+        "outlet": "Times Leader",
+        "url": "https://www.timesleader.com/news/1741762/rep-walsh-introduces-legislation-addressing-data-center-growth-in-pennsylvania",
+        "date": "2026-05-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Amazon pledged at least $20B (June 9, 2025) for Pennsylvania campuses including Salem and Falls; not split by site, so investment_usd left null. Campus bought from Talen Energy (Cumulus data campus next to Susquehanna nuclear plant) in 2024; up to 20 data centers at full buildout per Amazon project page. Construction started October 2025. Times Leader (May 2026): first building of the former Cumulus campus is active, second phase activation scheduled Nov. 30, 2026, remaining 13 buildings by June 30, 2029; about 48 MW per building. In PA Permit Fast Track (admitted 2024-12-20). Talen 10-Q (Q2 2025): Talen ceased use of the on-site Nautilus facility (formerly a bitcoin mining JV) and AWS will demolish it; AWS data campus sale proceeds recorded March-Aug 2024."
+  },
+  {
+    "id": "pa-bucks-amazon-falls",
+    "name": "AWS Falls Township Innovation Campus (Keystone Trade Center)",
+    "owner": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "PA",
+    "county": "Bucks County",
+    "town": "Falls Township",
+    "lat": 40.15494113419136,
+    "lng": -74.74441316136307,
+    "stage": "building",
+    "announced": "2025-06-09",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 250,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Outside-air cooling most of the year; direct evaporative cooling in hot periods (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": "Water and sewer coordinated with Lower Bucks County Joint Municipal Authority; volume not stated",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "tax_break": {
+        "value": "Site is a Keystone Opportunity Investment Zone (Jan 2021 to Dec 2035) with tax abatements, designated by Bucks County, Falls Township and Pennsbury School District; dollar value not stated",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "community_deal": {
+        "value": "$100,000 Amazon Bucks County Community Fund; workforce training partnerships; no binding host agreement found",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon plans to invest $20 billion in Pennsylvania to expand cloud infrastructure and advance AI innovation",
+        "outlet": "About Amazon",
+        "url": "https://www.aboutamazon.com/news/aws/amazon-pennsylvania-investment-cloud-infrastructure-ai-innovation",
+        "date": "2025-06-09",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Part of Amazon's at-least-$20B Pennsylvania pledge (June 9, 2025), not split by site. Former U.S. Steel Fairless Works site; developer NorthPoint Development. Up to 10 new data center buildings plus retrofit of 1 million sq ft of warehouse space. In PA Permit Fast Track (admitted 2025-04-24); coordinates from that listing."
+  },
+  {
+    "id": "pa-schuylkill-amazon-kline",
+    "name": "AWS Kline Township Innovation Campus",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Schuylkill County",
+    "town": "Kline Township",
+    "lat": 40.876552,
+    "lng": -76.010459,
+    "stage": "announced",
+    "announced": "2025-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 380,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/kline-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Outside-air cooling most of the year; direct evaporative cooling in hot periods (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.amazoninnovationinpa.com/kline-township-innovation-campus/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Amazon project page: pre-construction, plans under review by Schuylkill County Planning Commission and Kline Township (meetings June to September 2026). Land was previously permitted for a 3M+ sq ft warehouse (Brewster Development plan). Trackers also mention interest in nearby Banks Township (Carbon County), unconfirmed. In PA Permit Fast Track (admitted 2025-05-22); coordinates from that listing."
+  },
+  {
+    "id": "pa-cumberland-pdcp-pax",
+    "name": "Pennsylvania Digital 1 (PAX-1)",
+    "owner": "Pennsylvania Data Center Partners and PowerHouse Data Centers (joint venture)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Cumberland County",
+    "town": "Middlesex Township (near Carlisle)",
+    "lat": 40.255494898804486,
+    "lng": -77.1184162960361,
+    "stage": "building",
+    "announced": "2025-07-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 15000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.powerhousedata.com/news/pennsylvania-data-center-partners-and-powerhouse-data-centers-launch-joint-venture-to-build-next-gen-1-35-gw-hyperscale-data-center-campus-in-carlisle-pennsylvania",
+        "date": "2025-07-15"
+      },
+      "power_mw": {
+        "value": 1350,
+        "unit": "MW utility service (three 450 MW campuses; expandable to 1,800 MW; first 300 MW targeted 2Q 2027)",
+        "kind": "real",
+        "source": "https://www.powerhousedata.com/news/pennsylvania-data-center-partners-and-powerhouse-data-centers-launch-joint-venture-to-build-next-gen-1-35-gw-hyperscale-data-center-campus-in-carlisle-pennsylvania",
+        "date": "2025-07-15"
+      },
+      "acres": {
+        "value": 700,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.powerhousedata.com/news/pennsylvania-data-center-partners-and-powerhouse-data-centers-launch-joint-venture-to-build-next-gen-1-35-gw-hyperscale-data-center-campus-in-carlisle-pennsylvania",
+        "date": "2025-07-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PPL Electric Utilities (new 500 kV to 138 kV switching station)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.powerhousedata.com/news/pennsylvania-data-center-partners-and-powerhouse-data-centers-launch-joint-venture-to-build-next-gen-1-35-gw-hyperscale-data-center-campus-in-carlisle-pennsylvania",
+        "date": "2025-07-15"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": 400000,
+        "unit": "gallons per day (about)",
+        "kind": "estimate",
+        "source": "https://www.abc27.com/local-news/data-center-under-construction-in-cumberland-county/amp/",
+        "date": "2026-04-09"
+      },
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Stop PAX-1 residents' group zoning (spot zoning) challenge filed May 2026; judge refused to halt construction, hearing on discretionary stay set Nov 13, 2026",
+        "source": "https://www.abc27.com/local-news/carlisle-west-shore/responding-to-new-challenge-judge-refuses-to-stop-pax-1-data-center-but-sets-new-hearing/amp/",
+        "date": "2026-10-05"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Pennsylvania Data Center Partners and PowerHouse Data Centers launch joint venture to build 1.35 GW hyperscale campus in Carlisle",
+        "outlet": "PowerHouse Data Centers",
+        "url": "https://www.powerhousedata.com/news/pennsylvania-data-center-partners-and-powerhouse-data-centers-launch-joint-venture-to-build-next-gen-1-35-gw-hyperscale-data-center-campus-in-carlisle-pennsylvania",
+        "date": "2025-07-15",
+        "tone": "good"
+      },
+      {
+        "title": "Data Center under construction in Cumberland County",
+        "outlet": "ABC27",
+        "url": "https://www.abc27.com/local-news/data-center-under-construction-in-cumberland-county/amp/",
+        "date": "2026-04-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Responding to new challenge, judge refuses to stop PAX-1 data center but sets new hearing",
+        "outlet": "ABC27",
+        "url": "https://www.abc27.com/local-news/carlisle-west-shore/responding-to-new-challenge-judge-refuses-to-stop-pax-1-data-center-but-sets-new-hearing/amp/",
+        "date": "2026-10-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "In PA Permit Fast Track program (admitted 2025-01-22, project 'Pennsylvania Digital 1 (PAX-1)'); coordinates from that listing. Three campuses of six buildings each, over 4 million sq ft. Developer projects more than $65M direct tax revenue ($45M+ Cumberland Valley School District, $10M+ Middlesex Township, $10M+ Cumberland County). Stage 'permitted' is a judgment: state permits under review, construction not confirmed by an official source. Stage kept at announced: state permits in review. UPDATE 2026-10-15: Under construction off Country Club Road (construction blasting from April 1, 2026; about five years of work; ABC27). Supervisors granted zoning changes and preliminary approval in May and final approval in September (ABC27, year not stated); developer entity Carlisle Development Partners. Stage set to building."
+  },
+  {
+    "id": "pa-indiana-hcr-homer-city",
+    "name": "Homer City Energy Campus",
+    "owner": "Homer City Redevelopment",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Indiana County",
+    "town": "Homer City",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-04-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (initial capital for power and site readiness; data center buildings extra)",
+        "kind": "real",
+        "source": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02"
+      },
+      "power_mw": {
+        "value": 4500,
+        "unit": "MW gas generation (seven GE Vernova 7HA.02 turbines)",
+        "kind": "real",
+        "source": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02"
+      },
+      "acres": {
+        "value": 3200,
+        "unit": "acres (more than)",
+        "kind": "real",
+        "source": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02"
+      },
+      "jobs_promised_perm": {
+        "value": 1000,
+        "unit": "direct and indirect permanent jobs (about)",
+        "kind": "real",
+        "source": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02"
+      },
+      "jobs_promised_build": {
+        "value": 10000,
+        "unit": "construction jobs over about five years (more than)",
+        "kind": "real",
+        "source": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02"
+      },
+      "power_source": {
+        "value": "On-site natural gas plant, up to 4.5 GW, built by Kiewit with GE Vernova turbines",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "More than 100 residents raised noise, water, pollution and farmland concerns at the Sept 9, 2026 county planning commission meeting; commission tabled the plan",
+        "source": "https://wjactv.com/news/local/not-welcome-indiana-county-residents-voice-concerns-over-proposed-amazon-data-centers-homer-city-power-plant-site-pennsylvania-aws-ai",
+        "date": "2026-09-10"
+      }
+    ],
+    "news": [
+      {
+        "title": "Former Homer City, PA coal plant officially reopens as natural gas facility (redevelopment announcement)",
+        "outlet": "Homer City Redevelopment",
+        "url": "https://www.homercityredevelopment.com/post/former-homer-city-pa-coal-plant-officially-reopens-as-state-of-the-art-natural-gas-facility",
+        "date": "2025-04-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "'Not welcome:' Indiana County residents voice concerns over proposed Amazon data centers",
+        "outlet": "WJAC",
+        "url": "https://wjactv.com/news/local/not-welcome-indiana-county-residents-voice-concerns-over-proposed-amazon-data-centers-homer-city-power-plant-site-pennsylvania-aws-ai",
+        "date": "2026-09-10",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Homer City Generating Station (coal). Data center tenants not named. Stage 'building' per site work and tracker reports; turbine deliveries expected 2026. Trackers report construction under way; no opened source confirms, so stage kept at announced. UPDATE 2026-10-15: Amazon Data Services filed (Aug 28, 2026) a preliminary master land development plan with the Indiana County planning commission for 36 data center buildings in six phases on about 2,200 acres in Center and Blacklick townships, with power from FirstEnergy backed by the planned 4.5 GW gas plant; AWS estimates 1,500-2,000 permanent jobs (WJAC). Commission tabled it Sept 9, 2026. Trade reports say construction would start in December and run to 2036 (Baxtel, not a source). Stage kept at announced."
+  },
+  {
+    "id": "pa-luzerne-qts-salem",
+    "name": "QTS Salem Township Campus",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Luzerne County",
+    "town": "Salem Township",
+    "lat": 41.069732,
+    "lng": -76.169053,
+    "stage": "announced",
+    "announced": "2025-07-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://q.com/data-centers/salem-township/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 1700,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/salem-township/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (nearly; company projection)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/salem-township/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling that does not consume water once operating (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/salem-township/",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": 50000,
+        "unit": "gallons per month for domestic uses after one-time fill (company estimate); supplier PA American Water",
+        "kind": "real",
+        "source": "https://q.com/data-centers/salem-township/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "12 buildings phased. In PA Permit Fast Track (admitted 2025-10-23, project 'QTS Salem'); site in Salem Township data center overlay zone where data centers are by-right. Part of Blackstone's $25B Pennsylvania pledge at the July 2025 Energy and Innovation Summit. Stage 'permitted' is a judgment: by-right zoning, state permits in review; QTS says early planning. Stage kept at announced: QTS says early planning."
+  },
+  {
+    "id": "pa-lackawanna-1778richpike-gouldsboro",
+    "name": "Gouldsboro Data Center Campus",
+    "owner": "1778 Rich Pike LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lackawanna County",
+    "town": "Clifton Township (and Covington Township)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 1000,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.nj.gov/drbc/library/documents/WMAC/101525/Thompson_DataCenters.pdf",
+        "date": "2025-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Gas power plant also proposed on site",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nj.gov/drbc/library/documents/WMAC/101525/Thompson_DataCenters.pdf",
+        "date": "2025-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Hundreds attended Clifton Township zoning hearing, most opposed; more than 30 spoke against at Covington hearing",
+        "source": "https://www.wvia.org/news/local/2025-07-30/clifton-twp-zoning-hearing-about-data-centers-moved-to-september-if-needed-at-all",
+        "date": "2025-07-30"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Clifton Twp. zoning hearing about data centers moved to September, if needed at all",
+        "outlet": "WVIA",
+        "url": "https://www.wvia.org/news/local/2025-07-30/clifton-twp-zoning-hearing-about-data-centers-moved-to-september-if-needed-at-all",
+        "date": "2025-07-30",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Along I-380 near Clifton Beach Road. DRBC staff list it at about 1,000 acres and 35 buildings (4.4 to 9.4 million sq ft). Developer filed a validity challenge against Clifton zoning (April 2025) and a procedural challenge in Lackawanna County Court of Common Pleas (June 20, 2025). Operator unnamed (NDA). Trackers cite 1.5 GW and $14.2B, not confirmed in an official source."
+  },
+  {
+    "id": "pa-lackawanna-archbald25-gravity",
+    "name": "Project Gravity",
+    "owner": "Archbald 25 Developer LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lackawanna County",
+    "town": "Archbald",
+    "lat": 41.52502085,
+    "lng": -75.5555639,
+    "stage": "announced",
+    "announced": "2025-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD (developer figure given to the state)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+        "date": "2026-05-01"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 186,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+        "date": "2026-05-01"
+      },
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "permanent jobs (developer)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+        "date": "2026-05-01"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "construction jobs over five years (developer)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+        "date": "2026-05-01"
+      },
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "State terminated Project Gravity from PA Permit Fast Track citing 'lack of responsiveness and unwillingness to provide a transparent overview of the project'; trees cut before final approvals",
+        "source": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+        "date": "2026-05-01"
+      }
+    ],
+    "news": [
+      {
+        "title": "Fast track no more: PA kicks Archbald data center campus off permit program",
+        "outlet": "WVIA",
+        "url": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+        "date": "2026-05-01",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Seven buildings of about 135,000 sq ft on mine-spoiled land between Business Route 6 and Eynon-Jermyn Road. Linked to Western Hospitality Partners. Principally permitted under 2023 borough zoning; still needs land development approval. Stage 'permitted' is a judgment (zoning allows it; DEP permits pending). Stage kept at announced: no final land development approval; removed from Fast Track."
+  },
+  {
+    "id": "pa-lackawanna-cornell-wildcatridge",
+    "name": "Wildcat Ridge Data Center Campus",
+    "owner": "Cornell Realty Management",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lackawanna County",
+    "town": "Archbald",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-01",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2100000000,
+        "unit": "USD (estimate)",
+        "kind": "estimate",
+        "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+        "date": "2026-01-28"
+      },
+      "power_mw": {
+        "value": 1600,
+        "unit": "MW (per zoning application, reported)",
+        "kind": "estimate",
+        "source": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11"
+      },
+      "acres": {
+        "value": 574,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Eight residents appealed Archbald's data center zoning amendment in Lackawanna County Court of Common Pleas (crowdfunded)",
+        "source": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11"
+      },
+      {
+        "what": "Stop Archbald Data Centers residents group opposes all six proposed campuses in the borough",
+        "source": "https://www.wvia.org/news/local/2026-03-27/archbald-denies-18-building-data-center-campus-during-special-friday-afternoon-meeting",
+        "date": "2026-03-27"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data centers are poised to engulf a Pennsylvania town",
+        "outlet": "DeSmog",
+        "url": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "14 three-story data center buildings, 17.2M sq ft (JSG report). Conditional use application received 12/15/25; hearings continued through 9/9/26 with no decision listed on borough page. Archbald council adopted the zoning amendment allowing data centers on Nov. 24, 2025."
+  },
+  {
+    "id": "pa-lackawanna-greenmountain-stavola",
+    "name": "Project Green Mountain (Stavola Quarry) Data Center Campus",
+    "owner": "Green Mountain 6, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lackawanna County",
+    "town": "Archbald",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-01-26",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Covered by residents' appeal of Archbald zoning amendment; developers petitioned court to reject it",
+        "source": "https://www.desmog.com/2026/03/11/data-centers-are-poised-to-engulf-a-pennsylvania-town/",
+        "date": "2026-03-11"
+      }
+    ],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Conditional use application received 1/26/26 per Archbald borough page; hearings continued to 9/30/26, no decision listed. Trackers cite 525 MW and 1.93M sq ft, not confirmed."
+  },
+  {
+    "id": "pa-lackawanna-provident-scott",
+    "name": "Project Scott (Archbald 1, LLC Data Center Campus)",
+    "owner": "Archbald I LLC (linked to Provident Data Centers)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lackawanna County",
+    "town": "Archbald",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 400,
+        "unit": "acres (over)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-03-27/archbald-denies-18-building-data-center-campus-during-special-friday-afternoon-meeting",
+        "date": "2026-03-27"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Archbald Borough Council voted 5-0 on March 27, 2026 to deny the conditional use permit (record incomplete)",
+        "source": "https://www.wvia.org/news/local/2026-03-27/archbald-denies-18-building-data-center-campus-during-special-friday-afternoon-meeting",
+        "date": "2026-03-27"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Archbald denies 18-building data center campus during special Friday afternoon meeting",
+        "outlet": "WVIA",
+        "url": "https://www.wvia.org/news/local/2026-03-27/archbald-denies-18-building-data-center-campus-during-special-friday-afternoon-meeting",
+        "date": "2026-03-27",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "18 buildings along Eynon Jermyn Road and Business Route 6 next to Ed Staback Memorial Park. Denial was made to avoid deemed approval and 'is not based upon the merits'; developer objected. Council decision is posted on the borough conditional use page."
+  },
+  {
+    "id": "pa-lackawanna-popca-newton",
+    "name": "Popca Newton Township Data Center Campus",
+    "owner": "Popca LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lackawanna County",
+    "town": "Newton Township",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026-01",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 280000000,
+        "unit": "USD (developer estimate)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-04-10/proposed-newton-data-center-campus-is-10th-planned-for-lackawanna-county",
+        "date": "2026-04-10"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 90,
+        "unit": "acres (parcel, about)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-04-10/proposed-newton-data-center-campus-is-10th-planned-for-lackawanna-county",
+        "date": "2026-04-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Newton Township zoning officer denied the application Feb. 19, 2026 (use not allowed in rural resource district); landowner appealed",
+        "source": "https://www.wvia.org/news/local/2026-04-10/proposed-newton-data-center-campus-is-10th-planned-for-lackawanna-county",
+        "date": "2026-04-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Proposed Newton data center campus is 10th planned for Lackawanna County",
+        "outlet": "WVIA",
+        "url": "https://www.wvia.org/news/local/2026-04-10/proposed-newton-data-center-campus-is-10th-planned-for-lackawanna-county",
+        "date": "2026-04-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center proposed in Newton Twp. (Times-Tribune report reposted by county)",
+        "outlet": "Lackawanna County",
+        "url": "https://lackawannacounty.com/news/data-center-proposed-newton-twp",
+        "date": "2026-04-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Two buildings of about 145,200 sq ft each on the East Newton Ira Tripp Tract, Newton Road. Appeal heard by zoning board April 27, 2026; outcome not found. County page: nearly 76-acre property on Newton Road; two 145,200 sq ft buildings."
+  },
+  {
+    "id": "pa-mercer-keel-sharon",
+    "name": "Sharon Data Center Project",
+    "owner": "Keel Infrastructure (formerly Bitfarms)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Mercer County",
+    "town": "Sharon",
+    "lat": 41.244194,
+    "lng": -80.504278,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling (state Fast Track listing)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.pa.gov/agencies/oto/fasttrack",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Keel Infrastructure Q2 2026 results",
+        "outlet": "Keel Infrastructure (SEC filing)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1812477/000181247726000021/a202689finalprkeelq22026ea.htm",
+        "date": "2026-08-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Westinghouse Electric complex in Sharon. In PA Permit Fast Track (admitted 2025-09-26); targeting in-service 2027 aligned with NVIDIA Vera Rubin. Started as a Bitfarms bitcoin mining site. Trackers cite up to 110 MW and $5B, not confirmed. Stage 'permitted' per reported zoning board approval of expansion (DCD, not opened). Trackers report a Sharon zoning board approval; not opened, so stage kept at announced. Keel site notes a transformer delivered and installed (Aug 2026). UPDATE 2026-10-15: Keel Q2 2026 release (SEC, Aug 10, 2026): zoning and land development approvals secured at Sharon; environmental permits in progress; long-lead items delivered; all U.S. bitcoin mining decommissioned. Stage set to permitted (local approvals; state environmental permits pending)."
+  },
+  {
+    "id": "pa-beaver-aligned-phoenix",
+    "name": "Project Phoenix (former Bruce Mansfield plant)",
+    "owner": "Aligned Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Beaver County",
+    "town": "Shippingport",
+    "lat": 40.640347,
+    "lng": -80.405089,
+    "stage": "announced",
+    "announced": "2025-07-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 542.76,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.pa.gov/agencies/oto/fasttrack",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling (company claim in state listing)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.pa.gov/agencies/oto/fasttrack",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "In PA Permit Fast Track (admitted 2025-09-03, project 'Project Phoenix', sponsor Aligned Data Centers): 542.76-acre multi-building campus on a former coal plant site in Beaver County. Frontier Group of Companies (site owner) announced the Shippingport power station and data center at the July 2025 summit; trackers cite $3.2B, 900 MW new gas generation, 2.7 GW total (not confirmed). Treated as one campus. Stage 'permitted' is a judgment: state permits in review. Stage kept at announced: state permits in review."
+  },
+  {
+    "id": "pa-greene-iep-hummingbird",
+    "name": "Project Hummingbird (former Robena Mine)",
+    "owner": "International Electric Power",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Greene County",
+    "town": "Greensboro area (Monongahela River)",
+    "lat": 39.83674,
+    "lng": -79.93459,
+    "stage": "announced",
+    "announced": "2025-12-10",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 910,
+        "unit": "MW natural gas generation for the campus",
+        "kind": "real",
+        "source": "https://www.pa.gov/agencies/oto/fasttrack",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://www.pa.gov/agencies/oto/fasttrack",
+        "date": "2026-10-15"
+      },
+      "power_source": {
+        "value": "On-site natural gas power",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.pa.gov/agencies/oto/fasttrack",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "PA Permit Fast Track listing (admitted 2025-12-10): proposed 910 MW natural-gas-powered hyperscale data center development on the former Robena Mine site along the Monongahela River."
+  },
+  {
+    "id": "pa-westmoreland-tecfusions-keystoneconnect",
+    "name": "TECfusions Keystone Connect",
+    "owner": "TECfusions",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Westmoreland County",
+    "town": "Upper Burrell Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-01-14",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 3000,
+        "unit": "MW planned over six years (12 MW immediately available at announcement)",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/tecfusions-unveils-massive-1400-acre-data-center-project-in-pennsylvania-revitalizing-former-industrial-plant-302350041.html",
+        "date": "2025-01-14"
+      },
+      "acres": {
+        "value": 1395,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/tecfusions-unveils-massive-1400-acre-data-center-project-in-pennsylvania-revitalizing-former-industrial-plant-302350041.html",
+        "date": "2025-01-14"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "On-site natural gas generation with grid connection (microgrid)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/tecfusions-unveils-massive-1400-acre-data-center-project-in-pennsylvania-revitalizing-former-industrial-plant-302350041.html",
+        "date": "2025-01-14"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "$2 million state Redevelopment Assistance Capital Program (RACP) grant",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/tecfusions-unveils-massive-1400-acre-data-center-project-in-pennsylvania-revitalizing-former-industrial-plant-302350041.html",
+        "date": "2025-01-14"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "TECfusions unveils massive 1,400-acre data center project in Pennsylvania",
+        "outlet": "PR Newswire (company release)",
+        "url": "https://www.prnewswire.com/news-releases/tecfusions-unveils-massive-1400-acre-data-center-project-in-pennsylvania-revitalizing-former-industrial-plant-302350041.html",
+        "date": "2025-01-14",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Former Alcoa research campus (New Kensington area). Stage 'building' per tracker and site works; partial capacity may already be running. Confirm current operating MW. Trackers report under construction; no opened source confirms, so stage kept at announced. UPDATE 2026-10-15: Company campus page claims '1 GW leased today; 3 GW total capacity' on about 1,400 acres, no tenant or energization date (https://tecfusions.com/data-center/new-kensington/). News reports (TribLive, not opened) say TensorWave will deploy at the site. Stage kept at announced."
+  },
+  {
+    "id": "pa-chester-1547-eastwhiteland",
+    "name": "fifteenfortyseven Chester County Hyperscale Campus",
+    "owner": "fifteenfortyseven Critical Systems Realty and Green Fig Land Company",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Chester County",
+    "town": "East Whiteland Township (Malvern)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-01-16",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 290,
+        "unit": "MW initial utility commitment",
+        "kind": "real",
+        "source": "https://www.1547realty.com/resource/fifteenfortyseven-critical-systems-realty-unveils-details-on-its-hyperscale-data-center-development-project-in-pennsylvania/",
+        "date": "2024-01-16"
+      },
+      "acres": {
+        "value": 100,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.1547realty.com/resource/fifteenfortyseven-critical-systems-realty-unveils-details-on-its-hyperscale-data-center-development-project-in-pennsylvania/",
+        "date": "2024-01-16"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Entitlement for up to 2 million sq ft. Trackers say PECO will deliver at least 450 MW and zoning approved two 1M sq ft buildings (not confirmed in an official source). 1547 site navigation shows the land as 'Sold', so owner may have changed."
+  },
+  {
+    "id": "pa-lancaster-chirisa-coreweave",
+    "name": "Lancaster AI Hub (CoreWeave)",
+    "owner": "Chirisa Technology Parks and Machine Investment Group",
+    "operator": "CoreWeave",
+    "tier": "large",
+    "state": "PA",
+    "county": "Lancaster County",
+    "town": "Lancaster city",
+    "lat": 40.04869,
+    "lng": -76.25609,
+    "stage": "announced",
+    "announced": "2025-07-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD (CoreWeave commitment, up to)",
+        "kind": "real",
+        "source": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+        "date": "2025-07-15"
+      },
+      "power_mw": {
+        "value": 100,
+        "unit": "MW initial, expandable to 300 MW",
+        "kind": "real",
+        "source": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+        "date": "2025-07-15"
+      },
+      "acres": {
+        "value": 150,
+        "unit": "acres (two sites of about 75 acres each)",
+        "kind": "real",
+        "source": "https://chirisatechnologyparks.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 175,
+        "unit": "full-time jobs over time (70 at launch)",
+        "kind": "real",
+        "source": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+        "date": "2025-07-15"
+      },
+      "jobs_promised_build": {
+        "value": 600,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+        "date": "2025-07-15"
+      },
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Air cooling with a closed-loop system; water use 'similar to a small office building' (developer, per city FAQ)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.cityoflancasterpa.gov/data-center/frequently-asked-questions/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "City negotiated a Community Benefits Agreement with the developer (terms on city site, not extracted)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.cityoflancasterpa.gov/data-center/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "CoreWeave announces multi-billion dollar commitment to AI infrastructure in Pennsylvania",
+        "outlet": "CoreWeave",
+        "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+        "date": "2025-07-15",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Two former R.R. Donnelley printing plants in Lancaster city: 216 Greenfield Road and 1375 Harrisburg Pike (city data center page). JSG report says the two-site Lancaster AI Hub is estimated at $10B; local opposition and lawsuits pending (WGAL, Sept 2025). Kept as ONE record for both sites; may need split. Stage 'building' per trackers. Trackers report under construction; no opened source confirms, so stage kept at announced. Chirisa site: Lancaster campus of four master-planned buildings; east site LPE-01 (450,000 sq ft reuse, 130 MW) and LPE-02 (750,000 sq ft, 220 MW, Q4 2026) reserved; west site LPW-01 (130 MW) and LPW-02 (220 MW) available for build-to-suit. Company page headings call LPE-01 'in construction'. UPDATE 2026-10-15 (city FAQ): Phase 1 at 216 Greenfield Road is an adaptive reuse of the existing building and the city reviewed its building permit; Phase 2 extends beyond the footprint and needs Planning Commission land development approval. Chirisa is paying to replace the Greenfield Road substation. PA DEP draft air permit published Nov 15, 2025. Developer says up to 350 permanent jobs and 600-1,000 construction jobs at Greenfield (differs from CoreWeave's 175/600). City zoning amendment hearing June 24, 2026. Stage kept at announced; trackers say under construction.",
+    "pin_source": "https://www.cityoflancasterpa.gov/data-center/",
+    "pin_address": "216 Greenfield Road, Lancaster, PA (west site of two-site record; other site 1375 Harrisburg Pike)"
+  },
+  {
+    "id": "pa-schuylkill-nebius-butler",
+    "name": "Nebius Pennsylvania AI Factory (Highridge Industrial Park)",
+    "owner": "Nebius",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Schuylkill County",
+    "town": "Butler Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05-13",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 13000000000,
+        "unit": "USD (low end of $13B-$15B capital investment, company figure)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "power_mw": {
+        "value": 1200,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "acres": {
+        "value": 600,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "full-time jobs (100 to 150)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "Near PPL Electric Utilities lines; on-site switchyard and substation planned",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling; water use similar to an office building (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Tech company discusses plans for AI factory in Schuylkill County amid residents' concerns",
+        "outlet": "WVIA",
+        "url": "https://www.wvia.org/news/local/2026-08-15/tech-company-discusses-plans-for-ai-factory-in-schuylkill-county-amid-residents-concerns",
+        "date": "2026-08-15",
+        "tone": "neutral"
+      },
+      {
+        "title": "Nebius reports first quarter 2026 financial results",
+        "outlet": "Nebius",
+        "url": "https://nebius.com/newsroom/nebius-reports-first-quarter-2026-financial-results",
+        "date": "2026-05-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Nebius bought the land from NorthPoint Development for $187.5M; site zoned for data centers. Nebius Q1 2026 results: secured up to 1.2 GW of power and land for an owned AI factory in Pennsylvania (site not named; location from WVIA)."
+  },
+  {
+    "id": "pa-northampton-prologis-allen",
+    "name": "Prologis Lehigh Valley East 16 Data Center Conversion",
+    "owner": "Prologis",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Northampton County",
+    "town": "Allen Township",
+    "lat": 40.701726,
+    "lng": -75.480106,
+    "stage": "permitted",
+    "announced": "2026-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (approximately, per Prologis representative)",
+        "kind": "real",
+        "source": "https://www.allentownship.org/minutes/24mar26.pdf",
+        "date": "2026-03-24"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PPL; privately funded substation off 138 kV line near Siegfried Substation (company statement)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.allentownship.org/minutes/24mar26.pdf",
+        "date": "2026-03-24"
+      },
+      "cooling_type": {
+        "value": "Closed-loop, air-cooled system; minimal daily water loss comparable to an office building (company statement)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.allentownship.org/minutes/24mar26.pdf",
+        "date": "2026-03-24"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Allen Township warehouse could become Lehigh Valley's first hyperscale data center",
+        "outlet": "Lehigh Valley Public Media",
+        "url": "https://www.lehighvalleypublicmedia.org/news/local/allen-township-warehouse-could-become-lehigh-valleys-first-hyperscale-data-center/",
+        "date": "2026-04-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2500 Liberty Drive, about a half-mile east of Northampton borough. About 1 million sq ft existing warehouse converted to hyperscale data center; Allen Township supervisors approved unanimously in March 2026; LVPC asked for power, water and cooling details. Second source per tracker: Allen Township minutes 3/24/26 and Home News (not opened). Allen Township Board of Supervisors minutes of March 24, 2026 record the amended final plan for 'wholesale storage of electronic information' (data center) at 2500 Liberty Drive, external diesel backup generators.",
+    "pin_address": "2500 Liberty Drive, Allen Township (Northampton), PA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.allentownship.org/minutes/24mar26.pdf"
+  },
+  {
+    "id": "pa-chester-pennhurst-eastvincent",
+    "name": "Pennhurst Data Center",
+    "owner": "Penn Hurst Holdings DE, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Chester County",
+    "town": "East Vincent Township (Spring City)",
+    "lat": 40.192169,
+    "lng": -75.567359,
+    "stage": "blocked",
+    "announced": "2025-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "East Vincent Township supervisors unanimously denied the conditional use application on May 21, 2026",
+        "source": "https://www.springford.press/article/east-vincent-supervisors-deny-data-center-proposal-for-pennhurst-site",
+        "date": "2026-05-21"
+      },
+      {
+        "what": "East Vincent Advocacy and the Pennhurst Memorial and Preservation Alliance took part as opposing parties",
+        "source": "https://www.springford.press/article/east-vincent-supervisors-deny-data-center-proposal-for-pennhurst-site",
+        "date": "2026-05-21"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "East Vincent supervisors deny data center proposal for Pennhurst site",
+        "outlet": "Spring-Ford Press",
+        "url": "https://www.springford.press/article/east-vincent-supervisors-deny-data-center-proposal-for-pennhurst-site",
+        "date": "2026-05-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Former Pennhurst State School site, 1205 Commonwealth Drive. DRBC staff list about 125 acres, 5 buildings (1.3 million sq ft) and a 5-acre substation (DRBC WMAC presentation, Oct 15, 2025). Trackers cite 550 MW. Applicant could bring a different proposal.",
+    "pin_source": "https://www.nj.gov/drbc/library/documents/WMAC/101525/Thompson_DataCenters.pdf",
+    "pin_address": "1205 Commonwealth Drive, Spring City, PA 19475"
+  },
+  {
+    "id": "pa-lehigh-emausqoz-allentown",
+    "name": "Emaus Avenue Data Center (2401 W. Emaus Ave.)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lehigh County",
+    "town": "Allentown",
+    "lat": 40.566986,
+    "lng": -75.473678,
+    "stage": "announced",
+    "announced": "2026-06",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 13.7,
+        "unit": "acres (lot)",
+        "kind": "real",
+        "source": "https://www.lehighvalleypublicmedia.org/news/local/allentown-city-council-set-to-vote-on-new-data-center-regulations-but-they-wont-stop-first-hyperscale-proposal/",
+        "date": "2026-06-02"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Allentown City Council set to vote on new data center regulations, but they won't stop first hyperscale proposal",
+        "outlet": "Lehigh Valley Public Media",
+        "url": "https://www.lehighvalleypublicmedia.org/news/local/allentown-city-council-set-to-vote-on-new-data-center-regulations-but-they-wont-stop-first-hyperscale-proposal/",
+        "date": "2026-06-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Allentown planning agenda: amended land development application (LMA-2022-00010) to convert a 224,000 sq ft approved warehouse into a data center with a 23,342 sq ft addition (247,342 sq ft total); applicant Zach Jordan of Langan; postponed at applicant request. Reporters call it Allentown's first hyperscale proposal; no MW or dollar figure, so size bar rests on that description. Trackers name owner as Emmaus Avenue QOZ B (unconfirmed).",
+    "pin_source": "https://www.lehighvalleypublicmedia.org/news/local/allentown-city-council-set-to-vote-on-new-data-center-regulations-but-they-wont-stop-first-hyperscale-proposal/",
+    "pin_address": "2401 W Emaus Ave, Allentown, PA"
+  },
+  {
+    "id": "pa-mifflin-pdcp-granville",
+    "name": "Granville DC (PA Data Center Partners)",
+    "owner": "Lewistown Development LLC (PA Data Center Partners / PowerHouse Data Centers per trackers)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Mifflin County",
+    "town": "Granville Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07-10",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 264.21,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://granvilletwp.org/wp-content/uploads/2026/07/Granville-Cond-Use-Narrative-v0.1.pdf",
+        "date": "2026-07-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Conditional use application filed July 2026: data center buildings totaling about 1.54 million sq ft plus substations, between Loop Road and Mifflin County Industrial Park; served by public water and sewer. Filed two days before a township moratorium vote (per tracker). Trackers cite developer projections of $22.5M local tax revenue and 150 permanent jobs (not confirmed)."
+  },
+  {
+    "id": "pa-carbon-keel-panthercreek",
+    "name": "Panther Creek Data Center Campus (Carbon node)",
+    "owner": "Keel Infrastructure (formerly Bitfarms)",
+    "operator": "T5 Data Centers (per trackers, unconfirmed)",
+    "tier": "large",
+    "state": "PA",
+    "county": "Carbon County",
+    "town": "Nesquehoning",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 350,
+        "unit": "MW HPC/AI campus (lender description in company filing)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1812477/000121390025098186/ea026098201ex99-1_bitfarms.htm",
+        "date": "2025-10-10"
+      },
+      "acres": {
+        "value": 90,
+        "unit": "acres (east node, about)",
+        "kind": "real",
+        "source": "https://www.tnonline.com/20260224/nesquehoning-planners-ok-bitfarms-complex/",
+        "date": "2026-02-24"
+      },
+      "jobs_promised_perm": {
+        "value": 297,
+        "unit": "jobs once all buildings complete (about)",
+        "kind": "real",
+        "source": "https://www.tnonline.com/20260224/nesquehoning-planners-ok-bitfarms-complex/",
+        "date": "2026-02-24"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Nesquehoning planners OK Bitfarms complex",
+        "outlet": "Times News",
+        "url": "https://www.tnonline.com/20260224/nesquehoning-planners-ok-bitfarms-complex/",
+        "date": "2026-02-24",
+        "tone": "neutral"
+      },
+      {
+        "title": "Keel Infrastructure Q2 2026 results",
+        "outlet": "Keel Infrastructure (SEC filing)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1812477/000181247726000021/a202689finalprkeelq22026ea.htm",
+        "date": "2026-08-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Panther Creek Cogeneration Plant land (waste coal plant previously used for bitcoin mining by Stronghold, later Bitfarms). East node: four buildings of 315,000 sq ft; west node: one later building. Planning commission approved special exception Feb 2026. Bitfarms filing (Oct 10, 2025): up to $300M Macquarie project financing for Phase 1; groundbreaking planned Q4 2025, energization by year-end 2026. UPDATE 2026-10-15: Keel Q2 2026 release (SEC, Aug 10, 2026): zoning and conditional land development approval secured at Panther Creek; environmental permits in progress; all U.S. bitcoin mining decommissioned. Stage set to permitted (conditional local approvals; DEP permits pending)."
+  },
+  {
+    "id": "pa-venango-keel-scrubgrass",
+    "name": "Scrubgrass Campus",
+    "owner": "Keel Infrastructure (formerly Bitfarms)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Venango County",
+    "town": "Scrubgrass Township (Kennerdell)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1300,
+        "unit": "MW expansion capacity (up to)",
+        "kind": "real",
+        "source": "https://www.keelinfra.com/campuses/scrubgrass",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 650,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.keelinfra.com/campuses/scrubgrass",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Former Scrubgrass waste-coal plant and bitcoin mining site (Stronghold Digital, then Bitfarms). Keel page: pre-development and power planning for HPC/AI; 'largest long-term development opportunity'. Trackers split 1.3 GW into 750 MW grid plus 550 MW gas (not confirmed). Earlier bitcoin mining at the site is not recorded here as a separate record. UPDATE 2026-10-15: Keel's Q2 2026 release (SEC, Aug 10, 2026) says all U.S. bitcoin mining was decommissioned; Scrubgrass not named in the release."
+  },
+  {
+    "id": "pa-lebanon-inch-southannville",
+    "name": "South Annville Township Data Center",
+    "owner": "Inch & Co. (1235 Martina Drive Owner LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lebanon County",
+    "town": "South Annville Township",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2026-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1700000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://lebtown.com/2026/05/13/south-annville-twp-data-center-project-scrapped-after-grass-roots-opposition/",
+        "date": "2026-05-13"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 99,
+        "unit": "acres (four parcels; about 58 acres rezoning)",
+        "kind": "real",
+        "source": "https://lebtown.com/2026/05/13/south-annville-twp-data-center-project-scrapped-after-grass-roots-opposition/",
+        "date": "2026-05-13"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Opposition petition with over 500 signatures; May 2 protest",
+        "source": "https://lebtown.com/2026/05/13/south-annville-twp-data-center-project-scrapped-after-grass-roots-opposition/",
+        "date": "2026-05-13"
+      },
+      {
+        "what": "Township Planning Commission voted unanimously May 5, 2026 against the rezoning",
+        "source": "https://lebtown.com/2026/05/13/south-annville-twp-data-center-project-scrapped-after-grass-roots-opposition/",
+        "date": "2026-05-13"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "South Annville Twp. data center project scrapped after grass-roots opposition",
+        "outlet": "LebTown",
+        "url": "https://lebtown.com/2026/05/13/south-annville-twp-data-center-project-scrapped-after-grass-roots-opposition/",
+        "date": "2026-05-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Five buildings of about 150,000 sq ft near U.S. Route 422 west of Annville. Rezoning petition withdrawn May 2026. South Annville Township website confirms the petitioner withdrew the data center rezoning request."
+  },
+  {
+    "id": "pa-luzerne-northpoint-hazelnut",
+    "name": "Project Hazelnut",
+    "owner": "NorthPoint Development",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Luzerne County",
+    "town": "Hazle Township",
+    "lat": 40.956858160760035,
+    "lng": -76.03501975124294,
+    "stage": "announced",
+    "announced": "2024-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (PPL confirmed the proposed Tomhicken Switchyard will accommodate 300 MW)",
+        "kind": "real",
+        "source": "https://www.hazletownship.com/images/Planning_Dept_Agenda_July_15_2025.pdf",
+        "date": "2025-07-15"
+      },
+      "acres": {
+        "value": 1306,
+        "unit": "acres (site; about 1,180 acres to be conserved per developer)",
+        "kind": "real",
+        "source": "https://projecthazelnut.com/faq",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 405,
+        "unit": "direct on-campus jobs (about, developer)",
+        "kind": "real",
+        "source": "https://projecthazelnut.com/faq",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 771,
+        "unit": "on-site construction jobs per year (at least; 1,380 statewide average, developer)",
+        "kind": "real",
+        "source": "https://projecthazelnut.com/faq",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "PPL Electric Utilities (Tomhicken Switchyard)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.hazletownship.com/images/Planning_Dept_Agenda_July_15_2025.pdf",
+        "date": "2025-07-15"
+      },
+      "cooling_type": {
+        "value": "Evaporative cooling using reclaimed water from Greater Hazleton Joint Sewer Authority, mainly May to September (developer)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://projecthazelnut.com/faq",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": "Reclaimed wastewater, no wells, no potable water for cooling (developer claim); volume not stated",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://projecthazelnut.com/faq",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "community_deal": {
+        "value": "$165M community benefit agreement plus $16M+ sewer and water improvements (developer figures)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://projecthazelnut.com/faq",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Rep. Walsh introduces legislation addressing data center growth in Pennsylvania",
+        "outlet": "Times Leader",
+        "url": "https://www.timesleader.com/news/1741762/rep-walsh-introduces-legislation-addressing-data-center-growth-in-pennsylvania",
+        "date": "2026-05-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "15 data center buildings, substation and four support buildings at 450 E. Arthur Gardner Highway. In PA Permit Fast Track (admitted 2024-11-19); DEP public hearing Feb 17, 2026 on Joint Permit E4002224-013A and NPDES PAD400093 A-1. Times Leader: construction start Jan 2028, completion May 2029, full activation Aug 2030. Trackers claim Hazle Township denied it in 2025 and the township adopted a six-month data center pause in 2026; not confirmed in a source opened. Trackers also link AWS as tenant (unconfirmed). Hazle Township Planning agenda July 15, 2025: 1,282-acre campus, 15 data center buildings, Phase 1 five buildings; code enforcement opinion (6/25/25) that the data center complies with Section 505.1 use regulations."
+  },
+  {
+    "id": "pa-northampton-peron-lowermountbethel",
+    "name": "Lower Mount Bethel Tech Center",
+    "owner": "Peron Development and J.G. Petrucci Company",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Northampton County",
+    "town": "Lower Mount Bethel Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-02",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Petition with thousands of signatures opposes the Lower Mount Bethel data center campus",
+        "source": "https://www.lehighvalleypublicmedia.org/news/business/as-data-center-boom-approaches-lehigh-valley-officials-working-to-prepare/",
+        "date": "2026-02-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Proposed Lower Mt. Bethel data center pitched with rural preservation",
+        "outlet": "Lehigh Valley Business",
+        "url": "https://lvb.com/proposed-lower-mt-bethel-data-center-rural-preservation/",
+        "date": "2026-02-26",
+        "tone": "neutral"
+      },
+      {
+        "title": "As data center boom approaches Lehigh Valley, officials working to prepare",
+        "outlet": "Lehigh Valley Public Media",
+        "url": "https://www.lehighvalleypublicmedia.org/news/business/as-data-center-boom-approaches-lehigh-valley-officials-working-to-prepare/",
+        "date": "2026-02-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Early stage; planning commission review set for March 17, 2026. Trackers cite $5.5B and 1.2 GW along Gravel Hill Road and Martins Creek Belvidere Highway (not confirmed)."
+  },
+  {
+    "id": "pa-york-ecp-york2",
+    "name": "York 2 Energy Center Data Campus",
+    "owner": "Energy Capital Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "York County",
+    "town": "Peach Bottom Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-07-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+        "date": "2026-01-28"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 2500,
+        "unit": "temporary construction jobs",
+        "kind": "real",
+        "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+        "date": "2026-01-28"
+      },
+      "power_source": {
+        "value": "Co-located with the York 2 Energy Center, a dual-fuel combined-cycle gas plant (about 828 MW per trackers)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.jsg.legis.state.pa.us/resources/documents/ftp/publications/2026-01-28%202023%20HR170%20web%201.29.26.pdf",
+        "date": "2026-01-28"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Announced at the July 2025 Pennsylvania Energy and Innovation Summit (JSG report). Plant MW figure from trackers. Peach Bottom Township is among York County townships reviewing data center zoning."
+  },
+  {
+    "id": "pa-northampton-slatebelt-uppermountbethel",
+    "name": "Slate Belt Technology Campus",
+    "owner": "Slate Belt Holdings (Talen Energy and River Pointe Logistics joint venture)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Northampton County",
+    "town": "Upper Mount Bethel Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 480,
+        "unit": "MW on-site substation in filed plans (not IT load)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/talen-looks-to-develop-23-building-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-29"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 754,
+        "unit": "acres (bought from River Pointe)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/talen-looks-to-develop-23-building-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Making their case: Developers unveil website for data center campus with 23 buildings in UMBT",
+        "outlet": "WFMZ",
+        "url": "https://www.wfmz.com/news/area/lehighvalley/northampton-county/slate-belt/no-longer-just-a-concept-plan-23-data-center-buildings-pitched-for-umbt-project/article_3cbc6957-eb54-4e10-82e9-f43c9a3f0325.html",
+        "date": "2026-09-04",
+        "tone": "neutral"
+      },
+      {
+        "title": "Talen looks to develop 23-building data center campus in Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/talen-looks-to-develop-23-building-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former River Pointe Commerce Park land between River Road and Potomac Street. Up to 23 buildings of 201,500 sq ft each and five substations per concept plan filed with a zoning validity challenge (July 2026) claiming township zoning unlawfully excludes data centers. Township drafting a text amendment and a memorandum of understanding with the developer (Aug 2026). No land development plan filed yet. Amazon reportedly explored the site earlier and withdrew. Separate from the Lower Mount Bethel Technology Center record (Talen also involved there, about 12 miles away)."
+  },
+  {
+    "id": "pa-montgomery-mcd7-laurel",
+    "name": "Project Laurel",
+    "owner": "MCD 7 LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Montgomery County",
+    "town": "Limerick Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-01",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 750,
+        "unit": "MW reportedly secured from PECO",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/14-million-sq-ft-data-center-campus-planned-outside-philadelphia-pennsylvania/",
+        "date": "2026-01-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "PECO",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/14-million-sq-ft-data-center-campus-planned-outside-philadelphia-pennsylvania/",
+        "date": "2026-01-15"
+      },
+      "acres": {
+        "value": 192,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/14-million-sq-ft-data-center-campus-planned-outside-philadelphia-pennsylvania/",
+        "date": "2026-01-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Change.org petition against the project (680+ signatures)",
+        "source": "https://www.datacenterdynamics.com/en/news/14-million-sq-ft-data-center-campus-planned-outside-philadelphia-pennsylvania/",
+        "date": "2026-01-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "1.4 million sq ft data center campus planned outside Philadelphia, Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/14-million-sq-ft-data-center-campus-planned-outside-philadelphia-pennsylvania/",
+        "date": "2026-01-15",
+        "tone": "neutral"
+      },
+      {
+        "title": "Limerick planners hit mega data center plan with 18 demands",
+        "outlet": "Hoodline",
+        "url": "https://hoodline.com/2026/04/limerick-planners-hit-mega-data-center-plan-with-18-demands/",
+        "date": "2026-04-12",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Eight buildings (five of 154,000 sq ft, three of 202,000 sq ft) on land bounded by Sanatoga, Evergreen, Possum Hollow and Lightcap roads, near Limerick Generating Station. WFMZ (undated page) reports about 190 acres, 85-ft buildings, close to 3 million sq ft, at least 750,000 gallons of water per day and roughly 750 MW per officials; sq ft figures conflict with DCD. Planning commission attached 18 recommended conditions (April 2026); conditional use decision rests with supervisors. End user reportedly under NDA. Developer name also spelled 'MDC 7, LLC' (WFMZ)."
+  },
+  {
+    "id": "pa-montgomery-mlp-kingofprussia",
+    "name": "King of Prussia data center sites (MLP Ventures)",
+    "owner": "MLP Ventures (Brian O'Neill)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Montgomery County",
+    "town": "Upper Merion Township (King of Prussia)",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Upper Merion Board of Supervisors denied preliminary land development plans for all five sites",
+        "source": "https://www.fox29.com/news/upper-merion-board-supervisors-denies-all-5-data-center-sites-mlp-ventures",
+        "date": "2026-08-13"
+      },
+      {
+        "what": "Petition against the development with more than 20,000 signatures (per County Commissioner Neil Makhija)",
+        "source": "https://www.fox29.com/news/upper-merion-board-supervisors-denies-all-5-data-center-sites-mlp-ventures",
+        "date": "2026-08-13"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Upper Merion Board of Supervisors denies all 5 data center sites by MLP Ventures",
+        "outlet": "FOX 29 Philadelphia",
+        "url": "https://www.fox29.com/news/upper-merion-board-supervisors-denies-all-5-data-center-sites-mlp-ventures",
+        "date": "2026-08-13",
+        "tone": "bad"
+      },
+      {
+        "title": "Plans for five data centers in King of Prussia, Pennsylvania, blocked",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/plans-for-five-data-centers-in-king-of-prussia-pennsylvania-blocked/",
+        "date": "2026-08-20",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Five sites filed March 2026 (before Upper Merion's data center ordinance): 2100 Renaissance Blvd, 3200 Horizon Dr, a series of Renaissance Blvd addresses, 411 Swedeland Road (Discovery Labs / Swedeland) and 600 River Road; over 4.5 million sq ft in total. Kept as ONE record for the five filings by one developer in one township; split later if the sites proceed separately. Supervisors denied extensions and preliminary land development plans Aug 13, 2026; developer says he will appeal. Separate from MLP's Conshohocken Road site in Plymouth Township."
+  },
+  {
+    "id": "pa-montgomery-mlp-conshohocken",
+    "name": "900 Conshohocken Road data center",
+    "owner": "MLP Ventures (900 Conshohocken Road LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Montgomery County",
+    "town": "Plymouth Township",
+    "lat": 40.082346,
+    "lng": -75.315894,
+    "stage": "announced",
+    "announced": "2025-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 66,
+        "unit": "acres (former Cleveland-Cliffs steel mill)",
+        "kind": "real",
+        "source": "https://whyy.org/articles/conshohocken-pennsylvania-residents-pushback-data-center-proposal/",
+        "date": "2025-10-20"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Conshohocken-area residents pushing back against the proposal",
+        "source": "https://whyy.org/articles/conshohocken-pennsylvania-residents-pushback-data-center-proposal/",
+        "date": "2025-10-20"
+      }
+    ],
+    "news": [
+      {
+        "title": "Conshohocken data center proposal garners pushback",
+        "outlet": "WHYY",
+        "url": "https://whyy.org/articles/conshohocken-pennsylvania-residents-pushback-data-center-proposal/",
+        "date": "2025-10-20",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About 2 million sq ft data center across 10 existing buildings at the closed Cleveland-Cliffs steel mill along the Schuylkill River, about a mile from downtown Conshohocken (WHYY). Also listed in a Delaware River Basin Commission staff presentation on regional data centers (Oct 2025). Current approval status not checked.",
+    "pin_source": "https://www.nj.gov/drbc/library/documents/WMAC/101525/Thompson_DataCenters.pdf",
+    "pin_address": "900 Conshohocken Road, Conshohocken, PA"
+  },
+  {
+    "id": "pa-lehigh-edged-atlas",
+    "name": "Project Atlas",
+    "owner": "Edged Data Centers (CDE Acquisitions LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lehigh County",
+    "town": "South Whitehall Township",
+    "lat": 40.634284,
+    "lng": -75.541462,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 725,
+        "unit": "MW (reported plan)",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/edged-eyes-725mw-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-08"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 410,
+        "unit": "acres (160 to be dedicated to Jordan Creek Greenway)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/edged-eyes-725mw-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Change.org petition against Project Atlas (9,150+ signatures) and the OpposeAtlasDC campaign website",
+        "source": "https://www.datacenterdynamics.com/en/news/edged-eyes-725mw-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Edged eyes 725MW data center campus in Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/edged-eyes-725mw-data-center-campus-in-pennsylvania/",
+        "date": "2026-07-08",
+        "tone": "neutral"
+      },
+      {
+        "title": "Hyperscale data center back on the agenda in South Whitehall Township",
+        "outlet": "Lehigh Valley Public Media",
+        "url": "https://www.lehighvalleypublicmedia.org/news/all/hyperscale-data-center-back-on-the-agenda-in-south-whitehall-township/",
+        "date": "2026-07-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "2493 N. Cedar Crest Blvd, next to Parkland High School; land reportedly owned by Jeras Corp. and zoned industrial. Cut from six buildings (over 5 million sq ft) to three (about 1.5 million sq ft); presented to the planning commission July 9, 2026. Trackers cite up to $9B (not confirmed).",
+    "pin_source": "https://www.lehighvalleypublicmedia.org/news/all/hyperscale-data-center-back-on-the-agenda-in-south-whitehall-township/",
+    "pin_address": "2493 N Cedar Crest Blvd, Allentown, PA"
+  },
+  {
+    "id": "pa-lehigh-airproducts-uppermacungie",
+    "name": "Air Products former headquarters data center campus",
+    "owner": "Air Products",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Lehigh County",
+    "town": "Upper Macungie Township",
+    "lat": 40.558236,
+    "lng": -75.600154,
+    "stage": "announced",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "2.6 million sq ft data center campus proposed in Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/26-million-sq-ft-data-center-campus-proposed-in-pennsylvania/",
+        "date": "2025-11-18",
+        "tone": "neutral"
+      },
+      {
+        "title": "As data-center boom approaches, Lehigh Valley officials working to prepare",
+        "outlet": "Lehigh Valley Public Media",
+        "url": "https://www.lehighvalleypublicmedia.org/news/business/as-data-center-boom-approaches-lehigh-valley-officials-working-to-prepare/",
+        "date": "2026-02-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Three data center buildings, 2.6 million sq ft, at Air Products' former headquarters (Hamilton Blvd / 7300 Cetronia Road area); traffic rerouted to Cetronia Road. Zoning Hearing Board tabled the request to May 2026 at Air Products' request (LVPM, Feb 2026). Trackers say the board denied it in May 2026 and the plan was dropped; not confirmed by an opened source, so stage kept at announced. Earlier lead cited 194 acres (LVPM).",
+    "pin_source": "https://www.datacenterdynamics.com/en/news/26-million-sq-ft-data-center-campus-proposed-in-pennsylvania/",
+    "pin_address": "7300 Cetronia Road, Allentown, PA"
+  },
+  {
+    "id": "pa-allegheny-alleghenydc-springdale",
+    "name": "Springdale Dynamo",
+    "owner": "Allegheny DC Property Company",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Allegheny County",
+    "town": "Springdale",
+    "lat": 40.538916,
+    "lng": -79.788542,
+    "stage": "permitted",
+    "announced": "2025-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 180,
+        "unit": "MW IT load (up to)",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/cheswick-power-plant-site-in-springdale-pennsylvania-sold-for-143m-for-data-center-development/",
+        "date": "2025-12-09"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop water cooling (updated design shown June 2026)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.wesanews.org/environment-energy/2026-06-11/springdale-data-center-new-designs-opponents-stopped",
+        "date": "2026-06-11"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 47,
+        "unit": "acres (former Cheswick Generating Station site)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/cheswick-power-plant-site-in-springdale-pennsylvania-sold-for-143m-for-data-center-development/",
+        "date": "2025-12-09"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Change.org petition against the data center (300+ signatures)",
+        "source": "https://www.datacenterdynamics.com/en/news/cheswick-power-plant-site-in-springdale-pennsylvania-sold-for-143m-for-data-center-development/",
+        "date": "2025-12-09"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Springdale data center shows off new designs; some residents still hope project can be stopped",
+        "outlet": "WESA",
+        "url": "https://www.wesanews.org/environment-energy/2026-06-11/springdale-data-center-new-designs-opponents-stopped",
+        "date": "2026-06-11",
+        "tone": "neutral"
+      },
+      {
+        "title": "Cheswick power plant site in Springdale, Pennsylvania, sold for $14.3m for data center development",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/cheswick-power-plant-site-in-springdale-pennsylvania-sold-for-143m-for-data-center-development/",
+        "date": "2025-12-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "151 Porter Street area. 565,000 sq ft data center plus 200,000 sq ft utility building. Site bought for $14.3M (Nov 2025, county land records per DCD); developer reportedly affiliated with Davidson Kempner. Borough council approved the conditional use permit around Dec 2025 (WESA: 'six months since the borough council approved a permit'). Permitting expected Q3 2026, construction 2027, online 2028 (DCD). Trackers cite 240 MW (not confirmed).",
+    "pin_source": "https://www.datacenterdynamics.com/en/news/cheswick-power-plant-site-in-springdale-pennsylvania-sold-for-143m-for-data-center-development/",
+    "pin_address": "151 Porter Street, Springdale, PA"
+  },
+  {
+    "id": "pa-beaver-switch-bigbeaver",
+    "name": "Switch PIT 01-03 (Big Beaver)",
+    "owner": "Switch",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Beaver County",
+    "town": "Big Beaver Borough",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/switch-files-to-develop-data-center-on-former-pittsburgh-race-track/",
+        "date": "2026-08-24"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "FirstEnergy (new switching station on existing 345 kV lines)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/switch-files-to-develop-data-center-on-former-pittsburgh-race-track/",
+        "date": "2026-08-24"
+      },
+      "acres": {
+        "value": 382,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/switch-announces-plans-for-data-center-campus-outside-pittsburgh-pennsylvania/",
+        "date": "2026-05-01"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Residents asked borough council to block the project over noise, water and environmental concerns",
+        "source": "https://www.wpxi.com/news/local/residents-urge-officials-not-allow-data-center-former-race-track-property-beaver-county/A7M3JTYRRVBSRAKSWGKQEPZMF4/",
+        "date": "2026-05-19"
+      }
+    ],
+    "news": [
+      {
+        "title": "Switch files to develop data center on former Pittsburgh race track",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/switch-files-to-develop-data-center-on-former-pittsburgh-race-track/",
+        "date": "2026-08-24",
+        "tone": "neutral"
+      },
+      {
+        "title": "Residents urge officials not to build data center on former race track property in Beaver County",
+        "outlet": "WPXI",
+        "url": "https://www.wpxi.com/news/local/residents-urge-officials-not-allow-data-center-former-race-track-property-beaver-county/A7M3JTYRRVBSRAKSWGKQEPZMF4/",
+        "date": "2026-05-19",
+        "tone": "bad"
+      },
+      {
+        "title": "Switch announces plans for data center campus outside Pittsburgh, Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/switch-announces-plans-for-data-center-campus-outside-pittsburgh-pennsylvania/",
+        "date": "2026-05-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Pitt International Race Complex (BeaveRun). Filing with Big Beaver Borough for three buildings of 201,690 sq ft; 270 MW backup generation; first building January 2028, all three by January 2030. Land sold for $50M per property records; bought by Provident affiliate Wampum I LLC in April 2026, then taken over by Switch."
+  },
+  {
+    "id": "pa-beaver-standardpower-beavervalley",
+    "name": "Standard Power Beaver Valley data center",
+    "owner": "Standard Power",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Beaver County",
+    "town": "Shippingport",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2022-05-09",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW first phase (200-300 MW; up to 900 MW in later phases)",
+        "kind": "real",
+        "source": "https://www.wpxi.com/news/business/data-center-planned-near-beaver-valley-nuclear-station/ORR5SGV6V5GFZO4QGXAKH66RSA",
+        "date": "2022-05-10"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "Direct connection to Beaver Valley nuclear station (Energy Harbor, now Vistra)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wpxi.com/news/business/data-center-planned-near-beaver-valley-nuclear-station/ORR5SGV6V5GFZO4QGXAKH66RSA",
+        "date": "2022-05-10"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center planned near Beaver Valley nuclear station",
+        "outlet": "WPXI",
+        "url": "https://www.wpxi.com/news/business/data-center-planned-near-beaver-valley-nuclear-station/ORR5SGV6V5GFZO4QGXAKH66RSA",
+        "date": "2022-05-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Memorandum of understanding (May 9, 2022) for a blockchain/data infrastructure site next to Beaver Valley Power Station, 10-year purchase starting 2023. No later status found; trackers list it as paused. Also reported by the American Nuclear Society (https://www.ans.org/news/article-3955/energy-harbor-joins-with-blockchain-firm-for-data-center-project/). Separate from Aligned's Project Phoenix (former Bruce Mansfield coal plant), also in Shippingport."
+  },
+  {
+    "id": "pa-beaver-mawson-midland",
+    "name": "Mawson Midland bitcoin mining and hosting site",
+    "owner": "Mawson Infrastructure Group",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Beaver County",
+    "town": "Midland",
+    "lat": 40.635683,
+    "lng": -80.452149,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Energy Harbor power supply agreement (through Dec 2026)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1218683/000121390025110839/ea0264011-10q_mawson.htm",
+        "date": "2025-11-14"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company HQ and facility at 950 Railroad Avenue, Midland. SEC 10-Q (Q3 2025): company runs about 129 MW across its operating sites (all in PJM); Midland hosts a colocation deal for about 50 MW (15,876 miners) with Consensus Colocation PA (NYDIG), now in litigation. Company website now brands as Big Digital Energy (129 operational shown). Trackers cite 120 MW at Midland (not confirmed). Small Bellefonte (Centre County) mining site not recorded.",
+    "pin_source": "https://www.sec.gov/Archives/edgar/data/1218683/000121390025110839/ea0264011-10q_mawson.htm",
+    "pin_address": "950 Railroad Avenue, Midland, PA"
+  },
+  {
+    "id": "pa-union-pnk-allenwood",
+    "name": "PNK Allenwood data center",
+    "owner": "PNK Group",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Union County",
+    "town": "Gregg Township (Allenwood)",
+    "lat": 41.11606,
+    "lng": -76.901119,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 240,
+        "unit": "MW full build-out (60 MW first phase)",
+        "kind": "estimate",
+        "source": "https://www.wfmz.com/news/state/gregg-township-supervisors-approve-data-center-moratorium-pnks-still-on-the-table/article_07e16bde-b50b-5e75-bb56-4a0c0f4a5e81.html",
+        "date": "2026-08-21"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Offer to buy 'directly impacted' neighbors' homes at market value plus 75% premium in exchange for a non-opposition letter",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.wfmz.com/news/state/gregg-township-supervisors-approve-data-center-moratorium-pnks-still-on-the-table/article_07e16bde-b50b-5e75-bb56-4a0c0f4a5e81.html",
+        "date": "2026-08-21"
+      },
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Farmers in Union and Lycoming counties organized against the proposed PPL power line for the data center",
+        "source": "https://www.wfmz.com/news/state/gregg-township-supervisors-approve-data-center-moratorium-pnks-still-on-the-table/article_07e16bde-b50b-5e75-bb56-4a0c0f4a5e81.html",
+        "date": "2026-08-21"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "More than 180 people attended the July 20, 2026 public hearing; hours of testimony",
+        "source": "https://www.dailyitem.com/news/data-center-proposal-faces-hours-of-testimony-public-scrutiny-in-gregg-twp/article_14dd1e5a-1dc2-4396-bf6a-8f51e5776dae.html",
+        "date": "2026-07-21"
+      }
+    ],
+    "news": [
+      {
+        "title": "Gregg Township supervisors approve data center moratorium, PNK's still on the table",
+        "outlet": "WFMZ",
+        "url": "https://www.wfmz.com/news/state/gregg-township-supervisors-approve-data-center-moratorium-pnks-still-on-the-table/article_07e16bde-b50b-5e75-bb56-4a0c0f4a5e81.html",
+        "date": "2026-08-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center proposal faces hours of testimony, public scrutiny in Gregg Twp.",
+        "outlet": "The Daily Item",
+        "url": "https://www.dailyitem.com/news/data-center-proposal-faces-hours-of-testimony-public-scrutiny-in-gregg-twp/article_14dd1e5a-1dc2-4396-bf6a-8f51e5776dae.html",
+        "date": "2026-07-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "198 Enterprise Blvd, Great Stream Commons. Curative amendment and conditional use application to allow data centers in the commercial manufacturing district; five buildings, four could become data centers; first phase in an existing unoccupied building. Township's Aug 20, 2026 moratorium does not cover PNK's pending application. Tracker 'Data Centric LLC Allenwood' looks like the same site.",
+    "pin_address": "198 Enterprise Blvd, Allenwood (Gregg Township), PA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.dailyitem.com/news/data-center-proposal-faces-hours-of-testimony-public-scrutiny-in-gregg-twp/article_14dd1e5a-1dc2-4396-bf6a-8f51e5776dae.html"
+  },
+  {
+    "id": "pa-dauphin-corscale-swatara",
+    "name": "Corscale Highlands East and West",
+    "owner": "Corscale Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Dauphin County",
+    "town": "Swatara Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-08",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": 120300000,
+        "unit": "USD to Swatara Township under a Community Benefits Agreement",
+        "kind": "estimate",
+        "source": "https://www.govtech.com/artificial-intelligence/data-centers-could-bring-pennsylvania-township-120m",
+        "date": "2026-10-09"
+      },
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Residents asked the board to delay the CBA vote because they had not seen the agreement",
+        "source": "https://www.govtech.com/artificial-intelligence/data-centers-could-bring-pennsylvania-township-120m",
+        "date": "2026-10-09"
+      }
+    ],
+    "news": [
+      {
+        "title": "Data Centers Could Bring Pennsylvania Township $120M",
+        "outlet": "Government Technology (PennLive)",
+        "url": "https://www.govtech.com/artificial-intelligence/data-centers-could-bring-pennsylvania-township-120m",
+        "date": "2026-10-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Golf course set to become data center in Dauphin County, Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/golf-course-set-to-become-data-center-in-dauphin-county-pennsylvania/",
+        "date": "2025-08-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Two complexes on Highland Street: Highlands East (behind WITF building) and Highlands West (Dauphin Highlands Golf Course, Swatara Township and Steelton). Golf course sale lets the authority pay off $13M debt; golf ends end of 2027 if the sale closes. Trackers list the project under Provident Realty; owner per PennLive is Corscale."
+  },
+  {
+    "id": "pa-dauphin-hci-southhanover",
+    "name": "South Hanover quarry data centers",
+    "owner": "HCI DP Land Acquisition LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "PA",
+    "county": "Dauphin County",
+    "town": "South Hanover Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 250,
+        "unit": "acres (former Pennsy Supply quarry)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania/",
+        "date": "2026-06-24"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Residents felt blindsided as the warehouse plan was altered to data centers; crowd at ordinance hearing",
+        "source": "https://www.datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania/",
+        "date": "2026-06-24"
+      }
+    ],
+    "news": [
+      {
+        "title": "Data centers planned at former quarry in Dauphin County, Pennsylvania",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania/",
+        "date": "2026-06-24",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center law proposal draws crowd in Dauphin County, Pa.",
+        "outlet": "Government Technology (PennLive)",
+        "url": "https://www.govtech.com/artificial-intelligence/data-center-law-proposal-draws-crowd-in-dauphin-county-pa",
+        "date": "2026-07-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Two data centers (401,800 and 195,000 sq ft) and a substation on Wagner Avenue/Street in the township industrial park; residents said they felt 'blindsided' as a warehouse plan changed to data centers (DCD)."
+  }
+]

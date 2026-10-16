@@ -1,0 +1,66 @@
+{
+  "state": "ID",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales tax exemption",
+      "law": "Idaho Code 63-3622VV (enacted 2020); property tax abatement Idaho Code 63-4502",
+      "what": "Sales tax exemption for qualifying data centers on construction materials and internal server equipment (enacted 2020), plus property tax abatement for large capital investments (63-4502). HB 897 (2026) would have narrowed it to servers, added energy and water criteria and a 20-year limit, but did not become law.",
+      "value_known": null,
+      "source": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0897SOP.pdf",
+      "date": "2026-03-16"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "IPC-E-21-42",
+      "regulator": "Idaho PUC",
+      "utility": "Idaho Power",
+      "what": "Energy services agreement (special contract) for Brisbie LLC's new data center near Kuna (Meta), with 100% renewable support on an annual basis. Final Order 35777.",
+      "site_ids": [
+        "id-ada-meta-kuna"
+      ],
+      "status": "approved 2023-05-11",
+      "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2142/OrdNotc/20230511Final_Order_No_35777.pdf",
+      "date": "2023-05-11"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB 911 (2026) - new large loads",
+      "status": "enacted",
+      "what": "Adds law providing for new large electrical loads (50 MW or more per ICL); signed April 10, 2026; Session Law ch. 335; effective July 1, 2026.",
+      "source": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0911/",
+      "date": "2026-04-10"
+    },
+    {
+      "name": "HB 895 (2026) - data center cooling water",
+      "status": "enacted",
+      "what": "Limits consumptive use of water for cooling certain data centers; signed April 2, 2026; Session Law ch. 291; effective July 1, 2026.",
+      "source": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0895/",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "HB 897 (2026) - data center tax exemptions",
+      "status": "failed",
+      "what": "Would have narrowed the data center equipment sales tax exemption and a property tax exemption for large capital investments. Passed House 68-0 and Senate as amended 34-0-1; House never concurred, so it died at session end.",
+      "source": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0897/",
+      "date": "2026-04-02"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Pocatello (Bannock County)",
+      "type": "zoning",
+      "what": "After denying Lex Developments' data center, the City Council kept a one-year reapply bar so staff can update the city code for data centers.",
+      "status": "pending",
+      "source": "https://www.eastidahonews.com/?p=852886",
+      "date": "2026-07-16"
+    }
+  ]
+}

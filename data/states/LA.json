@@ -1,0 +1,666 @@
+{
+  "state": "LA",
+  "checked": {
+    "incentives": "2026-10-14",
+    "laws_and_bills": "2026-10-14",
+    "regulators": "2026-10-14",
+    "dockets": "2026-10-14",
+    "rate_cases": "2026-10-14",
+    "local_rules": "2026-10-14",
+    "ballot_measures": "2026-10-14",
+    "polls": "2026-10-14",
+    "utilities": "2026-10-14",
+    "news": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data Center Sales and Use Tax Rebate (Act 730), now an exemption",
+      "law": "Act 730 of 2024 (HB 827, Rep. Christopher Turner); R.S. 47:305.73 and R.S. 47:303.1(B)(5)",
+      "what": "State and local sales/use tax rebate on data center equipment and on spending to develop, build, lease, repair, expand or renovate a certified data center; only purchases on or after 2024-07-01. LED certification needs a sworn attestation of at least 50 new direct permanent jobs and at least $200M new capital investment in Louisiana between 2024-07-01 and 2029-07-01. Agreement initial term 20 years; LED may renew for 10 more years and add conditions. State may end the agreement and take back rebates if obligations are not met. Passed House 83-4 (2024-05-15) and Senate 35-0 (2024-05-23); signed 2024-06-19; effective 2024-07-01. Certified users reported in site records: Meta, Hut 8, Applied Digital, Amazon. The current statute (R.S. 47:305.73(B)(1)(a), as amended by Act 11 of the 2024 3rd Extraordinary Session, eff. 2024-12-04) is worded as an exemption: state and local sales/use taxes 'shall not apply'.",
+      "value_known": null,
+      "source": "https://legis.la.gov/Legis/ViewDocument.aspx?d=1387051",
+      "date": "2024-06-19"
+    },
+    {
+      "name": "Data Center Sales and Use Tax Exemption: how it is claimed today",
+      "law": "R.S. 47:305.73",
+      "what": "Dept. of Revenue describes the benefit as a sales/use tax exemption (not an after-the-fact rebate) for purchases tied to an LED-certified data center; approved data centers get Form R-85010, contractors and subcontractors get Form R-85015 / R-85015-B. Page undated; read 2026-10-14.",
+      "value_known": null,
+      "source": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax/are-purchases-related-to-a-data-center-in-louisiana-exempt-from-sales-and-use-tax/",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Data Center Sales and Use Tax Exemption: new LED conditions under EO JML 26-058",
+      "law": "Executive Order JML 26-058; R.S. 47:305.73(B)(3)",
+      "what": "LED's page says the exemption is being converted to an invitation-only program for companies making long-term commitments. Applicants must submit an attestation covering eight areas (ratepayer protection, grid reliability, workforce and community, local tax base, natural resources, community investment, innovation economy, transparency) and need support from the Dept. of Conservation and Energy, the PSC, DEQ and their power provider; they must set measurable commitments and report to LED for the life of the project. Page undated; read 2026-10-14. Whether the Governor approved LED's final framework (due ~90 days after 2026-06-25) was not confirmed. KTBS/Center Square reported the new rules may not reach projects already certified (Meta, Amazon).",
+      "value_known": null,
+      "source": "https://www.opportunitylouisiana.gov/data-center",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Cost of the data center sales tax break: no official estimate",
+      "law": "Act 730 of 2024",
+      "what": "Neither the state nor Richland Parish has published an estimate of revenue forgone (WRKF 2026-07-14). Good Jobs First found Louisiana does not report data center incentive losses (Louisiana Illuminator 2026-04-15). Outside estimate only: a Sherwood News analysis (reported by KTBS 2026-06-25) says Louisiana could forgo more than $3.3B tied to Meta's Richland Parish project; this is a media estimate, not a state figure.",
+      "value_known": null,
+      "source": "https://www.ktbs.com/news/study-says-louisiana-may-be-giving-up-billions-in-tax-revenue-for-meta-data-center/article_802cc66f-7d8f-442d-85a9-f8e59b37716d.html",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "Industrial Tax Exemption Program (ITEP): Entergy power plant for Meta",
+      "law": "Industrial Tax Exemption Program (La. Const. Art. VII, Sec. 21(F); Board of Commerce and Industry)",
+      "what": "Entergy Louisiana applied for an ITEP property tax exemption estimated at $237M over 10 years for the Titanium Power Station (two combined-cycle turbines, ~1,500 MW) serving Meta's Richland Parish data center; state lists the infrastructure investment at over $2.3B. Approval status not found. ITEP generally covers manufacturing buildings and equipment, not land.",
+      "value_known": "$237M over 10 years (estimate in application, as reported)",
+      "source": "https://www.hannapub.com/ouachitacitizen/news/local_state_headlines/entergy-seeks-237-million-in-tax-relief-for-meta-data-center/article_50a8cd66-e3ef-49c8-9abc-c0635c4299fd.html",
+      "date": "2026-01-22"
+    },
+    {
+      "name": "PILOT: Richland Parish / Meta",
+      "law": "Local payment-in-lieu-of-taxes agreement",
+      "what": "PILOT negotiated directly between Meta and Richland Parish officials, no state role; Meta 'stands to eventually qualify for an 80% break on its local property taxes'. Term and payment schedule not published.",
+      "value_known": null,
+      "source": "https://www.wrkf.org/2026-07-14/meta-is-investing-40b-more-to-expand-richland-parish-data-center-project",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "PILOT: West Feliciana Parish / Hut 8 River Bend",
+      "law": "Local PILOT lease through the West Feliciana Industrial Development Board",
+      "what": "Hut 8 donated its site to the parish industrial development board and leases it back; rent equals property tax that would be owed on the computing equipment. Parish projects about $90M a year once Phase I is built (first regular payment, about $60M, due 2027-07-01). Hut 8 advanced $10M, repaid from the first payment. Act 434 of 2026 (HB 466) lets parish taxing bodies rebate property taxes from this money starting 2027.",
+      "value_known": "~$90M/year to parish once Phase I is built (parish projection)",
+      "source": "https://www.wafb.com/2026/04/16/legislation-would-allow-west-feliciana-rebate-property-taxes-data-center-windfall/",
+      "date": "2026-04-16"
+    },
+    {
+      "name": "PILOT term sheet: Bossier Parish, Caddo Parish, Shreveport (Northwest Louisiana Finance Authority)",
+      "law": "Local PILOT term sheet",
+      "what": "Bossier Police Jury and school board (unanimously, December 2025), the Caddo Parish Commission and Shreveport City Council approved a term sheet letting a data center ask the Northwest Louisiana Finance Authority for a 25-year PILOT waiving 30% to 65% of property taxes depending on investment and jobs, with a higher rate if targets are missed; conditions include road repair and paying 1% of materials, furniture and equipment purchases. Not tied to a specific site.",
+      "value_known": null,
+      "source": "https://www.shreveportbossieradvocate.com/news/bossier-police-jury-school-board-quietly-okd-tax-breaks-that-could-apply-to-data-centers/article_9e2ce5c3-cbb3-4ec6-a81a-0f262339dd5a.html",
+      "date": "2025-12-23"
+    },
+    {
+      "name": "Other state programs used by data center projects",
+      "law": "Quality Jobs, High Impact Jobs, LED FastStart",
+      "what": "Amazon's northwest Louisiana campuses use LED FastStart (workforce training) and the High Impact Jobs program (rewards jobs paying above the parish average wage) on top of the data center sales tax exemption. Dollar values not disclosed.",
+      "value_known": null,
+      "source": "https://www.ksla.com/2026/02/24/campuses-newly-announced-amazon-data-center-spanning-bossier-caddo-parishes-confirmed",
+      "date": "2026-02-24"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "Act 730 of 2024 (HB 827): data center sales and use tax rebate",
+      "status": "enacted",
+      "what": "Created the data center sales/use tax rebate (see incentives). Signed 2024-06-19, effective 2024-07-01.",
+      "source": "https://legis.la.gov/Legis/BillInfo.aspx?i=246976",
+      "date": "2024-06-19"
+    },
+    {
+      "name": "Act 11 of 2024 Third Extraordinary Session (HB 10, Rep. Wright): tax reform, amends R.S. 47:305.73",
+      "status": "enacted",
+      "what": "Broad tax-reform act that amended R.S. 47:305.73(B)-(D) and repealed parts of the section, effective 2024-12-04. The current statute reads as a sales/use tax exemption for certified data centers (taxes 'shall not apply'), versus the rebate described in Act 730's digest.",
+      "source": "https://legis.la.gov/Legis/Law.aspx?d=1186787",
+      "date": "2024-12-04"
+    },
+    {
+      "name": "Act 434 of 2026 (HB 466, Rep. Jeremy LaCombe): West Feliciana property tax rebates from data center PILOT money",
+      "status": "enacted",
+      "what": "Lets taxing bodies wholly within West Feliciana Parish that get money from the parish industrial development board under a PILOT (the Hut 8 River Bend deal) give property tax rebates to owners: fixed sum, percent of taxes, or credit. First rebate year 2027. Signed 2026-05-29; effective 2027-01-01.",
+      "source": "https://legis.la.gov/LEGIS/BillInfo.aspx?i=250291",
+      "date": "2026-05-29"
+    },
+    {
+      "name": "Executive Order JML 26-058: Louisiana Ratepayer and Community Protection Initiative (criteria for LED certifications for data center and large-load investments)",
+      "status": "enacted",
+      "what": "Signed 2026-06-25 by Gov. Jeff Landry. Directs the LED Secretary to adopt a 'Ratepayer and Community Protection Framework for Large Load Investments' as conditions in every R.S. 47:305.73(B) data center tax exemption agreement. Before a new data center gets or keeps the exemption, its demands on water, generation, transmission and land must be weighed against benefits. Companies must commit to: (A) large loads fully funding incremental generation, transmission and infrastructure so costs do not shift to existing customers; (B) grid resiliency contributions and long-term service agreements; (C) jobs and workforce training; (D) local tax base contributions; (E) best-in-class water and energy efficiency; (F) community investment; (G) ties to the startup economy; (H) transparency and accountability. Requires a detailed company attestation. LED coordinates with PSC, Dept. of Conservation and Energy, DEQ, Revenue, Workforce Commission and local governments. LED must present criteria within 90 days. Does not limit PSC jurisdiction. Note: PDF file name says 25-058 but the order text says 26-058.",
+      "source": "https://gov.louisiana.gov/assets/2026-Executive-Orders/JML-Executive-Order-25-058.pdf",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "Executive Order JML 25-102: Louisiana Lightning Speed Initiative",
+      "status": "enacted",
+      "what": "Governor's order (reported as issued 2025-09-16) to speed state permitting and agency coordination for large projects, including data centers and AI. The PSC's December 2025 large-load 'Lightning' directive was adopted in support of it. Order text not retrieved; number from the Division of Administration archive.",
+      "source": "https://doa.louisiana.gov/doa/osr/archives/",
+      "date": "2025-09-16"
+    },
+    {
+      "name": "Act 36 of 2025 (SB 79, Sen. Bass): data centers count as an industrial purpose for industrial areas",
+      "status": "enacted",
+      "what": "Amends R.S. 33:130.12 so building and running data centers (and directly tied commercial operations) is an 'industrial purpose' for industrial areas; industrial areas that provide their own services are not subject to annexation or incorporation (R.S. 51:1202). Fiscal note lists effective date 2025-08-01 (engrossed version).",
+      "source": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1428697",
+      "date": "2025-06-04"
+    },
+    {
+      "name": "HCR 61 of 2025: task force on agency consultation for data centers",
+      "status": "failed",
+      "what": "Concurrent resolution to create a task force studying how state agencies consult on data centers. Engrossed, then returned to the calendar in June 2025 (exact date not confirmed); died at end of session.",
+      "source": "https://legiscan.com/LA/text/HCR61/2025",
+      "date": null
+    },
+    {
+      "name": "HB 1206 of 2026 (Rep. Joy Walters): permitting and reporting of water use at data centers",
+      "status": "failed",
+      "what": "Would require data centers with proposed consumptive water use over 100 million gallons per year to get a permit from the Dept. of Conservation and Energy, plus reporting and public hearings; defines 'water use effectiveness'. House Natural Resources and Environment adopted an amendment and voted 11-0 to defer it voluntarily on 2026-04-28. Bill page still reads 'Pending House Natural Resources'; the session ended without passage.",
+      "source": "https://legis.la.gov/Legis/BillInfo.aspx?i=251542",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB 490 of 2026 (Sen. Bob Hensgens): private use electrical networks",
+      "status": "failed",
+      "what": "Would let large power users (data centers, advanced manufacturing) build private generation networks and sell up to half their output without PSC regulation as a public utility. Reported with amendments by Senate Commerce 2026-04-15; last action 2026-05-18 'subject to call - Senate final passage'; no final Senate vote before the session ended. Entergy and Cleco opposed. The idea moved to PSC docket R-37905.",
+      "source": "https://legis.la.gov/Legis/BillInfo.aspx?i=251481",
+      "date": "2026-05-18"
+    }
+  ],
+  "regulators": [
+    {
+      "name": "Louisiana Public Service Commission (LPSC)",
+      "role": "Regulates investor-owned utilities and most electric co-ops outside New Orleans: certifies new power plants and transmission for data centers, approves electric service agreements, riders and rates. Five elected commissioners (2026: Skrmetta, Coussan, Campbell, Francis, Lewis). Docket portal: https://lpscpubvalence.lpsc.louisiana.gov/portal/lpsc-web-portal",
+      "url": "https://www.lpsc.louisiana.gov"
+    },
+    {
+      "name": "New Orleans City Council (Utility, Cable, Telecommunications and Technology Committee)",
+      "role": "Regulates Entergy New Orleans instead of the LPSC; also adopted the city's data center interim zoning district (moratorium).",
+      "url": "https://council.nola.gov"
+    },
+    {
+      "name": "Louisiana Department of Environmental Quality (LDEQ)",
+      "role": "Air permits (backup generators, on-site gas turbines), water discharge and solid waste permits for data centers and their power plants.",
+      "url": "https://deq.louisiana.gov"
+    },
+    {
+      "name": "Louisiana Department of Conservation and Energy (formerly Dept. of Energy and Natural Resources; renamed 2025-10-01)",
+      "role": "Office of Conservation: groundwater well registration and water-use oversight, surface water; would have permitted large data center water use under failed HB 1206. Named in EO JML 26-058 as a support-letter agency.",
+      "url": "https://www.dce.louisiana.gov"
+    },
+    {
+      "name": "Louisiana Economic Development (LED)",
+      "role": "Certifies data centers for the sales/use tax exemption, signs the incentive agreements, runs Quality Jobs, High Impact Jobs, FastStart and ITEP staffing; writes the EO JML 26-058 ratepayer framework.",
+      "url": "https://www.opportunitylouisiana.gov/data-center"
+    },
+    {
+      "name": "Louisiana Board of Commerce and Industry",
+      "role": "Votes on Industrial Tax Exemption Program (ITEP) applications, with local taxing bodies.",
+      "url": "https://www.opportunitylouisiana.gov"
+    },
+    {
+      "name": "Louisiana Department of Revenue",
+      "role": "Administers the data center sales/use tax exemption (Form R-85010, direct-pay numbers) and recapture.",
+      "url": "https://revenue.louisiana.gov"
+    },
+    {
+      "name": "Louisiana Legislature",
+      "role": "Writes incentive and utility laws; bill search for 'data center'.",
+      "url": "https://legis.la.gov"
+    },
+    {
+      "name": "Office of the Governor",
+      "role": "Executive orders on data centers (JML 25-102 Lightning Speed Initiative; JML 26-058 Ratepayer and Community Protection Initiative).",
+      "url": "https://gov.louisiana.gov"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "U-37425",
+      "regulator": "Louisiana Public Service Commission",
+      "utility": "Entergy Louisiana",
+      "what": "Entergy Louisiana application to certify generation (three gas plants, 2,262 MW) and transmission to serve a single large customer in north Louisiana (Meta Hyperion), with a proposed customer rider. Filed 2024-10-30; settlement noticed 2025-07-23; approved 2025-08-20.",
+      "site_ids": [
+        "la-richland-meta-hyperion"
+      ],
+      "status": "approved 2025-08-20",
+      "url": "https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx",
+      "date": "2025-08-20"
+    },
+    {
+      "id": "U-37882",
+      "regulator": "Louisiana Public Service Commission",
+      "utility": "Entergy Louisiana",
+      "what": "Entergy Louisiana application to certify generation and transmission for Meta's expansion (customer entity 'Evest LLC'): seven combined-cycle gas units (about 5,200 MW per Entergy Louisiana's CEO; 5,278 MW per Construction Review Online), four near the Richland campus and three near Big Cajun in Pointe Coupee Parish, three battery projects, 240-250+ miles of transmission; about $12.9B. Filed 2026-03-26 under the Lightning directive (LPSC minutes). On 2026-04-15 the PSC voted 4-1 (Lewis opposed) to schedule a decision for the 2026-12-16 session with no formal ALJ recommendation (Entergy had asked for November). On 2026-08-12 the PSC voted 3-1 (Lewis opposed, Campbell absent) to reverse the ALJ and vacate a subpoena of Meta records on its job and power projections. On 2026-09-16 the PSC unanimously vacated an ALJ's 2026-08-06 ruling, accepting an Entergy/Alliance for Affordable Energy/UCS stipulation. Evidentiary hearing was scheduled 2026-10-07 to 10-09 (outcome not found). Intervenors include Alliance for Affordable Energy, Union of Concerned Scientists, Sierra Club, Louisiana Energy Users Group, Walmart, Meta.",
+      "site_ids": [
+        "la-richland-meta-hyperion"
+      ],
+      "status": "pending",
+      "url": "https://www.lpsc.louisiana.gov/docs/minutes/September_16_2026_Min.pdf",
+      "date": "2026-09-16"
+    },
+    {
+      "id": "U-37801",
+      "regulator": "Louisiana Public Service Commission",
+      "utility": "Entergy Louisiana",
+      "what": "Entergy Louisiana application to buy the 1.26 GW Cottonwood gas plant (Newton County, Texas) for about $1.8B with cost recovery. Filed 2025-12-03. PSC consultant Lane Sisung found the near-term need was driven mainly by Meta-related load and recommended rejecting cost recovery; Times-Picayune reported about +$9/month on the average residential bill. Gov. Landry opposed it in June 2026. In August 2026 Entergy paused the case (SAN: 'dropped'; Shreveport-Bossier Advocate: 'indefinitely postponed') and said it would return on a revised timeline.",
+      "site_ids": [
+        "la-richland-meta-hyperion"
+      ],
+      "status": "suspended",
+      "url": "https://san.com/cc/louisiana-utilitys-plan-to-buy-texas-power-plant-derailed-over-ratepayer-cost/",
+      "date": "2026-08-05"
+    },
+    {
+      "id": "U-38035",
+      "regulator": "Louisiana Public Service Commission",
+      "utility": "Cleco Power",
+      "what": "Cleco Power application (filed 2026-07-01) to approve contracts including an electric service agreement for about 430 MW to Applied Digital's Delta Forge 1 campus, certify transmission interconnection and new generation (756 MW gas unit on Cleco's Rapides campus), and Lightning waivers. On 2026-09-16 the PSC unanimously ordered a schedule allowing a decision no later than the March 2027 session, with no formal ALJ recommendation.",
+      "site_ids": [
+        "la-rapides-applied-digital-delta-forge-1"
+      ],
+      "status": "pending",
+      "url": "https://www.lpsc.louisiana.gov/docs/minutes/September_16_2026_Min.pdf",
+      "date": "2026-09-16"
+    },
+    {
+      "id": "X-37921",
+      "regulator": "Louisiana Public Service Commission",
+      "utility": null,
+      "what": "Repository docket for comments on the PSC's 'Large Load Additions Non-Binding Guidelines' (load data, firm capacity, transmission costs fully assigned to the load, stranded-asset protections, no cross-subsidy, curtailment rights, ongoing reporting). Technical conference 2026-05-07; comments due 2026-06-19; no interventions.",
+      "site_ids": [],
+      "status": "comment period closed",
+      "url": "https://www.lpsc.louisiana.gov/docs/general/Non-Binding_Guidelines_for_Potential_Large_Load_Customers.pdf",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "R-37905",
+      "regulator": "Louisiana Public Service Commission",
+      "utility": null,
+      "what": "Rulemaking to evaluate 'private use electrical networks' (privately financed generation serving new large loads such as data centers while staying grid-connected). Opened April 2026 after SB 490 stalled. Staff procedural schedule and first information request noticed in Bulletin #1386 (2026-10-09). No final rule.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://www.lpsc.louisiana.gov/docs/general/docketR-37905StaffNotice.pdf",
+      "date": "2026-10-09"
+    },
+    {
+      "id": null,
+      "regulator": "Louisiana Public Service Commission",
+      "utility": null,
+      "what": "'Lightning' large-load directive by Commissioner Jean-Paul Coussan, adopted 2025-12-17: suspends the Market-Based Mechanism (competitive bidding) for large-load projects meeting criteria (15-year electric service agreement, shown need, customer pays at least half the cost of new infrastructure, LED support letter) and sets an eight-month decision timeline. Vote reported as 3-2 by WWNO and 4-1 by KSLA/WBRZ; PSC minutes for that meeting not retrieved. Commissioner Davante Lewis's competing large-load framework was deferred. No docket number found.",
+      "site_ids": [],
+      "status": "adopted 2025-12-17",
+      "url": "https://www.wwno.org/coastal-desk/2025-12-17/in-tense-meeting-louisiana-psc-fast-tracks-pathway-for-large-projects-like-data-centers",
+      "date": "2025-12-17"
+    },
+    {
+      "id": null,
+      "regulator": "Louisiana Public Service Commission",
+      "utility": null,
+      "what": "Directive requested by Commissioner Lewis and Vice Chairman Coussan (listed 2026-02-25 as a directive to open a rulemaking on a framework for new large loads). Adopted without opposition 2026-03-18 in narrower form: Staff to hold a technical conference on the Non-Binding Guidelines for large-load customers and report back no later than December 2026. Led to the 2026-05-07 conference and docket X-37921.",
+      "site_ids": [],
+      "status": "report due by December 2026",
+      "url": "https://lpsc.louisiana.gov/docs/minutes/March_18_2026_Minutes.pdf",
+      "date": "2026-03-18"
+    },
+    {
+      "id": null,
+      "regulator": "Louisiana Public Service Commission",
+      "utility": "Entergy Louisiana",
+      "what": "Motion by the Alliance for Affordable Energy and Union of Concerned Scientists for an investigation and prudence review of the Meta Richland Parish project, listed for the 2026-02-25 meeting (per the Alliance's agenda preview). Outcome not found.",
+      "site_ids": [
+        "la-richland-meta-hyperion"
+      ],
+      "status": "unknown",
+      "url": "https://www.all4energy.org/take-action/lpsc-agenda-feb-2026/",
+      "date": "2026-02-25"
+    }
+  ],
+  "rate_cases": [
+    {
+      "utility": "Entergy Louisiana",
+      "what": "Meta Hyperion phase 1 (U-37425): three gas plants (2,262 MW) and transmission approved 2025-08-20 under a settlement; Meta-specific cost terms beyond the settlement summary not confirmed here.",
+      "impact": "Entergy said bills would change by about $1 per billing cycle; critics said about $0.5B of transmission for Meta would reach customer bills. Neither figure confirmed in a filed order.",
+      "source": "https://www.knoe.com/2025/08/20/louisiana-public-service-commission-approves-settlement-meta-data-center-gas-plant/",
+      "date": "2025-08-20"
+    },
+    {
+      "utility": "Entergy Louisiana",
+      "what": "Meta expansion (U-37882): seven gas units, batteries, ~250 miles of transmission, about $12.9B. Entergy says Meta pays and existing customers save about $2.6-2.7B over two decades; it has not released the math. Entergy also cites Meta's $140M for efficiency programs over 20 years and $60M Power to Care.",
+      "impact": "Customer bill effect not settled; decision expected 2026-12-16.",
+      "source": "https://www.kplctv.com/2026/08/04/groups-question-entergys-plan-build-gas-plants-metas-ai-data-center-entergy-responds/",
+      "date": "2026-08-04"
+    },
+    {
+      "utility": "Entergy Louisiana",
+      "what": "Cottonwood plant purchase (U-37801, $1.8B). PSC consultant said the capacity need was driven mainly by Meta-related load.",
+      "impact": "About +$9/month on the average residential bill (Times-Picayune, via SAN); Axios reported $8 or more. Case paused by Entergy in August 2026.",
+      "source": "https://san.com/cc/louisiana-utilitys-plan-to-buy-texas-power-plant-derailed-over-ratepayer-cost/",
+      "date": "2026-08-05"
+    },
+    {
+      "utility": "All PSC-regulated utilities",
+      "what": "December 2025 'Lightning' directive lets large-load projects skip competitive bidding if the customer signs a 15-year contract and pays at least half the cost of new infrastructure.",
+      "impact": "Union of Concerned Scientists analysis: because a 15-year contract covers only part of a ~30-year plant, ratepayers could pay more than half, up to about 75%, of a plant's capital cost (advocacy estimate).",
+      "source": "https://blog.ucs.org/paul-arbaje/louisianas-new-policy-allows-even-more-data-center-costs-to-be-passed-to-ratepayers/",
+      "date": "2026-02-11"
+    },
+    {
+      "utility": "Cleco Power",
+      "what": "Applied Digital Delta Forge 1 (U-38035): ~430 MW service, the largest single load Cleco has served; Applied Digital pays 100% of direct interconnection and bridge capacity costs; Cleco proposes a 756 MW gas unit it says it needs anyway for retirements.",
+      "impact": "Cleco projects nearly $3B in non-fuel payments from Applied Digital over 15 years and more than $700M in net benefits to existing customers (utility claim, not yet tested).",
+      "source": "https://www.kalb.com/2026/07/30/cleco-looks-fast-track-new-generator-data-center/",
+      "date": "2026-07-30"
+    },
+    {
+      "utility": "SWEPCO (AEP)",
+      "what": "Amazon campuses in Caddo and Bossier: SWEPCO says it will serve the first load with existing generation and third-party purchases and that Amazon fully funds new infrastructure. Separately SWEPCO is rebuilding Pirkey (Hallsville, TX, 450 MW gas) and converting Welsh (1,053 MW) to gas; the LPSC accepted an uncontested settlement on that plan (U-37463) on 2026-09-16. AEP says 90% of its new demand is data centers.",
+      "impact": "PSC Commissioner Foster Campbell says he was assured Caddo-Bossier bills will not rise; no filed bill-impact number found.",
+      "source": "https://www.shreveportbossieradvocate.com/business/swepco-data-centers-increase-power-needs/article_c38382db-5032-4ac2-b132-18fd7e78d577.html",
+      "date": "2026-07-24"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "New Orleans (Orleans Parish)",
+      "type": "moratorium",
+      "what": "City Council voted unanimously on 2026-01-28 for motions M-26-62 (define data centers in zoning, set standards) and M-26-63 (one-year Data Center Interim Zoning District pausing licenses and approvals citywide). Triggered by a proposed site in New Orleans East. City Planning Commission deferred its zoning vote in August 2026 over water capacity concerns.",
+      "status": "in effect",
+      "source": "https://www.wwno.org/economy/2026-01-29/new-orleans-city-council-bans-data-center-development-for-a-year-heres-why",
+      "date": "2026-01-29"
+    },
+    {
+      "place": "St. Charles Parish",
+      "type": "moratorium",
+      "what": "Council rejected a proposed eight-month moratorium on new data centers in April 2026, less than two months before adopting zoning rules. Vote count not confirmed from a newspaper or parish record.",
+      "status": "failed",
+      "source": "https://www.heraldguide.com/news/parish-council-unanimously-approves-first-data-center-regulations/",
+      "date": "2026-06-03"
+    },
+    {
+      "place": "St. Charles Parish",
+      "type": "zoning",
+      "what": "Council unanimously approved (vote 'Monday', likely 2026-06-01) the parish's first data center zoning rules: defines data centers; allows them in M-1 and M-2 industrial districts (self-powered ones only in M-2); 300-ft buffer from homes, schools, day cares, nursing homes and parks; 25-ft landscape buffer; 55 dB noise cap at property lines; generator testing weekdays 7 a.m.-6 p.m.",
+      "status": "adopted",
+      "source": "https://www.heraldguide.com/news/parish-council-unanimously-approves-first-data-center-regulations/",
+      "date": "2026-06-03"
+    },
+    {
+      "place": "Caddo Parish",
+      "type": "moratorium",
+      "what": "Commissioner John Paul Young proposed a two-year moratorium on tax benefits for new data centers and expansions; sent to committee 2026-08-17 after the parish attorney said a resolution cannot impose a moratorium.",
+      "status": "sent to committee",
+      "source": "https://www.ksla.com/2026/08/18/caddo-parish-commissioner-seeks-moratorium-data-center-tax-incentives/",
+      "date": "2026-08-18"
+    },
+    {
+      "place": "Caddo Parish",
+      "type": "moratorium",
+      "what": "Resolution asking the planning and zoning commission to consider pausing data center construction failed to advance, 4 for, 6 against, 2 absent (KSLA places the vote at the 2026-08-31 meeting). Unincorporated Caddo outside the Shreveport planning area has no zoning.",
+      "status": "failed",
+      "source": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "Shreveport (Caddo Parish)",
+      "type": "zoning",
+      "what": "City Council voted unanimously in December 2025 to overturn the Metropolitan Planning Commission's denial of a special use permit for the Amazon/STACK data center at Resilient Technology Park. Mooringsport Mayor Tyler Gordon, Michael Craft and Mary Blakemore sued in Caddo District Court (claims: due process, no adequate record, missing conditions, impacts on Caddo and Cross lakes, nondisclosure agreements).",
+      "status": "lawsuit filed",
+      "source": "https://www.ktbs.com/news/city-of-shreveport-sued-over-data-center-vote/article_0bc5e38c-1443-4943-99b4-d30f77849960.html",
+      "date": "2026-01-22"
+    },
+    {
+      "place": "Shreveport (Caddo Parish)",
+      "type": "zoning",
+      "what": "Caddo District Judge Ramon Lafitte dismissed the petition for judicial review and upheld the council's permit (around 2026-04-20); project back on track. Plaintiffs' lawyer said an appeal to the Second Circuit was possible; appeal not confirmed. Developer says the site must meet the city noise ordinance.",
+      "status": "permit upheld",
+      "source": "https://www.shreveportbossieradvocate.com/business/west-shreveport-data-center-back-on-track-for-construction/article_b57b6eb0-d3d4-4df6-bcf0-b7844dbe2e1b.html",
+      "date": null
+    },
+    {
+      "place": "Ascension Parish",
+      "type": "zoning",
+      "what": "Parish Council passed a resolution asking the Planning and Zoning Commission to write rules for 'high-impact development facilities' (data centers) before any permit application; parish has no data center zoning category. Vote count not reported.",
+      "status": "rules being drafted",
+      "source": "https://content.wbrz.com/news/ascension-council-votes-to-place-restrictions-on-potential-data-center-developments-in-parish",
+      "date": "2026-08-07"
+    },
+    {
+      "place": "West Feliciana Parish",
+      "type": "zoning",
+      "what": "Parish still uses an old zoning map; council voted 3-2 in March 2026 (article date not confirmed) to reject a new map matching its 2023 land development code. No Hut 8-specific rezoning vote found.",
+      "status": "no data center rule",
+      "source": "https://www.wbrz.com/news/west-feliciana-parish-council-rejects-new-zoning-map-proposal-many-residents-praise-rejection",
+      "date": null
+    }
+  ],
+  "ballot_measures": [
+    {
+      "place": "Louisiana (statewide and parishes)",
+      "what": "None found: no state or parish ballot measure on data centers found as of 2026-10-14. Ballotpedia's 2026 roundup of local data center ballot measures lists none in Louisiana. (Nov. 3, 2026 LPSC elections in Districts 1 and 5 are not ballot measures.)",
+      "vote_date": null,
+      "result": null,
+      "source": "https://news.ballotpedia.org/2026/03/24/voters-in-at-least-five-jurisdictions-will-decide-ballot-measures-related-to-data-centers-this-year/"
+    }
+  ],
+  "polls": [
+    {
+      "who": "Pelican Institute for Public Policy, Pelican Pulse Q1 2026 (762 Louisiana residents, Feb. 20-24, 2026, +/-3.55 pts)",
+      "what": "Which cause is most responsible for rising electricity prices; utility bills over the past year; blame for utility prices.",
+      "result": "10% named AI data centers as most responsible (inflation 23%, corporate greed 21%, government regulations 12%); 66% said their electric and gas bills rose; 78% said state government or PSC policies bear at least some blame. No Louisiana poll asking directly about support for data centers was found.",
+      "source": "https://pelicanpolicy.org/qlub",
+      "date": "2026-02-24"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Entergy Louisiana",
+      "type": "investor-owned",
+      "serves": "About 1.1 million electric customers in 58 of 64 parishes (e.g., East Baton Rouge, Lafayette area, Calcasieu, Bossier, northeast Louisiana incl. Richland, West Feliciana); only part of St. Tammany. Serves Meta Hyperion and Hut 8 River Bend.",
+      "url": "https://www.entergylouisiana.com/about"
+    },
+    {
+      "name": "Entergy New Orleans",
+      "type": "investor-owned",
+      "serves": "About 209,000 electric customers in Orleans Parish; regulated by the New Orleans City Council.",
+      "url": "https://www.entergyneworleans.com/about"
+    },
+    {
+      "name": "Cleco Power",
+      "type": "investor-owned",
+      "serves": "About 295,000 retail customers in 24 parishes, headquartered in Pineville, central Louisiana; parish list not published on the page. Serves Applied Digital Delta Forge 1.",
+      "url": "https://www.cleco.com/about"
+    },
+    {
+      "name": "Southwestern Electric Power Co. (SWEPCO, AEP)",
+      "type": "investor-owned",
+      "serves": "Northwest and central Louisiana (Shreveport-Bossier area incl. Caddo and Bossier parishes); about 556,100 customers across LA, AR and TX combined. Serves the Amazon/STACK campuses.",
+      "url": "https://www.swepco.com/company/about/"
+    },
+    {
+      "name": "Beauregard Electric Cooperative (1803 member)",
+      "type": "co-op",
+      "serves": "Allen, Beauregard, Calcasieu, Evangeline, Jefferson Davis, Rapides, Vernon parishes",
+      "url": "https://lpscpubvalence.lpsc.louisiana.gov/portal/PSC/ViewFile?fileId=AlJ+ZbF7HMk%3D"
+    },
+    {
+      "name": "Claiborne Electric Cooperative (1803 member)",
+      "type": "co-op",
+      "serves": "Bienville, Claiborne, Jackson, Lincoln, Ouachita, Union, Webster parishes",
+      "url": "https://lpscpubvalence.lpsc.louisiana.gov/portal/PSC/ViewFile?fileId=AlJ+ZbF7HMk%3D"
+    },
+    {
+      "name": "Northeast Louisiana Power Cooperative (1803 member)",
+      "type": "co-op",
+      "serves": "East Carroll, Franklin, Madison, Morehouse, Richland, Tensas, West Carroll parishes",
+      "url": "https://lpscpubvalence.lpsc.louisiana.gov/portal/PSC/ViewFile?fileId=AlJ+ZbF7HMk%3D"
+    },
+    {
+      "name": "Pointe Coupee Electric Membership Corp. (1803 member)",
+      "type": "co-op",
+      "serves": "Iberville, Pointe Coupee, West Baton Rouge parishes",
+      "url": "https://lpscpubvalence.lpsc.louisiana.gov/portal/PSC/ViewFile?fileId=AlJ+ZbF7HMk%3D"
+    },
+    {
+      "name": "South Louisiana Electric Cooperative Association (SLECA, 1803 member)",
+      "type": "co-op",
+      "serves": "Assumption, Lafourche, St. Martin, St. Mary, Terrebonne parishes",
+      "url": "https://lpscpubvalence.lpsc.louisiana.gov/portal/PSC/ViewFile?fileId=AlJ+ZbF7HMk%3D"
+    },
+    {
+      "name": "Washington-St. Tammany Electric Cooperative (1803 member)",
+      "type": "co-op",
+      "serves": "St. Tammany, Tangipahoa, Washington parishes (also part of Marion County, MS)",
+      "url": "https://lpscpubvalence.lpsc.louisiana.gov/portal/PSC/ViewFile?fileId=AlJ+ZbF7HMk%3D"
+    },
+    {
+      "name": "Dixie Electric Membership Corp. (DEMCO)",
+      "type": "co-op",
+      "serves": "About 119,000 meters in Ascension, East Baton Rouge, East Feliciana, Livingston, St. Helena, Tangipahoa, West Feliciana parishes (2024 annual report)",
+      "url": "https://demco.org/sites/default/files/documents/annual-reports/2024AnnualReport.pdf"
+    },
+    {
+      "name": "Jeff Davis Electric Cooperative",
+      "type": "co-op",
+      "serves": "Allen, Calcasieu, Cameron, Jefferson Davis, Vermilion parishes",
+      "url": "https://www.jdec.org/"
+    },
+    {
+      "name": "Southwest Louisiana Electric Membership Corp. (SLEMCO)",
+      "type": "co-op",
+      "serves": "Acadiana, based in Lafayette; parish list not confirmed from an official page",
+      "url": "https://www.slemco.com/"
+    },
+    {
+      "name": "Lafayette Utilities System (LUS)",
+      "type": "municipal",
+      "serves": "City of Lafayette (city-owned electric, water, wastewater since 1896)",
+      "url": "https://lus.org/"
+    },
+    {
+      "name": "LEPA member municipal systems",
+      "type": "municipal",
+      "serves": "City-owned electric systems in Abbeville, Alexandria, Erath, Gueydan, Houma, Jonesville, Kaplan, Lafayette, Minden, Morgan City, Natchitoches, New Roads, Plaquemine, Rayne, Ruston, St. Martinville, Vidalia, Vinton, Welsh, Winnfield (Louisiana Energy and Power Authority members)",
+      "url": "https://lepa.com/member-cities/"
+    }
+  ],
+  "news": [
+    {
+      "title": "Massive power needs of Meta data center in Richland Parish are 'absurd,' opponents say",
+      "outlet": "Fox 8 (WVUE)",
+      "url": "https://www.fox8live.com/2026/10/13/massive-power-needs-meta-data-center-richland-parish-are-absurd-opponents-say/",
+      "date": "2026-10-13",
+      "tone": "bad"
+    },
+    {
+      "title": "Entergy makes case for expanding Meta data center in hearing while opponents question costs",
+      "outlet": "The Advocate (Shreveport-Bossier City Advocate)",
+      "url": "https://www.shreveportbossieradvocate.com/news/entergy-meta-public-service-commission-louisiana/article_b3afd115-947c-58fc-bd27-9de924544933.html",
+      "date": "2026-10-08",
+      "tone": "neutral"
+    },
+    {
+      "title": "Decision delayed on proposed Ascension Parish data center ordinance. See what happened.",
+      "outlet": "The Advocate",
+      "url": "https://www.theadvocate.com/baton_rouge/news/ascension-data-center-ordinance/article_c1a5e542-d96c-4698-90c2-015c1621a6fa.html",
+      "date": "2026-10-02",
+      "tone": "neutral"
+    },
+    {
+      "title": "Caddo Parish Commission rejects pause on data center construction",
+      "outlet": "KSLA",
+      "url": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/",
+      "date": "2026-09-15",
+      "tone": "neutral"
+    },
+    {
+      "title": "Tracked changes: An Entergy exec ghostwrote Louisiana PSC motions supporting Meta, Hyundai",
+      "outlet": "WBHM (Gulf States Newsroom)",
+      "url": "https://www.wbhm.org/2026-08-11/tracked-changes-an-entergy-exec-ghostwrote-louisiana-psc-motions-supporting-meta-hyundai",
+      "date": "2026-08-11",
+      "tone": "bad"
+    },
+    {
+      "title": "Louisiana utility's plan to buy Texas power plant derailed over ratepayer cost",
+      "outlet": "Straight Arrow News",
+      "url": "https://san.com/cc/louisiana-utilitys-plan-to-buy-texas-power-plant-derailed-over-ratepayer-cost/",
+      "date": "2026-08-05",
+      "tone": "bad"
+    },
+    {
+      "title": "Groups question Entergy's plan to build gas plants for Meta's AI data center; Entergy responds",
+      "outlet": "KPLC",
+      "url": "https://www.kplctv.com/2026/08/04/groups-question-entergys-plan-build-gas-plants-metas-ai-data-center-entergy-responds/",
+      "date": "2026-08-04",
+      "tone": "bad"
+    },
+    {
+      "title": "Cleco looks to fast-track new generator for data center",
+      "outlet": "KALB",
+      "url": "https://www.kalb.com/2026/07/30/cleco-looks-fast-track-new-generator-data-center/",
+      "date": "2026-07-30",
+      "tone": "neutral"
+    },
+    {
+      "title": "Meta is investing $40B more to expand Richland Parish data center project",
+      "outlet": "WRKF",
+      "url": "https://www.wrkf.org/2026-07-14/meta-is-investing-40b-more-to-expand-richland-parish-data-center-project",
+      "date": "2026-07-14",
+      "tone": "neutral"
+    },
+    {
+      "title": "Landry signs order to protect utility customers as he promotes more data center development",
+      "outlet": "WAFB / Louisiana Illuminator",
+      "url": "https://www.wafb.com/2026/06/26/landry-signs-order-protect-utility-customers-he-promotes-more-data-center-development/",
+      "date": "2026-06-26",
+      "tone": "neutral"
+    },
+    {
+      "title": "Study says Louisiana may be giving up billions in tax revenue for Meta data center",
+      "outlet": "KTBS",
+      "url": "https://www.ktbs.com/news/study-says-louisiana-may-be-giving-up-billions-in-tax-revenue-for-meta-data-center/article_802cc66f-7d8f-442d-85a9-f8e59b37716d.html",
+      "date": "2026-06-25",
+      "tone": "bad"
+    },
+    {
+      "title": "Utilities balk at industrial customers generating their own power, selling excess on the grid",
+      "outlet": "KALB / Louisiana Illuminator",
+      "url": "https://www.kalb.com/2026/05/24/utilities-balk-industrial-customers-generating-their-own-power-selling-excess-grid/",
+      "date": "2026-05-24",
+      "tone": "neutral"
+    },
+    {
+      "title": "Entergy seeks fast-tracked approval of seven new power plants for Meta data center",
+      "outlet": "KALB",
+      "url": "https://www.kalb.com/2026/04/15/entergy-seeks-fast-tracked-approval-seven-new-power-plants-meta-data-center/",
+      "date": "2026-04-15",
+      "tone": "neutral"
+    },
+    {
+      "title": "Louisiana among states that don't report revenue losses from data center tax breaks, study says",
+      "outlet": "Louisiana Illuminator",
+      "url": "https://lailluminator.com/2026/04/15/repub/data-center-tax-breaks/",
+      "date": "2026-04-15",
+      "tone": "bad"
+    },
+    {
+      "title": "New Orleans City Council bans data center development for a year. Here's why",
+      "outlet": "WWNO",
+      "url": "https://www.wwno.org/economy/2026-01-29/new-orleans-city-council-bans-data-center-development-for-a-year-heres-why",
+      "date": "2026-01-29",
+      "tone": "neutral"
+    },
+    {
+      "title": "Entergy seeks $237 million in tax relief for Meta data center",
+      "outlet": "The Center Square (Ouachita Citizen)",
+      "url": "https://www.hannapub.com/ouachitacitizen/news/local_state_headlines/entergy-seeks-237-million-in-tax-relief-for-meta-data-center/article_50a8cd66-e3ef-49c8-9abc-c0635c4299fd.html",
+      "date": "2026-01-22",
+      "tone": "neutral"
+    },
+    {
+      "title": "City of Shreveport sued over data center vote",
+      "outlet": "KTBS",
+      "url": "https://www.ktbs.com/news/city-of-shreveport-sued-over-data-center-vote/article_0bc5e38c-1443-4943-99b4-d30f77849960.html",
+      "date": "2026-01-22",
+      "tone": "bad"
+    },
+    {
+      "title": "In tense meeting, Louisiana PSC fast-tracks pathway for large projects like data centers",
+      "outlet": "WWNO",
+      "url": "https://www.wwno.org/coastal-desk/2025-12-17/in-tense-meeting-louisiana-psc-fast-tracks-pathway-for-large-projects-like-data-centers",
+      "date": "2025-12-17",
+      "tone": "bad"
+    },
+    {
+      "title": "Louisiana Public Service Commission approves settlement for Meta Data Center gas plant",
+      "outlet": "KNOE",
+      "url": "https://www.knoe.com/2025/08/20/louisiana-public-service-commission-approves-settlement-meta-data-center-gas-plant/",
+      "date": "2025-08-20",
+      "tone": "neutral"
+    }
+  ]
+}

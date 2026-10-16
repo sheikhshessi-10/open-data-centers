@@ -1,0 +1,100 @@
+{
+  "state": "MN",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales and use tax exemption",
+      "law": "Minn. Stat. 297A.68, subd. 42; 297A.75 (amended by Laws 2025, 1st Spec. Sess. ch. 12, sec. 17)",
+      "what": "Sales tax exemption for equipment and software of qualified and refurbished data centers, plus the electricity they use (electricity exemption kept). 2025 law adds qualified large-scale data centers ($250M+ within 60 months after June 30, 2025, 25,000+ sq ft): equipment and software exempt but not electricity; claim period extended from 20 to 35 years; prevailing wage required; green building certification within 3 years or repay.",
+      "value_known": null,
+      "source": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/12/",
+      "date": "2025-06-14"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "26-159",
+      "regulator": "Minnesota Public Utilities Commission",
+      "utility": "Minnesota Power",
+      "what": "Electric service agreement with Harmony Group, LLC (Google) for Hermantown data center",
+      "site_ids": [
+        "mn-st-louis-google-hermantown"
+      ],
+      "status": "under review (comments closed Aug 28, 2026)",
+      "url": "https://mn.gov/puc/activities/v-l-e-c/data-centers/",
+      "date": "2026-03-26"
+    },
+    {
+      "id": "26-170",
+      "regulator": "Minnesota Public Utilities Commission",
+      "utility": "Xcel Energy",
+      "what": "Electric service agreement with Echo Zone, LLC (Google) for Pine Island data center",
+      "site_ids": [
+        "mn-goodhue-google-pine-island"
+      ],
+      "status": "under review (comments closed Sept 8, 2026)",
+      "url": "https://mn.gov/puc/activities/v-l-e-c/data-centers/",
+      "date": "2026-04-14"
+    },
+    {
+      "id": "PT7151/CN-24-435",
+      "regulator": "Minnesota Public Utilities Commission",
+      "utility": "n/a (Amazon Data Services petition)",
+      "what": "PUC denied (4-0) Amazon's request to exempt 250 backup diesel generators (up to 600 MW) at Becker from a certificate of need",
+      "site_ids": [
+        "mn-sherburne-amazon-becker"
+      ],
+      "status": "denied",
+      "url": "https://www.eenews.net/articles/amazon-needs-permit-for-minnesota-data-center-backup-power/",
+      "date": "2025-02-28"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HF 16, Laws 2025 1st Special Session chapter 12 (data center regulatory bill)",
+      "status": "enacted",
+      "what": "Signed June 14, 2025. Annual fee of $2M-$5M by peak demand on qualified large-scale data centers for low-income conservation; PUC must define a very large customer class by Dec 15, 2026 (216B.1622) and protect other customers from stranded costs; optional clean energy/capacity tariff (216B.1623); DNR preapplication review and permit conditions for data centers using over 100M gallons/year; sales tax changes; defines data center as 100 MW+ design load.",
+      "source": "https://www.revisor.mn.gov/laws/2025/1/Session+Law/Chapter/12/",
+      "date": "2025-06-14"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Monticello (city)",
+      "type": "ordinance",
+      "what": "Data Center Planned Unit Development (DCPUD) ordinance; each project still needs land use review",
+      "status": "adopted",
+      "source": "https://www.monticellomn.gov/728/Data-Centers",
+      "date": "2026-04-27"
+    },
+    {
+      "place": "Faribault (city)",
+      "type": "zoning",
+      "what": "Zoning text amendment allowing data centers in I-2 districts; Planning Commission drafting data center performance standards (meetings through Oct 5, 2026)",
+      "status": "adopted / standards pending",
+      "source": "https://www.faribaultmn.gov/815/Archer-Datacenters",
+      "date": "2026-04-28"
+    },
+    {
+      "place": "Elk River (city)",
+      "type": "zoning",
+      "what": "Proposed ordinance amendment to allow data centers in the I-1 zone (with CUP for 19178 Industrial Blvd NW)",
+      "status": null,
+      "source": "https://www.elkrivermn.gov/DocumentCenter/View/19540/Notice-of-Public-Hearing-Conditional-Use-Permit-and-Ordinance-Amendment-for-Michael-Margulies---data-center",
+      "date": "2026-05"
+    },
+    {
+      "place": "Nobles County",
+      "type": "zoning",
+      "what": "County board defeated text amendment to allow data centers as conditional use in Agricultural Preservation areas",
+      "status": "rejected",
+      "source": "https://www.co.nobles.mn.us/wp-content/uploads/2026/05/260519a.pdf",
+      "date": "2026-04-21"
+    }
+  ]
+}

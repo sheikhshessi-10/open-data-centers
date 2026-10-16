@@ -1,0 +1,622 @@
+[
+  {
+    "id": "ut-box-elder-oleary-stratos",
+    "name": "Stratos (Wonder Valley) Hyperscale Data Center",
+    "owner": "O'Leary Digital",
+    "operator": "O'Leary Digital",
+    "tier": "large",
+    "state": "UT",
+    "county": "Box Elder County",
+    "town": "unincorporated Box Elder County (north of Great Salt Lake)",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 9000,
+        "unit": "MW at full build-out (first phase about 3 GW)",
+        "kind": "real",
+        "source": "https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/",
+        "date": "2026-04-25"
+      },
+      "acres": {
+        "value": 20000,
+        "unit": "acres (cut from about 40,000-41,200 originally)",
+        "kind": "real",
+        "source": "https://www.csmonitor.com/Environment/2026/0901/utah-data-centers-stratos-project",
+        "date": "2026-09-01"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Natural gas from the Ruby Pipeline via a TallGrass Energy connection; developer says 100% of power generated off the pipeline",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/",
+        "date": "2026-04-25"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Cooling with recycled, cleaned water returned to an aquifer feeding the Great Salt Lake (developer/official claim, unverified)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/",
+        "date": "2026-04-25"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "MIDA: energy use tax set at 0.5% (usually 6%), 1.2% flat property tax with rebates, personal property tax rebates; developer receives 80% of tax revenue at county rate",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/",
+        "date": "2026-04-25"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "'Hyperscale' data center project in Utah, expected to generate and consume more power than entire state, nears final approval",
+        "outlet": "The Salt Lake Tribune",
+        "url": "https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/",
+        "date": "2026-04-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "The small Utah county fighting a massive data center",
+        "outlet": "WBUR On Point",
+        "url": "https://www.wbur.org/onpoint/2026/05/20/mistrust-of-data-centers-box-elder-county",
+        "date": "2026-05-20",
+        "tone": "bad"
+      }
+    ],
+    "opposition": [
+      {
+        "what": "Opponents (BEAR) filed for a referendum the morning after the county approval; the county denied it as an administrative act; BEAR appealed to a judge; county and developer moved to dismiss in August 2026. Project in a 'holding pattern'.",
+        "source": "https://www.csmonitor.com/Environment/2026/0901/utah-data-centers-stratos-project",
+        "date": "2026-09-01"
+      },
+      {
+        "what": "Hundreds of residents turned out to oppose at the May 4, 2026 Box Elder County Commission meeting in Tremonton; commission declined public comment and approved unanimously.",
+        "source": "https://www.wbur.org/onpoint/2026/05/20/mistrust-of-data-centers-box-elder-county",
+        "date": "2026-05-20"
+      }
+    ],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Under Military Installation Development Authority (MIDA) land-use control for 50 years via interlocal agreement; MIDA approved the development agreement in April 2026, county commission approved in early May 2026. Includes parts of the Utah Test and Training Range and trust lands in the original plan.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    }
+  },
+  {
+    "id": "ut-utah-meta-eagle-mountain",
+    "name": "Meta Eagle Mountain Data Center",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "UT",
+    "county": "Utah County",
+    "town": "Eagle Mountain",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2018",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (more than, total Utah investment after 2026 expansion)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/deepening-our-investment-in-eagle-mountain-utah/",
+        "date": "2026-09-14"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 500,
+        "unit": "acres (more than, existing campus)",
+        "kind": "real",
+        "source": "https://www.heraldextra.com/news/2026/sep/14/growing-outward-meta-announces-expansion-of-eagle-mountain-data-center-facility-contributions-to-community/",
+        "date": "2026-09-14"
+      },
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "operations jobs (more than) once complete",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/deepening-our-investment-in-eagle-mountain-utah/",
+        "date": "2026-09-14"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "construction workers at peak (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/deepening-our-investment-in-eagle-mountain-utah/",
+        "date": "2026-09-14"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Meta says electricity use is matched with 100% clean and renewable energy",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/deepening-our-investment-in-eagle-mountain-utah/",
+        "date": "2026-09-14"
+      },
+      "utility": {
+        "value": "Rocky Mountain Power; Meta says it fully funded new generation and grid infrastructure",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/deepening-our-investment-in-eagle-mountain-utah/",
+        "date": "2026-09-14"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "City raised Meta's water allocation from 500 to 625 acre-feet",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.heraldextra.com/news/2026/sep/14/growing-outward-meta-announces-expansion-of-eagle-mountain-data-center-facility-contributions-to-community/",
+        "date": "2026-09-14"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Growing outward: Meta announces expansion of Eagle Mountain data center facility",
+        "outlet": "Daily Herald",
+        "url": "https://www.heraldextra.com/news/2026/sep/14/growing-outward-meta-announces-expansion-of-eagle-mountain-data-center-facility-contributions-to-community/",
+        "date": "2026-09-14",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Broke ground 2018. Expansion of three data center buildings plus admin and warehouse south of the existing campus approved by Eagle Mountain City Council in October 2025.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    }
+  },
+  {
+    "id": "ut-utah-qts-eagle-mountain",
+    "name": "QTS Eagle Mountain Campus",
+    "owner": "QTS Data Centers",
+    "operator": "QTS Data Centers",
+    "tier": "large",
+    "state": "UT",
+    "county": "Utah County",
+    "town": "Eagle Mountain",
+    "lat": 40.265262,
+    "lng": -112.029822,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://q.com/data-centers/eagle-mountain",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 193,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://q.com/data-centers/eagle-mountain",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop system that does not consume water for cooling once running; one-time fill about 600,000 gallons per building; about 50,000 gallons/month for humidification and domestic use (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/eagle-mountain",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Eagle Mountain 193-acre data center campus is set to be done this year with big water promises",
+        "outlet": "Utah News Dispatch",
+        "url": "https://utahnewsdispatch.com/2026/04/17/eagle-mountain-193-acre-data-center-campus-is-set-to-be-done-this-year-with-big-water-promises/",
+        "date": "2026-04-17",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Five buildings in phase one (579K-592K sq ft each); buildings 1-3 under construction, due end of year. Utah News Dispatch: last beam placed April 2026, about 2,000 construction workers (from search summary; article 403). MW not disclosed.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/DAQPermitCompApproval/FeatureServer/0/query?outFields=*&outSR=4326&f=json&where=DAQ_ID%3D16238",
+    "pin_address": "QTS Eagle Mountain I LLC - Eagle Mountain Data Center Campus, 3 miles south of Eagle Mountain UT (Utah DAQ approval order site DAQ_ID 16238 point)"
+  },
+  {
+    "id": "ut-salt-lake-novva-west-jordan",
+    "name": "Novva Salt Lake City Flagship Campus (West Jordan)",
+    "owner": "Novva Data Centers",
+    "operator": "Novva Data Centers",
+    "tier": "large",
+    "state": "UT",
+    "county": "Salt Lake County",
+    "town": "West Jordan",
+    "lat": 40.576946,
+    "lng": -112.043465,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 175,
+        "unit": "MW at completion (phases 2 and 3 are 72 MW critical IT each)",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/cim-group-novva-data-centers-secure-2b-to-expand-sustainable-data-centers-in-the-western-u-s/",
+        "date": "2025-03-05"
+      },
+      "acres": {
+        "value": 100,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/cim-group-novva-data-centers-secure-2b-to-expand-sustainable-data-centers-in-the-western-u-s/",
+        "date": "2025-03-05"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Phase 1 operating; phases 2-3 each a 318,000 sq ft building funded by $2B CIM Group financing; campus 1M sq ft total. Novva also says a second Utah campus is in development (no details).",
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "pin_source": "https://www.novva.com/data-center-facilities/utah/",
+    "pin_address": "6477 WELLS PARK RD, WEST JORDAN, UT, 84081"
+  },
+  {
+    "id": "ut-salt-lake-aligned-west-jordan",
+    "name": "Aligned Salt Lake City Campus (West Jordan)",
+    "owner": "Aligned Data Centers",
+    "operator": "Aligned Data Centers",
+    "tier": "large",
+    "state": "UT",
+    "county": "Salt Lake County",
+    "town": "West Jordan",
+    "lat": 40.587675,
+    "lng": -111.970218,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 55,
+        "unit": "acres (SLC-01, SLC-02, SLC-03)",
+        "kind": "real",
+        "source": "https://www.aligneddc.com/data-centers/salt-lake-city/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Company lists SLC-01 to SLC-03 in West Jordan and SLC-04 in West Valley City (same county; folded into this record, could be split). MW not published.",
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "pin_source": "https://www.aligneddc.com/data-centers/salt-lake-city/",
+    "pin_address": "3333 W 9000 S, WEST JORDAN, UT, 84088"
+  },
+  {
+    "id": "ut-juab-setsquare-nebo-north",
+    "name": "Project Nebo (Nebo North LLC) Data Center",
+    "owner": "The SetSquare Capital Group",
+    "operator": "Nebo North LLC",
+    "tier": "large",
+    "state": "UT",
+    "county": "Juab County",
+    "town": "near Mona",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-04-15",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (at least)",
+        "kind": "real",
+        "source": "https://www.deseret.com/environment/2026/09/08/mona-citizens-revolt-against-local-data-centers/",
+        "date": "2026-09-08"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Gas-fired power plant fed by a Williams gas pipeline across nearby ranch land",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.deseret.com/environment/2026/09/08/mona-citizens-revolt-against-local-data-centers/",
+        "date": "2026-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Mona citizens revolt against local data centers",
+        "outlet": "Deseret News",
+        "url": "https://www.deseret.com/environment/2026/09/08/mona-citizens-revolt-against-local-data-centers/",
+        "date": "2026-09-08",
+        "tone": "bad"
+      },
+      {
+        "title": "Mona residents file appeal seeking to overturn approval of data center project",
+        "outlet": "KSL",
+        "url": "https://www.ksl.com/article/51624497/mona-residents-file-appeal-seeking-to-overturn-approval-of-data-center-project",
+        "date": "2026-09-15",
+        "tone": "bad"
+      }
+    ],
+    "opposition": [
+      {
+        "what": "Mona Cares: Neighbors for Responsible Development (300+ member group) filed an appeal with Juab County commissioners asking them to overturn the April conditional use permit.",
+        "source": "https://www.ksl.com/article/51624497/mona-residents-file-appeal-seeking-to-overturn-approval-of-data-center-project",
+        "date": "2026-09-15"
+      },
+      {
+        "what": "At least 100 Mona residents protested at the Sept. 8, 2026 county commission meeting, some on horseback.",
+        "source": "https://www.deseret.com/environment/2026/09/08/mona-citizens-revolt-against-local-data-centers/",
+        "date": "2026-09-08"
+      }
+    ],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Juab County CUP approved 2026-04-15 after a 4-minute hearing with no speakers. About 3 million sq ft. Developer co-founder Jonathan Vanica.",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    }
+  },
+  {
+    "id": "ut-iron-pronghorn-antelope",
+    "name": "Antelope Data Center",
+    "owner": "Pronghorn Development LLC",
+    "operator": "Pronghorn Development LLC",
+    "tier": "large",
+    "state": "UT",
+    "county": "Iron County",
+    "town": "west of Cedar City (near Granite Mountain West Solar)",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 640,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.sltrib.com/news/2026/05/26/iron-county-bans-approval-new-data/",
+        "date": "2026-05-26"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "On-site natural gas power plant",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sltrib.com/news/2026/05/26/iron-county-bans-approval-new-data/",
+        "date": "2026-05-26"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "Iron County bans approval of new data centers",
+        "outlet": "The Salt Lake Tribune",
+        "url": "https://www.sltrib.com/news/2026/05/26/iron-county-bans-approval-new-data/",
+        "date": "2026-05-26",
+        "tone": "neutral"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Five buildings over 8-10 years; conditional permit approved unanimously by the Iron County Planning Commission on 2026-06-04 (Utah Public Radio, https://www.upr.org/utah-news/2026-06-05/iron-county-cedar-city-data-center). Exempt from the county's 180-day pause because its application was complete. Trackers say 1,500 MW (not used).",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    }
+  },
+  {
+    "id": "ut-millard-joule-power",
+    "name": "Joule Power AI Data Center Campus",
+    "owner": "Joule Capital Partners",
+    "operator": "Joule Power",
+    "tier": "large",
+    "state": "UT",
+    "county": "Millard County",
+    "town": "between Fillmore and Delta (McCornick area)",
+    "lat": 39.18322,
+    "lng": -112.37697,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Behind-the-meter on-site generation near gas pipeline infrastructure; no draw from local utility grid (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://joulepower.ai/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "news": [
+      {
+        "title": "'Screaming into the void' over two data centers in central Utah",
+        "outlet": "KUTV",
+        "url": "https://kutv.com/news/local/screaming-into-the-void-over-two-data-centers-in-central-utah",
+        "date": "2026-06-03",
+        "tone": "bad"
+      }
+    ],
+    "opposition": [],
+    "official_statements": [],
+    "contacts": [],
+    "notes": "Company: master planning an energy and data center campus; conditional use permit executed and heavy industrial zoning in place; generation equipment on firm order. KUTV: site could include more than 30 buildings; Millard County approved project areas. Trackers say 4,000 MW (not used).",
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "pin_source": "https://services1.arcgis.com/99lidPhWCzftIe9K/arcgis/rest/services/DAQPermitCompApproval/FeatureServer/0/query?outFields=*&outSR=4326&f=json&where=DAQ_ID%3D16281",
+    "pin_address": "Joule Capital Partners LLC - Site #1 Data Center, 4000 ft south of West 11000 N Street, Fillmore area UT (Utah DAQ approval order site DAQ_ID 16281 point; Sites #2-#6 also permitted nearby)"
+  }
+]

@@ -1,0 +1,177 @@
+{
+  "state": "SC",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Sales tax exemption for datacenter computer equipment",
+      "law": "S.C. Code 12-36-2120(79)",
+      "what": "Exempts computers, equipment, hardware and software for a certified datacenter at one SC location investing at least $50M over five years (or $75M in aggregate by several taxpayers) and creating and keeping 25 full-time jobs paying 150% of state or county per capita income for three years; certification before Jan. 1, 2032.",
+      "value_known": null,
+      "source": "https://www.scstatehouse.gov/code/t12c036.php",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Sales tax exemption for computer equipment at technology-intensive facilities",
+      "law": "S.C. Code 12-36-2120(65)(a)",
+      "what": "Exempts computer equipment for a facility investing at least $300M over five years with 100+ new jobs and at least 60% of investment in computer equipment.",
+      "value_known": null,
+      "source": "https://www.scstatehouse.gov/code/t12c036.php",
+      "date": "2026-10-15"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "S. 902 Data Center Siting Act",
+      "status": "pending",
+      "what": "Sponsors Rankin and Devine. PSC certificate required before a data center operates; tiers by connected load; efficiency, water, noise and light standards; ratepayer protections; decommissioning assurance; fines up to $50,000/day. Referred to Senate Judiciary Feb. 10, 2026; no further action.",
+      "source": "https://www.scstatehouse.gov/sess126_2025-2026/bills/902.htm",
+      "date": "2026-02-10"
+    },
+    {
+      "name": "S. 867 Data Center Development Act",
+      "status": "pending",
+      "what": "Sponsor Sen. Tom Davis and nine others. Creates a Data Center Development Office in the Department of Environmental Services; state permit before any data center of 1 MW+ operates, three tiers by load; water efficiency, noise, light and vibration rules; buffers from refuges and critical habitat; PSC must make utilities' data center contracts cover their own costs; decommissioning assurance; fines up to $50,000/day. Introduced Jan. 29, 2026; reported favorably by Senate Agriculture and Natural Resources Apr. 28, 2026; no floor vote before the session ended.",
+      "source": "https://www.scstatehouse.gov/sess126_2025-2026/bills/867.htm",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "H. 3309 South Carolina Energy Security Act (Act No. 41)",
+      "status": "enacted",
+      "what": "Broad energy law signed May 12, 2025 (Santee Cooper-Dominion Canadys gas plant, joint resources, economic development rates). Lets utilities give economic development rates to 'transformational customers' (50 MW+ at one point of delivery, 500 jobs, $100M) if the PSC finds no cross-subsidy. Data center limits the Senate added in April 2025 are not in the enacted text, which does not use the term 'data center'.",
+      "source": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3309.htm",
+      "date": "2025-05-12"
+    },
+    {
+      "name": "Budget proviso on data center sales tax breaks (2026 session)",
+      "status": "enacted",
+      "what": "After a failed Senate amendment by Sen. Chip Campsen to suspend data center sales tax exemptions for a year (Apr. 23, 2026), a reporting requirement was put in the state budget: the Department of Revenue must report the total value of the breaks to the House and Senate budget chairs. Corrected figure for the year ending June 2025: about $828,000.",
+      "source": "https://scdailygazette.com/2026/04/28/sc-sales-tax-breaks-for-data-centers-came-to-828k-after-agency-corrected-its-numbers/",
+      "date": "2026-04-28"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "2026-158-E",
+      "regulator": "South Carolina Public Service Commission",
+      "utility": "private (Valara Holdings / NorthMark Strategies)",
+      "what": "Concerned Citizens of Spartanburg County and Southern Alliance for Clean Energy v. Valara Holdings: asked the PSC to review the on-site gas plant (about 450-460 MW) under the Utility Siting Act and halt construction. PSC ruled unanimously Aug. 27, 2026 that the Act does not apply because no power is exported to the grid; rehearing petition filed Sept. 24, 2026, Valara response Oct. 2, taken up Oct. 8, 2026.",
+      "site_ids": [
+        "sc-spartanburg-valara-northmark"
+      ],
+      "status": "decided Aug. 27, 2026; rehearing petition pending",
+      "url": "https://dms.psc.sc.gov/Web/Dockets/Detail/119739",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "2026-138-E",
+      "regulator": "South Carolina Public Service Commission",
+      "utility": "Duke Energy Carolinas, Duke Energy Progress, Dominion Energy South Carolina, Lockhart Power and others",
+      "what": "Generic docket for comments on large load additions (50 MW or more): rate schedules, service rules, line extensions, interconnection. Opened May 27, 2026, as required by Duke settlements; Dominion agreed in its rate case settlement to join. Reply comments filed Oct. 15, 2026 by Duke, Dominion, Lockhart, Nucor, Sierra Club and conservation groups.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://dms.psc.sc.gov/Web/Dockets/Detail/119719",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "2025-325-E",
+      "regulator": "South Carolina Public Service Commission",
+      "utility": "Dominion Energy South Carolina",
+      "what": "Dominion retail electric rate increase case. Settlement says Dominion will join the large load (50 MW+) generic docket set up in the Duke settlements.",
+      "site_ids": [],
+      "status": "settlement filed; needs PSC approval",
+      "url": "https://scsbc.org/settlement-reached-in-dominion-energy-rate-case-2/",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "2025-323-E",
+      "regulator": "South Carolina Public Service Commission",
+      "utility": "Santee Cooper and Dominion Energy South Carolina",
+      "what": "Joint application for a certificate to build an advanced combined cycle gas plant at Canadys (about 2,200 MW). Utility CEOs told senators data centers drive 65-70% of future demand.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://dms.psc.sc.gov/Web/Dockets/Detail/119564",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "2025-154-E and 2025-172-E",
+      "regulator": "South Carolina Public Service Commission",
+      "utility": "Duke Energy Progress (2025-154-E) and Duke Energy Carolinas (2025-172-E, the companion Duke rate case)",
+      "what": "Duke's 2025 South Carolina rate cases. Each settled with a separate 'Large Load Stipulation' (DEP's filed 2025-10-27) covering new loads of 50 MW or more: the parties agreed to jointly ask for a generic docket on minimum contract terms, contract demand billing, collateral, exit rules and interconnection cost sharing. The PSC approved the stipulations by Order Nos. 2025-757 and 2025-769; that commitment produced generic docket 2026-138-E.",
+      "site_ids": [],
+      "status": "stipulations approved (Order Nos. 2025-757 and 2025-769)",
+      "url": "https://dms.psc.sc.gov/Attachments/Matter/eaac90c5-75c1-41b8-bca6-8640632b30e6",
+      "date": "2026-05-27"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Colleton County",
+      "type": "zoning",
+      "what": "Digital infrastructure overlay district allowing data centers and battery storage on certain parcels",
+      "status": "approved unanimously Sept. 14, 2026",
+      "source": "https://www.postandcourier.com/rising-waters/data-center-colleton-county-overlay-district/article_74d76b64-1253-4ca1-a18f-08a4f3629399.html",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "Spartanburg County",
+      "type": "ordinance",
+      "what": "County said it would not consider more property tax incentives for data centers until the state passes a law regulating them",
+      "status": "in effect (reported)",
+      "source": "https://www.postandcourier.com/pee-dee/news/marion-county-stream-data-center/article_fce64b6c-7e65-4d99-ba9a-4d1dc70d28e5.html",
+      "date": "2026-02-27"
+    },
+    {
+      "place": "Colleton County",
+      "type": "moratorium",
+      "what": "Six-month data center moratorium while the county reconsiders zoning rules",
+      "status": "first vote May 2026; final status not confirmed",
+      "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+      "date": "2026-06-26"
+    },
+    {
+      "place": "Spartanburg County",
+      "type": "moratorium",
+      "what": "One-year moratorium on new data centers; covers pending applications not yet finalized; can be extended by council; staff to study suitable areas",
+      "status": "first vote unanimous, June 2026; final vote expected September 2026 (not confirmed)",
+      "source": "https://scdailygazette.com/2026/08/27/spartanburg-data-center-not-subject-to-public-power-plant-rules-sc-regulators-rule/",
+      "date": "2026-08-27"
+    },
+    {
+      "place": "Spartanburg County",
+      "type": "zoning",
+      "what": "County zoning officials denied LightHouse's appeal to build a 200,000 sq ft data center on 150 acres near I-85",
+      "status": "denied Aug. 25, 2026",
+      "source": "https://scdailygazette.com/2026/08/27/spartanburg-data-center-not-subject-to-public-power-plant-rules-sc-regulators-rule/",
+      "date": "2026-08-27"
+    },
+    {
+      "place": "Greenwood County",
+      "type": "moratorium",
+      "what": "12-month data center pause",
+      "status": "process started June 2026",
+      "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+      "date": "2026-06-26"
+    },
+    {
+      "place": "Chesterfield County",
+      "type": "moratorium",
+      "what": "Data center pause ordinance",
+      "status": "enacted early June 2026",
+      "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+      "date": "2026-06-26"
+    },
+    {
+      "place": "Newberry County",
+      "type": "moratorium",
+      "what": "Data center pause ordinance, taken up after council voted down selling county industrial park land to a data center developer",
+      "status": "enacted early June 2026",
+      "source": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+      "date": "2026-06-26"
+    }
+  ]
+}

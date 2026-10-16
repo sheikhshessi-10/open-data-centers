@@ -1,0 +1,173 @@
+{
+  "state": "KY",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Qualified data center sales and use tax exemption (expanded by HB 775, 2025)",
+      "law": "HB 775 (2025 Regular Session), amending KRS 139 data center exemption",
+      "what": "Sales and use tax exemption on data center equipment for qualified projects, with minimum investment within five years by county population: $450M (100,000+), $100M (50,000-100,000), $25M (under 50,000). Exemption can last up to 50 years for $450M+ projects. Previously limited to Louisville-Jefferson County.",
+      "value_known": "No statewide cost figure found",
+      "source": "https://www.stites.com/resources/client-alerts/kentucky-vastly-expands-data-center-tax-incentives/",
+      "date": "2025-04-17"
+    },
+    {
+      "name": "Local industrial revenue bonds (property tax exemption)",
+      "law": "Kentucky industrial revenue bond statutes (local)",
+      "what": "Counties can own a data center site and lease it back, exempting it from local property tax for up to 40 years in exchange for negotiated payments (proposed for Meta in Mason County).",
+      "value_known": "Mason County: $5M/yr to county and $2M/yr to schools in lieu of taxes (tentative)",
+      "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+      "date": "2026-10-14"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Case No. 2025-00140",
+      "regulator": "Kentucky Public Service Commission",
+      "utility": "East Kentucky Power Cooperative",
+      "what": "Tariff filing to establish Rate DCP (data center power) for loads of 15 MW+, with extra terms above 250 MW. PSC approved as modified: every data center special contract needs PSC approval, no cap on application fees, higher collateral.",
+      "site_ids": [
+        "ky-mason-meta-maysville"
+      ],
+      "status": "approved with modifications (final order 2025-10-30); RESA reconsideration denied",
+      "url": "https://psc.ky.gov/Case/ViewCaseFilings/2025-00140",
+      "date": "2025-10-30"
+    },
+    {
+      "id": "Case No. 2025-00045",
+      "regulator": "Kentucky Public Service Commission",
+      "utility": "Kentucky Utilities and Louisville Gas and Electric",
+      "what": "Certificates of public convenience and necessity and site compatibility certificates for new generation (two gas-fired plants that the Kentucky Lantern says are meant in part to meet projected data center demand). Stipulation approved with modification.",
+      "site_ids": [],
+      "status": "final order 2025-10-28; clarification order 2025-12-09",
+      "url": "https://psc.ky.gov/Case/ViewCaseFilings/2025-00045",
+      "date": "2025-10-28"
+    },
+    {
+      "id": "Case No. 2025-00113 and Case No. 2025-00114",
+      "regulator": "Kentucky Public Service Commission",
+      "utility": "Kentucky Utilities and Louisville Gas and Electric",
+      "what": "Base rate cases that created Rate EHLF (Extremely High Load Factor), the utilities' first tariff aimed at very large, steady loads such as data centers. As filed it covered new customers of 100 MVA+ with an 85% load factor; the stipulation lowered the floor to 50 MVA and bars splitting one customer into smaller sites to dodge it. Terms: 15-year minimum contract, 60-month exit notice, exit fee for the rest of the minimum revenue, billing demand at least 80% of contract capacity, collateral of 24 months of minimum bills (12 months for highly rated firms). KU estimated a 402 MW customer would post over $100M of collateral. PSC approved the EHLF tariff as proposed in the stipulation and ordered all EHLF service agreements filed with it.",
+      "site_ids": [],
+      "status": "final orders entered (KU order 2026-02-16); reconsideration granted in part and denied in part later in 2026",
+      "url": "https://psc.ky.gov/pscscf/2025%20Cases/2025-00113//20260216_PSC_ORDER.pdf",
+      "date": "2026-02-16"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB 775 (2025): data center sales tax exemption expansion",
+      "status": "enacted",
+      "what": "Extended the data center equipment sales and use tax exemption statewide with population-based investment thresholds.",
+      "source": "https://www.stites.com/resources/client-alerts/kentucky-vastly-expands-data-center-tax-incentives/",
+      "date": "2025-04-17"
+    },
+    {
+      "name": "2026 Regular Session: data center regulation bills",
+      "status": "failed",
+      "what": "The legislature passed no law regulating environmental or financial impacts of hyperscale data centers in 2026 (individual bill numbers not captured).",
+      "source": "https://kentuckylantern.com/2026/06/08/some-kentucky-counties-and-cities-are-hitting-pause-on-data-centers/",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Rep. Adam Moore and Rep. Josh Bray: data center bills for the 2027 session",
+      "status": "pending",
+      "what": "Both are preparing data center regulation legislation; Moore held a listening session in Frankfort in early October 2026.",
+      "source": "https://kentuckylantern.com/2026/10/12/demands-bans-and-moratoriums-catch-up-on-kentucky-data-center-news/",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Gov. Andy Beshear executive order on data center local taxes",
+      "status": "enacted",
+      "what": "Executive order saying data center developers should pay their 'full and fair share' of local taxes (order number and date not captured).",
+      "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+      "date": "2026-10-14"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Daviess County",
+      "type": "moratorium",
+      "what": "12-month moratorium on data center construction.",
+      "status": "enacted 2026-05-28",
+      "source": "https://kentuckylantern.com/2026/06/08/some-kentucky-counties-and-cities-are-hitting-pause-on-data-centers/",
+      "date": "2026-06-08"
+    },
+    {
+      "place": "Cave City (Barren County)",
+      "type": "moratorium",
+      "what": "One-year data center moratorium; landowner Kentucky Industrial Alliance is suing the council.",
+      "status": "enacted May 2026; in litigation",
+      "source": "https://kentuckylantern.com/2026/06/08/some-kentucky-counties-and-cities-are-hitting-pause-on-data-centers/",
+      "date": "2026-06-08"
+    },
+    {
+      "place": "Allen County",
+      "type": "moratorium",
+      "what": "24-month moratorium on data center construction.",
+      "status": "enacted (by June 2026)",
+      "source": "https://kentuckylantern.com/2026/06/08/some-kentucky-counties-and-cities-are-hitting-pause-on-data-centers/",
+      "date": "2026-06-08"
+    },
+    {
+      "place": "Bell County",
+      "type": "moratorium",
+      "what": "Two-year moratorium on data center construction.",
+      "status": "enacted July 2026",
+      "source": "https://www.wymt.com/2026/07/02/bell-county-passes-data-center-moratorium-halting-construction-2-years/",
+      "date": "2026-07-02"
+    },
+    {
+      "place": "Mercer County",
+      "type": "moratorium",
+      "what": "One-year moratorium on data center construction (does not cover the city of Burgin). In late September 2026 the fiscal court also unanimously rejected regulations that would have allowed hyperscale data centers next to a coal-fired plant.",
+      "status": "enacted August 2026",
+      "source": "https://kentuckylantern.com/2026/08/13/a-countys-data-center-moratorium-doesnt-include-a-small-city-considering-huge-project/",
+      "date": "2026-08-13"
+    },
+    {
+      "place": "Lexington-Fayette Urban County",
+      "type": "moratorium",
+      "what": "Moratorium on data center applications (first through Oct 31, 2026), extended through October 2027 while zoning rules are drafted.",
+      "status": "enacted June 2026; extended Oct 2026",
+      "source": "https://www.weku.org/lexington-richmond/2026-10-09/lexington-city-council-fast-tracks-action-to-prohibit-data-center-development-for-another-year",
+      "date": "2026-10-09"
+    },
+    {
+      "place": "Simpson County",
+      "type": "ordinance",
+      "what": "Data centers must be in heavy-industrial zones and obtain a conditional use permit; developer TenKey LandCo sued.",
+      "status": "enacted Dec 2025; in litigation",
+      "source": "https://www.lpm.org/news/2026-01-28/data-center-developer-sues-simpson-county-government-over-land-use-ordinance",
+      "date": "2026-01-28"
+    },
+    {
+      "place": "Louisville-Jefferson County Metro",
+      "type": "zoning",
+      "what": "Draft ordinance to regulate data centers (defined as 5,000+ servers and 10,000+ sq ft); a six-month moratorium was tabled in committee June 2, 2026. Planning Commission (early Sept 2026) recommended banning data centers with more than 500,000 sq ft of equipment, a quarter-mile buffer from schools, community centers and other data centers, closed-loop cooling, and rezoning for most projects; Metro Council's Planning and Zoning Committee first debated it Sept 15, 2026 with no decision. A moratorium on new data center approvals in Jefferson County runs 'until February' (LPM's wording) or until new rules pass.",
+      "status": "pending in Metro Council committee; moratorium in effect",
+      "source": "https://www.lpm.org/news/2026-09-15/louisville-metro-council-begins-debate-on-data-center-regulations",
+      "date": "2026-09-15"
+    },
+    {
+      "place": "Georgetown (Scott County)",
+      "type": "ordinance",
+      "what": "Council voted on a draft ordinance to ban hyperscale data centers.",
+      "status": "pending",
+      "source": "https://www.wkyt.com/2026/09/30/georgetown-council-votes-draft-ordinance-banning-data-centers/",
+      "date": "2026-09-30"
+    },
+    {
+      "place": "Hopkinsville (Christian County)",
+      "type": "zoning",
+      "what": "Draft zoning rules that treat data centers (including crypto mining) as a distinct land use.",
+      "status": "pending",
+      "source": "https://hoptownchronicle.org/hopkinsville-weighs-limits-on-data-centers-as-crypto-mine-proposes-expansion/",
+      "date": "2026-07-29"
+    }
+  ]
+}

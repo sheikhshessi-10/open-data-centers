@@ -1,0 +1,160 @@
+{
+  "state": "IN",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales and use tax exemption",
+      "law": "HEA 1405 (2019)",
+      "what": "Sales/use tax exemption on qualified data center equipment and electricity for up to 50 years; IEDC sets terms per project (e.g. 35 years for $800M+ investment, +5 years per extra $800M, up to 50). Local governments can add property tax abatements (up to 10 years real, 20 years personal property).",
+      "value_known": "Citizens Action Coalition reports the state granted $655 million in data center sales tax exemptions in 2025 (advocacy group figure).",
+      "source": "https://iedc.in.gov/events/news/details/2024/04/26/gov.-holcomb-announces-google-is-building-a-2b-data-center-in-northeast-indiana",
+      "date": "2024-04-26"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HEA 1007 (2025)",
+      "status": "enacted",
+      "what": "Speeds IURC approval of new power plants to serve large loads such as data centers and sets short decision timelines; whether it makes data centers pay most new plant costs is disputed (per Citizens Action Coalition).",
+      "source": "https://www.citact.org/ai-data-centers",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "IURC Cause 46301",
+      "regulator": "Indiana Utility Regulatory Commission",
+      "utility": "Indiana Michigan Power",
+      "what": "Costs (more than $400M per CAC) to connect the Google Fort Wayne and AWS New Carlisle data centers.",
+      "site_ids": [
+        "in-allen-google-fort-wayne",
+        "in-st-joseph-aws-new-carlisle"
+      ],
+      "status": "pending (per CAC)",
+      "url": "https://www.citact.org/ai-data-centers",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "IURC Cause 45647 TDSIC-5",
+      "regulator": "Indiana Utility Regulatory Commission",
+      "utility": "Duke Energy Indiana",
+      "what": "Transmission plan update including $216M of network upgrades for the Meta Jeffersonville data center (per CAC).",
+      "site_ids": [
+        "in-clark-meta-jeffersonville"
+      ],
+      "status": "pending (per CAC)",
+      "url": "https://www.citact.org/ai-data-centers",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "IURC Cause 46322",
+      "regulator": "Indiana Utility Regulatory Commission",
+      "utility": "NIPSCO",
+      "what": "Amazon large-load contract (2,400 MW, reportedly raised to 2,800 MW; can drop to 1,200 MW if Amazon notifies by early 2029), tied to NIPSCO GenCo gas generation.",
+      "site_ids": [
+        "in-jasper-aws-wheatfield",
+        "in-lake-aws-hobart"
+      ],
+      "status": "ongoing (per CAC)",
+      "url": "https://www.citact.org/ai-data-centers",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "IURC Cause 46097",
+      "regulator": "Indiana Utility Regulatory Commission",
+      "utility": "Indiana Michigan Power",
+      "what": "I&M large-load case cited by CAC for data center tariff workpapers.",
+      "site_ids": [],
+      "status": "unknown",
+      "url": "https://www.citact.org/ai-data-centers",
+      "date": "2026-10-15"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Indianapolis (Marion County)",
+      "type": "moratorium",
+      "what": "Moratorium on new data center applications through 2027; three already-approved sites (incl. DC BLOX) may continue.",
+      "status": "in effect",
+      "source": "https://www.wfyi.org/education/2026-09-19/irvington-community-elementary-battles-indianapolis-data-center-dc-blox",
+      "date": "2026-09-19"
+    },
+    {
+      "place": "Indianapolis (Marion County)",
+      "type": "zoning",
+      "what": "Special zoning class for data centers (siting, home setbacks, noise, annual energy/water/noise/generator reports; no use variances). MDC recommended 5-3 on July 1, 2026; council vote expected August.",
+      "status": "recommended; final vote not confirmed",
+      "source": "https://www.wfyi.org/wfyi-news/2026-07-01/data-center-rules-proposal-clears-initial-vote-in-indianapolis",
+      "date": "2026-07-01"
+    },
+    {
+      "place": "St. Joseph County",
+      "type": "zoning",
+      "what": "County Council voted 6-3 to direct the Area Plan Commission to amend zoning to prohibit new hyperscale data centers (not affecting Microsoft Granger or AWS New Carlisle).",
+      "status": "in process; final vote expected about 60 days later",
+      "source": "https://www.wndu.com/2026/09/23/st-joseph-county-council-takes-first-step-toward-possible-ban-future-hyperscale-data-centers/",
+      "date": "2026-09-23"
+    },
+    {
+      "place": "Michigan City (LaPorte County)",
+      "type": "moratorium",
+      "what": "Proposed ordinance suspending new data center approvals until zoning rules are added or July 31, 2028; excludes Google's Project Maize.",
+      "status": "under debate",
+      "source": "https://www.wvpe.org/wvpe-news/2026-10-09/debate-continues-over-michigan-city-data-center-moratorium-language",
+      "date": "2026-10-09"
+    },
+    {
+      "place": "Hancock County",
+      "type": "zoning",
+      "what": "Data center overlay district: requires Industrial General zoning and commissioner sign-off for data centers.",
+      "status": "adopted (referred to as the county's new overlay ordinance in Aug 2026)",
+      "source": "https://www.greenfieldreporter.com/2026/08/14/developer-files-letter-of-intent-for-130-acre-multi-billion-dollar-data-center-campus/",
+      "date": "2026-08-14"
+    },
+    {
+      "place": "Posey County",
+      "type": "ordinance",
+      "what": "Area Plan Commission adopted a countywide data center zoning ordinance Oct 1-2, 2026; goes to commissioners. Residents had asked for a two-year moratorium.",
+      "status": "pending commissioners",
+      "source": "https://www.14news.com/2026/10/01/posey-co-data-center-public-hearing-data-center-proposal-continues-tonight/",
+      "date": "2026-10-01"
+    },
+    {
+      "place": "Warrick County",
+      "type": "moratorium",
+      "what": "Commissioners scheduled a vote on a 180-day deferral ordinance for data centers amid Project Zora.",
+      "status": "vote scheduled (outcome not confirmed)",
+      "source": "https://www.14news.com/2026/08/11/warrick-county-residents-push-back-potential-data-center-area-planning-meeting/",
+      "date": "2026-08-11"
+    },
+    {
+      "place": "Lake County",
+      "type": "ordinance",
+      "what": "County data center ordinance covering noise, setbacks, power availability, efficiency, water management plans and decommissioning.",
+      "status": "adopted",
+      "source": "https://www.ipm.org/news/2026-08-27/indiana-counties-increasingly-turn-to-local-restrictions-as-data-center-development-grows",
+      "date": "2026-08-27"
+    },
+    {
+      "place": "Monroe County",
+      "type": "ordinance",
+      "what": "Outright ban on data center construction (one of 3 Indiana counties with bans; 24 counties have temporary moratoria and 13 have data center ordinances, per IU Environmental Resilience Institute).",
+      "status": "in effect",
+      "source": "https://www.ipm.org/news/2026-08-27/indiana-counties-increasingly-turn-to-local-restrictions-as-data-center-development-grows",
+      "date": "2026-08-27"
+    },
+    {
+      "place": "Clinton County",
+      "type": "zoning",
+      "what": "Commissioners denied a 715-acre rezoning for a DataOne data center 3-0 on Jan 20, 2026; a 12-month wait applies.",
+      "status": "denied",
+      "source": "https://www.clintoncountytoday.com/commissioners-say-no-to-the-rezoning-of-land-for-data-center/",
+      "date": "2026-01-20"
+    }
+  ]
+}

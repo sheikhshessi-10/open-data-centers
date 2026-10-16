@@ -1,0 +1,60 @@
+{
+  "state": "ME",
+  "checked": {
+    "dockets": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "LD 307 data center moratorium and coordination council",
+      "status": "failed",
+      "what": "Would have paused state and municipal permits for data centers with loads of 20 MW or more until 2027-11-01 and created a 13-member council to study siting and impacts. Passed both chambers; vetoed by Gov. Mills 2026-04-24 (no exemption for the Jay project); House override failed 72-65 on 2026-04-29.",
+      "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "LD 713",
+      "status": "enacted",
+      "what": "Signed by Gov. Mills: bars data center projects from the state's business development tax incentive programs.",
+      "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "Planned executive order creating a data center study council",
+      "status": "pending",
+      "what": "Gov. Mills said she intends to issue an executive order creating a council to study data center impacts in Maine.",
+      "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "Executive Order 5 FY 25/26: Maine Data Center Advisory Council",
+      "status": "enacted",
+      "what": "Signed 2026-04-29. Creates the council; DOER to work with the PUC on ratepayer protections (supply costs, overbuild risk). Final report due about 2027-01-29.",
+      "source": "https://www.maine.gov/energy/datacentercouncil",
+      "date": "2026-04-29"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "Exclusion of data centers from business tax incentives",
+      "law": "LD 713 (2026)",
+      "what": "Data center projects cannot use Maine's business development tax incentive programs.",
+      "value_known": null,
+      "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+      "date": "2026-04-24"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "2026-00142",
+      "regulator": "Maine Public Utilities Commission",
+      "utility": "Central Maine Power, Versant Power",
+      "what": "Inquiry into existing processes for serving large data centers, opened after DOER's 2026-05-20 letter asking the PUC to gather information (per Data Center Advisory Council materials). Scope and schedule not confirmed.",
+      "site_ids": [
+        "me-franklin-androscoggin-mill-jay"
+      ],
+      "status": "open",
+      "url": "https://www.maine.gov/energy/sites/maine.gov.energy/files/2026-05/DOER%20letter%20re%20EO%205%20data%20centers.pdf",
+      "date": "2026-05-20"
+    }
+  ]
+}

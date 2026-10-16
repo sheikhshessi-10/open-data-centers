@@ -1,0 +1,81 @@
+{
+  "state": "IL",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data Center Investment Program",
+      "law": "20 ILCS 605/605-1025; 35 ILCS 5/229",
+      "what": "Exemptions from a range of state and local taxes (including sales/use tax on equipment) for data centers investing at least $250M over 60 months and creating 20+ full-time jobs paying at least 120% of county median wage; must be carbon neutral or green-building certified. 20-year benefit issued as renewable 5-year certificates; 20% construction-wage credit in underserved areas. DCEO stops processing applications as of July 1, 2026 per a June 5, 2026 governor's directive.",
+      "value_known": "An estimated $666.6 million in data center tax credits committed since 2019 (Capitol News Illinois).",
+      "source": "https://dceo.illinois.gov/expandrelocate/incentives/datacenters.html",
+      "date": "2026-10-15"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "POWER Act (Protecting Our Water and Energy Resources Act), HB 5513",
+      "status": "pending",
+      "what": "Energy and water use rules for new data centers. Not passed in the spring 2026 session; could return in the fall veto session.",
+      "source": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/",
+      "date": "2026-07-01"
+    },
+    {
+      "name": "SB 1050 (Sen. Darby Hills)",
+      "status": "pending",
+      "what": "Would bar data centers within 3 miles of another municipality's boundary without that municipality's written consent and add public notice rules. Not passed in spring 2026.",
+      "source": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/",
+      "date": "2026-07-01"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Chicago",
+      "type": "ordinance",
+      "what": "Mayor Brandon Johnson signed an executive order creating new data center review steps and a task force, and asked City Council to consider a temporary citywide moratorium while rules are drafted.",
+      "status": "executive order in effect; moratorium proposed",
+      "source": "https://abc7chicago.com/post/mayor-brandon-johnson-sign-executive-order-regulating-data-centers-chicago/19662414/",
+      "date": "2026-08-11"
+    },
+    {
+      "place": "Logan County",
+      "type": "moratorium",
+      "what": "County Board passed a 12-month data center moratorium 6-4 on May 19, 2026; the State's Attorney said June 18 it was not legally binding because procedures were not followed. A zoning ordinance failed 5-6.",
+      "status": "invalid",
+      "source": "https://www.illinoistimes.com/news/data-center-moratorium-declared-invalid/",
+      "date": "2026-07-02"
+    },
+    {
+      "place": "South Elgin (Kane County)",
+      "type": "moratorium",
+      "what": "After rejecting Project Kilo, the village board approved a temporary moratorium on new data center proposals while it writes rules.",
+      "status": "approved Oct 2026",
+      "source": "https://www.dailyherald.com/20261013/local-politics/south-elgin-village-board-approves-temporary-moratorium-on-building-data-centers-in-community/",
+      "date": "2026-10-13"
+    },
+    {
+      "place": "Yorkville (Kendall County)",
+      "type": "ordinance",
+      "what": "Updated CyrusOne CHI-11 agreement caps water use at 40,000 gallons/day and adds sound-testing rules.",
+      "status": "approved July 14, 2026",
+      "source": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+      "date": "2026-07-14"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "ICC 25-0677 (cons.) / 25-0679",
+      "regulator": "Illinois Commerce Commission",
+      "utility": "ComEd",
+      "what": "ComEd changes to new service requests from large demand project applicants or customers (data centers) and Rider DSE. Approved March 2026: security deposits start at $1M for 50-200 MW and rise $500,000 per extra 100 MW; a letter of credit is needed above $2M. The order told staff to open a follow-up investigation by April 23, 2026 into further ratepayer protections (that docket number not found). Docket numbers per NRG direct testimony: https://stg1-www.nrg.com/content/dam/nrg/web/en/multimedia/documents/energy-policy/nrg-ex-1.0-direct-testimony-of-james-r-dauphinais-icc-docket-nos-25-0677-0679-comed-large-load-tariff-case.pdf",
+      "site_ids": [],
+      "status": "order issued March 2026",
+      "url": "https://www.nprillinois.org/illinois/2026-03-20/regulators-ok-comeds-plan-to-increase-deposit-costs-for-large-load-projects-like-data-centers",
+      "date": "2026-03-20"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "state": "CT",
+  "checked": {
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Qualified data center tax exemptions",
+      "law": "Public Act 21-1 (HB 6514, 2021)",
+      "what": "DECD agreement exempting a qualified data center (and its operator and colocation tenants) from sales and use tax (ch. 219) on data center equipment and from property tax (ch. 203) for 20 years, extendable to 30; requires qualified investment of $200M within 5 years ($50M in an enterprise zone or federal opportunity zone) and a negotiated host municipality fee agreement. Effective 2021-07-01.",
+      "value_known": null,
+      "source": "https://www.cga.ct.gov/2021/ACT/PA/PDF/2021PA-00001-R00HB-06514-PA.pdf",
+      "date": "2021-07-01"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 245 (2026) An Act Eliminating Certain Tax Incentives for Data Centers",
+      "status": "failed",
+      "what": "Raised by the Energy and Technology Committee to eliminate certain data center tax incentives. Public hearing 2026-02-24; referred to Finance, Revenue and Bonding 2026-03-23; no later action in the bill history.",
+      "source": "https://prdext2.cga.ct.gov/2026/cbs/S/pdf/SB-0245.pdf",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "HB 5469 (2026) An Act Concerning Colocated Electric Suppliers and Large Electric Load Customers",
+      "status": "failed",
+      "what": "Would let PURA create a tariff for large electric load customers so transmission and distribution costs stay off other ratepayers, and set rules for colocated suppliers. Favorable report, tabled for the House calendar 2026-04-07 (File No. 421); no later action before the session ended.",
+      "source": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2026&bill_num=5469",
+      "date": "2026-04-07"
+    },
+    {
+      "name": "SB 299 (2024) An Act Concerning Data Centers",
+      "status": "failed",
+      "what": "Would have required PURA, consulting OCC, DEEP and ISO New England, to open a proceeding by July 1, 2024 on data center impacts on grid reliability. Passed the Senate as amended 2024-05-03; favorable report, tabled for the House calendar 2024-05-04; no later action before the session ended.",
+      "source": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2024&bill_num=299",
+      "date": "2024-05-04"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "25-04-05",
+      "regulator": "Connecticut Public Utilities Regulatory Authority (PURA)",
+      "utility": "Eversource (CL&P) and United Illuminating",
+      "what": "Petition for declaratory rulings on the group study process and cost allocation procedure for interconnection. Not data-center specific; found as the closest large-load docket. No data-center-only PURA docket found.",
+      "site_ids": [],
+      "status": "open (status not confirmed)",
+      "url": "https://egov.ct.gov/PMC/Agenda/Download/27380",
+      "date": null
+    },
+    {
+      "id": "25-01-27",
+      "regulator": "Connecticut Public Utilities Regulatory Authority (PURA)",
+      "utility": "Eversource and United Illuminating",
+      "what": "Investigation into interconnection process modifications, opened January 2025. Not data-center specific.",
+      "site_ids": [],
+      "status": "open (status not confirmed)",
+      "url": "https://www.pullcom.com/newsroom-publications-Pura-Opens-Investigation-Into-Interconnection-Process-Modifications",
+      "date": null
+    }
+  ]
+}

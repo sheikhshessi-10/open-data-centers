@@ -1,0 +1,3406 @@
+[
+  {
+    "id": "il-kendall-pioneer-project-cardinal",
+    "name": "Project Cardinal",
+    "owner": "Pioneer Development",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Kendall County",
+    "town": "Yorkville",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Development agreement approved March 2026 alongside Project Steel; about $91 million in upfront payments for the two projects together, including $68.25 million for the local school district (per tracker summary of Shaw Local).",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/03/12/yorkville-data-center-approval-comes-after-nearly-6-hour-contentious-city-council-meeting/",
+        "date": "2026-03-12"
+      },
+      "utility": {
+        "value": "ComEd",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/project-cardinal-yorkville-pioneer-development-kendall-il",
+        "date": "2026-08-29"
+      },
+      "acres": {
+        "value": 1037,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/kendall-county-now/2025/11/11/yorkville-oks-1037-acre-project-cardinal-data-center/",
+        "date": "2025-11-14"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents sued in April 2026 alleging the rezoning skipped required environmental review and public notice (per tracker; court filing not yet located).",
+        "source": "https://isadatacentercoming.com/projects/project-cardinal-yorkville-pioneer-development-kendall-il",
+        "date": "2026-04"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Yorkville OKs 'larger than Central Park in New York' data center campus",
+        "outlet": "Shaw Local",
+        "url": "https://www.shawlocal.com/kendall-county-now/2025/11/11/yorkville-oks-1037-acre-project-cardinal-data-center/",
+        "date": "2025-11-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "Yorkville data center approval comes after almost 6-hour contentious City Council meeting",
+        "outlet": "Shaw Local",
+        "url": "https://www.shawlocal.com/kendall-county-now/2026/03/12/yorkville-data-center-approval-comes-after-nearly-6-hour-contentious-city-council-meeting/",
+        "date": "2026-03-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Developers of Project Cardinal data center in Yorkville ask for 18-month extension to purchase land",
+        "outlet": "Shaw Local",
+        "url": "https://www.shawlocal.com/kendall-county-now/2026/06/08/developers-of-project-cardinal-data-center-in-yorkville-ask-for-18-month-extension-to-purchase-land/",
+        "date": "2026-06-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "14 two-story buildings planned on 1,037 acres NW of IL Route 47 and Galena Road. Council approved annexation/rezoning unanimously Nov 10, 2025; development agreement March 2026. Trackers list 1,800 MW (not confirmed in a primary source). End user not named. The lawsuit is reported by a tracker only; confirm."
+  },
+  {
+    "id": "il-kendall-prologis-project-steel",
+    "name": "Project Steel",
+    "owner": "Prologis",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Kendall County",
+    "town": "Yorkville",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 540,
+        "unit": "acres (18 buildings, about 9 million sq ft, per tracker summary)",
+        "kind": "estimate",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/03/12/yorkville-data-center-approval-comes-after-nearly-6-hour-contentious-city-council-meeting/",
+        "date": "2026-03-12"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Yorkville data center approval comes after almost 6-hour contentious City Council meeting",
+        "outlet": "Shaw Local",
+        "url": "https://www.shawlocal.com/kendall-county-now/2026/03/12/yorkville-data-center-approval-comes-after-nearly-6-hour-contentious-city-council-meeting/",
+        "date": "2026-03-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "'You sold us out': Illinois data center boom ignites local backlash",
+        "outlet": "Shaw Local",
+        "url": "https://www.shawlocal.com/news/2026/05/30/you-sold-us-out-illinois-data-center-boom-ignites-local-backlash/",
+        "date": "2026-05-30",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "SE corner of Galena Road and Eldamain Road. Approved by Yorkville City Council in March 2026 together with Project Cardinal. Size figures come from a tracker summary of the Shaw Local article; confirm against the city ordinance."
+  },
+  {
+    "id": "il-kendall-cyrusone-chi11-yorkville",
+    "name": "CyrusOne CHI-11 (C1 Yorkville)",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "IL",
+    "county": "Kendall County",
+    "town": "Yorkville",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-06",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 480,
+        "unit": "MW (ComEd electrical allocation)",
+        "kind": "estimate",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+        "date": "2026-07-14"
+      },
+      "water_use": {
+        "value": 40000,
+        "unit": "gallons per day (city-imposed cap after July 2026 plan update; earlier projection 500,000 gpd)",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+        "date": "2026-07-14"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+        "date": "2026-07-14"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$15 million up-front payment to Yorkville at first building permit; added sound-testing requirements",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+        "date": "2026-07-14"
+      },
+      "utility": {
+        "value": "ComEd",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+        "date": "2026-07-14"
+      },
+      "acres": {
+        "value": 228,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.yorkville.il.us/940/C1-Yorkville-Cyrus-One-CHI-11-Data-Cente",
+        "date": "2026-06-03"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Yorkville City Council approves CyrusOne data center development in Illinois",
+        "outlet": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/yorkville-city-council-approves-cyrusone-data-center-development-in-illinois/",
+        "date": "2024-07-11",
+        "tone": "neutral"
+      },
+      {
+        "title": "228-acre CyrusOne data center agrees to pay Yorkville $15 million up-front, city imposes water use limits",
+        "outlet": "Shaw Local",
+        "url": "https://www.shawlocal.com/kendall-county-now/2026/07/14/228-acre-cyrusone-data-center-agrees-to-pay-yorkville-15-million-up-front-city-imposes-water-use-limits/",
+        "date": "2026-07-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "Yorkville approves CyrusOne data center plan update",
+        "outlet": "WSPY News",
+        "url": "https://www.wspynews.com/news/local/yorkville-approves-cyrusone-data-center-plan-update/article_81fdd921-5e7c-4e21-8fea-a51212a8f2df.html",
+        "date": "2026-07-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "East of Eldamain Road, north of the BNSF railroad and Faxon Road, west of Beecher Road (city case PZC 2026-03). Approved July 2024; plan changed in 2026 from nine two-story to eight one-story buildings. Construction reported begun spring 2026 (tracker); first building targeted Q1 2028. Trackers also list a 'CyrusOne Yorkville Campus Phase 1' (600 MW, 228 acres); treated as this same campus."
+  },
+  {
+    "id": "il-will-hillwood-joliet-technology-center",
+    "name": "Joliet Technology Center",
+    "owner": "Hillwood / PowerHouse Data Centers",
+    "operator": "PowerHouse Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Will County",
+    "town": "Joliet",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 20000000000,
+        "unit": "USD (four sub-campus park, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/joliet-technology-center-hillwood-powerhouse-will-il",
+        "date": "2026-08-29"
+      },
+      "power_mw": {
+        "value": 1800,
+        "unit": "MW at full use (1.8 GW)",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": "7,000-10,000",
+        "unit": "construction jobs",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20"
+      },
+      "jobs_promised_perm": {
+        "value": 700,
+        "unit": "permanent jobs",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Hillwood to pay the city an extra $100 million during construction; developer projects $2.1 billion to all taxing bodies over 30 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20"
+      },
+      "utility": null,
+      "acres": {
+        "value": 795,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Joliet Residents For Responsible Growth sued in May 2026 challenging the zoning and approval process; case survived as of September 2026.",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/05/26/lawsuit-challenges-zoning-approval-process-for-joliet-data-center/",
+        "date": "2026-05-26"
+      },
+      {
+        "what": "City Council approved annexation 8-1; Councilwoman Suzanna Ibarra voted no after a 6.5-hour hearing with resident objections.",
+        "source": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Joliet OKs controversial 795-acre data center",
+        "outlet": "Shaw Local (Herald-News)",
+        "url": "https://www.shawlocal.com/the-herald-news/2026/03/20/joliet-oks-controversial-795-acre-data-center/",
+        "date": "2026-03-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Lawsuit challenges zoning, approval process for Joliet data center",
+        "outlet": "Shaw Local (Herald-News)",
+        "url": "https://www.shawlocal.com/the-herald-news/2026/05/26/lawsuit-challenges-zoning-approval-process-for-joliet-data-center/",
+        "date": "2026-05-26",
+        "tone": "bad"
+      },
+      {
+        "title": "Lawsuit against planned Joliet data center stays alive",
+        "outlet": "Shaw Local (Herald-News)",
+        "url": "https://www.shawlocal.com/the-herald-news/2026/09/09/lawsuit-againt-planned-joliet-data-center-stays-alive/",
+        "date": "2026-09-09",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Jackson Township near Rowell and Bernhard roads. Four sub-campuses of six two-story buildings, 6.9M sq ft. Construction to begin early 2027, full build-out 2032. A tracker lists a 'Blackstone Chicago West Campus' (Will County, 1 GW) whose only source is a Hillwood/PowerHouse Joliet story; probably the same project."
+  },
+  {
+    "id": "il-grundy-tract-morris",
+    "name": "Tract Morris Technology Park",
+    "owner": "Tract",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Grundy County",
+    "town": "Morris",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (1 GW campus, full load by 2032)",
+        "kind": "real",
+        "source": "https://www.bisnow.com/chicago/news/data-center-capital-markets/data-center-infrastructure-developer-takes-343-acre-chicago-area-swing-132919",
+        "date": "2026-01-27"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (more than)",
+        "kind": "real",
+        "source": "https://www.bisnow.com/chicago/news/data-center-capital-markets/data-center-infrastructure-developer-takes-343-acre-chicago-area-swing-132919",
+        "date": "2026-01-27"
+      },
+      "jobs_promised_perm": {
+        "value": 350,
+        "unit": "permanent jobs (about)",
+        "kind": "real",
+        "source": "https://www.bisnow.com/chicago/news/data-center-capital-markets/data-center-infrastructure-developer-takes-343-acre-chicago-area-swing-132919",
+        "date": "2026-01-27"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "ComEd (transmission security agreement in place)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.bisnow.com/chicago/news/data-center-capital-markets/data-center-infrastructure-developer-takes-343-acre-chicago-area-swing-132919",
+        "date": "2026-01-27"
+      },
+      "acres": {
+        "value": 343,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.bisnow.com/chicago/news/data-center-capital-markets/data-center-infrastructure-developer-takes-343-acre-chicago-area-swing-132919",
+        "date": "2026-01-27"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Local protest in Morris over water use and farmland (June 2026).",
+        "source": "https://www.wcsjnews.com/news/local/no-data-center-protest-held-in-morris-on-saturday/article_f3eac834-b42a-4dc9-b9a8-ce7196f30b34.html",
+        "date": "2026-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data Center Infrastructure Developer Takes 343-Acre Chicago-Area Swing",
+        "outlet": "Bisnow",
+        "url": "https://www.bisnow.com/chicago/news/data-center-capital-markets/data-center-infrastructure-developer-takes-343-acre-chicago-area-swing-132919",
+        "date": "2026-01-27",
+        "tone": "neutral"
+      },
+      {
+        "title": "Tract wants to build data center in Morris, Illinois",
+        "outlet": "The Real Deal",
+        "url": "https://therealdeal.com/chicago/2026/01/28/tract-wants-to-build-data-center-in-morris-illinois/",
+        "date": "2026-01-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data Center Protest Held in Morris on Saturday",
+        "outlet": "WCSJ News",
+        "url": "https://www.wcsjnews.com/news/local/no-data-center-protest-held-in-morris-on-saturday/article_f3eac834-b42a-4dc9-b9a8-ce7196f30b34.html",
+        "date": "2026-06",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Off I-80 near Gun Club Road and Route 6. Land bought for about $51.5M (Jan 2026). Site annexed and zoned in 2025; Alderman Alex Clubb voted no over water. Energization targeted June 2028."
+  },
+  {
+    "id": "il-cook-compass-hoffman-estates",
+    "name": "Compass Datacenters Hoffman Estates Campus (former Sears HQ)",
+    "owner": "Compass Datacenters",
+    "operator": "Compass Datacenters",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Hoffman Estates",
+    "lat": 42.073164,
+    "lng": -88.215815,
+    "stage": "building",
+    "announced": "2024-06-13",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (approximate, once operational)",
+        "kind": "real",
+        "source": "https://www.compassdatacenters.com/news/compass-kicks-off-development-of-its-first-hyperscale-campus-in-illinois/",
+        "date": "2024-06-13"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "local construction jobs",
+        "kind": "real",
+        "source": "https://www.compassdatacenters.com/news/compass-kicks-off-development-of-its-first-hyperscale-campus-in-illinois/",
+        "date": "2024-06-13"
+      },
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 200,
+        "unit": "acres (nearly)",
+        "kind": "real",
+        "source": "https://www.compassdatacenters.com/news/compass-kicks-off-development-of-its-first-hyperscale-campus-in-illinois/",
+        "date": "2024-06-13"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hoffman Estates ready for a 'modern era' with data center project at former Sears site",
+        "outlet": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/real-estate/2024/06/13/hoffman-estates-modern-era-compass-data-center-sears",
+        "date": "2024-06-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Five hyperscale data centers on the former Sears headquarters campus (5500 Trillium Blvd per tracker). Land bought for about $194M in Sept 2023 (tracker). First building expected powered around mid-2026 (tracker).",
+    "pin_address": "5500 Trillium Blvd, Hoffman Estates, IL",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://chicago.suntimes.com/real-estate/2024/06/13/hoffman-estates-modern-era-compass-data-center-sears"
+  },
+  {
+    "id": "il-cook-cloudhq-mount-prospect",
+    "name": "CloudHQ ORD Campus (Mount Prospect Technology Campus)",
+    "owner": "CloudHQ",
+    "operator": "CloudHQ",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Mount Prospect",
+    "lat": 42.03501,
+    "lng": -87.9537,
+    "stage": "building",
+    "announced": "2022-08-23",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.businesswire.com/news/home/20220823005598/en",
+        "date": "2022-08-23"
+      },
+      "power_mw": {
+        "value": 252,
+        "unit": "MW critical IT load (company says up to 300 MW deliverable via on-site substation)",
+        "kind": "real",
+        "source": "https://cloudhq.com/campus/ord-campus/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "Cook County Class 6b property tax classification supported by the village (resolutions 2021-2022)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.mountprospect.org/services/community-information-and-fact-check-portal/cloud-hq-data-center",
+        "date": "2022-11-15"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "ComEd (new on-site substation)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.businesswire.com/news/home/20220823005598/en",
+        "date": "2022-08-23"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "ComEd, CloudHQ Break Ground on New Hyperscale Data Center in Mount Prospect",
+        "outlet": "Business Wire (ComEd release)",
+        "url": "https://www.businesswire.com/news/home/20220823005598/en",
+        "date": "2022-08-23",
+        "tone": "neutral"
+      },
+      {
+        "title": "Mount Prospect hires outside firm to handle data center permitting",
+        "outlet": "Daily Herald",
+        "url": "https://www.dailyherald.com/20260716/news/mount-prospect-hires-outside-firm-to-handle-data-center-permitting/",
+        "date": "2026-07-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former airline headquarters campus at Algonquin Road, Linneman Road and Dempster Street; 1.7M sq ft; PUD amended Oct 2025 to two buildings. Coordinates from CloudHQ's page. The $2.5B figure is from the 2022 ComEd/CloudHQ release as summarized by a tracker; confirm."
+  },
+  {
+    "id": "il-cook-prime-elk-grove-village",
+    "name": "Prime Data Centers Chicago Campus (Elk Grove Village)",
+    "owner": "Prime Data Centers",
+    "operator": "Prime Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": 42.022827,
+    "lng": -87.963491,
+    "stage": "building",
+    "announced": "2022-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (about)",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/prime-data-centers-breaks-ground-on-1b-chicago-data-center-campus-in-elk-grove-village-301681170.html",
+        "date": "2022-11"
+      },
+      "power_mw": {
+        "value": 275,
+        "unit": "MW at full build-out (three buildings, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/prime-data-centers-elk-grove-village-cook-il",
+        "date": "2026-08-29"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Prime Data Centers Breaks Ground on $1B Chicago Data Center Campus in Elk Grove Village",
+        "outlet": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/prime-data-centers-breaks-ground-on-1b-chicago-data-center-campus-in-elk-grove-village-301681170.html",
+        "date": "2022-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1600 E Higgins Rd per tracker. Village approved land sale and zoning (Elk Grove Village news item 5462). Another tracker lists a separate 'Prime Data Centers Chicago West Campus' (270 MW); not confirmed, may be the same.",
+    "pin_source": "https://www.prnewswire.com/news-releases/prime-data-centers-breaks-ground-on-1b-chicago-data-center-campus-in-elk-grove-village-301681170.html",
+    "pin_address": "1600 E HIGGINS RD, ELK GROVE VILLAGE, IL, 60007"
+  },
+  {
+    "id": "il-cook-stream-elk-grove-ordc",
+    "name": "Stream Data Centers Chicago III (ORDC)",
+    "owner": "Stream Data Centers",
+    "operator": "Stream Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 260,
+        "unit": "MW (dedicated ComEd substation, per DCD headline)",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/comed-breaks-ground-on-260mw-substation-set-to-serve-stream-data-center-in-elk-grove-illinois/",
+        "date": "2025"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "ComEd",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/comed-breaks-ground-on-260mw-substation-set-to-serve-stream-data-center-in-elk-grove-illinois/",
+        "date": "2025"
+      },
+      "acres": {
+        "value": 34,
+        "unit": "acres (former 55-home subdivision; 2M sq ft campus)",
+        "kind": "real",
+        "source": "https://www.networkworld.com/article/2071209/data-center-provider-razes-55-homes-to-make-room-for-illinois-campus.html",
+        "date": "2024-03-21"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center provider razes 55 homes to make room for Illinois campus",
+        "outlet": "Network World",
+        "url": "https://www.networkworld.com/article/2071209/data-center-provider-razes-55-homes-to-make-room-for-illinois-campus.html",
+        "date": "2024-03-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "ComEd breaks ground on 260MW substation set to serve Stream data center in Elk Grove, Illinois",
+        "outlet": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/comed-breaks-ground-on-260mw-substation-set-to-serve-stream-data-center-in-elk-grove-illinois/",
+        "date": "2025",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "2000 Landmeier Rd per tracker. Stream bought 55 homes in Nov 2023; demolition Feb 2024; occupancy projected early 2026 (Network World). DCD substation story date not captured (page blocks fetch); year 2025 is approximate."
+  },
+  {
+    "id": "il-dekalb-edged-project-vector",
+    "name": "Edged DeKalb Campus (Project Vector)",
+    "owner": "Endeavour Energy (Edged)",
+    "operator": "Edged",
+    "tier": "large",
+    "state": "IL",
+    "county": "DeKalb County",
+    "town": "DeKalb",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 560,
+        "unit": "acres (ChicagoWest Business Center)",
+        "kind": "real",
+        "source": "https://www.northernpublicradio.org/illinois/2025-12-09/dekalb-city-council-gives-green-light-to-data-center-project",
+        "date": "2025-12-09"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "DeKalb City Council gives green light to data center project",
+        "outlet": "Northern Public Radio",
+        "url": "https://www.northernpublicradio.org/illinois/2025-12-09/dekalb-city-council-gives-green-light-to-data-center-project",
+        "date": "2025-12-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Unanimous yes to 560-acre DeKalb data center",
+        "outlet": "Shaw Local (Daily Chronicle)",
+        "url": "https://www.shawlocal.com/daily-chronicle/2025/12/09/unanimous-yes-to-560-acre-dekalb-data-center/",
+        "date": "2025-12-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Both sides of IL Route 23 north of Keslinger Road, just south of Meta's DeKalb campus. Council approved unanimously Dec 8, 2025. Four buildings and two substations phased 2027-2032 (tracker)."
+  },
+  {
+    "id": "il-sangamon-cyrusone-waverly",
+    "name": "CyrusOne Sangamon County Data Center",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "IL",
+    "county": "Sangamon County",
+    "town": "Waverly",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07"
+      },
+      "power_mw": {
+        "value": 600,
+        "unit": "MW (approximately, fully built)",
+        "kind": "real",
+        "source": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Air-cooled, closed-loop (company FAQ, per tracker)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://cyrusone.com/sangamon-county-community-faq",
+        "date": "2026-09-23"
+      },
+      "jobs_promised_build": {
+        "value": 500,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (about)",
+        "kind": "real",
+        "source": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 280,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "County Board approved the rezoning 17-10 (one abstention) after tabling it 15-13 in March; residents called for a moratorium.",
+        "source": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07"
+      },
+      {
+        "what": "Waverly residents sued Sangamon County and the County Board on July 6, 2026 to overturn the approval; pending.",
+        "source": "https://www.illinoistimes.com/news/waverly-residents-sue-sangamon-county-over-approval-of-data-center-project/",
+        "date": "2026-07-09"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Sangamon County Board approves a controversial data center project",
+        "outlet": "NPR Illinois",
+        "url": "https://www.nprillinois.org/sangamon-county/2026-04-07/sangamon-county-board-approves-a-controversial-data-center-project",
+        "date": "2026-04-07",
+        "tone": "neutral"
+      },
+      {
+        "title": "Residents sue to stop Sangamon County data center",
+        "outlet": "Illinois Times",
+        "url": "https://www.illinoistimes.com/news/waverly-residents-sue-sangamon-county-over-approval-of-data-center-project/",
+        "date": "2026-07-09",
+        "tone": "bad"
+      },
+      {
+        "title": "County Board defends data center approval in court",
+        "outlet": "Illinois Times",
+        "url": "https://www.illinoistimes.com/news/county-board-defends-data-center-approval-in-court/",
+        "date": "2026-09-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "13000 block of Thayer Road, Talkington Township. State Data Center Investment Program MOU reportedly signed May 20, 2026 (tracker; confirm). 634 MW in March 2026 plans per tracker."
+  },
+  {
+    "id": "il-logan-hut8-logan-prairie",
+    "name": "Logan Prairie Data Center",
+    "owner": "Hut 8",
+    "operator": "Hut 8",
+    "tier": "large",
+    "state": "IL",
+    "county": "Logan County",
+    "town": "Latham",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2026",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "power_mw": {
+        "value": 500,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": 9000,
+        "unit": "gallons per day domestic use cap (company)",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop; cooling water trucked in from outside the county",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "temporary construction jobs (about, 18 months)",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "permanent operations jobs (about)",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Ameren Illinois (MISO); interconnection studies not complete",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 50,
+        "unit": "acres (site footprint; about 200 acres of farm ground in the zoning request per Illinois Times)",
+        "kind": "real",
+        "source": "https://www.hut8.com/data-centers/logan-prairie",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Logan County Board passed a 12-month data center moratorium 6-4 on May 19, 2026; the State's Attorney later said it was not legally binding.",
+        "source": "https://www.illinoistimes.com/news/data-center-moratorium-declared-invalid/",
+        "date": "2026-07-02"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center moratorium declared invalid",
+        "outlet": "Illinois Times",
+        "url": "https://www.illinoistimes.com/news/data-center-moratorium-declared-invalid/",
+        "date": "2026-07-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Future uncertain for Logan County data center",
+        "outlet": "Illinois Times",
+        "url": "https://www.illinoistimes.com/news/future-uncertain-for-logan-county-data-center/",
+        "date": "2026-07-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Hut 8's 500 MW Illinois data center stalls as Latham cancels zoning vote",
+        "outlet": "Blockspace",
+        "url": "https://blockspace.media/insight/hut-8-illinois-data-center-stalls/",
+        "date": "2026-07-31",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Laenna Township near Latham. Hut 8 says AI/cloud, not crypto mining. Village of Latham postponed its Aug 3, 2026 annexation hearing; county applications had technical defects. Stage 'paused' because approvals are stalled."
+  },
+  {
+    "id": "il-winnebago-monarch-rockford",
+    "name": "Monarch Energy Rockford Data Center (Rock Air)",
+    "owner": "Monarch Energy",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Winnebago County",
+    "town": "Rockford",
+    "lat": 42.151436,
+    "lng": -89.101077,
+    "stage": "announced",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 12000000000,
+        "unit": "USD (about)",
+        "kind": "estimate",
+        "source": "https://www.mystateline.com/news/monarch-energy-finalizing-12-billion-investment-into-rockford-data-center/",
+        "date": "2026"
+      },
+      "power_mw": {
+        "value": 1400,
+        "unit": "MW (phased, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/monarch-energy-rockford-winnebago-il",
+        "date": "2026-08-29"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "jobs (projected, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/monarch-energy-rockford-winnebago-il",
+        "date": "2026-08-29"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 1100,
+        "unit": "acres (about, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/monarch-energy-rockford-winnebago-il",
+        "date": "2026-08-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Monarch Energy finalizing $12 billion investment into Rockford data center",
+        "outlet": "WTVO/WQRF (MyStateline)",
+        "url": "https://www.mystateline.com/news/monarch-energy-finalizing-12-billion-investment-into-rockford-data-center/",
+        "date": "2026",
+        "tone": "neutral"
+      },
+      {
+        "title": "Incentive deal for proposed Rockford data center shows possible development timeline",
+        "outlet": "WIFR (Rockford News First)",
+        "url": "https://www.rockfordnewsfirst.com/2026/07/01/incentive-deal-proposed-rockford-data-center-shows-possible-development-timeline/",
+        "date": "2026-07-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "8685 Friday Rd near Chicago Rockford International Airport (tracker). TIF incentive agreement signed June 2026 (tracker). Governor paused new state data center incentive agreements July 1, 2026.",
+    "pin_address": "8685 Friday Rd, Rockford, IL",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.rockfordnewsfirst.com/2026/07/01/incentive-deal-proposed-rockford-data-center-shows-possible-development-timeline/"
+  },
+  {
+    "id": "il-dekalb-meta-dekalb",
+    "name": "Meta DeKalb Data Center",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "IL",
+    "county": "DeKalb County",
+    "town": "DeKalb",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2020",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "peak construction workers",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "operational jobs (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Broke ground 2020 (Meta). Edged Project Vector and Karis DeKalb campus are planned next to it."
+  },
+  {
+    "id": "il-dupage-cyrusone-aurora",
+    "name": "CyrusOne Aurora Campus (CHI1-CHI3, CHI9)",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "IL",
+    "county": "DuPage County",
+    "town": "Aurora",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 114,
+        "unit": "MW total IT capacity (CHI1-CHI3)",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/aurora-il",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 16,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/aurora-il",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Three facilities, 450,000 sq ft of IT space, home of the CME Group trading platform (tracker). CyrusOne lists a separate Aurora CHI9 page; treated as part of this campus. County is DuPage per trackers (Aurora spans four counties); confirm parcel."
+  },
+  {
+    "id": "il-cook-stack-elk-grove",
+    "name": "STACK Infrastructure Chicago (CHI01, CHI02)",
+    "owner": "STACK Infrastructure",
+    "operator": "STACK Infrastructure",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 80,
+        "unit": "MW across two campuses (CHI01 40 MW on 14 acres)",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/chicago/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 32,
+        "unit": "acres (two campuses)",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/chicago/",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "CHI01 has two buildings: CHI01A 15 MW, CHI01B 24 MW (https://www.stackinfra.com/locations/americas/chicago/chi01/). CHI02 details not published."
+  },
+  {
+    "id": "il-cook-digital-realty-350-cermak",
+    "name": "Digital Realty 350 East Cermak (ORD10, Lakeside Technology Center)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Chicago",
+    "lat": 41.853061,
+    "lng": -87.618915,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "350 E Cermak Rd, 1,005,500 sq ft over 8 stories, 70+ network providers (https://www.digitalrealty.com/data-centers/americas/chicago/ord10). One of the largest carrier hotels in the US. Digital Realty also runs ORD11 at 1600 S Federal St (146,000 sq ft), not a separate record. Tenants include Equinix CH1 (5th floor, 107,295 sq ft), CH2 and CH4, all listed at 350 E Cermak Rd (https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/chicago-data-centers/ch1); not separate records.",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/chicago",
+    "pin_address": "350 E CERMAK RD, CHICAGO, IL, 60616"
+  },
+  {
+    "id": "il-cook-digital-realty-elk-grove",
+    "name": "Digital Realty Elk Grove Village Campus (CH1-CH3)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": 41.994096,
+    "lng": -87.95927,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2200 and 2299 Busse Rd and 1400 E Devon Ave; 485,000 + 328,000 + 305,500 sq ft (https://www.digitalrealty.com/data-centers/americas/chicago). MW not published.",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/chicago",
+    "pin_address": "2299 BUSSE RD, ELK GROVE VILLAGE, IL, 60007"
+  },
+  {
+    "id": "il-cook-digital-realty-franklin-park",
+    "name": "Digital Realty Franklin Park Campus (ORD12-ORD14)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Franklin Park",
+    "lat": 41.929144,
+    "lng": -87.85946,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "9333, 9355 and 9377 Grand Ave; 110,000 + 224,500 + 130,500 sq ft (https://www.digitalrealty.com/data-centers/americas/chicago). Digital Realty also lists ORD23 in Northlake (186,500 sq ft). MW not published.",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/chicago",
+    "pin_address": "9377 GRAND AVE, FRANKLIN PARK, IL, 60131"
+  },
+  {
+    "id": "il-cook-aligned-northlake",
+    "name": "Aligned Chicago Northlake Campus (ORD-01, ORD-02)",
+    "owner": "Aligned Data Centers",
+    "operator": "Aligned Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Northlake",
+    "lat": 41.913918,
+    "lng": -87.919288,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 18.5,
+        "unit": "acres (as listed for each of ORD-01 and ORD-02)",
+        "kind": "real",
+        "source": "https://aligneddc.com/chicago-data-centers/",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "505 and 501 Northwest Ave, Northlake (https://aligneddc.com/chicago-data-centers/). MW and exact status not published on the company page; a tracker lists Aligned Chicago West at 108 MW.",
+    "pin_source": "https://aligneddc.com/chicago-data-centers/",
+    "pin_address": "501 NORTHWEST AVE, NORTHLAKE, IL, 60164"
+  },
+  {
+    "id": "il-cook-aligned-elk-grove",
+    "name": "Aligned ORD-03 Elk Grove Village",
+    "owner": "Aligned Data Centers",
+    "operator": "Aligned Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": 42.032989,
+    "lng": -87.981765,
+    "stage": "building",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 36,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://aligneddc.com/chicago-data-centers/",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "50 NW Point Blvd, Elk Grove Village. Stage 'building' per tracker (Aligned Chicago Metro Campus under construction); company page does not state status. A Data Center Dynamics headline reports Aligned, Stream and Nexstar planning campuses in the Elk Grove area.",
+    "pin_source": "https://aligneddc.com/chicago-data-centers/",
+    "pin_address": "50 NW POINT BLVD, ELK GROVE VILLAGE, IL, 60007"
+  },
+  {
+    "id": "il-cook-qts-chicago",
+    "name": "QTS Chicago (former Sun-Times printing plant)",
+    "owner": "QTS (Blackstone)",
+    "operator": "QTS",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Chicago",
+    "lat": 41.842193,
+    "lng": -87.665913,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 30,
+        "unit": "acres (two-building campus at full build-out)",
+        "kind": "real",
+        "source": "http://q.com/data-centers/chicago",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2800 S Ashland Ave. MW not published on the company page (tracker lists 40 MW).",
+    "pin_source": "http://q.com/data-centers/chicago",
+    "pin_address": "2800 S ASHLAND AVE, CHICAGO, IL, 60608"
+  },
+  {
+    "id": "il-cook-edgeconnex-elk-grove",
+    "name": "EdgeConneX Chicago (CHI01-CHI03)",
+    "owner": "EdgeConneX",
+    "operator": "EdgeConneX",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 53.4,
+        "unit": "MW (CHI01 24 + CHI02 7 + CHI03 22.4, company figures)",
+        "kind": "real",
+        "source": "https://www.edgeconnex.com/locations/north-america/chicago-il/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Within 6 miles of O'Hare. CHI01 fully occupied. Town from tracker (EdgeConneX CHI01 Elk Grove Village); company page gives no address."
+  },
+  {
+    "id": "il-cook-iron-mountain-des-plaines",
+    "name": "Iron Mountain CHI-1 Des Plaines",
+    "owner": "Iron Mountain",
+    "operator": "Iron Mountain",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Des Plaines",
+    "lat": 42.009796,
+    "lng": -87.882348,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 36,
+        "unit": "MW IT load design (56 MW total facility)",
+        "kind": "real",
+        "source": "https://www.ironmountain.com/data-centers/locations/chicago-data-center",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 13,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.ironmountain.com/data-centers/locations/chicago-data-center",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1680 Touhy Ave, Des Plaines; 315,000 sq ft.",
+    "pin_source": "https://www.ironmountain.com/data-centers/locations/chicago-data-center",
+    "pin_address": "1680 E TOUHY AVE, DES PLAINES, IL, 60018"
+  },
+  {
+    "id": "il-cook-microsoft-hoffman-estates",
+    "name": "Microsoft Hoffman Estates Data Center",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Hoffman Estates",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2021-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 450000000,
+        "unit": "USD (covers Hoffman Estates and Elk Grove Village projects together)",
+        "kind": "real",
+        "source": "https://rejournals.com/the-data-center-revolution-microsoft-project-in-hoffman-estates-just-one-of-many-in-illinois/",
+        "date": "2023-03-21"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 83,
+        "unit": "acres (53-acre original site plus adjacent 30 acres)",
+        "kind": "real",
+        "source": "https://rejournals.com/the-data-center-revolution-microsoft-project-in-hoffman-estates-just-one-of-many-in-illinois/",
+        "date": "2023-03-21"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "The data center revolution: Microsoft project in Hoffman Estates just one of many in Illinois",
+        "outlet": "REjournals",
+        "url": "https://rejournals.com/the-data-center-revolution-microsoft-project-in-hoffman-estates-just-one-of-many-in-illinois/",
+        "date": "2023-03-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Village Board approved May 2021. First 200,000 sq ft building structurally complete by March 2023; second building into 2023-2024. Stage may now be 'running'; confirm. Only one fetched source (plus trackers)."
+  },
+  {
+    "id": "il-cook-microsoft-elk-grove",
+    "name": "Microsoft Elk Grove Technology Park Data Center",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2021",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 37,
+        "unit": "acres (three buildings)",
+        "kind": "real",
+        "source": "https://rejournals.com/the-data-center-revolution-microsoft-project-in-hoffman-estates-just-one-of-many-in-illinois/",
+        "date": "2023-03-21"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "The data center revolution: Microsoft project in Hoffman Estates just one of many in Illinois",
+        "outlet": "REjournals",
+        "url": "https://rejournals.com/the-data-center-revolution-microsoft-project-in-hoffman-estates-just-one-of-many-in-illinois/",
+        "date": "2023-03-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Three-building project on 37 acres in Elk Grove Technology Park, under construction since 2021 (REjournals). A Data Center Dynamics story (https://www.datacenterdynamics.com/en/news/microsoft-begins-construction-elk-grove-chicago/) also covers it; page blocked to fetch. Microsoft also runs an older Chicago-region data center in Northlake (not added: no primary source fetched)."
+  },
+  {
+    "id": "il-cook-karis-plum-farms",
+    "name": "Plum Farms Data Center Proposal",
+    "owner": "Karis Critical (H.E. Holdings LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Hoffman Estates",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 186,
+        "unit": "acres (bought for $45M in Jan 2025)",
+        "kind": "real",
+        "source": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/",
+        "date": "2026-07-01"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Plan Commission voted 4-2 against the rezoning after weeks of organized neighbor opposition; developer withdrew before the Village Board vote.",
+        "source": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/",
+        "date": "2026-07-01"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Developer withdraws rezoning request for controversial data center in Hoffman Estates",
+        "outlet": "Capitol News Illinois",
+        "url": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/",
+        "date": "2026-07-01",
+        "tone": "neutral"
+      },
+      {
+        "title": "Rezoning request for potential data center in Hoffman Estates withdrawn",
+        "outlet": "Barrington Hills Observer",
+        "url": "https://barringtonhillsobserver.com/2026/07/01/rezoning-request-for-potential-data-center-in-hoffman-estates-withdrawn/",
+        "date": "2026-07-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Higgins Road and Route 59. Withdrawn 'for now'; land could return with a new proposal."
+  },
+  {
+    "id": "il-dupage-karis-naperville",
+    "name": "Karis Critical Naperville Data Center (former Lucent campus)",
+    "owner": "Karis Critical",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "DuPage County",
+    "town": "Naperville",
+    "lat": 41.813478,
+    "lng": -88.12298,
+    "stage": "blocked",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Naperville City Council voted 6-1 against the proposal after months of resident opposition, including to 24 diesel backup generators.",
+        "source": "https://www.nctv17.org/news/naperville-city-council-votes-down-proposed-data-center/",
+        "date": "2026-01-20"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Naperville city council denies plan for Karis Critical data center on vacant Lucent campus",
+        "outlet": "ABC7 Chicago",
+        "url": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/",
+        "date": "2026-01-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Naperville City Council votes down proposed data center",
+        "outlet": "NCTV17",
+        "url": "https://www.nctv17.org/news/naperville-city-council-votes-down-proposed-data-center/",
+        "date": "2026-01-20",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1960 Lucent Lane. About 145,000 sq ft; MW not published, so it may sit near the 20 MW bar. Vote date per tracker; article pages not fetched.",
+    "pin_address": "1960 Lucent Lane, Naperville, IL",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+  },
+  {
+    "id": "il-dupage-cloudcenters-lisle",
+    "name": "CloudCenters Lisle Data Center Proposal (former Lockformer site)",
+    "owner": "CloudCenters LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "DuPage County",
+    "town": "Lisle",
+    "lat": 41.802203,
+    "lng": -88.066744,
+    "stage": "cancelled",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 50,
+        "unit": "MW (per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/cloudcenters-lisle-lockformer-dupage-il",
+        "date": "2026-08-29"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 18,
+        "unit": "acres (per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/cloudcenters-lisle-lockformer-dupage-il",
+        "date": "2026-08-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "More than 300 residents turned out, forcing the January 2026 public hearing to be postponed; developer later withdrew.",
+        "source": "https://www.dailyherald.com/20260122/news/postponed-public-hearing-for-data-center-in-lisle-delayed-due-to-large-turnout/",
+        "date": "2026-01-22"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Postponed: Public hearing for data center in Lisle delayed due to large turnout",
+        "outlet": "Daily Herald",
+        "url": "https://www.dailyherald.com/20260122/news/postponed-public-hearing-for-data-center-in-lisle-delayed-due-to-large-turnout/",
+        "date": "2026-01-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "Lisle data center: CloudCenters LLC drops application at former Lockformer Company site",
+        "outlet": "ABC7 Chicago",
+        "url": "https://abc7chicago.com/post/lisle-data-center-cloudcenters-llc-drops-application-former-lockformer-company-site-ogden-avenue-village-officials-say/18703440/",
+        "date": "2026",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "711 Ogden Ave. 256,000 sq ft (tracker).",
+    "pin_address": "711 Ogden Ave, Lisle, IL",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.dailyherald.com/20260122/news/postponed-public-hearing-for-data-center-in-lisle-delayed-due-to-large-turnout/"
+  },
+  {
+    "id": "il-tazewell-western-hospitality-pekin",
+    "name": "Pekin Data Center Proposal (Lutticken Property)",
+    "owner": "Western Hospitality Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Tazewell County",
+    "town": "Pekin",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (over, as reported)",
+        "kind": "estimate",
+        "source": "https://www.datacenterdynamics.com/en/news/developer-withdraws-data-center-proposal-in-pekin-illinois/",
+        "date": "2026-05"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 321,
+        "unit": "acres (per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/western-hospitality-partners-pekin-lutticken-tazewell-il",
+        "date": "2026-08-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Facebook group 'Tazewell County Data Center Opposition' grew past 6,200 members; mayor said in March 2026 the city would not move forward.",
+        "source": "https://isadatacentercoming.com/projects/western-hospitality-partners-pekin-lutticken-tazewell-il",
+        "date": "2026-08-29"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "'It's done': Developer withdraws Pekin data center proposal",
+        "outlet": "Quad-City Times",
+        "url": "https://qctimes.com/news/state-regional/business/article_37a91b6a-f3ca-52a8-8ddd-92011e9b9a07.html",
+        "date": "2026-05",
+        "tone": "neutral"
+      },
+      {
+        "title": "Developer withdraws data center proposal in Pekin, Illinois",
+        "outlet": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/developer-withdraws-data-center-proposal-in-pekin-illinois/",
+        "date": "2026-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Between Highway 98 and Sheridan Road. Developer terminated the agreement May 5, 2026 (tracker)."
+  },
+  {
+    "id": "il-champaign-clean-cloud-energy-mahomet",
+    "name": "Rising Edge Data Center Proposal (Mahomet)",
+    "owner": "Clean Cloud Energy",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Champaign County",
+    "town": "Mahomet",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2026-09-28",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Draft agreement would have capped developer contributions at $17.35 million (never signed)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://mahometdaily.com/mahomets-preliminary-data-center-talks-10-months-ndas-and-a-17-million-draft-deal-emails-included/",
+        "date": "2026-10"
+      },
+      "utility": null,
+      "acres": {
+        "value": 340,
+        "unit": "acres (about, per tracker)",
+        "kind": "estimate",
+        "source": "https://isadatacentercoming.com/projects/clean-cloud-energy-rising-edge-mahomet-champaign-il",
+        "date": "2026-10-12"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Talks ran about 10 months under nondisclosure agreements before the village disclosed them.",
+        "source": "https://mahometdaily.com/mahomets-preliminary-data-center-talks-10-months-ndas-and-a-17-million-draft-deal-emails-included/",
+        "date": "2026-10"
+      }
+    ],
+    "news": [
+      {
+        "title": "Mahomet approached by data center developer for future location",
+        "outlet": "WAND",
+        "url": "https://www.wandtv.com/2026/09/28/mahomet-approached-by-data-center-developer-future-location/",
+        "date": "2026-09-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Village of Mahomet Ends Discussions with Clean Cloud Energy Regarding Potential Data Center Project",
+        "outlet": "Village of Mahomet",
+        "url": "https://www.mahomet-il.gov/article/3173337",
+        "date": "2026-10-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Unincorporated Mahomet Township farmland. Village ended talks Oct 5, 2026 after resident concerns. Size above the bar is inferred from acreage only."
+  },
+  {
+    "id": "il-lake-t5-grayslake",
+    "name": "T5 @ Chicago IV (Grayslake)",
+    "owner": "T5 Data Centers",
+    "operator": "T5 Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Lake County",
+    "town": "Grayslake",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-09",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1550,
+        "unit": "MW electrical demand (about 1.55 GW)",
+        "kind": "real",
+        "source": "https://www.lakemchenryscanner.com/2026/08/08/project-of-unprecedented-scale-lake-county-residents-file-lawsuit-to-block-472-acre-data-center-campus-in-grayslake/",
+        "date": "2026-08-08"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "ComEd, plus diesel backup generation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.lakemchenryscanner.com/2026/08/08/project-of-unprecedented-scale-lake-county-residents-file-lawsuit-to-block-472-acre-data-center-campus-in-grayslake/",
+        "date": "2026-08-08"
+      },
+      "acres": {
+        "value": 472,
+        "unit": "acres (up to; within the 641-acre Cornerstone development)",
+        "kind": "real",
+        "source": "https://www.lakemchenryscanner.com/2026/08/08/project-of-unprecedented-scale-lake-county-residents-file-lawsuit-to-block-472-acre-data-center-campus-in-grayslake/",
+        "date": "2026-08-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Preservation of Community Well-being Collective LLC and nine Lake County residents sued the Village of Grayslake, T5 and Alter Asset Management in Lake County Circuit Court on July 31, 2026 to void approvals; status hearing Oct 30, 2026 (per tracker).",
+        "source": "https://www.lakemchenryscanner.com/2026/08/08/project-of-unprecedented-scale-lake-county-residents-file-lawsuit-to-block-472-acre-data-center-campus-in-grayslake/",
+        "date": "2026-08-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Project of unprecedented scale: Lake County residents file lawsuit to block 472-acre data center campus in Grayslake",
+        "outlet": "Lake & McHenry County Scanner",
+        "url": "https://www.lakemchenryscanner.com/2026/08/08/project-of-unprecedented-scale-lake-county-residents-file-lawsuit-to-block-472-acre-data-center-campus-in-grayslake/",
+        "date": "2026-08-08",
+        "tone": "bad"
+      },
+      {
+        "title": "Critics of Grayslake data center plan sue to stop construction",
+        "outlet": "Daily Herald",
+        "url": "https://www.dailyherald.com/20260807/business/critics-of-grayslake-data-center-plan-sue-to-stop-construction/",
+        "date": "2026-08-07",
+        "tone": "bad"
+      },
+      {
+        "title": "Grayslake issues first permit for construction to begin on mega data center campus as lawsuit seeks to block development",
+        "outlet": "Lake & McHenry County Scanner",
+        "url": "https://www.lakemchenryscanner.com/2026/09/01/grayslake-issues-first-permit-for-construction-to-begin-on-mega-data-center-campus-as-lawsuit-seeks-to-block-development/",
+        "date": "2026-09-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Cornerstone development near Peterson and Alleghany roads; landowner/master developer Alter Group. 10M+ sq ft. Village approvals Sept 2024-May 2025. First building permit (about 800,000 sq ft building) issued around Sept 1, 2026 per tracker summary; stage set to building on that basis."
+  },
+  {
+    "id": "il-kendall-equinix-minooka",
+    "name": "Equinix Minooka Campus",
+    "owner": "Equinix",
+    "operator": "Equinix",
+    "tier": "large",
+    "state": "IL",
+    "county": "Kendall County",
+    "town": "Minooka",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD (about $6 billion)",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/morris-herald-news/2026/04/21/equinix-donates-land-north-of-i-80-for-new-minooka-fire-station/",
+        "date": "2026-04-21"
+      },
+      "power_mw": null,
+      "water_use": {
+        "value": "about as much as an office building or neighborhood on the same site",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.minooka.com/news/posts/minooka-data-center-faq-and-fact-sheet/",
+        "date": "2026-07-30"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "closed-loop, air-cooled (dry) system; water only for restrooms and fire safety",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/morris-herald-news/2026/04/21/equinix-donates-land-north-of-i-80-for-new-minooka-fire-station/",
+        "date": "2026-04-21"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": "100-200",
+        "unit": "direct jobs (projected)",
+        "kind": "real",
+        "source": "https://www.minooka.com/news/posts/minooka-data-center-faq-and-fact-sheet/",
+        "date": "2026-07-30"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$13.9M infrastructure upgrades, $6.7M community contributions (bike paths, open space), $5M to offset residents' Lake Michigan water costs (all projected); land donated for a new fire station",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.minooka.com/news/posts/minooka-data-center-faq-and-fact-sheet/",
+        "date": "2026-07-30"
+      },
+      "utility": {
+        "value": "ComEd",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.minooka.com/news/posts/minooka-data-center-faq-and-fact-sheet/",
+        "date": "2026-07-30"
+      },
+      "acres": {
+        "value": 300,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/morris-herald-news/2026/04/21/equinix-donates-land-north-of-i-80-for-new-minooka-fire-station/",
+        "date": "2026-04-21"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Equinix donates land north of I-80 for new Minooka fire station",
+        "outlet": "Shaw Local (Morris Herald-News)",
+        "url": "https://www.shawlocal.com/morris-herald-news/2026/04/21/equinix-donates-land-north-of-i-80-for-new-minooka-fire-station/",
+        "date": "2026-04-21",
+        "tone": "good"
+      },
+      {
+        "title": "Construction of Data Center Campus North of Minooka Will Start in Few Weeks",
+        "outlet": "WCSJ",
+        "url": "https://www.wspynews.com/news/wcsjnews/construction-of-data-center-campus-north-of-minooka-will-start-in-few-weeks/article_f3bb71e7-d890-5464-bbe1-44a286fe5eb5.html",
+        "date": "2026-03-27",
+        "tone": "neutral"
+      },
+      {
+        "title": "Grundy County in 2025: logistics, data centers and construction",
+        "outlet": "Shaw Local (Morris Herald-News)",
+        "url": "https://www.shawlocal.com/morris-herald-news/2025/12/29/grundy-county-in-2025-logistics-data-centers-and-construction/",
+        "date": "2025-12-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Seven buildings (CH8-CH14 on the village site plan) at Ridge, Holt, Wildy and Wabena roads, next to the Kendall (Dynegy) power plant, annexed by the Village of Minooka. County: the village map places the site west of County Line Road beside the Kendall Energy plant, and a Shaw Local caption says Kendall County; an earlier lead said Grundy and a Shaw tag said Will. Kendall is the best-supported, confirm with the parcel record. Stage: village approved (WCSJ); the mayor said construction is beginning (April 2026) while Equinix said construction starts 2027, partial opening 2028, full by 2031. Projected $6.6M a year in property tax and about $3M a year in utility tax early on (village fact sheet, Shaw Local). Sound study: worst case 44 dBA at 10 pm (village fact sheet). Former lead il-grundy-equinix-minooka."
+  },
+  {
+    "id": "il-cook-t5-elk-grove",
+    "name": "T5 @ Chicago Elk Grove Village sites (Chicago I, Chicago II, CHI V)",
+    "owner": "T5 Data Centers",
+    "operator": "T5 Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2016-08-23",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 50,
+        "unit": "MW running (Chicago I 20 MW + Chicago II 30 MW); CHI V adds 36 MW critical IT planned",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/t5-data-center-in-illinois-topped-out/",
+        "date": "2025-05-23"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 7,
+        "unit": "acres (CHI V site only)",
+        "kind": "real",
+        "source": "https://t5datacenters.com/resources/t5-data-centers-expands-chicago-footprint-with-acquisition-of-fifth-data-center-chi-v/",
+        "date": "2025-03-26"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "T5 data center in Illinois topped out",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/t5-data-center-in-illinois-topped-out/",
+        "date": "2025-05-23",
+        "tone": "neutral"
+      },
+      {
+        "title": "T5 Data Centers acquires Elk Grove Village data center",
+        "outlet": "REjournals",
+        "url": "https://rejournals.com/t5-data-centers-acquires-elk-grove-village-data-center/",
+        "date": "2025-04-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Three Elk Grove Village sites bundled like other records in this file: Chicago I (208,000 sq ft building bought 2016, expandable by 28 MW on an adjacent 4-acre parcel, https://t5datacenters.com/resources/t5-data-centers-opens-t5chicago-now-in-8-markets-nationwide/); Chicago II (164,000 sq ft shell in Elk Grove Technology Park, 15.4 MW at purchase in 2020, https://t5datacenters.com/resources/t5-data-centers-announces-new-presence-in-metro-chicagos-elk-grove-technology-park/); CHI V (7 acres, 220,000 sq ft, 36 MW critical IT, occupancy 2028, https://t5datacenters.com/resources/t5-data-centers-expands-chicago-footprint-with-acquisition-of-fifth-data-center-chi-v/). Street addresses not given in the sources; split if addresses are found."
+  },
+  {
+    "id": "il-cook-t5-northlake",
+    "name": "T5 @ Chicago III (Northlake)",
+    "owner": "T5 Data Centers",
+    "operator": "T5 Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Northlake",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023-10-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 36,
+        "unit": "MW IT capacity",
+        "kind": "real",
+        "source": "https://t5datacenters.com/resources/t5-data-centers-acquires-third-location-in-tier-one-chicago-market/",
+        "date": "2023-10-03"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "T5 data center in Illinois topped out",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/t5-data-center-in-illinois-topped-out/",
+        "date": "2025-05-23",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "T5 bought the Northlake site in October 2023 (T5 release). DCD reported the three-story, 250,000 sq ft building topped out in May 2025; no completion found, so stage is building. Not the same as Microsoft's Northlake campus (601 Northwest Ave)."
+  },
+  {
+    "id": "il-dupage-ntt-itasca",
+    "name": "NTT Chicago CH1 Campus (Itasca)",
+    "owner": "NTT Global Data Centers",
+    "operator": "NTT Global Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "DuPage County",
+    "town": "Itasca",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 72,
+        "unit": "MW campus total at build-out (CH1: 36 MW critical IT)",
+        "kind": "real",
+        "source": "https://www.bdcnetwork.com/home/news/55164065/japans-ntt-pushes-us-data-center-expansion",
+        "date": "2021-03-20"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 46,
+        "unit": "acres (more than; land bought 2017-2023, including a 12-acre expansion site)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/ntt-acquires-office-buildings-in-chicago-plans-to-demolish-for-data-centers/",
+        "date": "2023-12-05"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "NTT acquires office buildings in Chicago, plans to demolish for data centers",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/ntt-acquires-office-buildings-in-chicago-plans-to-demolish-for-data-centers/",
+        "date": "2023-12-05",
+        "tone": "neutral"
+      },
+      {
+        "title": "Japan's NTT pushes U.S. data center expansion",
+        "outlet": "Building Design+Construction",
+        "url": "https://www.bdcnetwork.com/home/news/55164065/japans-ntt-pushes-us-data-center-expansion",
+        "date": "2021-03-20",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "CH1 opened 2021 (virtual ribbon cutting Feb 25, 2021): two stories, 126,000 sq ft of data halls, six 6 MW vaults; first of two planned buildings. In 2023 NTT paid more than $27M for 1200 and 1250 N Arlington Heights Rd next to CH1, planning to demolish the offices for data centers (DCD citing CoStar). Former lead il-dupage-ntt-itasca."
+  },
+  {
+    "id": "il-cook-centersquare-elk-grove",
+    "name": "Centersquare ORD2 (Elk Grove Village)",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25.9,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/chicago",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company page lists 111,906 sq ft raised floor. No street address given; Elk Grove Village lies mostly in Cook County, confirm the parcel (part of the village is in DuPage). Centersquare also lists ORD1 (Chicago, 32.8 MW, floors 4, 7 and 8 of an 8-story building), likely a tenant floor in an existing carrier hotel, so not added as its own record."
+  },
+  {
+    "id": "il-dupage-centersquare-lisle",
+    "name": "Centersquare ORD4 (Lisle)",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "IL",
+    "county": "DuPage County",
+    "town": "Lisle",
+    "lat": 41.803463,
+    "lng": -88.096369,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 88.9,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/chicago",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company page lists 66,875 sq ft raised floor. No street address given. Not the cancelled CloudCenters Lisle proposal (il-dupage-cloudcenters-lisle).",
+    "pin_source": "https://www.csquare.com/hubfs/Centersquare%20website/docs/Csquare-ORD-SpecSheet.pdf",
+    "pin_address": "4513 WESTERN AVE, LISLE, IL, 60532"
+  },
+  {
+    "id": "il-cook-microsoft-northlake",
+    "name": "Microsoft Chicago Data Center (Northlake)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Northlake",
+    "lat": 41.921332,
+    "lng": -87.919252,
+    "stage": "running",
+    "announced": "2007-11-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 40,
+        "unit": "MW power feed in the 2007 spec sheet, expandable to 60 MW",
+        "kind": "real",
+        "source": "https://www.datacenterknowledge.com/hyperscalers/more-details-on-microsoft-s-chicago-project",
+        "date": "2007-11-08"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "More Details on Microsoft's Chicago Project",
+        "outlet": "Data Center Knowledge",
+        "url": "https://www.datacenterknowledge.com/hyperscalers/more-details-on-microsoft-s-chicago-project",
+        "date": "2007-11-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "601 Northwest Ave, Northlake, IL 60164. Illinois EPA holds a final air permit and an NPDES permit for 'Microsoft Corp-Chicago Data Center' (https://webapps.illinois.gov/EPA/DocumentExplorer/Documents/Index/170001764240). 2007 plans: two stories, eight 50,000 sq ft pods; marketing listed 430,000 sq ft. Former lead il-cook-microsoft-northlake.",
+    "pin_source": "https://www.datacenterknowledge.com/hyperscalers/more-details-on-microsoft-s-chicago-project",
+    "pin_address": "601 NORTHWEST AVE, NORTHLAKE, IL, 60164"
+  },
+  {
+    "id": "il-dekalb-karis-dekalb",
+    "name": "Karis DeKalb Data Center Campus (Peace and Gurler roads)",
+    "owner": "Karis Acquisitions",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "DeKalb County",
+    "town": "DeKalb",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2024-07-13",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 132,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.shawlocal.com/daily-chronicle/2024/07/25/dekalb-oks-plans-that-could-pave-way-for-2nd-data-center/",
+        "date": "2024-07-25"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "DeKalb OKs plans that could pave way for 2nd data center",
+        "outlet": "Shaw Local (Daily Chronicle)",
+        "url": "https://www.shawlocal.com/daily-chronicle/2024/07/25/dekalb-oks-plans-that-could-pave-way-for-2nd-data-center/",
+        "date": "2024-07-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Seven-building data center campus gets preliminary OK from Illinois planning commission",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/seven-building-data-center-campus-gets-preliminary-ok-from-illinois-planning-commission/",
+        "date": "2024-07-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Northeast corner of Peace Road and East Gurler Road, south side of DeKalb; separate from Edged Project Vector (Route 23 at Keslinger Road). Seven two-story buildings, about 250,000 sq ft each, plus a ComEd substation. City Council approved data center as a permitted use, more square footage and an amended concept plan in July 2024; a vote on the actual development is still needed before construction (Shaw Local). End user not named. No newer status found this pass. Former lead il-dekalb-karis-dekalb-campus."
+  },
+  {
+    "id": "il-christian-eagle-rock-meridian",
+    "name": "Meridian Technology Park Data Center Proposal (Eagle Rock Partners)",
+    "owner": "Eagle Rock Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Christian County",
+    "town": "Taylorville",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": "6-8.8 billion",
+        "unit": "USD (developer and county estimate)",
+        "kind": "real",
+        "source": "https://www.illinoistimes.com/news/area-data-center-updates/",
+        "date": "2026-06-10"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW needed (10 buildings x 100 MW)",
+        "kind": "real",
+        "source": "https://www.illinoistimes.com/news/area-data-center-updates/",
+        "date": "2026-06-10"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 500,
+        "unit": "permanent jobs (developer)",
+        "kind": "real",
+        "source": "https://www.illinoistimes.com/news/area-data-center-updates/",
+        "date": "2026-06-10"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 475,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.illinoistimes.com/news/area-data-center-updates/",
+        "date": "2026-06-10"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "About 400 people, almost all opposed, attended the June 16, 2026 Christian County Board meeting; Facebook group 'Christian County Data Center Awareness' organized critics",
+        "source": "https://www.springfieldbusinessjournal.com/news/data-center-developer-abandons-plans-for-christian-county/",
+        "date": "2026-08-12"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Proposed Christian County Data Center Pursuit Has Ended",
+        "outlet": "WICS/WRSP NewsChannel 20",
+        "url": "https://www.newschannel20.com/news/proposed-christian-county-data-center-pursuit-has-ended/article_9569f07d-d394-4205-814b-5979118fb281.html",
+        "date": "2026-08-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center developer abandons plans for Christian County",
+        "outlet": "Springfield Business Journal",
+        "url": "https://www.springfieldbusinessjournal.com/news/data-center-developer-abandons-plans-for-christian-county/",
+        "date": "2026-08-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Area data center updates",
+        "outlet": "Illinois Times",
+        "url": "https://www.illinoistimes.com/news/area-data-center-updates/",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Unincorporated Bear Creek Township about two miles southwest of Taylorville, near IL Route 48 at East 1000 North Rd and North 800 East Rd. Never formally filed with the county. Eagle Rock announced Aug 12, 2026 it was abandoning the project; the county board chair said the reason was doubt that the planned power source, the Lincoln Land Energy Center gas plant in Sangamon County, would be built."
+  },
+  {
+    "id": "il-cook-equinix-elk-grove",
+    "name": "Equinix Elk Grove Village campus (CH3, CH5)",
+    "owner": "Equinix",
+    "operator": "Equinix",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Elk Grove Village",
+    "lat": 42.002094,
+    "lng": -87.95339,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 165000000,
+        "unit": "USD (CH5 phase 2 only, approximate)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/eqix-20251231.htm",
+        "date": "2026-02-11"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "CH3 at 1905 Lunt Avenue (196,151 sq ft colocation; https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/chicago-data-centers/ch3) and CH5 at 2001 Lunt Ave (193,110 sq ft; https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/chicago-data-centers/ch5), next door to each other. Equinix 10-K lists CH5 phase 2 under construction: 1,625 cabinets, about $165M, target Q3 2027 (https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/eqix-20251231.htm). CH1/CH2/CH4 sit inside 350 E Cermak (il-cook-digital-realty-350-cermak); CH7 Westmont is small. Equinix Minooka is il-kendall-equinix-minooka. Promoted from lead il-cook-equinix-chicago-campuses."
+  },
+  {
+    "id": "il-cook-coresite-chicago",
+    "name": "CoreSite Chicago campus (CH1, CH2)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Chicago",
+    "lat": 41.876533,
+    "lng": -87.631683,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "CH1 at 427 S. LaSalle St (180,000+ sq ft) and CH2 at 1432 S. Clinton St (168,000+ sq ft), 348K+ sq ft total; CoreSite calls them its Chicago campus (https://www.coresite.com/data-centers/locations/chicago). The two buildings are about 1.3 miles apart; kept as one record, as with ca-los-angeles-coresite-la-campus. Coordinates are CH1. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "il-cook-h5-chicago",
+    "name": "H5 Data Centers Chicago (1951 W. Hastings Street)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "IL",
+    "county": "Cook County",
+    "town": "Chicago",
+    "lat": 41.863994,
+    "lng": -87.674971,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 36,
+        "unit": "MW total power capacity (18 MW initial phase)",
+        "kind": "real",
+        "source": "https://h5datacenters.com/chicago-data-center.html",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 3.6,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://h5datacenters.com/chicago-data-center.html",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1951 W. Hastings St., Chicago; 'new build' on a 3.6-acre site, 36 MW total power capacity, 18 MW in the initial phase (https://h5datacenters.com/chicago-data-center.html). Build status not stated; stage set to announced until a permit or opening is found."
+  },
+  {
+    "id": "il-kane-hut8-batavia",
+    "name": "Hut 8 Batavia",
+    "owner": "Hut 8 Corp.",
+    "operator": null,
+    "tier": "large",
+    "state": "IL",
+    "county": "Kane County",
+    "town": "Batavia",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 7.2,
+        "unit": "acres (owned)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926019392/hut-20251231x10k.htm",
+        "date": "2026-02-25"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Hut 8's 10-K (2026-02-25) says it owns 7.2 acres in Batavia, Illinois, and lists one Illinois site under development ('Site 04', 50 MW, use TBD). A tracker places a ~50 MW Hut 8 site at 1780 Hubbard Ave, Batavia. That the 50 MW site is Batavia is likely but not stated. Merges lead il-kane-hut8-batavia."
+  }
+]

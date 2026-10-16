@@ -1,0 +1,764 @@
+[
+  {
+    "id": "wy-laramie-google-project-tembo",
+    "name": "Project Tembo (formerly Project Jade)",
+    "owner": "Google (Jupiter Star Holdings, LLC)",
+    "operator": "Google (Crusoe Energy Systems was the original developer until mid-2026)",
+    "tier": "large",
+    "state": "WY",
+    "county": "Laramie County",
+    "town": "Cheyenne",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 2700,
+        "unit": "MW of power supply (Crusoe originally announced 1.8 GW, scalable to 10 GW)",
+        "kind": "real",
+        "source": "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/",
+        "date": "2026-07-08"
+      },
+      "water_use": {
+        "value": "Wastewater handled on site with evaporative lagoons; will not connect to Cheyenne municipal system",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/",
+        "date": "2026-07-08"
+      },
+      "power_source": {
+        "value": "Total resource mix of 2.7 GW incl. reserves: up to 590 MW grid-connected service from Black Hills (564 MW new company-owned natural gas generation at Cheyenne Prairie Generating Station plus 26 MW market/tariff energy) and about 2.1 GW of Wyoming-based third-party contracted resources managed by Black Hills through a private microgrid",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+        "date": "2026-10-06"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Black Hills Energy (Cheyenne Light, Fuel and Power): Large Power Contract Services Agreement and Generation Facilities Agreement, effective 2026-09-30, terms through 2048; service to begin late 2027, peak load by 2030",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+        "date": "2026-10-06"
+      },
+      "acres": {
+        "value": 716,
+        "unit": "acres (plus 32.83-acre office support area), Switchgrass Industrial Park, about 8 miles south of Cheyenne",
+        "kind": "real",
+        "source": "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/",
+        "date": "2026-07-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Black Hills Corp. signed definitive agreements effective Sept. 30, 2026, with terms through 2048, to serve a planned Google data center to be constructed in Cheyenne, Wyoming ... structured so that Google bears all costs associated with serving the planned data center throughout the life of the project.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+        "date": "2026-10-06"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Crusoe Touts 5-Gigawatt Data Center Contracts, Pauses Wyoming Campus Development",
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/crusoe-touts-5-gigawatts-worth-of-data-centers-deals-pauses-wyoming-site",
+        "date": "2026-06-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Say Hello To Google, The Mystery Owner Behind Wyoming's Largest Data Center Project",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/",
+        "date": "2026-07-08",
+        "tone": "neutral"
+      },
+      {
+        "title": "Black Hills Corp. Executes Definitive Agreements to Serve Google's Planned Data Center in Cheyenne, Wyoming",
+        "outlet": "Black Hills Corp. (SEC 8-K exhibit 99.1)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+        "date": "2026-10-06",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Announced July 2025 by Crusoe and Tallgrass as Project Jade (1.8 GW, scalable to 10 GW). Laramie County approved the campus and the Tallgrass gas plant in January 2026 (POWER Magazine: https://www.powermag.com/wyoming-approves-data-center-campus-that-includes-2-7-gw-of-new-natural-gas-fired-generation/). In June 2026 Crusoe paused work at its customer's request; Google subsidiary Jupiter Star Holdings took over and filed a site-plan amendment June 30, 2026 (county hearing Aug. 13, 2026). Completion planned 2031. Total cost figures (about $50B) seen only in secondary sources, not recorded. Black Hills confirmed the Google agreements in its Oct 6, 2026 8-K (LPCSA + GFA, effective Sept 30, 2026). Google gave Black Hills $399M of refundable advances for long-lead equipment under an April 22, 2026 generation reservation agreement (customer described there as a 1.8 GW data center)."
+  },
+  {
+    "id": "wy-laramie-meta-cheyenne",
+    "name": "Meta Cheyenne Data Center (Project Cosmo)",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "WY",
+    "county": "Laramie County",
+    "town": "Cheyenne",
+    "lat": 41.080179,
+    "lng": -104.826077,
+    "stage": "building",
+    "announced": "2024-07-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://cowboystatedaily.com/2024/07/02/meta-formally-announces-massive-800m-715-000-square-foot-cheyenne-data-center/",
+        "date": "2024-07-02"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "skilled trade jobs at peak construction (more than)",
+        "kind": "real",
+        "source": "https://cheyenneleads.org/?p=5957",
+        "date": "2024-07-02"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "operational jobs (about)",
+        "kind": "real",
+        "source": "https://cheyenneleads.org/?p=5957",
+        "date": "2024-07-02"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Black Hills Energy, under its Large Power Contract Service tariff",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://ir.blackhillscorp.com/news-releases/news-release-details/black-hills-corp-power-metas-new-data-center-wyoming-innovative",
+        "date": "2024-07-02"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Meta (Facebook) Formally Announces Massive $800M Data Center In Cheyenne",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2024/07/02/meta-formally-announces-massive-800m-715-000-square-foot-cheyenne-data-center/",
+        "date": "2024-07-02",
+        "tone": "good"
+      },
+      {
+        "title": "Data Center Boom Powers Cheyenne's Push For Annexation",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/04/03/data-center-boom-powers-cheyennes-push-for-annexation/",
+        "date": "2026-04-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "715,000 sq ft AI-focused campus in High Plains Business Park, south Cheyenne; code name Project Cosmo; shell company Goat Systems LLC; scheduled to open by 2027. Construction well underway per Cowboy State Daily April 2026. Site reported as about 960 acres (DCD headline says 945); not recorded. Black Hills release date assumed equal to announcement date; check.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071655949",
+    "pin_address": "Permit coordinates, WY stormwater permit WYR106536 'Project Cosmo' (no street address)"
+  },
+  {
+    "id": "wy-laramie-microsoft-cheyenne",
+    "name": "Microsoft Cheyenne datacenters (North Range Business Park)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "WY",
+    "county": "Laramie County",
+    "town": "Cheyenne",
+    "lat": 41.1256,
+    "lng": -104.896441,
+    "stage": "running",
+    "announced": "2012",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Direct evaporative cooling; uses water less than 10% of the year (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/04/14/microsoft-announces-intent-to-expand-datacenter-operations-in-cheyenne-accelerating-innovation-and-economic-growth/",
+        "date": "2026-04-14"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": {
+        "value": 320,
+        "unit": "full-time Microsoft employees in Cheyenne (over)",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/04/14/microsoft-announces-intent-to-expand-datacenter-operations-in-cheyenne-accelerating-innovation-and-economic-growth/",
+        "date": "2026-04-14"
+      },
+      "tax_break": null,
+      "local_tax_paid": {
+        "value": 11000000,
+        "unit": "USD Laramie County property taxes in 2025 (over)",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/04/14/microsoft-announces-intent-to-expand-datacenter-operations-in-cheyenne-accelerating-innovation-and-economic-growth/",
+        "date": "2026-04-14"
+      },
+      "community_deal": null,
+      "utility": {
+        "value": "Black Hills Energy, Large Power Contract Service (LPCS) tariff",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/04/14/microsoft-announces-intent-to-expand-datacenter-operations-in-cheyenne-accelerating-innovation-and-economic-growth/",
+        "date": "2026-04-14"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data Center Boom Powers Cheyenne's Push For Annexation",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/04/03/data-center-boom-powers-cheyennes-push-for-annexation/",
+        "date": "2026-04-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Microsoft's first Wyoming datacenter opened in Cheyenne in 2012; existing campus in North Range Business Park (Cowboy State Daily). The 3,200-acre expansion announced April 2026 is its own record (wy-laramie-microsoft-bison-expansion). 'announced' is the opening year.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110070255951",
+    "pin_address": "644 LOGISTICS DR, CHEYENNE, WY, 82009"
+  },
+  {
+    "id": "wy-laramie-microsoft-bison-expansion",
+    "name": "Microsoft Cheyenne expansion (Bison Business Park and Southeast Cheyenne, 3,200 acres)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "WY",
+    "county": "Laramie County",
+    "town": "Cheyenne",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-04-14",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Black Hills Energy, LPCS tariff (Microsoft pays for required upgrades and power)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/04/14/microsoft-announces-intent-to-expand-datacenter-operations-in-cheyenne-accelerating-innovation-and-economic-growth/",
+        "date": "2026-04-14"
+      },
+      "acres": {
+        "value": 3200,
+        "unit": "acres (about 200 in Bison Business Park on Wapiti Trail + about 3,000 adjacent in Southeast Cheyenne), intent to purchase",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/04/14/microsoft-announces-intent-to-expand-datacenter-operations-in-cheyenne-accelerating-innovation-and-economic-growth/",
+        "date": "2026-04-14"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Reporting that U.S. Sen. Cynthia Lummis's family and associated companies own about 6,000 acres almost surrounding the Microsoft site; Microsoft's expansion map extends into that property",
+        "source": "https://www.wyomingnews.com/news/local_news/microsoft-intends-to-purchase-3-200-acres-south-of-cheyenne-for-data-centers/article_3cbb2c90-9a60-4cb9-8537-1d835ea167ab.html",
+        "date": "2026-04"
+      }
+    ],
+    "news": [
+      {
+        "title": "Microsoft intends to purchase 3,200 acres south of Cheyenne for data centers",
+        "outlet": "Wyoming Tribune Eagle",
+        "url": "https://www.wyomingnews.com/news/local_news/microsoft-intends-to-purchase-3-200-acres-south-of-cheyenne-for-data-centers/article_3cbb2c90-9a60-4cb9-8537-1d835ea167ab.html",
+        "date": "2026-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company promises 'hundreds' of full-time roles and 'thousands' of construction tradespeople (no numbers given). Multiyear plan; several steps need public hearings. Could be treated as a phase of the existing Microsoft Cheyenne campus; kept separate because it is a new 3,200-acre site. Scrutiny item and Tribune Eagle article come from a search summary; reopen to confirm."
+  },
+  {
+    "id": "wy-laramie-related-digital-cheyenne",
+    "name": "Related Digital Cheyenne Data Center Campus",
+    "owner": "Related Digital",
+    "operator": "Related Digital (anchor tenant CoreWeave)",
+    "tier": "large",
+    "state": "WY",
+    "county": "Laramie County",
+    "town": "Cheyenne",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-10-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1200000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.related.com/press-releases/2025-10-07/related-digital-breaks-ground-302-mw-data-center-campus-cheyenne-wyoming",
+        "date": "2025-10-07"
+      },
+      "power_mw": {
+        "value": 302,
+        "unit": "MW IT capacity at full build (first phase about 88 MW leased to CoreWeave)",
+        "kind": "real",
+        "source": "https://www.related.com/press-releases/2025-10-07/related-digital-breaks-ground-302-mw-data-center-campus-cheyenne-wyoming",
+        "date": "2025-10-07"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Air-cooled chillers; minimal water use",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.related.com/press-releases/2025-10-07/related-digital-breaks-ground-302-mw-data-center-campus-cheyenne-wyoming",
+        "date": "2025-10-07"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 40,
+        "unit": "permanent jobs (around, Phase I)",
+        "kind": "real",
+        "source": "https://www.related.com/press-releases/2025-10-07/related-digital-breaks-ground-302-mw-data-center-campus-cheyenne-wyoming",
+        "date": "2025-10-07"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 115,
+        "unit": "acres, Cheyenne Business Parkway",
+        "kind": "real",
+        "source": "https://www.related.com/press-releases/2025-10-07/related-digital-breaks-ground-302-mw-data-center-campus-cheyenne-wyoming",
+        "date": "2025-10-07"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "$1.2 billion data center breaks ground in Cheyenne",
+        "outlet": "Wyoming Tribune Eagle (via News Letter Journal)",
+        "url": "https://www.newslj.com/12-billion-data-center-breaks-ground-cheyenne",
+        "date": "2025-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First building expected late 2026. Phase I projected over $250M tax revenue over 15 years (company). Figures from a search summary of the release; reopen to verify each one."
+  },
+  {
+    "id": "wy-uinta-prometheus-evanston",
+    "name": "Prometheus Hyperscale Evanston campus",
+    "owner": "Prometheus Hyperscale",
+    "operator": null,
+    "tier": "large",
+    "state": "WY",
+    "county": "Uinta County",
+    "town": "Evanston",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 16000000000,
+        "unit": "USD (company estimate, about, per county)",
+        "kind": "real",
+        "source": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/",
+        "date": "2026-08-25"
+      },
+      "power_mw": {
+        "value": 1250,
+        "unit": "MW initial, path to 5 GW (company)",
+        "kind": "real",
+        "source": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming",
+        "date": "2026-06-19"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "Islanded microgrid on on-site natural gas, off the public grid",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-secures-planning-approval-for-gigawatt-data-center-campus-in-wyoming/",
+        "date": "2026-06"
+      },
+      "cooling_type": {
+        "value": "Closed-loop system (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/",
+        "date": "2026-08-25"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 506,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming",
+        "date": "2026-06-19"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Administrative review petition by Christy Katzl, Wilhelm Katzl and Marijke Rossi (filed July 16, 2026) challenging the county conditional use permits (unadvertised meetings, conflicts of interest, no environmental study); dismissed by Judge James Kaste Aug. 17, 2026",
+        "source": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/",
+        "date": "2026-08-25"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "1.2-Gigawatt Data Center Near Evanston In Talks With Meta And Microsoft",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/02/14/data-center-near-evanston-is-talking-to-microsoft-meta/",
+        "date": "2026-02-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "1.25GW data center approved on ranchland near Evanston, Wyoming",
+        "outlet": "KPCW",
+        "url": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming",
+        "date": "2026-06-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "Prometheus Pushes Ahead On $32B Wyoming Data Centers As Legal Challenge Fades",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/",
+        "date": "2026-08-25",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Uinta County commissioners unanimously approved a conditional use permit (about 30 conditions) in June 2026. Construction not begun as of late Aug 2026. No tenant confirmed; county sent letters of support to Meta and Microsoft. Not the Bezos-backed Prometheus AI. 'announced' month uncertain (earliest coverage found Feb 2026)."
+  },
+  {
+    "id": "wy-natrona-prometheus-falls-ranch",
+    "name": "Prometheus Hyperscale Falls Ranch campus (Casper area)",
+    "owner": "Prometheus Hyperscale",
+    "operator": null,
+    "tier": "large",
+    "state": "WY",
+    "county": "Natrona County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 500000000,
+        "unit": "USD (as reported by WyoFile/Oil City News; company cites about $16B per county)",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      },
+      "power_mw": {
+        "value": 1500,
+        "unit": "MW campus (planned)",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "On-site natural gas generation (Mesa Power Solutions, Jenbacher generators); Casper Carbon Capture to provide underground carbon storage",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      },
+      "cooling_type": {
+        "value": "Closed-loop system with water and food-grade propylene glycol blend",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      },
+      "jobs_promised_build": {
+        "value": 3000,
+        "unit": "temporary construction jobs at peak (about, per Build Wyoming)",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      },
+      "jobs_promised_perm": {
+        "value": 150,
+        "unit": "permanent positions (per Build Wyoming)",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 940,
+        "unit": "acres on Falls Ranch south of I-25 between Casper and Glenrock (300 for on-site power, 640 for data halls)",
+        "kind": "real",
+        "source": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Pitching 940-acre data center, Prometheus Hyperscale asks Natrona County to bypass state review",
+        "outlet": "WyoFile / Oil City News",
+        "url": "https://wyofile.com/?p=130090",
+        "date": "2026-09-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Prometheus Pushes Ahead On $32B Wyoming Data Centers As Legal Challenge Fades",
+        "outlet": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/",
+        "date": "2026-08-25",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Land owned by Russell Gordy. Site moved from north of I-25 (data center part had been planned for Converse County, which rescinded its industrial park fast-track policy in May 2026 after the attorney general said it lacked authority). Prometheus asked Natrona County for industrial park zoning to avoid Wyoming Industrial Siting Council review; no application yet as of Sept 2, 2026; commissioners said a vote is months away. Company figure of about $16B per county conflicts with the reported $500M. Project announced late 2025."
+  },
+  {
+    "id": "wy-laramie-cleanspark-cheyenne",
+    "name": "CleanSpark Cheyenne bitcoin mining sites (Front Range and Campstool business parks)",
+    "owner": "CleanSpark",
+    "operator": null,
+    "tier": "large",
+    "state": "WY",
+    "county": "Laramie County",
+    "town": "Cheyenne",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 25000000,
+        "unit": "USD invested to date (Sept 2024); company planned $40-50M more on infrastructure and at least $100M on servers",
+        "kind": "real",
+        "source": "https://www.wyomingnews.com/laramieboomerang/news/company-moves-into-former-crypto-mine-that-biden-ordered-to-leave-for-national-security-concerns/article_3c426218-77bc-11ef-b609-9fd23b213e3d.html",
+        "date": "2024-09-22"
+      },
+      "power_mw": {
+        "value": 110,
+        "unit": "MW of data center infrastructure power across two Wyoming sites (as of 2025-09-30)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+        "date": "2025-11-25"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Immersion cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+        "date": "2025-11-25"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 40,
+        "unit": "estimated jobs across both properties",
+        "kind": "real",
+        "source": "https://www.wyomingnews.com/laramieboomerang/news/company-moves-into-former-crypto-mine-that-biden-ordered-to-leave-for-national-security-concerns/article_3c426218-77bc-11ef-b609-9fd23b213e3d.html",
+        "date": "2024-09-22"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Black Hills Energy (former MineOne site had a Black Hills agreement for up to 45 MW, expandable to 75 MW)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wyomingnews.com/laramieboomerang/news/company-moves-into-former-crypto-mine-that-biden-ordered-to-leave-for-national-security-concerns/article_3c426218-77bc-11ef-b609-9fd23b213e3d.html",
+        "date": "2024-09-22"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "We own ... two fully constructed parcels of land in Cheyenne, Wyoming, that operate as immersion bitcoin mining facilities.",
+        "source": "https://www.sec.gov/Archives/edgar/data/827876/000119312525297510/clsk-20250930.htm",
+        "date": "2025-11-25"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "The Front Range site was the former MineOne Partners crypto mine that the Biden administration ordered divested in May 2024 over its closeness to F.E. Warren Air Force Base and possible Chinese government ties; CleanSpark closed on it after CFIUS approval in late Sept 2024",
+        "source": "https://www.wyomingnews.com/laramieboomerang/news/company-moves-into-former-crypto-mine-that-biden-ordered-to-leave-for-national-security-concerns/article_3c426218-77bc-11ef-b609-9fd23b213e3d.html",
+        "date": "2024-09-22"
+      }
+    ],
+    "news": [
+      {
+        "title": "Company moves into former crypto mine that Biden ordered to leave for national security concerns",
+        "outlet": "Laramie Boomerang / Wyoming Tribune Eagle",
+        "url": "https://www.wyomingnews.com/laramieboomerang/news/company-moves-into-former-crypto-mine-that-biden-ordered-to-leave-for-national-security-concerns/article_3c426218-77bc-11ef-b609-9fd23b213e3d.html",
+        "date": "2024-09-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Two sites in one record: the former MineOne site in Front Range Business Park (Logistics Drive, planned 45 MW) and a site in Campstool Business Park (planned 30 MW); CleanSpark's 10-K gives only the combined 110 MW / 3.52 EH/s, so they are kept together. Split if a source gives separate addresses and loads. Bit Origin's 2022 Cheyenne fund (45 MW first phase, up to 75 MW) matches the MineOne/Black Hills contract profile and is treated as this site (lead wy-laramie-bit-origin-cheyenne dropped). Pass 3 (2026-10-15): Split re-checked: sources (Wyoming Tribune Eagle 2024-09-22, CleanSpark FY2025 10-K) still give only park names (Front Range, Logistics Drive; Campstool, no street) and a combined 110 MW, investment and jobs. No new address turned up, so not split."
+  }
+]

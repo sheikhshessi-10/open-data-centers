@@ -1,0 +1,284 @@
+{
+  "state": "MI",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center equipment sales and use tax exemption",
+      "law": "MCL 205.54ee (General Sales Tax Act sec. 4ee), added by 2015 PA 251, amended by 2024 PA 207 (HB 4906 of 2023), effective Apr 17, 2025; parallel use tax exemption",
+      "what": "Exempts sales of data center equipment to qualified data centers and colocated businesses from sales tax, through Dec 31, 2050, subject to conditions and reporting",
+      "value_known": null,
+      "source": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54ee",
+      "date": "2025-04-17"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "U-21990",
+      "regulator": "Michigan Public Service Commission",
+      "utility": "DTE Electric",
+      "what": "Special contracts to serve the 1,383 MW Saline Township data center (Green Chile Ventures LLC, Oracle subsidiary); conditionally approved ex parte with 19-year term, 80% minimum bill, termination payment, DTE bears unrecovered costs. Attorney General appealed.",
+      "site_ids": [
+        "mi-washtenaw-related-digital-saline"
+      ],
+      "status": "approved (on appeal)",
+      "url": "https://www.michigan.gov/mpsc/commission/news-releases/2025/12/18/mpsc-approves-dte-electric-energy-contracts-for-data-center",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "U-22058",
+      "regulator": "Michigan Public Service Commission",
+      "utility": "DTE Electric",
+      "what": "DTE Electric application for approval of special contracts with Google LLC (Primary Supply Agreement and Clean Capacity Accelerator Agreement) to serve Google's 1 GW Van Buren Township data center; Google pays for up to 1,600 MW of renewables and 480 MW of batteries. Conditionally approved unanimously Oct 1, 2026. Parties include the Attorney General, ABATE, MPSC Staff, Sierra Club, NRDC, Michigan Environmental Council, ELPC and others. Case number from the AG's Aug 3, 2026 reply brief: https://mi-psc.my.site.com/sfc/servlet.shepherd/version/download/068cs00002JTQUgAAP",
+      "site_ids": [
+        "mi-wayne-google-van-buren"
+      ],
+      "status": "approved",
+      "url": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
+      "date": "2026-10-01"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "2024 PA 207 (HB 4906 of 2023)",
+      "status": "enacted",
+      "what": "Amends the data center equipment sales tax exemption (MCL 205.54ee); effective Apr 17, 2025",
+      "source": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2024-HB-4906",
+      "date": "2025-04-17"
+    },
+    {
+      "name": "House one-year data center moratorium bill",
+      "status": "pending",
+      "what": "Would block permits for new data center projects for one year; no movement",
+      "source": "https://planetdetroit.org/2026/09/data-center-regulations-stall-michigan-legislature/",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "Senate one-year data center moratorium bill",
+      "status": "pending",
+      "what": "Would block permits for new data center projects for one year; no movement",
+      "source": "https://planetdetroit.org/2026/09/data-center-regulations-stall-michigan-legislature/",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "Senate Democrats' data center regulation package",
+      "status": "pending",
+      "what": "Water-use permits, ratepayer protections, community benefit requirements, ban on officials signing data center NDAs; stalled in committee since June 2026",
+      "source": "https://planetdetroit.org/2026/09/data-center-regulations-stall-michigan-legislature/",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "House Democrats' data center transparency package",
+      "status": "pending",
+      "what": "Transparency and community benefit requirements; stalled in House Government Operations since June 2026",
+      "source": "https://planetdetroit.org/2026/09/data-center-regulations-stall-michigan-legislature/",
+      "date": "2026-09-14"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "City of Detroit",
+      "type": "moratorium",
+      "what": "Council voted 6-2 to ask the mayor for a two-year pause; mayor's office informally paused permitting; 18-month ordinance pushed",
+      "status": "pending",
+      "source": "https://planetdetroit.org/2026/10/detroit-data-center-pause-council/",
+      "date": "2026-10"
+    },
+    {
+      "place": "City of Lansing",
+      "type": "moratorium",
+      "what": "Six-month data center moratorium",
+      "status": "in effect",
+      "source": "https://www.wkar.org/wkar-news/2026-07-14/lansing-passes-6-month-data-center-moratorium",
+      "date": "2026-07-14"
+    },
+    {
+      "place": "City of Marshall",
+      "type": "moratorium",
+      "what": "One-year moratorium delaying the Alterra project",
+      "status": "in effect",
+      "source": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan",
+      "date": "2026"
+    },
+    {
+      "place": "City of Gibraltar",
+      "type": "moratorium",
+      "what": "One-year moratorium with waiver; challenged in court by Raeden",
+      "status": "in effect (litigation)",
+      "source": "https://planetdetroit.org/2026/03/gibraltar-data-center-moratorium/",
+      "date": "2026-03"
+    },
+    {
+      "place": "City of Flint",
+      "type": "moratorium",
+      "what": "One-year data center moratorium",
+      "status": "in effect",
+      "source": "https://www.abc12.com/news/business/flint-city-council-approves-one-year-data-center-moratorium/article_8f64b736-0ba6-41bc-a6ce-032bbf62665c.html",
+      "date": "2026"
+    },
+    {
+      "place": "Howell Township",
+      "type": "moratorium",
+      "what": "Moratorium adopted Nov 2025, extended May 2026 through November",
+      "status": "in effect",
+      "source": "https://www.mlive.com/news/ann-arbor/2026/05/rural-township-extends-pause-on-data-centers-following-controversial-meta-backed-project.html",
+      "date": "2026-05"
+    },
+    {
+      "place": "Lyon Township",
+      "type": "moratorium",
+      "what": "Pause on new data centers while Project Flex proceeds",
+      "status": "in effect",
+      "source": "https://www.detroitnews.com/story/news/local/oakland-county/2026/03/03/as-project-flex-proceeds-lyon-township-hits-pause-on-new-data-centers/88960710007/",
+      "date": "2026-03-03"
+    },
+    {
+      "place": "York Township (Washtenaw)",
+      "type": "moratorium",
+      "what": "Six-month moratorium",
+      "status": "adopted",
+      "source": "https://www.wemu.org/wemu-news/2026-02-12/york-township-places-six-month-moratorium-on-data-center-plans",
+      "date": "2026-02-12"
+    },
+    {
+      "place": "Washington Township (Macomb)",
+      "type": "moratorium",
+      "what": "Six-month moratorium",
+      "status": "adopted",
+      "source": "https://www.detroitnews.com/story/news/local/macomb-county/2026/05/23/washington-township-passes-six-month-moratorium-on-data-centers/90213646007/",
+      "date": "2026-05-23"
+    },
+    {
+      "place": "Dorr Township",
+      "type": "moratorium",
+      "what": "12-month moratorium",
+      "status": "adopted",
+      "source": "https://wilcoxnewspapers.com/dorr-twp-approves-12-month-moratorium-on-data-centers/",
+      "date": "2026"
+    },
+    {
+      "place": "Solon Township",
+      "type": "moratorium",
+      "what": "Six-month moratorium (Feb 2026), extended Aug 2026",
+      "status": "in effect",
+      "source": "https://www.mlive.com/news/grand-rapids/2026/08/west-michigan-town-adds-6-more-months-on-data-center-moratorium.html",
+      "date": "2026-08"
+    },
+    {
+      "place": "Stronach Township",
+      "type": "moratorium",
+      "what": "Six-month moratorium",
+      "status": "adopted",
+      "source": "https://www.manisteenews.com/news/article/stronach-township-approves-six-month-data-center-22301704.php",
+      "date": "2026"
+    },
+    {
+      "place": "City of Kalamazoo",
+      "type": "moratorium",
+      "what": "Temporary moratorium on data center and battery storage projects",
+      "status": "adopted",
+      "source": "https://www.mlive.com/news/kalamazoo/2026/08/kalamazoo-approves-moratorium-on-data-center-battery-storage-projects.html",
+      "date": "2026-08"
+    },
+    {
+      "place": "City of Wixom",
+      "type": "ordinance",
+      "what": "Ordinance requiring special land use and Planning Commission approval for data centers; developer lawsuit pending",
+      "status": "adopted",
+      "source": "https://www.detroitnews.com/story/news/local/oakland-county/2026/08/30/wixom-moves-forward-with-data-center-restrictions-as-lawsuit-looms/91475277007/",
+      "date": "2026-08-30"
+    },
+    {
+      "place": "Augusta Township",
+      "type": "ballot",
+      "what": "Voters rejected industrial rezoning for the Thor Equities data center (nearly 90% no)",
+      "status": "rejected",
+      "source": "https://www.mlive.com/news/ann-arbor/2026/08/voters-in-augusta-township-reject-rezoning-farmland-eyed-by-data-center-project.html",
+      "date": "2026-08-04"
+    },
+    {
+      "place": "City of Warren",
+      "type": "moratorium",
+      "what": "12-month moratorium",
+      "status": "adopted",
+      "source": "https://www.candgnews.com/articles/government-news/warren-city-council-votes-to-approve-12-month-data-center-moratorium/",
+      "date": "2026"
+    },
+    {
+      "place": "City of Sterling Heights",
+      "type": "moratorium",
+      "what": "Data center moratorium",
+      "status": "adopted",
+      "source": "https://www.detroitnews.com/story/news/local/macomb-county/2026/02/03/sterling-heights-passes-moratorium-on-data-centers/88493407007/",
+      "date": "2026-02-03"
+    },
+    {
+      "place": "City of Rochester Hills",
+      "type": "moratorium",
+      "what": "Moratorium extended",
+      "status": "in effect",
+      "source": "https://www.mlive.com/news/detroit/2026/08/data-center-moratorium-extended-in-rochester-hills.html",
+      "date": "2026-08"
+    },
+    {
+      "place": "City of Dearborn",
+      "type": "moratorium",
+      "what": "Six-month pause on new data centers",
+      "status": "adopted",
+      "source": "https://www.mlive.com/news/detroit/2026/09/dearborn-approves-6-month-pause-on-new-data-centers-amid-ai-boom.html",
+      "date": "2026-09"
+    },
+    {
+      "place": "City of Taylor",
+      "type": "moratorium",
+      "what": "Data center moratorium",
+      "status": "adopted",
+      "source": "https://www.thenewsherald.com/2026/01/22/taylor-council-approves-moratorium-on-data-centers/",
+      "date": "2026-01-22"
+    },
+    {
+      "place": "City of Pontiac",
+      "type": "moratorium",
+      "what": "Data center moratorium",
+      "status": "adopted",
+      "source": "https://www.detroitnews.com/story/news/local/oakland-county/2026/01/21/pontiac-latest-community-to-pass-data-center-moratorium/88286730007/",
+      "date": "2026-01-21"
+    },
+    {
+      "place": "City of East Lansing",
+      "type": "moratorium",
+      "what": "Moratorium extended while regulations are drafted",
+      "status": "in effect",
+      "source": "https://eastlansinginfo.news/east-lansing-extends-data-center-moratorium-as-city-develops-new-regulations/",
+      "date": "2026"
+    },
+    {
+      "place": "City of Saginaw",
+      "type": "moratorium",
+      "what": "Moratorium extended",
+      "status": "in effect",
+      "source": "https://www.mlive.com/news/saginaw-bay-city/2026/04/saginaw-officials-extend-moratorium-to-weigh-data-center-impacts.html",
+      "date": "2026-04"
+    },
+    {
+      "place": "Sault Ste. Marie Tribe of Chippewa Indians (tribal lands)",
+      "type": "moratorium",
+      "what": "Indefinite moratorium on data centers",
+      "status": "in effect",
+      "source": "https://michiganadvance.com/2026/04/10/community-pushback-prompts-sault-tribe-leadership-to-adopt-moratorium-on-data-centers/",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Waterford Township; City of Portage; Springfield Township; Lenox Township; Dundee Township; Frenchtown Township",
+      "type": "moratorium",
+      "what": "Listed by Gander as having data center moratoria (Lenox's has expired)",
+      "status": "reported",
+      "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+      "date": "2026-10-08"
+    }
+  ]
+}

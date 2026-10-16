@@ -1,0 +1,233 @@
+[
+  {
+    "id": "me-franklin-androscoggin-mill-jay",
+    "name": "Androscoggin Mill data center redevelopment",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "ME",
+    "county": "Franklin County",
+    "town": "Jay",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 550000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+        "date": "2026-04-24"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (at least)",
+        "kind": "real",
+        "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+        "date": "2026-04-24"
+      },
+      "jobs_promised_build": {
+        "value": 800,
+        "unit": "construction jobs (over)",
+        "kind": "real",
+        "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+        "date": "2026-04-24"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Gov. Mills vetoed LD 307 because it 'fails to allow for a specific project in the Town of Jay that enjoys strong local support'; the $550M project is under contract and has received several permits.",
+        "source": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+        "date": "2026-04-24"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Data center redevelopment of the former Androscoggin paper mill (closed 2023 after a 2020 boiler explosion and Pixelle's exit; about 22% of Jay's tax base). Developers plan to reuse existing buildings, water and electrical infrastructure. Town of Jay, Franklin County Commissioners and the regional chamber wrote in support. Developer name and MW not given on the governor's page; stage 'permitted' because the governor says it 'has received several permits'."
+  },
+  {
+    "id": "me-aroostook-liquidcool-loring",
+    "name": "Loring LiquidCool Data Center",
+    "owner": "Loring LiquidCool Data Center LLC (LiquidCool Solutions technology)",
+    "operator": null,
+    "tier": "large",
+    "state": "ME",
+    "county": "Aroostook County",
+    "town": "Limestone",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-10-14",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 26,
+        "unit": "MW (2 MW already in the building plus a 24 MW Versant Power will-serve agreement); BDN says 50 MW available at the base and a 5-6 MW start",
+        "kind": "real",
+        "source": "https://www.bostonglobe.com/2026/02/23/metro/maine-data-center-legislation-ld307/",
+        "date": "2026-02-23"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Versant Power (will-serve agreement for 24 MW)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.bostonglobe.com/2026/02/23/metro/maine-data-center-legislation-ld307/",
+        "date": "2026-02-23"
+      },
+      "cooling_type": {
+        "value": "Immersion cooling; company says it uses no water to cool servers",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.bangordailynews.com/2025/10/14/aroostook/ai-data-center-loring-air-force-base/",
+        "date": "2025-10-14"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "AI data center coming to former Loring Air Force Base",
+        "outlet": "Bangor Daily News",
+        "url": "https://www.bangordailynews.com/2025/10/14/aroostook/ai-data-center-loring-air-force-base/",
+        "date": "2025-10-14",
+        "tone": "good"
+      },
+      {
+        "title": "Maine data center legislation LD 307",
+        "outlet": "Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/02/23/metro/maine-data-center-legislation-ld307/",
+        "date": "2026-02-23",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Billed as Maine's first AI data center, in Building 7230 (115,000 sq ft warehouse) at the former Loring Air Force Base, leased long-term from Green 4 Maine, which owns the 450-acre base. Company said it could grow to 50 MW. In early 2026 the company was still closing financing and said operations would follow about six months after. Stage kept at announced; no source confirms construction started."
+  },
+  {
+    "id": "me-androscoggin-millcompute-lewiston",
+    "name": "MillCompute AI data center at Bates Mill No. 3",
+    "owner": "MillCompute LLC (with Twin Cities LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "ME",
+    "county": "Androscoggin County",
+    "town": "Lewiston",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025-12-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 300000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://www.bostonglobe.com/2026/02/23/metro/maine-data-center-legislation-ld307/",
+        "date": "2026-02-23"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "Sought a 20-year TIF and credit enhancement agreement returning 90% of property taxes for years 1-10 and 85% for years 11-20",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.mainepublic.org/business-and-economy/2025-12-17/lewiston-city-council-shoots-down-data-center-proposal",
+        "date": "2025-12-17"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Lewiston City Council unanimously rejected the proposal on 2025-12-16 after more than 100 residents objected.",
+        "source": "https://www.mainepublic.org/business-and-economy/2025-12-17/lewiston-city-council-shoots-down-data-center-proposal",
+        "date": "2025-12-16"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Lewiston City Council shoots down data center proposal",
+        "outlet": "Maine Public",
+        "url": "https://www.mainepublic.org/business-and-economy/2025-12-17/lewiston-city-council-shoots-down-data-center-proposal",
+        "date": "2025-12-17",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "85,000 sq ft Tier III AI data center proposed in vacant Bates Mill No. 3 (140 Mill St. per search excerpts), downtown Lewiston; up to 30 jobs reported. Made public 2025-12-11; rejected 2025-12-16. Promoted from lead me-androscoggin-lewiston-ai."
+  }
+]

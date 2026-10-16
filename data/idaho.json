@@ -1,0 +1,272 @@
+[
+  {
+    "id": "id-ada-meta-kuna",
+    "name": "Meta Kuna Data Center",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "ID",
+    "county": "Ada County",
+    "town": "Kuna",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2022",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1200000000,
+        "unit": "USD (more than, company figure)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/kuna-we-are-online/",
+        "date": "2026-09-03"
+      },
+      "power_mw": {
+        "value": 200,
+        "unit": "MW (up to, as reported by Idaho Conservation League)",
+        "kind": "estimate",
+        "source": "https://idahoconservation.org/blog/the-data-center-boom-and-idahos-resource-future",
+        "date": "2026-06-16"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "operational jobs (about, once completed)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/kuna-data-center-info-sheet/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1600,
+        "unit": "skilled trade workers at peak construction",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/kuna-we-are-online/",
+        "date": "2026-09-03"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Idaho Power grid; Meta matches use with 100% clean energy; three Meta-supported projects adding 645 MW of renewables in Ada County; Clean Energy Your Way green tariff",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/kuna-we-are-online/",
+        "date": "2026-09-03"
+      },
+      "utility": {
+        "value": "Idaho Power; energy services agreement with Brisbie LLC (Meta) approved by Idaho PUC May 11, 2023, case IPC-E-21-42, Order 35777",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2142/OrdNotc/20230511Final_Order_No_35777.pdf",
+        "date": "2023-05-11"
+      },
+      "cooling_type": {
+        "value": "Closed-loop, liquid-cooled system that needs no water most of the year (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/kuna-we-are-online/",
+        "date": "2026-09-03"
+      },
+      "water_use": {
+        "value": "400,000 to 600,000 gallons per day (as reported by Idaho Conservation League)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://idahoconservation.org/blog/the-data-center-boom-and-idahos-resource-future",
+        "date": "2026-06-16"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Meta built a water and wastewater treatment system (more than $100M) and gave it to the City of Kuna; $200,000 grant to Kuna School District; $1.5M+ to Ada County schools and nonprofits.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2026/09/kuna-we-are-online/",
+        "date": "2026-09-03"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Meta announced the Kuna data center online on 2026-09-03; construction began 2022. Power and water figures are from an advocacy blog (estimate). ICL blog date shows 'Jun 16' without a year; assumed 2026 from context (mentions 2026 session) - verify."
+  },
+  {
+    "id": "id-bannock-lex-pocatello",
+    "name": "Lex Developments AI data center, Pocatello (former Hoku plant)",
+    "owner": "Lex Developments",
+    "operator": "Lex Developments",
+    "tier": "large",
+    "state": "ID",
+    "county": "Bannock County",
+    "town": "Pocatello",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2600000000,
+        "unit": "USD (as reported)",
+        "kind": "real",
+        "source": "https://boisedev.com/news/2026/07/20/city-denies-2-6-billion-data-center-but-developer-vows-to-appeal/",
+        "date": "2026-07-20"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Hearing examiner denied the conditional use permit after the May 14, 2026 hearing; about 60 of 90+ speakers opposed.",
+        "source": "https://www.eastidahonews.com/?p=852886",
+        "date": "2026-07-16"
+      },
+      {
+        "what": "Pocatello City Council voted 4-1 on July 16, 2026 to uphold the denial; developer cannot reapply for one year and says it will appeal (district court).",
+        "source": "https://www.eastidahonews.com/?p=852886",
+        "date": "2026-07-16"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Pocatello City Council upholds decision to deny AI data center",
+        "outlet": "East Idaho News",
+        "url": "https://www.eastidahonews.com/?p=852886",
+        "date": "2026-07-16",
+        "tone": "bad"
+      },
+      {
+        "title": "City denies $2.6 billion data center, but developer vows to appeal",
+        "outlet": "BoiseDev",
+        "url": "https://boisedev.com/news/2026/07/20/city-denies-2-6-billion-data-center-but-developer-vows-to-appeal/",
+        "date": "2026-07-20",
+        "tone": "bad"
+      },
+      {
+        "title": "Pocatello rejected a data center in May. This week, it might reconsider",
+        "outlet": "Utah Public Radio",
+        "url": "https://www.upr.org/politics/2026-07-13/pocatello-idaho-data-center-proposal-appeal-regulation",
+        "date": "2026-07-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Plan to convert the former Hoku Materials polysilicon plant on Pocatello's west side (about 49 acres, per search summary; verify). Shoshone-Bannock Tribes reportedly opposed (search summary, not yet verified in a fetched article). County assumed Bannock (Pocatello); verify the parcel is not in Power County."
+  },
+  {
+    "id": "id-ada-rhea-blackscreek",
+    "name": "Rhea Data campus near Blacks Creek Reservoir (BLM land)",
+    "owner": "Rhea Data (Arevia Power)",
+    "operator": null,
+    "tier": "large",
+    "state": "ID",
+    "county": "Ada County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-08",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 3200,
+        "unit": "acres campus (3,750 with 550 acres of transmission rights of way)",
+        "kind": "real",
+        "source": "https://www.eastidahonews.com/?p=870481",
+        "date": "2026-09-21"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Massive data center with power plant planned for public land in Idaho",
+        "outlet": "East Idaho News",
+        "url": "https://www.eastidahonews.com/?p=870481",
+        "date": "2026-09-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "New data center proposed on federal land south of Boise",
+        "outlet": "KBOI (idahonews.com)",
+        "url": "https://idahonews.com/news/local/new-data-center-proposed-on-federal-land-south-of-boise",
+        "date": "2026-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data centers proposed on federal land in Eastern Oregon, Western states",
+        "outlet": "OPB",
+        "url": "https://www.opb.org/article/2026/09/29/data-centers-proposed-federal-land-eastern-oregon/",
+        "date": "2026-09-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "BLM Four Rivers Field Office application received Aug 2025 ('announced' = application month); pre-planning phase; notice of intent planned before end of 2026. Multi-building campus on Kuna-Mora Road with a natural-gas plant in the preliminary design; rights of way into Elmore County. MW and water not disclosed. Opposed by Sierra Club Idaho (press release, Sept 2026; not read in full)."
+  }
+]

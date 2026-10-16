@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "wa-grant-microsoft-quincy",
+    "name": "Microsoft Quincy datacenters",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "WA",
+    "county": "Grant County",
+    "town": "Quincy",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2007",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Microsoft helped fund Quincy's industrial water reuse facility (opened June 30, 2021), which treats about 380 million gallons of datacenter wastewater in a closed loop for cooling.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/blog/understanding-microsoft-datacenters-in-central-washington/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Tens of millions of dollars toward Quincy's industrial water reuse facility (opened June 2021).",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/wp-content/uploads/2023/05/Malaga-Datacenter-Townhall-Boards-ENGLISH.pdf",
+        "date": "2023-05"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Statewide (not this site alone): Microsoft projects 670+ full-time employees and 500+ service workers across all its Washington datacenters by end of 2026 (local.microsoft.com). Microsoft's first datacenter (Quincy, 2007) per Microsoft town hall boards. Circular Center at Quincy opened Feb 2023. Page dates for local.microsoft.com blog unknown; access date used. Several buildings; one campus record."
+  },
+  {
+    "id": "wa-douglas-microsoft-eastwenatchee",
+    "name": "Microsoft East Wenatchee datacenter",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "WA",
+    "county": "Douglas County",
+    "town": "East Wenatchee",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Microsoft says its newest AI datacenters in Central Washington use no water for cooling (not tied explicitly to this site).",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/blog/understanding-microsoft-datacenters-in-central-washington/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft page: operating in East Wenatchee with a new datacenter in development; expects to be among the largest taxpayers once built. Trackers say a 170-acre Pangborn-area site bought 2020 (unverified). Stage 'building' reflects new development; existing part runs."
+  },
+  {
+    "id": "wa-chelan-microsoft-malaga",
+    "name": "Microsoft Malaga datacenter",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "WA",
+    "county": "Chelan County",
+    "town": "Malaga",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "To be determined (Microsoft, 2023)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/wp-content/uploads/2023/05/Malaga-Datacenter-Townhall-Boards-ENGLISH.pdf",
+        "date": "2023-05"
+      },
+      "utility": {
+        "value": "Chelan County PUD (interconnection agreement; PUD builds substation and upgrades lines, Microsoft pays)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/wp-content/uploads/2023/05/Malaga-Datacenter-Townhall-Boards-ENGLISH.pdf",
+        "date": "2023-05"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Town hall boards (May 2023): 3 buildings at full buildout, 1 substation, onsite water tanks, 60-70 vendors and employees per building; first building construction fall 2023 to fall 2025; water via Chelan Douglas Regional Port Authority. Microsoft page (2026) lists Malaga as in development."
+  },
+  {
+    "id": "wa-grant-sabey-quincy",
+    "name": "SDC Quincy (Sabey Intergate.Quincy)",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "WA",
+    "county": "Grant County",
+    "town": "Quincy",
+    "lat": 47.248618,
+    "lng": -119.814737,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 123,
+        "unit": "MW capacity (page also cites 50-60 MW delivered)",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/quincy-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Evaporative and economizer cooling; chilled water with CRAH units in Building B",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/quincy-data-center",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Five buildings, 530,000 sq ft, 2200 M St NE, Quincy. Hydropower at 3.8 cents/kWh (company).",
+    "pin_source": "https://sabeydatacenters.com/locations/quincy-data-center",
+    "pin_address": "2200 M ST NE, QUINCY, WA, 98848"
+  },
+  {
+    "id": "wa-douglas-sabey-columbia",
+    "name": "SDC Columbia (Sabey Intergate.Columbia)",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "WA",
+    "county": "Douglas County",
+    "town": "East Wenatchee",
+    "lat": 47.405928,
+    "lng": -120.193242,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 70,
+        "unit": "MW utility power delivered to campus",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/east-wenatchee-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Douglas County PUD (hydro, 5 cents/kWh)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/east-wenatchee-data-center",
+        "date": "2026-10-15"
+      },
+      "cooling_type": {
+        "value": "Evaporative and economizer cooling; PUE about 1.2",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/east-wenatchee-data-center",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "4405 Grant Rd, East Wenatchee. Three buildings, fourth under construction (company page).",
+    "pin_source": "https://sabeydatacenters.com/locations/east-wenatchee-data-center",
+    "pin_address": "4405 GRANT RD, EAST WENATCHEE, WA, 98802"
+  },
+  {
+    "id": "wa-king-sabey-tukwila",
+    "name": "SDC Seattle (Sabey Intergate.Seattle, Tukwila)",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "WA",
+    "county": "King County",
+    "town": "Tukwila",
+    "lat": 47.488816,
+    "lng": -122.288446,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 54,
+        "unit": "MW data center power capacity",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/seattle-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "3355 35th Ave S, Tukwila; over 1 million sq ft campus (company page calls it Seattle).",
+    "pin_address": "3355 35th Ave S, Tukwila, WA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://sabeydatacenters.com/locations/seattle-data-center"
+  },
+  {
+    "id": "wa-grant-vantage-quincy",
+    "name": "Vantage Quincy campus (WA1)",
+    "owner": "Vantage Data Centers",
+    "operator": "Vantage Data Centers",
+    "tier": "large",
+    "state": "WA",
+    "county": "Grant County",
+    "town": "Quincy",
+    "lat": 47.2485,
+    "lng": -119.815395,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 89,
+        "unit": "MW critical IT load",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/quincy-washington/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 68,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/quincy-washington/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2101 M Street NE, Quincy. Three data centers, 775,000 sq ft. Status inferred from certifications (Tier III constructed facility, LEED Gold).",
+    "pin_source": "https://vantage-dc.com/data-center-locations/north-america/quincy-washington/",
+    "pin_address": "2101 M ST NE, QUINCY, WA, 98848"
+  },
+  {
+    "id": "wa-grant-cyrusone-quincy",
+    "name": "CyrusOne Quincy (PNW1)",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "WA",
+    "county": "Grant County",
+    "town": "Quincy",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 36,
+        "unit": "MW total IT capacity",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/quincy-washington?hsLang=en",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "About 720,000 sq ft technical space, land for future development (company page). Status not stated on page; listed without an 'In Development' label."
+  },
+  {
+    "id": "wa-grant-h5-quincy",
+    "name": "H5 Data Centers Quincy campus (Quincy I-III)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "WA",
+    "county": "Grant County",
+    "town": "Quincy",
+    "lat": 47.248606,
+    "lng": -119.817382,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 40,
+        "unit": "MW at full buildout (Quincy I)",
+        "kind": "real",
+        "source": "https://h5datacenters.com/quincy-data-center.html",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "100% Washington state sales tax abatement (company marketing; rural data center exemption)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://h5datacenters.com/",
+        "date": "2026-10-15"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1711 M St NE, Quincy. H5 lists three Quincy facilities (Quincy, Quincy II, Quincy III); 692,000+ sq ft. A tracker says Quincy II is Yahoo's original 2007 complex (unverified).",
+    "pin_source": "https://h5datacenters.com/quincy-data-center.html",
+    "pin_address": "1711 M ST NE, QUINCY, WA, 98848"
+  },
+  {
+    "id": "wa-wallawalla-amazon-attalia",
+    "name": "Amazon Attalia Data Center Campus (Wallula Gap Business Park)",
+    "owner": "Amazon (Amazon Data Services)",
+    "operator": null,
+    "tier": "large",
+    "state": "WA",
+    "county": "Walla Walla County",
+    "town": "Burbank",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-02",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD (planned campus, four phases, as reported)",
+        "kind": "real",
+        "source": "https://www.tricitiesbusinessnews.com/articles/amazon-wallula-gap",
+        "date": "2026-03-12"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 134,
+        "unit": "acres (current Attalia application site; Amazon is buying 550+ acres from the Port of Walla Walla)",
+        "kind": "real",
+        "source": "https://elkhornmediagroup.com/?p=215344",
+        "date": "2026-06-25"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents protested the plan; tension with local officials (Washington State Standard headline; page blocked, full details not read).",
+        "source": "https://washingtonstatestandard.com/2026/10/06/amazons-walla-walla-data-center-plan-sparks-tension-between-protesters-local-officials/",
+        "date": "2026-10-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon's proposed data center application deemed complete by Walla Walla County",
+        "outlet": "Elkhorn Media Group",
+        "url": "https://elkhornmediagroup.com/?p=219724",
+        "date": "2026-09-01",
+        "tone": "neutral"
+      },
+      {
+        "title": "Walla Walla County halts Amazon data center plans over missing impact studies",
+        "outlet": "Elkhorn Media Group",
+        "url": "https://elkhornmediagroup.com/?p=215344",
+        "date": "2026-06-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Amazon's Walla Walla data center plan sparks tension between protesters, local officials",
+        "outlet": "Washington State Standard",
+        "url": "https://washingtonstatestandard.com/2026/10/06/amazons-walla-walla-data-center-plan-sparks-tension-between-protesters-local-officials/",
+        "date": "2026-10-06",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Port of Walla Walla amended the Wallula Gap Business Park sale in Feb 2026: buyer changed from Advance Phase LLC to Amazon Data Services, 550+ acres, $36M+ (Tri-Cities Area Journal of Business, 2026-03-12). Current application: three 220,000 sq ft data center buildings, security building, 9,675 sq ft industrial water facility, evaporation ponds and a pad for a future substation on 134 acres along Sundance Road between Dodd and Worden roads, east of US-12 near Burbank. County found application incomplete June 2026 (traffic study), then complete Sept 1, 2026; no final decision yet. The $5B figure is the full four-phase plan reported in March 2026. 'announced' date = port amendment month (Feb 2026)."
+  },
+  {
+    "id": "wa-grant-keel-moseslake",
+    "name": "Keel Moses Lake campus (Grant Node Data Center, former Bitfarms bitcoin mine)",
+    "owner": "Keel Infrastructure (formerly Bitfarms)",
+    "operator": "Keel Infrastructure",
+    "tier": "large",
+    "state": "WA",
+    "county": "Grant County",
+    "town": "Moses Lake",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 18,
+        "unit": "MW energized",
+        "kind": "real",
+        "source": "https://www.keelinfra.com/campuses/moses-lake",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 6,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.keelinfra.com/campuses/moses-lake",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Moses Lake could get 2-3 more data centers by 2029, source says",
+        "outlet": "Source ONE News",
+        "url": "https://www.yoursourceone.com/columbia_basin/moses-lake-could-get-2-3-more-data-centers-by-2029-source-says/article_7e540fd9-69e2-4ace-9f80-47ecb2cf9a51.html",
+        "date": "2026-08-20",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former bitcoin mining campus on Randolph Road being converted to AI/HPC (GB300 reference design). Company page (2026 updates): bitcoin miners decommissioned and a building demolished 2026-04-27; PowerSecure backup power deal 2026-09-09; foundation pours Sept 2026. Source ONE: construction and commissioning targeted for 2027. Bitfarms (now Keel) bought the site as a 24 MW Grant PUD-powered facility (Decrypt; tracker-level). Just under the 20 MW bar today but counts as a crypto-to-AI campus."
+  },
+  {
+    "id": "wa-pendoreille-merklestandard-usk",
+    "name": "Merkle Standard bitcoin mine (former Ponderay Newsprint mill, Usk)",
+    "owner": "Merkle Standard",
+    "operator": null,
+    "tier": "large",
+    "state": "WA",
+    "county": "Pend Oreille County",
+    "town": "Usk",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2022",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW phase one planned (company hoped for 500 MW total)",
+        "kind": "real",
+        "source": "https://www.spokanepublicradio.org/regional-news/2022-04-06/bitcoin-mining-facility-in-pend-oreille-co-draws-questions-about-power-use-zoning",
+        "date": "2022-04-06"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Pend Oreille PUD (BPA transmission study)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.spokanepublicradio.org/regional-news/2022-04-06/bitcoin-mining-facility-in-pend-oreille-co-draws-questions-about-power-use-zoning",
+        "date": "2022-04-06"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Phyllis Kardos of Responsible Growth Northeast Washington filed zoning concerns with Pend Oreille County Community Development.",
+        "source": "https://www.spokanepublicradio.org/regional-news/2022-04-06/bitcoin-mining-facility-in-pend-oreille-co-draws-questions-about-power-use-zoning",
+        "date": "2022-04-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Bitcoin mining facility in Pend Oreille Co. draws questions about power use, zoning",
+        "outlet": "Spokane Public Radio",
+        "url": "https://www.spokanepublicradio.org/regional-news/2022-04-06/bitcoin-mining-facility-in-pend-oreille-co-draws-questions-about-power-use-zoning",
+        "date": "2022-04-06",
+        "tone": "bad"
+      },
+      {
+        "title": "Hashbranch and Merkle Standard deploy 1.3 exahash bitcoin mining operation (press release)",
+        "outlet": "The Block (press release)",
+        "url": "https://www.theblock.co/press-releases/hashbranch-and-merkle-standard-deploy-massive-1-3-exahash-bitcoin-mining-operation-350881",
+        "date": "2025-04-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company release (Apr 2025): more than 20 MW of water-cooled ASICs running at its northeast Washington flagship since fall 2022. Spokane Public Radio (2022): Merkle Standard bought the Ponderay Newsprint mill at Usk; 100 MW phase one, hoped-for 500 MW. Trackers claim 225 MW capacity and a 72 MW GPU plan (unverified). Replaces leads wa-pendoreille-crypto-usk and wa-unknown-merkle-standard."
+  },
+  {
+    "id": "wa-king-digital-realty-westin-sea10",
+    "name": "Digital Realty SEA10 Westin Building Exchange (2001 Sixth Avenue)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "WA",
+    "county": "King County",
+    "town": "Seattle",
+    "lat": 47.614391,
+    "lng": -122.338436,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2001 Sixth Avenue (Westin Building), Seattle carrier hotel; total building size 412,500 sq ft (https://www.digitalrealty.com/data-centers/americas/seattle/sea10). Digital Realty 10-K: Seattle 1 building, 412,000 net rentable sq ft, acquired 2020 (https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm). Equinix SE2 (Suite 350, 36,382 sq ft) is inside. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "wa-king-h5-seattle",
+    "name": "H5 Data Centers Seattle (1000 Denny Way)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "WA",
+    "county": "King County",
+    "town": "Seattle",
+    "lat": 47.618587,
+    "lng": -122.337129,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1000 Denny Way, Seattle; 293,000 sq ft colocation facility, 40 on-net carriers (https://h5datacenters.com/seattle-data-center.html). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "wa-king-centersquare-tukwila",
+    "name": "Centersquare Tukwila SEA1",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "WA",
+    "county": "King County",
+    "town": "Tukwila",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 109,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/seattle",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Tukwila SEA1: 75,776 sq ft raised floor, 109 MW utility power (https://www.csquare.com/data-centers/seattle). Tukwila SEA2 (29,279 sq ft, 8.6 MW) not included. Different owner from wa-king-sabey-tukwila. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  },
+  {
+    "id": "wa-douglas-bitdeer-pangborn",
+    "name": "Bitdeer Wenatchee (Pangborn)",
+    "owner": "Bitdeer Technologies Group",
+    "operator": null,
+    "tier": "large",
+    "state": "WA",
+    "county": "Douglas County",
+    "town": "East Wenatchee (Pangborn)",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2018-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 13,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/ea0282628-20f_bitdeer.htm",
+        "date": "2026-04-30"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mine running since May 2018, being converted to an AI cloud data center: crypto equipment removal began March 2026, target Q4 2026, building permit applications filed (Bitdeer 20-F, 2026-04-30). Bitdeer calls it 'Wenatchee, Washington' and 'Pangborn, Washington'; the county comes from Pangborn (Pangborn Memorial Airport area, Douglas County) and is not stated by Bitdeer. Small; listed as a crypto-to-AI conversion."
+  }
+]

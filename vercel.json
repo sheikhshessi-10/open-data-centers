@@ -1,0 +1,7 @@
+{
+  "buildCommand": "python3 site/build.py --check",
+  "outputDirectory": "public",
+  "installCommand": "echo no install needed",
+  "cleanUrls": true,
+  "trailingSlash": true
+}

@@ -1,0 +1,705 @@
+[
+  {
+    "id": "md-frederick-aligned-quantum",
+    "name": "Aligned Data Centers Frederick campus (IAD-04 / IAD-06) at Quantum Frederick",
+    "owner": "Aligned Data Centers",
+    "operator": "Aligned Data Centers",
+    "tier": "large",
+    "state": "MD",
+    "county": "Frederick County",
+    "town": "Adamstown",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2022-11-29",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 264,
+        "unit": "MW (four buildings planned; IAD-06 alone is 72 MW)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/aligned-tops-out-maryland-data-center/",
+        "date": "2026-03-12"
+      },
+      "acres": {
+        "value": 75,
+        "unit": "acres (parcel inside the 2,100-acre Quantum Frederick park)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/aligned-tops-out-maryland-data-center/",
+        "date": "2026-03-12"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Grid power; MDE permit to construct (Jan 2025) for diesel backup generators (172 per Nature Forward summary), allowed without a PSC CPCN after the 2024 Critical Infrastructure Streamlining Act",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://mde.maryland.gov/programs/land/MarylandBrownfieldVCP/Documents/AlignedDataCenterJan2025IssuedPTC.pdf",
+        "date": "2025-01"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Frederick County Data Center Referendum Committee gathered more than 20,000 signatures to put the Dec. 2025 expansion of the Adamstown data center zone (Critical Digital Infrastructure Overlay Zone) to a referendum; data center companies sued and the Maryland Supreme Court kept it off the ballot (June 30, 2026)",
+        "source": "https://marylandmatters.org/2026/07/13/data-center-frustrations-cause-upheaval-in-county-primary-elections/",
+        "date": "2026-07-13"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Maryland PSC denied Aligned's 2022 request for a CPCN for 168 diesel backup generators; Aligned withdrew until the 2024 law exempted backup generators from CPCN review",
+        "source": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Aligned tops out Maryland data center",
+        "outlet": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/aligned-tops-out-maryland-data-center/",
+        "date": "2026-03-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center frustrations cause upheaval in county primary elections",
+        "outlet": "Maryland Matters",
+        "url": "https://marylandmatters.org/2026/07/13/data-center-frustrations-cause-upheaval-in-county-primary-elections/",
+        "date": "2026-07-13",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Land purchase from Quantum Loophole closed 2022-11-29 (company release, used as 'announced'). IAD-04 broke ground Feb 2025; IAD-06 (72 MW, 450,000 sq ft) topped out March 2026. Park is now led by TPG Real Estate / Catellus (Quantum Loophole pushed out 2024); park-wide plan 2.4 GW, 17.4M sq ft entitled (catellus.com)."
+  },
+  {
+    "id": "md-frederick-rowan-bauxite",
+    "name": "Rowan Bauxite I, II & III campus at Quantum Frederick",
+    "owner": "Rowan Digital Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "MD",
+    "county": "Frederick County",
+    "town": "Adamstown",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 600,
+        "unit": "MW (Rowan sidebar; page body says more than 630 MW)",
+        "kind": "real",
+        "source": "https://rowan.com/portfolio/bauxite-i-ii-iii/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 375,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://rowan.com/portfolio/bauxite-i-ii-iii/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Frederick County Data Center Referendum Committee gathered more than 20,000 signatures to put the Dec. 2025 expansion of the Adamstown data center zone (Critical Digital Infrastructure Overlay Zone) to a referendum; data center companies sued and the Maryland Supreme Court kept it off the ballot (June 30, 2026)",
+        "source": "https://marylandmatters.org/2026/07/13/data-center-frustrations-cause-upheaval-in-county-primary-elections/",
+        "date": "2026-07-13"
+      }
+    ],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Rowan's page says Maryland and shows a Frederick image; location at Quantum Frederick per Nature Forward's Sept/Oct 2026 summary. Bauxite I reached substantial completion in 2025; Bauxite II and III target 2026 and 2027. Nature Forward (citing datacentermap) says Bauxite I is 'AWS BWI', about 300 MW on 151 acres, and that Amazon filed an MDE air permit for 99 generators (>258 MW) in the park; AWS tenancy not confirmed by an official source here. Possible overlap with a separate AWS record if one is created."
+  },
+  {
+    "id": "md-calvert-amazon-calvert-cliffs",
+    "name": "AWS Calvert Technology Center (Calvert Cliffs)",
+    "owner": "Amazon Data Services Inc. (AWS)",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "MD",
+    "county": "Calvert County",
+    "town": "Lusby",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2026-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Change.org petition by resident Melissa Emmal for a data center moratorium, more than 10,000 signatures",
+        "source": "https://marylandmatters.org/2026/08/04/amazon-abandons-plans-for-a-data-center-at-calvert-cliffs/",
+        "date": "2026-08-04"
+      },
+      {
+        "what": "Voters ousted all three county commissioners who had voted against a data center pause (June 23, 2026 primary)",
+        "source": "https://marylandmatters.org/2026/07/13/data-center-frustrations-cause-upheaval-in-county-primary-elections/",
+        "date": "2026-07-13"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon abandons plans for data center campus at Calvert Cliffs",
+        "outlet": "Maryland Matters",
+        "url": "https://marylandmatters.org/2026/08/04/amazon-abandons-plans-for-a-data-center-at-calvert-cliffs/",
+        "date": "2026-08-04",
+        "tone": "neutral"
+      },
+      {
+        "title": "AWS Withdraws Proposed Calvert County Data Center Project",
+        "outlet": "Calvert County Government",
+        "url": "https://www.calvertcountymd.gov/m/newsflash/Home/Detail/3192",
+        "date": "2026-08-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "AWS filed its Conceptual Site Development Plan in May 2026 for 'multiple data center campuses' covering 2.4 million sq ft near the Calvert Cliffs nuclear plant (Maryland Matters, citing a county planning document) and withdrew it on 2026-08-04. On 2026-09-30 Constellation announced a 20-year, 690 MW power purchase deal with Amazon for Calvert Cliffs output that flows to the grid, not to a local data center."
+  },
+  {
+    "id": "md-baltimorecounty-security-land-woodlawn",
+    "name": "Woodlawn data center campus (former Social Security campus, 1500 Woodlawn Drive)",
+    "owner": "Security Land and Development LP",
+    "operator": null,
+    "tier": "large",
+    "state": "MD",
+    "county": "Baltimore County",
+    "town": "Woodlawn",
+    "lat": 39.306283,
+    "lng": -76.734227,
+    "stage": "announced",
+    "announced": "2025-12-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW (planned campus)",
+        "kind": "real",
+        "source": "https://foxbaltimore.com/newsletter-daily/data-centers-energy-woodlawn-baltimore-county-maryland",
+        "date": "2025-12-05"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (up to)",
+        "kind": "estimate",
+        "source": "https://natureforward.org/woodlawn-data-center-baltimore-md-maryland-data-center-series-pt-2/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "BGE (Baltimore Gas and Electric); new substation on 5 donated acres",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://foxbaltimore.com/newsletter-daily/data-centers-energy-woodlawn-baltimore-county-maryland",
+        "date": "2025-12-05"
+      },
+      "acres": {
+        "value": 42,
+        "unit": "acres (plus 5 acres to be donated to BGE for a new substation)",
+        "kind": "real",
+        "source": "https://foxbaltimore.com/newsletter-daily/data-centers-energy-woodlawn-baltimore-county-maryland",
+        "date": "2025-12-05"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Baltimore County Council passed Bill 3-26 (Jan 2026): data center study and one-year permit moratorium running to January 2027, which holds up the planned June-July 2026 start",
+        "source": "https://natureforward.org/woodlawn-data-center-baltimore-md-maryland-data-center-series-pt-2/",
+        "date": "2026-10-15"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Residents raised water use, air and noise pollution, energy demand and property values at a Dec. 2025 community meeting held by State Sen. Charles Sydnor III; Del. Sheila Ruth voiced reservations; developer did not attend",
+        "source": "https://www.wmar2news.com/news/region/baltimore-county/controversial-proposed-data-center-up-for-debate-in-woodlawn",
+        "date": "2025-12"
+      }
+    ],
+    "news": [
+      {
+        "title": "New data center could be coming to Woodlawn area in Baltimore County",
+        "outlet": "FOX45 Baltimore",
+        "url": "https://foxbaltimore.com/newsletter-daily/data-centers-energy-woodlawn-baltimore-county-maryland",
+        "date": "2025-12-05",
+        "tone": "neutral"
+      },
+      {
+        "title": "Controversial proposed data center up for debate in Woodlawn",
+        "outlet": "WMAR-2 News",
+        "url": "https://www.wmar2news.com/news/region/baltimore-county/controversial-proposed-data-center-up-for-debate-in-woodlawn",
+        "date": "2025-12",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead md-baltimorecounty-woodlawn. County spokesperson (Dec 2025): razing permit filed April and re-filed June 2025; no development plans submitted. No end user named. Nature Forward says the LP's state registration expired in 2023. WMAR page gives no date (meeting held early Dec. 2025; Nature Forward dates it 2025-12-02). 'announced' = first news report.",
+    "pin_source": "https://natureforward.org/woodlawn-data-center-baltimore-md-maryland-data-center-series-pt-2/",
+    "pin_address": "1500 Woodlawn Drive, Woodlawn, MD"
+  },
+  {
+    "id": "md-montgomery-atmosphere-dickerson",
+    "name": "Dickerson Data Center Campus (former Dickerson power plant)",
+    "owner": "Atmosphere Data Centers (Atmosphere Dickerson Property Owner LLC); land from Terra Energy LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "MD",
+    "county": "Montgomery County",
+    "town": "Dickerson",
+    "lat": 39.204231,
+    "lng": -77.444862,
+    "stage": "blocked",
+    "announced": "2023-12-27",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 360,
+        "unit": "MW (five buildings, scalable; a county council testimony cites 300 MW)",
+        "kind": "estimate",
+        "source": "https://natureforward.org/?p=21908",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": "Average 69,300 gallons/day withdrawn from the Potomac River (about 46,200 evaporated); 0 to 500,000 gallons/day depending on weather; MDE withdrawal and discharge applications filed",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+        "date": "2026-05"
+      },
+      "power_source": {
+        "value": "Grid power from FirstEnergy transmission lines via a new on-site substation (developer pays, over $70M); diesel backup generators (Tier 4, SCR and DPF)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+        "date": "2026-05"
+      },
+      "cooling_type": {
+        "value": "Direct evaporative cooling with air-side economizers; river water reused 3-6 cycles",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+        "date": "2026-05"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 250,
+        "unit": "employees on site (up to, across shifts)",
+        "kind": "real",
+        "source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+        "date": "2026-05"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "FirstEnergy (transmission lines bordering the site)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+        "date": "2026-05"
+      },
+      "acres": {
+        "value": 110,
+        "unit": "acres (data center site inside the 758-acre former power plant property)",
+        "kind": "real",
+        "source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+        "date": "2026-05"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Montgomery County Executive Order 109-26 (2026-06-12) paused data center permit approvals for six months after this proposal; Atmosphere challenged it in court",
+        "source": "https://natureforward.org/?p=21908",
+        "date": "2026-10-15"
+      },
+      {
+        "what": "County Council Bill 19-26E (2026-07-28) set an 18-month moratorium on processing data center permits, and Ordinance 20-35 (ZTA 26-01) prohibits data centers countywide from 2026-08-17 as a bridge to a new framework",
+        "source": "https://natureforward.org/?p=21908",
+        "date": "2026-10-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Why the data center industry came to Dickerson",
+        "outlet": "Bethesda Magazine",
+        "url": "https://bethesdamagazine.com/2026/04/06/why-the-data-center-industry-came-to-dickerson/",
+        "date": "2026-04-06",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Promoted from lead md-montgomery-dickerson. Terra Energy's conditional use CU202413 (data centers + battery storage, IH zone, 758-acre property north of Martinsburg Road; accepted 2023-12-27, used as 'announced') got a staff approval recommendation for the 2024-09-05 Planning Board and was approved in late 2024 (two buildings). Atmosphere re-filed a major modification CU 24-13(a)(A) for five buildings (Statement of Case 2026-05-26); hearing continued by order 2026-09-01, date TBD. Stage 'blocked': Ordinance 20-35 prohibits data centers countywide from 2026-08-17 with no end date. Address 21200 Martinsburg Rd per developer fact sheet. MW from Nature Forward (cites the developer fact sheet; MW not found in the fact sheet text), so kind 'estimate'. Bethesda Magazine article not opened (403); listed from search result. Official sources: https://montgomeryplanningboard.org/wp-content/uploads/2024/08/Dickerson-Power-Plant_Terra-Energy-Staff-Report-Final-2.pdf ; https://www.montgomerycountymd.gov/office-zoning-administrative-hearings/hearings/cu-24-13aa-atmosphere-dickerson-property-owner-llc-conditional-use-holder-terra-energy-llc-amendment-major-modification",
+    "pin_source": "https://static1.squarespace.com/static/698f182c36867c5ffbc0b1b0/t/6a19fe094f61c85d3c263c84/1780088329848/Dickerson+Data+Center+Campus+Fact+Sheet.pdf",
+    "pin_address": "21200 Martinsburg Rd, Dickerson, MD"
+  },
+  {
+    "id": "md-princegeorges-lerner-brightseat",
+    "name": "Brightseat Tech Park (former Landover Mall site)",
+    "owner": "Lerner Enterprises (Brightseat Associates LLC, with The Tower Cos.)",
+    "operator": null,
+    "tier": "large",
+    "state": "MD",
+    "county": "Prince George's County",
+    "town": "Landover",
+    "lat": 38.919018,
+    "lng": -76.859853,
+    "stage": "paused",
+    "announced": "2024-03-14",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 87,
+        "unit": "acres (4.1 million sq ft of data center / industrial space approved)",
+        "kind": "real",
+        "source": "https://bisnow.com/washington-dc/news/data-center/lerners-plan-for-data-centers-on-landover-mall-site-advances-despite-opposition-123333",
+        "date": "2024-03-14"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Greater Capitol Heights Improvement Corp. filed a letter opposing the plan as inconsistent with the 2009 Landover Gateway Sector Plan",
+        "source": "https://bisnow.com/washington-dc/news/data-center/lerners-plan-for-data-centers-on-landover-mall-site-advances-despite-opposition-123333",
+        "date": "2024-03-14"
+      },
+      {
+        "what": "Hundreds of residents protested; a Change.org petition against the project passed 20,000 signatures; County Council paused data center development for at least 180 days (Sept 2025)",
+        "source": "https://www.fox5dc.com/news/prince-georges-county-lawmakers-halting-data-center-development",
+        "date": "2025-09-16"
+      },
+      {
+        "what": "County Council passed a two-year moratorium on hyperscale data center development, extending the pause; council chair says the county is trying to stop this project",
+        "source": "https://marylandmatters.org/2026/07/08/prince-georges-county-extends-pause-on-hyperscale-data-center-development/",
+        "date": "2026-07-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Lerner's plan for data centers on Landover Mall site advances despite opposition",
+        "outlet": "Bisnow",
+        "url": "https://bisnow.com/washington-dc/news/data-center/lerners-plan-for-data-centers-on-landover-mall-site-advances-despite-opposition-123333",
+        "date": "2024-03-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "Prince George's County lawmakers halting data center development",
+        "outlet": "FOX 5 DC",
+        "url": "https://www.fox5dc.com/news/prince-georges-county-lawmakers-halting-data-center-development",
+        "date": "2025-09-16",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead md-princegeorges-landover-mall. Prince George's Planning Board approved Brightseat Associates' plan unanimously on 2024-03-14 (Bisnow), so it was permitted before the county pause; stage 'paused' while the county moratorium runs. Site was a 1972 Lerner mall demolished in 2006 and an FBI HQ finalist. Data Center Dynamics reportedly says up to 820 MW and $5B across five buildings at 2101 Brightseat Road (https://datacenterdynamics.com/en/news/lerners-maryland-data-center-campus-could-total-820mw), but the page could not be read, so those figures are left out until checked.",
+    "pin_source": "https://datacenterdynamics.com/en/news/lerners-maryland-data-center-campus-could-total-820mw",
+    "pin_address": "2101 Brightseat Road, Landover, MD"
+  },
+  {
+    "id": "md-calvert-natelli-appeal-digital-park",
+    "name": "Appeal Digital Park (Lusby)",
+    "owner": "Natelli Holdings",
+    "operator": null,
+    "tier": "large",
+    "state": "MD",
+    "county": "Calvert County",
+    "town": "Lusby",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03-25",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (over)",
+        "kind": "real",
+        "source": "https://www.somdnews.com/recorder/news/local/data-center-developer-proposes-site-and-park-in-lusby/article_1f85b73c-235a-4d24-93df-4f42d2246c59.html",
+        "date": "2026-03-25"
+      },
+      "power_mw": null,
+      "water_use": {
+        "value": "Cooling water from a non-potable system at the Solomons Wastewater Treatment Plant (no domestic or bay water), per developer",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.somdnews.com/recorder/news/local/data-center-developer-proposes-site-and-park-in-lusby/article_1f85b73c-235a-4d24-93df-4f42d2246c59.html",
+        "date": "2026-03-25"
+      },
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Southern Maryland Electric Cooperative (grid connection paid by developer, per Natelli)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.somdnews.com/recorder/news/local/data-center-developer-proposes-site-and-park-in-lusby/article_1f85b73c-235a-4d24-93df-4f42d2246c59.html",
+        "date": "2026-03-25"
+      },
+      "acres": {
+        "value": 133,
+        "unit": "acres of county-owned land on Route 2/4 (former Dominion Cove Point laydown site) Natelli seeks to buy",
+        "kind": "real",
+        "source": "https://www.somdnews.com/recorder/news/local/data-center-developer-proposes-site-and-park-in-lusby/article_1f85b73c-235a-4d24-93df-4f42d2246c59.html",
+        "date": "2026-03-25"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Calvert County six-month moratorium on data center site plan approvals and new applications (Ordinance 42-26), effective 2026-08-28; Commissioner Mike Hart had sought a two-year moratorium",
+        "source": "https://www.calvertcountymd.gov/m/newsflash/Home/Detail/3201",
+        "date": "2026-08-18"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center developer proposes site and park in Lusby",
+        "outlet": "Southern Maryland News",
+        "url": "https://www.somdnews.com/recorder/news/local/data-center-developer-proposes-site-and-park-in-lusby/article_1f85b73c-235a-4d24-93df-4f42d2246c59.html",
+        "date": "2026-03-25",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead md-calvert-natelli-route4 (Maryland Matters also reports the proposal). Concept presented to the Board of County Commissioners in March 2026; Natelli also offered a $30M regional park across Route 2/4; about 5,000 workers claimed for construction and operations. No land sale vote or site plan found. Separate from the cancelled AWS Calvert Cliffs campus (md-calvert-amazon-calvert-cliffs). MW not stated in sources read."
+  },
+  {
+    "id": "md-charles-terawulf-morgantown",
+    "name": "TeraWulf Morgantown",
+    "owner": "TeraWulf",
+    "operator": null,
+    "tier": "large",
+    "state": "MD",
+    "county": "Charles County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-02-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 500,
+        "unit": "MW initial phase; site can expand to support 1 GW of load",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/wulfkyandmdacquisitionpr.htm",
+        "date": "2026-02-02"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "On-site Morgantown Generating Station (about 210 MW operating, grid-connected in PJM), to be expanded",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/wulfkyandmdacquisitionpr.htm",
+        "date": "2026-02-02"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 250,
+        "unit": "buildable acres",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/wulfkyandmdacquisitionpr.htm",
+        "date": "2026-02-02"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "TeraWulf's development approach currently contemplates constructing approximately 500 MW in an initial phase.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/wulfkyandmdacquisitionpr.htm",
+        "date": "2026-02-02"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "TeraWulf announced on 2026-02-02 the purchase of the Morgantown Generating Station in Charles County, with about 500 MW of data center load planned in a first phase. FERC authorized the acquisition on 2026-07-29; other closing conditions were still pending (TeraWulf 10-Q, 2026-08-05, https://www.sec.gov/Archives/edgar/data/1083301/000108330126000166/wulf-20260630.htm)."
+  }
+]

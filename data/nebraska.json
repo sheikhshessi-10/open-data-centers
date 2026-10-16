@@ -1,0 +1,688 @@
+[
+  {
+    "id": "ne-sarpy-meta-sarpy",
+    "name": "Meta Sarpy data center (Papillion/Springfield)",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Sarpy County",
+    "town": "Papillion",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2017",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2500000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": "500+ acres for the Springfield expansion alone",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2021/03/sarpy-expanding-by-nearly-1-million-square-feet/",
+        "date": "2021-03-24"
+      },
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "operational jobs (300+)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1300,
+        "unit": "peak construction workers",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "100% renewable energy (company claim), backed by wind investments incl. Rattlesnake Creek Wind Farm, Dixon County",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2021/03/sarpy-expanding-by-nearly-1-million-square-feet/",
+        "date": "2021-03-24"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Sarpy expanding by nearly 1 million square feet",
+        "outlet": "Meta",
+        "url": "https://datacenters.atmeta.com/2021/03/sarpy-expanding-by-nearly-1-million-square-feet/",
+        "date": "2021-03-24",
+        "tone": "good"
+      },
+      {
+        "title": "Facebook expanding huge Sarpy County data center campus again",
+        "outlet": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/facebook-expanding-huge-sarpy-county-data-center-campus-again/",
+        "date": "2021",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Broke ground 2017 as the Papillion Data Center; renamed Sarpy Data Center when it expanded across Capehart Rd into Springfield (2021). 3.6 million sq ft when complete. Utility OPPD (tracker mention of OPPD Rate 261M; not verified)."
+  },
+  {
+    "id": "ne-sarpy-google-papillion",
+    "name": "Google Papillion data center",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Sarpy County",
+    "town": "Papillion",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2019",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google confirms Lincoln's $600M data center, touts this year's $1.2B spend on NE infrastructure",
+        "outlet": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/",
+        "date": "2023-08-22",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google says Papillion was announced in 2019; Google has invested $15B+ in Nebraska since 2019 (statewide). Trackers and a DCD headline cite $600M (DCD page returned 403, not verified, so investment left null)."
+  },
+  {
+    "id": "ne-douglas-google-omaha",
+    "name": "Google northwest Omaha data center",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Douglas County",
+    "town": "Omaha",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2022-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google confirms Lincoln's $600M data center, touts this year's $1.2B spend on NE infrastructure",
+        "outlet": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/",
+        "date": "2023-08-22",
+        "tone": "good"
+      },
+      {
+        "title": "Google announces Nebraska growth plan, includes new northwest Omaha data center",
+        "outlet": "Nebraska Examiner (News From The States)",
+        "url": "https://www.newsfromthestates.com/article/google-announces-nebraska-growth-plan-includes-new-northwest-omaha-data-center",
+        "date": "2022-04-21",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near State Street and Blair High Road (NPM, 2023). Google page: Omaha plans announced 2022. Trackers say ~460 acres, operating since 2024, more buildings planned; not verified."
+  },
+  {
+    "id": "ne-lancaster-google-lincoln",
+    "name": "Google Lincoln data center (formerly 'Agate')",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Lancaster County",
+    "town": "Lincoln",
+    "lat": 40.843555,
+    "lng": -96.644131,
+    "stage": "running",
+    "announced": "2023-08-22",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 600000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/",
+        "date": "2023-08-22"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 580,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/",
+        "date": "2023-08-22"
+      },
+      "jobs_promised_perm": {
+        "value": 30,
+        "unit": "full-time jobs (at least)",
+        "kind": "real",
+        "source": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/",
+        "date": "2023-08-22"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google confirms Lincoln's $600M data center, touts this year's $1.2B spend on NE infrastructure",
+        "outlet": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/",
+        "date": "2023-08-22",
+        "tone": "good"
+      },
+      {
+        "title": "$10 million wastewater line to transport cooling water from Lincoln data center",
+        "outlet": "10/11 NOW (KOLN)",
+        "url": "https://www.1011now.com/2026/05/07/10-million-wastewater-line-transport-cooling-water-lincoln-data-center-recovery-site/",
+        "date": "2026-05-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Near I-80 and N 56th St, bounded by N 40th St, Hwy 77, I-80 and Bluff Rd. Up to 2 million sq ft, multi-phase. Google page says it 'comes online' in 2026; first building may be running, more phases building. Utility likely Lincoln Electric System (not verified). Pass 3 (2026-10-15): Google's location list (https://datacenters.google/locations/, read 2026-10-15) shows Lincoln, Nebraska as operating; stage building -> running.",
+    "pin_address": "N 56th St & I-80, Lincoln, NE",
+    "pin_geocoder": "osm",
+    "pin_precision": "intersection",
+    "pin_source": "https://nebraskapublicmedia.org/en/news/news-articles/google-confirms-lincolns-600m-data-center-touts-this-years-12b-spend-on-ne-infrastructure/"
+  },
+  {
+    "id": "ne-hall-fortitude-grand-island",
+    "name": "Fortitude Mining Grand Island bitcoin mining facility",
+    "owner": "Fortitude Mining",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Hall County",
+    "town": "Grand Island",
+    "lat": 40.927254,
+    "lng": -98.310877,
+    "stage": "running",
+    "announced": "2025-09-09",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 12,
+        "unit": "MW load",
+        "kind": "real",
+        "source": "https://www.centralnebraskatoday.com/2026/06/26/data-center-nearing-completion-in-east-grand-island/",
+        "date": "2026-06-26"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Grand Island Utilities, 100% interruptible service (Substation E); site leased from the city utility",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.centralnebraskatoday.com/2026/06/26/data-center-nearing-completion-in-east-grand-island/",
+        "date": "2026-06-26"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "None: no city or groundwater use, no wastewater discharge (per report)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.centralnebraskatoday.com/2026/06/26/data-center-nearing-completion-in-east-grand-island/",
+        "date": "2026-06-26"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "City land lease $18,000/year with 3% annual increase",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/03/05/new-york-data-mining-company-open-data-center-grand-island/",
+        "date": "2026-03-05"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Fortitude energizes 12 MW Grand Island, Nebraska facility",
+        "outlet": "Business Wire (Fortitude Mining release)",
+        "url": "https://www.businesswire.com/news/home/20260728346163/en/",
+        "date": "2026-07-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center nearing completion in east Grand Island",
+        "outlet": "Central Nebraska Today",
+        "url": "https://www.centralnebraskatoday.com/2026/06/26/data-center-nearing-completion-in-east-grand-island/",
+        "date": "2026-06-26",
+        "tone": "neutral"
+      },
+      {
+        "title": "New York data mining company to open data center in Grand Island",
+        "outlet": "KSNB Local4",
+        "url": "https://www.ksnblocal4.com/2026/03/05/new-york-data-mining-company-open-data-center-grand-island/",
+        "date": "2026-03-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "380 Museum Dr, north of JBS plant. Crypto mining (Fortitude mines Zcash and bitcoin), so in scope despite 12 MW. Lease approved Sept 9, 2025; rate agreement June 23, 2026. Fortitude release (Business Wire, 2026-07-28) says construction finished and the site was energized; stage set to running on that basis (release page itself returned 403; content seen via search and syndication). Fortitude's first greenfield build.",
+    "pin_address": "380 Museum Dr, Grand Island, NE 68801",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.centralnebraskatoday.com/2026/06/26/data-center-nearing-completion-in-east-grand-island/"
+  },
+  {
+    "id": "ne-buffalo-sdv-mara-project-horizon",
+    "name": "Project Horizon (Tech oNE Crossing, Kearney)",
+    "owner": "Starwood Digital Ventures (with MARA)",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Buffalo County",
+    "town": "Kearney",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-08",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW (Phase 1 reuses the existing crypto mining site's 100 MW; full build-out MW not in source read)",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/08/21/kearney-planning-commission-recommends-approval-proposed-data-center/",
+        "date": "2026-08-21"
+      },
+      "water_use": {
+        "value": "About 3.6 million gallons/year projected, mostly landscaping (about 2.24M gal/yr at full build-out); closed-loop chilled water",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/08/21/kearney-planning-commission-recommends-approval-proposed-data-center/",
+        "date": "2026-08-21"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop chilled water system",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/08/21/kearney-planning-commission-recommends-approval-proposed-data-center/",
+        "date": "2026-08-21"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": "About 30 jobs per completed building",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/08/21/kearney-planning-commission-recommends-approval-proposed-data-center/",
+        "date": "2026-08-21"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Nebraska Public Power District (serves the Tech oNE Crossing crypto load, per 2021 report)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.publicpower.org/periodical/article/bitcoin-mining-operation-add-flexible-load-nppds-area",
+        "date": "2021-03-17"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Kearney City Council unanimously approves Project Horizon data center",
+        "outlet": "News Channel Nebraska",
+        "url": "https://central-ncn.producer.immergo.tv/story/363530628/kearney-city-council-unanimously-approves-project-horizon-data-center",
+        "date": "2026-09-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Kearney Planning Commission recommends approval of proposed data center",
+        "outlet": "KSNB Local4",
+        "url": "https://www.ksnblocal4.com/2026/08/21/kearney-planning-commission-recommends-approval-proposed-data-center/",
+        "date": "2026-08-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "Bitcoin mining operation to add flexible load in NPPD's area",
+        "outlet": "American Public Power Association",
+        "url": "https://www.publicpower.org/periodical/article/bitcoin-mining-operation-add-flexible-load-nppds-area",
+        "date": "2021-03-17",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Campus at Tech oNE Crossing, just outside Kearney city limits. One record for the whole site: it already hosts a running crypto mine (Compute North ran a 30 MW facility here and planned up to 70 MW more in 2021; KSNB 2026 calls it MARA's 100 MW site), which Project Horizon will replace; the mine is decommissioned after Phase 1. Kearney City Council approved the project and its conditional use permit unanimously on 2026-09-08 (NCN). City manager: crypto mine brings the city about $2M/yr in electricity-related revenue; Phase 1 projected about $20M/yr property tax to Buffalo County, schools, CCC and the NRD. Conditions: 55 dBA average at property line, 100 ft setbacks, sound study within 90 days of operation, annual hazardous materials disclosure, start within two years. 368 MW full build-out reported by regional summaries, not confirmed in a source read. Merges leads ne-buffalo-project-horizon-kearney and ne-buffalo-mara-kearney."
+  },
+  {
+    "id": "ne-lancaster-monolith-crusoe-hallam",
+    "name": "Monolith / Crusoe data center at Olive Creek campus (Hallam)",
+    "owner": "Monolith",
+    "operator": null,
+    "tier": "large",
+    "state": "NE",
+    "county": "Lancaster County",
+    "town": "Hallam",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 35,
+        "unit": "MW (phase 1)",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/07/24/hallam-residents-question-monolith-data-center-proposal-packed-town-hall/",
+        "date": "2026-07-24"
+      },
+      "water_use": {
+        "value": "770,000 gallons or less per year (preliminary)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/07/24/hallam-residents-question-monolith-data-center-proposal-packed-town-hall/",
+        "date": "2026-07-24"
+      },
+      "power_source": null,
+      "cooling_type": {
+        "value": "Air-cooled or closed-loop cooling (both proposed)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://nebraskapublicmedia.org/es/news/news-articles/we-need-to-embrace-it-hallam-commission-hears-data-center-plans/",
+        "date": "2026-07-15"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 10,
+        "unit": "acres (phase 1, on Monolith's existing property)",
+        "kind": "real",
+        "source": "https://www.ksnblocal4.com/2026/07/24/hallam-residents-question-monolith-data-center-proposal-packed-town-hall/",
+        "date": "2026-07-24"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Packed Hallam town hall (200+ people): residents questioned water figures, private wells, noise, light and traffic",
+        "source": "https://www.ksnblocal4.com/2026/07/24/hallam-residents-question-monolith-data-center-proposal-packed-town-hall/",
+        "date": "2026-07-24"
+      }
+    ],
+    "news": [
+      {
+        "title": "Monolith seeks to build data center in Hallam, application to be submitted by mid-July",
+        "outlet": "10/11 NOW",
+        "url": "https://www.1011now.com/2026/07/10/monolith-seeks-build-data-center-hallam-application-be-submitted-by-mid-july/",
+        "date": "2026-07-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "Hallam residents question Monolith data center proposal at packed town hall",
+        "outlet": "KSNB Local4",
+        "url": "https://www.ksnblocal4.com/2026/07/24/hallam-residents-question-monolith-data-center-proposal-packed-town-hall/",
+        "date": "2026-07-24",
+        "tone": "bad"
+      },
+      {
+        "title": "'We need to embrace it': Hallam commission hears data center plans",
+        "outlet": "Nebraska Public Media",
+        "url": "https://nebraskapublicmedia.org/es/news/news-articles/we-need-to-embrace-it-hallam-commission-hears-data-center-plans/",
+        "date": "2026-07-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Phase 1 on about 10 acres at Monolith's carbon black campus (Olive Creek); phase 2 could extend east. Partner: Crusoe (Denver), described as under consideration. Needs a Hallam zoning text amendment and site plan approval; Monolith hoped for a village board vote by 2026-09-07. Outcome of that vote not confirmed. Separate from the Sagebrush/Stark Power hyperscale lead near Hallam."
+  },
+  {
+    "id": "ne-adams-fortitude-prosser",
+    "name": "Fortitude Mining Prosser facility (former AAIM Nebraska 2)",
+    "owner": "Fortitude Mining Holdings",
+    "operator": "Fortitude Mining Holdings",
+    "tier": "large",
+    "state": "NE",
+    "county": "Adams County",
+    "town": "Prosser",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2026-08-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 6250000,
+        "unit": "USD (purchase price for property and improvements; about $4.7M net after credits)",
+        "kind": "real",
+        "source": "https://www.businesswire.com/news/home/20260804871523/en/",
+        "date": "2026-08-04"
+      },
+      "power_mw": {
+        "value": 12.5,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.businesswire.com/news/home/20260804871523/en/",
+        "date": "2026-08-04"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Fortitude completes acquisition of 12.5 MW Prosser, Nebraska facility",
+        "outlet": "Business Wire (Fortitude Mining release)",
+        "url": "https://www.businesswire.com/news/home/20260804871523/en/",
+        "date": "2026-08-04",
+        "tone": "neutral"
+      },
+      {
+        "title": "DCG's Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million",
+        "outlet": "The Block",
+        "url": "https://www.theblock.co/amp/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining",
+        "date": "2026-08-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Crypto mining site (Zcash/bitcoin), in scope as a crypto campus. Asset purchase of land, building and an on-site 67 kV substation; price cut by a hosting deposit credit and the sale of ~1,400 T21 miners, which suggests Fortitude was already hosted there (stage 'running' rests on that; not stated outright in sources read). Previously AAIM Data Centers 'Nebraska 2' on Southern Public Power District. Release page returned 403; facts from search excerpts of the release and The Block (crypto press). Promotes lead ne-adams-aaim-nebraska-2. Release says Prosser is Fortitude's third Nebraska site."
+  }
+]

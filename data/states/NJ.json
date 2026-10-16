@@ -1,0 +1,92 @@
+{
+  "state": "NJ",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Next New Jersey Program - Artificial Intelligence (NJEDA)",
+      "law": null,
+      "what": "State tax credits for large AI investments; first award was $250M over five years (up to $50M per year) to CoreWeave's Kenilworth data center in Nov 2025",
+      "value_known": "$250M (CoreWeave award)",
+      "source": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+      "date": "2025-11-25"
+    }
+  ],
+  "dockets": [],
+  "laws_and_bills": [
+    {
+      "name": "S731 / A796, Data Center Fair Share Act",
+      "status": "enacted",
+      "what": "Signed July 7, 2026: BPU must create a separate rate class and tariff for large data centers (reported threshold 50 MW, new and existing, aggregated sites) so other customers do not subsidize them; utilities file tariffs with BPU",
+      "source": "https://njbiz.com/nj-data-center-energy-water-reporting-law/",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "S3379 / A4096, data center energy and water reporting",
+      "status": "enacted",
+      "what": "Signed Aug 27, 2026: data center owners and operators report total energy use, cooling and IT energy, peak daily water use, water sources and backup power to BPU every six months",
+      "source": "https://njbiz.com/nj-data-center-energy-water-reporting-law/",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Governor Sherrill comprehensive data center plan (May 27, 2026)",
+      "status": "pending",
+      "what": "Executive plan with four pillars: fair-share grid costs, semiannual energy and water reporting, community benefits agreement standards, local trades jobs; binding parts need laws or rules",
+      "source": "https://www.saul.com/insights/alert/new-jerseys-first-nation-comprehensive-plan-regulate-data-centers",
+      "date": "2026-06-01"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Jersey City (Hudson County)",
+      "type": "zoning",
+      "what": "Ordinance 26-057 removes data centers and 'cyber hotels' as permitted uses in the industrial district; reported as the 34th NJ municipality to ban data centers (others named: Bayonne, Howell, Neptune Township, Millville, Red Bank, Warren Township, Andover Township)",
+      "status": "adopted (unanimous), Aug 2026",
+      "source": "https://www.6sqft.com/jersey-city-bans-data-centers-on-industrial-land/",
+      "date": "2026-08-20"
+    },
+    {
+      "place": "Logan Township (Gloucester County)",
+      "type": "ordinance",
+      "what": "Bans data centers (and detention centers) in all zoning districts",
+      "status": "adopted",
+      "source": "https://newtownpress.com/2026/04/30/logan-acts-to-prohibit-data-centers/",
+      "date": "2026-04-30"
+    },
+    {
+      "place": "East Windsor Township (Mercer County)",
+      "type": "moratorium",
+      "what": "18-month moratorium on new data center development through Dec 31, 2027",
+      "status": "adopted (June 2026)",
+      "source": "https://princetonperspectives.com/artificial-intelligence-infrastructure-hits-bumps-in-the-suburbs/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Montgomery Township (Somerset County)",
+      "type": "ordinance",
+      "what": "Prohibits data centers within the township",
+      "status": "adopted June 18, 2026 (unanimous)",
+      "source": "https://princetonperspectives.com/artificial-intelligence-infrastructure-hits-bumps-in-the-suburbs/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Hopewell Township (Mercer County)",
+      "type": "zoning",
+      "what": "Standalone or primary-use data centers not allowed; only as an accessory use",
+      "status": "in force",
+      "source": "https://princetonperspectives.com/artificial-intelligence-infrastructure-hits-bumps-in-the-suburbs/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Bridgewater Township (Somerset County)",
+      "type": "ordinance",
+      "what": "Data center ordinance under consideration",
+      "status": "pending",
+      "source": "https://njbiz.com/nj-data-center-energy-water-reporting-law/",
+      "date": "2026-08-27"
+    }
+  ]
+}

@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "nc-richmond-amazon-energy-way",
+    "name": "Amazon Richmond County data center campus",
+    "owner": "Amazon (AWS)",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Richmond County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-06-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/",
+        "date": "2026-07-20"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Duke Energy; site is next to an existing Duke Energy power plant",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/",
+        "date": "2026-07-20"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Why one North Carolina county said yes to Amazon's $10 billion data center",
+        "outlet": "WRAL",
+        "url": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/",
+        "date": "2026-07-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Amazon to invest $10 billion into AI data centers in North Carolina",
+        "outlet": "Axios Raleigh",
+        "url": "https://www.axios.com/local/raleigh/2025/06/04/amazon-ai-data-centers-in-north-carolina-richmond-county",
+        "date": "2025-06-04",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "County-owned industrial site. First building projected operational 2027, more through 2029 (WRAL). Trackers name the site 'Energy Way' near Hamlet; town not confirmed from a fetched source. Local (not state) incentives reported in search summaries, amounts not confirmed."
+  },
+  {
+    "id": "nc-caldwell-google-lenoir",
+    "name": "Google Lenoir data center",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Caldwell County",
+    "town": "Lenoir",
+    "lat": 35.90013,
+    "lng": -81.545889,
+    "stage": "running",
+    "announced": "2007",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1200000000,
+        "unit": "USD (original 2007 plan; Google says more than $4B invested in the region and state since 2007; another $1B expansion announced 2026)",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/lenoir-north-carolina/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center moratorium fever for NC local governments",
+        "outlet": "Carolina Public Press",
+        "url": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+        "date": "2026-06-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First data center opened 2008. 2015 carbon-free energy agreement with Duke Energy (Google page). $1B expansion announced 2026 per Carolina Public Press.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110038975936",
+    "pin_address": "714 Harrisburg Dr SW, Lenoir, NC 28645"
+  },
+  {
+    "id": "nc-rutherford-meta-forest-city",
+    "name": "Meta Forest City data center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Rutherford County",
+    "town": "Forest City",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2010",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 750000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 275,
+        "unit": "operational jobs (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Meta lists ground broken 2010."
+  },
+  {
+    "id": "nc-person-microsoft-mega-park",
+    "name": "Microsoft Person County campus (Person County Mega Park)",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Person County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 1385,
+        "unit": "acres (bought in 2024 for $28.85M per WRAL; other reports say $26.85M)",
+        "kind": "real",
+        "source": "https://www.wral.com/news/local/person-county-microsoft-data-center-discussion-june-2026/",
+        "date": "2026-06-30"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft hosts meeting on future Person County data center amid AI tensions",
+        "outlet": "WRAL",
+        "url": "https://www.wral.com/news/local/person-county-microsoft-data-center-discussion-june-2026/",
+        "date": "2026-06-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center debate: how each county in central NC is handling data center plans",
+        "outlet": "WRAL",
+        "url": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+        "date": "2026-04-24",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Microsoft Mega Park, Woodsdale Township, on the Virginia line. Microsoft said in 2026 it was moving forward; met residents June 30, 2026 and made voluntary pledges: pay its own way on power, limit bill impacts, avoid water-intensive cooling. Both news items are WRAL (one outlet). Search summaries mention CBS17 coverage and early permitting (soil sampling, surveying), not fetched."
+  },
+  {
+    "id": "nc-stokes-engineered-land-solutions-project-delta",
+    "name": "Project Delta",
+    "owner": "Engineered Land Solutions",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Stokes County",
+    "town": "Walnut Cove",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-01",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 1844,
+        "unit": "acres rezoned heavy industrial",
+        "kind": "real",
+        "source": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-03-19"
+      },
+      "jobs_promised_perm": {
+        "value": 250,
+        "unit": "jobs (developer projected 250 to 500)",
+        "kind": "estimate",
+        "source": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-03-19"
+      },
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Onsite generators, likely natural gas, until Duke Energy grid connection",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-03-19"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop system (developer claim); not drawing from the Dan River",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-03-19"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Lawsuit in Stokes County Superior Court by Tim and Deborah Mabe, about a dozen other owners, National Hairston Clan, CleanAIRE NC and 7 Directions of Service (SELC and Southern Coalition for Social Justice) to void the rezoning",
+        "source": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-03-12"
+      },
+      {
+        "what": "Stokes County Planning Board recommended against; commissioners overrode it 3-2",
+        "source": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-01"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "In N.C., Stokes County Approves a Data Center Rezoning, Triggering a Citizens' Lawsuit",
+        "outlet": "Inside Climate News",
+        "url": "https://insideclimatenews.org/news/19032026/north-carolina-county-data-center-rezoning-lawsuit/",
+        "date": "2026-03-19",
+        "tone": "bad"
+      },
+      {
+        "title": "NC communities push back on AI data centers",
+        "outlet": "North Carolina Health News",
+        "url": "https://www.northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit/",
+        "date": "2026-03-25",
+        "tone": "bad"
+      },
+      {
+        "title": "Stokes data center developer submits new rezoning application",
+        "outlet": "WFAE",
+        "url": "https://www.wfae.org/2026-07-22/stokes-data-center-developer-submits-new-rezoning-application",
+        "date": "2026-07-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Tenant not named. Parcels owned by DFC Stokes (David Couch). The January 2026 approval was voided after the legal challenge; developer refiled July 2026 (WFAE) and commissioners approved it again in September 2026 (WFDD, Oct. 13, 2026). Stage 'permitted' means rezoning approved, not building permits."
+  },
+  {
+    "id": "nc-wake-natelli-new-hill",
+    "name": "New Hill Digital Campus (Apex)",
+    "owner": "Natelli Investments",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Wake County",
+    "town": "Apex",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 250,
+        "unit": "MW",
+        "kind": "estimate",
+        "source": "https://www.bisnow.com/raleigh-durham/news/data-center/massive-raleigh-area-data-center-scrapped-133584",
+        "date": "2026-03-10"
+      },
+      "acres": {
+        "value": 189,
+        "unit": "acres (former farmland; other reports say 89)",
+        "kind": "real",
+        "source": "https://www.bisnow.com/raleigh-durham/news/data-center/massive-raleigh-area-data-center-scrapped-133584",
+        "date": "2026-03-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Petition against the project, more than 5,000 signatures",
+        "source": "https://www.bisnow.com/raleigh-durham/news/data-center/massive-raleigh-area-data-center-scrapped-133584",
+        "date": "2026-03-10"
+      },
+      {
+        "what": "Apex adopted a one-year data center moratorium Apr. 14, 2026",
+        "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+        "date": "2026-04-14"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Massive Raleigh-area data center scrapped",
+        "outlet": "Bisnow",
+        "url": "https://www.bisnow.com/raleigh-durham/news/data-center/massive-raleigh-area-data-center-scrapped-133584",
+        "date": "2026-03-10",
+        "tone": "bad"
+      },
+      {
+        "title": "Data center debate: how each county in central NC is handling data center plans",
+        "outlet": "WRAL",
+        "url": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+        "date": "2026-04-24",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Next to Shearon Harris nuclear plant. Natelli Investments (Maryland). Withdrawn Mar. 5, 2026 (WRAL). Trackers mention four 200,000 sq ft buildings (not confirmed). Announced date unknown."
+  },
+  {
+    "id": "nc-edgecombe-ess-tarboro",
+    "name": "Energy Storage Solutions Tarboro data center",
+    "owner": "Energy Storage Solutions",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Edgecombe County",
+    "town": "Tarboro",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 6400000000,
+        "unit": "USD (developer pitch)",
+        "kind": "estimate",
+        "source": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338",
+        "date": "2026-07-08"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 50,
+        "unit": "acres (about 50-52, heavy industrial)",
+        "kind": "real",
+        "source": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338",
+        "date": "2026-07-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Tarboro Town Council denied the special-use permit (Sept. 8, 2025)",
+        "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+        "date": "2025-09-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "$20B North Carolina Data Center Canceled Amid Moratorium Debate",
+        "outlet": "Bisnow",
+        "url": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338",
+        "date": "2026-07-08",
+        "tone": "bad"
+      },
+      {
+        "title": "Developer forges ahead with $38B in North Carolina data center builds",
+        "outlet": "Data Center Knowledge",
+        "url": "https://www.datacenterknowledge.com/build-design/developer-forges-ahead-with-38b-in-nc-data-center-builds",
+        "date": "2025-11-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer sued the town in Edgecombe Superior Court; later said it expected to settle and would not build in Tarboro. DCK reported 100 MW for this site. Separate site from the Kingsboro megasite project (same developer, same county)."
+  },
+  {
+    "id": "nc-edgecombe-ess-kingsboro",
+    "name": "Energy Storage Solutions Kingsboro campus",
+    "owner": "Energy Storage Solutions",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Edgecombe County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 19200000000,
+        "unit": "USD (planned, data center plus energy storage)",
+        "kind": "estimate",
+        "source": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338",
+        "date": "2026-07-08"
+      },
+      "power_mw": {
+        "value": 900,
+        "unit": "MW",
+        "kind": "estimate",
+        "source": "https://www.datacenterknowledge.com/build-design/developer-forges-ahead-with-38b-in-nc-data-center-builds",
+        "date": "2025-11-05"
+      },
+      "acres": {
+        "value": 300,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.datacenterknowledge.com/build-design/developer-forges-ahead-with-38b-in-nc-data-center-builds",
+        "date": "2025-11-05"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Petition with 1,362 signatures over data center development in Edgecombe County",
+        "source": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338",
+        "date": "2026-07-08"
+      },
+      {
+        "what": "Edgecombe County approved a two-year data center moratorium Aug. 3, 2026",
+        "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+        "date": "2026-08-03"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "$20B North Carolina Data Center Canceled Amid Moratorium Debate",
+        "outlet": "Bisnow",
+        "url": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338",
+        "date": "2026-07-08",
+        "tone": "bad"
+      },
+      {
+        "title": "Developer forges ahead with $38B in North Carolina data center builds",
+        "outlet": "Data Center Knowledge",
+        "url": "https://www.datacenterknowledge.com/build-design/developer-forges-ahead-with-38b-in-nc-data-center-builds",
+        "date": "2025-11-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Kingsboro CSX Select Megasite. Developer withdrew its offer for 28 acres on July 6, 2026; county returned the deposit."
+  },
+  {
+    "id": "nc-mecklenburg-digital-realty-moores-chapel",
+    "name": "Digital Realty Charlotte campus (Moores Chapel Road)",
+    "owner": "Digital Realty",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Mecklenburg County",
+    "town": "Charlotte",
+    "lat": 35.2519,
+    "lng": -81.001454,
+    "stage": "announced",
+    "announced": "2024-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 400,
+        "unit": "MW (up to, two phases)",
+        "kind": "estimate",
+        "source": "https://www.bisnow.com/news/national/data-center/digital-realty-plans-major-data-center-expansion-across-southeast-us-129131",
+        "date": "2025-04-28"
+      },
+      "acres": {
+        "value": 156,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.bisnow.com/news/national/data-center/digital-realty-plans-major-data-center-expansion-across-southeast-us-129131",
+        "date": "2025-04-28"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Digital Realty plans major data center expansion across Southeast",
+        "outlet": "Bisnow",
+        "url": "https://www.bisnow.com/news/national/data-center/digital-realty-plans-major-data-center-expansion-across-southeast-us-129131",
+        "date": "2025-04-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Multimillion-dollar power substation planned near Charlotte airport",
+        "outlet": "WSOC",
+        "url": "https://www.wsoctv.com/news/local/multimillion-dollar-power-substation-planned-near-charlotte-airport/ZACJIEGKSFF37DLQO3QPZBT3VU/",
+        "date": "2026-08-14",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "12899 Moores Chapel Road, about 12 miles west of downtown. Site bought Nov 2024 for $160M (Charlotte Business Journal via Bisnow); more than 3M sq ft in two buildings. Bisnow (Apr 2025) said City Council rezoning was still needed; outcome not confirmed. WSOC (Aug 2026): Digital Realty paying for a multimillion-dollar substation near the airport.",
+    "pin_source": "https://www.bisnow.com/news/national/data-center/digital-realty-plans-major-data-center-expansion-across-southeast-us-129131",
+    "pin_address": "12899 Moores Chapel Rd, Charlotte, NC 28214"
+  },
+  {
+    "id": "nc-mecklenburg-powerhouse-charlotte",
+    "name": "PowerHouse Charlotte",
+    "owner": "PowerHouse Data Centers and Town Lane (joint venture)",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Mecklenburg County",
+    "town": "Charlotte",
+    "lat": 35.313207,
+    "lng": -80.704144,
+    "stage": "announced",
+    "announced": "2024-09",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW secured (potential 500 MW)",
+        "kind": "real",
+        "source": "https://www.intelligentcio.com/north-america/2024/09/19/town-lane-and-powerhouse-data-centers-acquire-future-data-centre-land-site-in-charlotte/",
+        "date": "2024-09-19"
+      },
+      "acres": {
+        "value": 122,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.intelligentcio.com/north-america/2024/09/19/town-lane-and-powerhouse-data-centers-acquire-future-data-centre-land-site-in-charlotte/",
+        "date": "2024-09-19"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Duke Energy, building an additional substation on site",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.intelligentcio.com/north-america/2024/09/19/town-lane-and-powerhouse-data-centers-acquire-future-data-centre-land-site-in-charlotte/",
+        "date": "2024-09-19"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Town Lane and PowerHouse Data Centers acquire future data centre land site in Charlotte",
+        "outlet": "Intelligent CIO",
+        "url": "https://www.intelligentcio.com/north-america/2024/09/19/town-lane-and-powerhouse-data-centers-acquire-future-data-centre-land-site-in-charlotte/",
+        "date": "2024-09-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "Charlotte leaders, residents call for data center moratorium ahead of council vote",
+        "outlet": "WBTV",
+        "url": "https://www.wbtv.com/2026/06/04/charlotte-leaders-residents-call-data-center-moratorium-ahead-council-vote/",
+        "date": "2026-06-04",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Five buildings, 2.5M sq ft, University City area (10800 University City Blvd per trackers). Power targeted April 2027. Zoning reportedly approved 2023.",
+    "pin_address": "10864 University City Blvd, Charlotte, NC 28213",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071995649"
+  },
+  {
+    "id": "nc-cherokee-exponential-digital-murphy",
+    "name": "Harshaw Road crypto mine (Murphy)",
+    "owner": "Exponential Digital (formerly Ankr Mining Solutions; PrimeBlock affiliate)",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Cherokee County",
+    "town": "Murphy",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Class action filed Aug. 7, 2026 by Judith Stines and William Huffman for residents within two miles, against PrimeBlock Operations, Exponential Digital (formerly Ankr Mining Solutions) and Innotech Z: nuisance and negligence; now W.D.N.C. case 1:26-cv-00225",
+        "source": "https://www.law360.com/articles/2511658",
+        "date": "2026-08-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "'It's been a disaster' Residents warn neighboring areas of crypto mine impacts",
+        "outlet": "News Channel 9",
+        "url": "https://newschannel9.com/news/local/cryptocurrency-crypto-mines-mining-cherokee-county-murphy-western-north-carolina-residents-concerns-loud-impacts-warn-neighboring-areas-counties-bans-zoning-laws-rules-bitcoin-digital",
+        "date": "2023-04-12",
+        "tone": "bad"
+      },
+      {
+        "title": "Crypto, Data Center Noise Has 'Shattered' NC Town, Suit Says",
+        "outlet": "Law360",
+        "url": "https://www.law360.com/articles/2511658",
+        "date": "2026-08-10",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Bitcoin mine on Harshaw Road outside Murphy. Trackers say 20 MW running since Jan 2021 with 50 MW potential; not confirmed from an official source, so power left null. Cherokee County worked on an ordinance to stop new mines (2023)."
+  },
+  {
+    "id": "nc-catawba-apple-maiden",
+    "name": "Apple Catawba County data center campus (Maiden)",
+    "owner": "Apple",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Catawba County",
+    "town": null,
+    "lat": 35.588607,
+    "lng": -81.256688,
+    "stage": "running",
+    "announced": "2009",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "How a North Carolina county's textile decline opened the door for $5B data center hub",
+        "outlet": "Charlotte Business Journal (reposted by Catawba County EDC)",
+        "url": "https://www.catawbaedc.org/post/how-a-north-carolina-county-s-textile-decline-opened-the-door-for-5b-data-center-hub",
+        "date": "2026-09-03",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Catawba County EDC repost of Charlotte Business Journal: Apple arrived in 2009 and has a massive data center campus; Apple, Microsoft, Prysmian and Corning together invested more than $5B since 2009. Town (Maiden) not stated in the fetched source; investment and MW not split out. Needs an Apple source to raise confidence.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110061453421",
+    "pin_address": "5977 Startown Rd, Maiden, NC 28650"
+  },
+  {
+    "id": "nc-catawba-microsoft-catawba-campuses",
+    "name": "Microsoft Lyle Creek datacenter (Conover, near Highway 16)",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Catawba County",
+    "town": "Conover",
+    "lat": 35.730877,
+    "lng": -81.200541,
+    "stage": "building",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD",
+        "kind": "estimate",
+        "source": "https://www.wsoctv.com/news/local/microsofts-1-billion-data-center-project-frustrates-residents/OEWBNQNN2ZDQVO7ATZZ6NKJBMM/",
+        "date": "2026-06-24"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "The building exterior is in its final stages of completion. Mechanical and electrical work has begun.",
+        "source": "https://local.microsoft.com/blog/lyle-creek-datacenter-construction-update/",
+        "date": "2026-09-01"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Neighbors near the Conover site complain of near-daily construction noise and dust for about a year",
+        "source": "https://www.wsoctv.com/news/local/microsofts-1-billion-data-center-project-frustrates-residents/OEWBNQNN2ZDQVO7ATZZ6NKJBMM/",
+        "date": "2026-06-24"
+      }
+    ],
+    "news": [
+      {
+        "title": "Microsoft hits the brakes on $1B investment here",
+        "outlet": "WSOC-TV",
+        "url": "https://wsoctv.com/news/local/microsoft-hits-brakes-1b-investment-here/JHMCAD4PRRACDA727EOA6INTCU",
+        "date": "2025-04-16",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft's $1 billion data center project frustrates residents",
+        "outlet": "WSOC-TV",
+        "url": "https://www.wsoctv.com/news/local/microsofts-1-billion-data-center-project-frustrates-residents/OEWBNQNN2ZDQVO7ATZZ6NKJBMM/",
+        "date": "2026-06-24",
+        "tone": "bad"
+      },
+      {
+        "title": "How a North Carolina county's textile decline opened the door for $5B data center hub (Charlotte Business Journal repost)",
+        "outlet": "Catawba County EDC",
+        "url": "https://www.catawbaedc.org/post/how-a-north-carolina-county-s-textile-decline-opened-the-door-for-5b-data-center-hub",
+        "date": "2026-09-03",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "One record for Microsoft's four Catawba County data centers under one incentive package (WSOC: four new data centers, a 10-year project; Hoodline, citing the Charlotte Observer, lists campuses in Conover, Hickory, Maiden and Newton, Nov.-Dec. 2025 commercial permits worth about $909M, and an incentive guarantee of at least $1B over 10 years). Microsoft slowed some work in April 2025 (WSOC) and resumed after about 10 months (Hoodline, Feb. 2026). Town set to Conover (the site WSOC visited). Split into separate records if official addresses turn up. Promoted from lead nc-catawba-microsoft. Separate from Microsoft's Person County record. Pass 3 (2026-10-15): Split. Microsoft's North Carolina page lists three Catawba construction sites with separate locations: Lyle Creek ('greater Conover area near Highway 16'; Sept 2026 update: building exterior in final stages, interior, mechanical and electrical work under way), Stover (near the Hickory-Lincolnton Highway, Newton address; new record nc-catawba-microsoft-stover) and Boyd Farm (off Zeb Haynes Road, Maiden; new record nc-catawba-microsoft-boyd-farm). This record now stands for Lyle Creek (Conover). The $1B figure is the whole Catawba package (all sites), not Lyle Creek alone. WSOC counted four data centers; Microsoft's page names three.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071667153",
+    "pin_address": "1723 N NC Hwy 16, Conover, NC 28613"
+  },
+  {
+    "id": "nc-cherokee-core-scientific-marble",
+    "name": "Core Scientific Marble 1",
+    "owner": "Core Scientific",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Cherokee County",
+    "town": "Marble",
+    "lat": 35.184987,
+    "lng": -83.914091,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 117,
+        "unit": "MW total power capacity",
+        "kind": "real",
+        "source": "https://corescientific.com/high-density-data-centers/marble-nc/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 70,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://corescientific.com/high-density-data-centers/marble-nc/",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Cherokee County residents were upset about crypto mines. Then came AI",
+        "outlet": "WUNC (via Public Radio East)",
+        "url": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+        "date": "2026-04-10",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "155 Palmer Ln, Marble, NC 28905; 250,000 sq ft (Core Scientific page). Former thread factory (closed 2015) used as a bitcoin mine; WUNC (Apr. 10, 2026) says the last full crypto year was 2024 and the site is being converted to an AI data center, with a 2025 site plan listing 170+ diesel generators. Stage 'building' = conversion under way; it ran as a crypto mine before. NewsChannel 9 (date not captured) said it mined inside a building with sound barriers and drew no complaints.",
+    "pin_source": "https://corescientific.com/high-density-data-centers/marble-nc/",
+    "pin_address": "155 PALMER LN, MARBLE, NC, 28905"
+  },
+  {
+    "id": "nc-iredell-compass-statesville",
+    "name": "Compass Datacenters Statesville campus (Stamey Farm Road)",
+    "owner": "Compass Datacenters",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Iredell County",
+    "town": "Statesville",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-08",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "jobs (about, per developer)",
+        "kind": "estimate",
+        "source": "https://www.governing.com/infrastructure/north-carolina-city-approves-massive-data-center-despite-local-opposition",
+        "date": "2025-09-17"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 330,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.governing.com/infrastructure/north-carolina-city-approves-massive-data-center-despite-local-opposition",
+        "date": "2025-09-17"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "At the rezoning hearing 17 residents urged denial (5 spoke in favor) over noise, pollution and rural character",
+        "source": "https://www.governing.com/infrastructure/north-carolina-city-approves-massive-data-center-despite-local-opposition",
+        "date": "2025-09-17"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center proposal in Statesville draws concerns from residents",
+        "outlet": "WBTV",
+        "url": "https://www.wbtv.com/2025/08/21/data-center-proposal-statesville-draws-concerns-residents/",
+        "date": "2025-08-21",
+        "tone": "bad"
+      },
+      {
+        "title": "North Carolina city approves massive data center despite local opposition (Charlotte Observer via Governing)",
+        "outlet": "Governing / The Charlotte Observer",
+        "url": "https://www.governing.com/infrastructure/north-carolina-city-approves-massive-data-center-despite-local-opposition",
+        "date": "2025-09-17",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "Off the Stamey Farm Road exit of I-40, western Iredell County, about 49 miles northwest of Charlotte. Five buildings of about 270,000 sq ft each; Statesville City Council approved the rezoning 8-0 (Planning Board 6-0) in mid-September 2025. City public hearing notice: https://www.locable.com/connections/86660-city-of-statesville/posts/2025/9/3/21578/public-hearing-notice-rezoning-request-for-compass-data-centers-on-stamey-farm-road/ . Search summaries mention 40 backup generators per building, a broker listing at up to 500 MW and a 2028 target; not confirmed from fetched sources. Acreage varies by report (330-365)."
+  },
+  {
+    "id": "nc-rockingham-whitefiber-madison",
+    "name": "WhiteFiber NC-1 Madison AI data center campus (former Unifi plant)",
+    "owner": "WhiteFiber (Bit Digital)",
+    "operator": null,
+    "tier": "large",
+    "state": "NC",
+    "county": "Rockingham County",
+    "town": "Madison",
+    "lat": 36.401107,
+    "lng": -79.987134,
+    "stage": "announced",
+    "announced": "2025-06-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (over, for the full 200 MW over time)",
+        "kind": "real",
+        "source": "https://finviz.com/news/71208/whitefiber-inc-bit-digitals-ai-unit-acquires-1000000-square-foot-north-carolina-industrial-property-to-support-up-to-200-mw-hpc-data-center-campus",
+        "date": "2025-06-02"
+      },
+      "power_mw": {
+        "value": 99,
+        "unit": "MW Duke Energy capacity agreement (24 MW first; up to 200 MW studied)",
+        "kind": "real",
+        "source": "https://finviz.com/news/71208/whitefiber-inc-bit-digitals-ai-unit-acquires-1000000-square-foot-north-carolina-industrial-property-to-support-up-to-200-mw-hpc-data-center-campus",
+        "date": "2025-06-02"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 60,
+        "unit": "jobs (more than)",
+        "kind": "real",
+        "source": "https://finviz.com/news/71208/whitefiber-inc-bit-digitals-ai-unit-acquires-1000000-square-foot-north-carolina-industrial-property-to-support-up-to-200-mw-hpc-data-center-campus",
+        "date": "2025-06-02"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Duke Energy",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://finviz.com/news/71208/whitefiber-inc-bit-digitals-ai-unit-acquires-1000000-square-foot-north-carolina-industrial-property-to-support-up-to-200-mw-hpc-data-center-campus",
+        "date": "2025-06-02"
+      },
+      "acres": {
+        "value": 96,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://finviz.com/news/71208/whitefiber-inc-bit-digitals-ai-unit-acquires-1000000-square-foot-north-carolina-industrial-property-to-support-up-to-200-mw-hpc-data-center-campus",
+        "date": "2025-06-02"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "WhiteFiber, Bit Digital's AI unit, acquires 1,000,000 square foot North Carolina industrial property to support up to 200 MW HPC data center campus",
+        "outlet": "WhiteFiber press release (via Finviz)",
+        "url": "https://finviz.com/news/71208/whitefiber-inc-bit-digitals-ai-unit-acquires-1000000-square-foot-north-carolina-industrial-property-to-support-up-to-200-mw-hpc-data-center-campus",
+        "date": "2025-06-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Rockingham County set to welcome a $1 billion AI data center",
+        "outlet": "WFDD",
+        "url": "https://www.wfdd.org/2025-06-03/rockingham-county-set-to-welcome-a-1-billion-ai-data-center",
+        "date": "2025-06-03",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Unifi textile plant, about 1M sq ft on 96 acres, bought for $45M (June 2025). First phase was targeted online by end of 2025; current status not confirmed from a fetched source, so stage left at 'announced'. Search summaries give the address as 805 Island Drive and mention an $865M, 10-year Nscale lease at NC-1 (not fetched). Earlier reports named Bit Digital's Enovum as buyer.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072224064",
+    "pin_address": "805 Island Dr, Madison, NC 27025"
+  },
+  {
+    "id": "nc-durham-cyrusone-dur1-dur2",
+    "name": "CyrusOne Durham campus (DUR1, DUR2)",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "NC",
+    "county": "Durham County",
+    "town": "Durham",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 40,
+        "unit": "MW total IT capacity (campus)",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/durham-nc-dur1-dur2",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company page: DUR1-DUR2 campus in Research Triangle Park, Durham; DUR1 existing (420,000+ sq ft, 92,320 sq ft raised floor, eleven halls) plus DUR2 shell delivered 2025; 40 MW total IT capacity across the campus (https://www.cyrusone.com/data-centers/north-america/durham-nc-dur1-dur2). County: the page says Durham, NC; RTP spans Durham and Wake counties, so confirm with the parcel. No street address on the page."
+  },
+  {
+    "id": "nc-lee-cyrusone-sanford",
+    "name": "CyrusOne Lee County campus (4079 Lower Moncure Road)",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "NC",
+    "county": "Lee County",
+    "town": "Sanford",
+    "lat": 35.557654,
+    "lng": -79.092498,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 7000000000,
+        "unit": "USD (full build, projected; Phase I over $900M)",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/lee-county-north-carolina",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company community page: proposed campus at 4079 Lower Moncure Road, Sanford; Phase I over $900M, full build about $7B; Phase I over $1.0M a year new tax, full build over $8.0M a year; about 40 jobs per building; closed-loop cooling (https://www.cyrusone.com/data-centers/north-america/lee-county-north-carolina). Approval status not stated on the page."
+  },
+  {
+    "id": "nc-mecklenburg-h5-charlotte",
+    "name": "H5 Data Centers Charlotte (10105 David Taylor Drive)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "NC",
+    "county": "Mecklenburg County",
+    "town": "Charlotte",
+    "lat": 35.333594,
+    "lng": -80.76355,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 28,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://h5datacenters.com/charlotte-data-center.html",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "10105 David Taylor Drive, University Research Park; 207,000 sq ft mixed-use facility on 28 acres, powered shell or build-to-suit offered (https://h5datacenters.com/charlotte-data-center.html). Share of the building that is data center not stated. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "nc-catawba-microsoft-stover",
+    "name": "Microsoft Stover datacenter (Hickory-Lincolnton Highway)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "NC",
+    "county": "Catawba County",
+    "town": "Newton",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Stover project remains on track to begin steel structure installation at the end of June.",
+        "source": "https://local.microsoft.com/blog/stover-datacenter-construction-update/",
+        "date": "2026-05-01"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft construction update (May 2026): datacenter near the Hickory-Lincolnton Highway in Catawba County; October 2024 community session was held at the Stover Datacenter Site on Hickory Lincolnton Hwy, Newton. Underground utilities and foundations under way; steel to start end of June 2026. Split out of nc-catawba-microsoft-catawba-campuses (the $1B Catawba package covers all Microsoft sites there)."
+  },
+  {
+    "id": "nc-catawba-microsoft-boyd-farm",
+    "name": "Microsoft Boyd Farm datacenter (Zeb Haynes Road, Maiden)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "NC",
+    "county": "Catawba County",
+    "town": "Maiden",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Microsoft continues construction at the Boyd Farm datacenter site.",
+        "source": "https://local.microsoft.com/blog/boyd-farms-datacenter-construction-update/",
+        "date": "2026-05-01"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft construction update (May 2026): 'The datacenter construction site is located off Zeb Haynes Road in Maiden, North Carolina'; foundations, underground utilities, first slab pour planned early June 2026. Split out of nc-catawba-microsoft-catawba-campuses. Not Apple's Maiden campus (nc-catawba-apple-maiden)."
+  }
+]

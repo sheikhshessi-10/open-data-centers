@@ -1,0 +1,185 @@
+{
+  "state": "TN",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Qualified data center sales and use tax exemption and reduced electricity rate",
+      "law": "Tenn. Code Ann. § 67-6-206 (definitions in § 67-6-102)",
+      "what": "Qualified data centers (at least $100M invested over up to three years and 15 net new full-time jobs, lowered in 2016 from $250M and 25 jobs) buy computer equipment, repair services, backup power infrastructure and cooling equipment free of sales tax and pay a reduced 1.5% state sales tax rate on electricity. One application per location.",
+      "value_known": "No dollar cost published. Department of Revenue told Rep. Behn the state has 25 exemptions but will not name recipients, citing taxpayer confidentiality.",
+      "source": "https://tennesseelookout.com/2026/09/09/nashville-lawmaker-proposes-pause-on-data-center-tax-exemptions/",
+      "date": "2026-09-09"
+    },
+    {
+      "name": "FastTrack grants and job tax credits (general programs)",
+      "law": null,
+      "what": "Data centers are eligible for ECD FastTrack grants and tax credits; ECD says no data center has received FastTrack funds and tax credits are confidential.",
+      "value_known": "None disclosed",
+      "source": "https://tennesseelookout.com/2026/09/09/nashville-lawmaker-proposes-pause-on-data-center-tax-exemptions/",
+      "date": "2026-09-09"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "TVA Board, February 2026 (no docket number)",
+      "regulator": "Tennessee Valley Authority Board of Directors (federal; not the Tennessee Public Utility Commission, which does not regulate TVA or its local power companies)",
+      "utility": "TVA / Memphis Light, Gas and Water",
+      "what": "TVA board approved a deal letting xAI's Memphis-area data center operations buy up to 300 MW of power (reported as doubling xAI's supply).",
+      "site_ids": [
+        "tn-shelby-xai-colossus-1",
+        "tn-shelby-xai-colossus-2"
+      ],
+      "status": "approved",
+      "url": "https://www.knoxnews.com/story/money/business/2026/02/12/tennessee-valley-authority-tva-board-votes-double-power-for-elon-musk-xai-plant-memphis/88614594007/",
+      "date": "2026-02-12"
+    },
+    {
+      "id": "TVA Board, August 2026 (no docket number)",
+      "regulator": "Tennessee Valley Authority Board of Directors (federal)",
+      "utility": "TVA and its local power companies",
+      "what": "TVA board approved a separate data center rate class at its Memphis meeting: data centers leave the manufacturing class and fall into four categories by contract demand; applies to new and existing facilities from Oct. 1, 2026, phased in over three fiscal years; average bill impact about 10% (CFO Tom Rice). New or expanding data centers above 5 MW pay a capacity commitment charge of about $1.5M per MW over three to five years. Residential rates unchanged. Proposed in May 2026.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://256today.com/tva-board-approves-higher-power-rates-for-data-centers/",
+      "date": "2026-08-20"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB2128 (Taylor) / HB1847 (Butler), 2026: data center power cost bill",
+      "status": "enacted",
+      "what": "Owners of data centers needing at least 50 MW must pay for infrastructure upgrades needed to serve them; utilities cannot pass those costs to other ratepayers unless upgrades also benefit them or follow normal large-customer rules. Also lets data centers self-generate (e.g., gas turbines) or buy from independent power producers without state or local oversight.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB2653 (Taylor) / HB2392 (Reneau), 2026: Tennessee Data Center Impact Review Act",
+      "status": "failed",
+      "what": "Would have required water and wastewater operator board permits and reporting of water sources and daily, peak and annual use. Sent to general subcommittee, no vote.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB2112 (Campbell) / HB2456 (Pearson), 2026",
+      "status": "failed",
+      "what": "Would have required data centers to register with the Department of Revenue and report fuel, electricity and water use. Failed in House Business and Utilities Subcommittee March 18, 2026.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB1682 (Lamar) / HB2061 (Towns), 2026",
+      "status": "failed",
+      "what": "Would have required registration with the Public Utility Commission and reporting of electricity and water use and rates. Failed for lack of a second in Senate Commerce and Labor, March 3, 2026.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB1999 (Lamar) / HB2054 (Camper), 2026: Data Center, Artificial Intelligence and Clean Transition Tariff Accountability Act",
+      "status": "failed",
+      "what": "Would have set tariffs for large energy-intensive users and required them to fund incremental generation and grid upgrades. Never advanced to a vote.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB1832 (Yarbro) / HB1461 (Clemmons), 2026",
+      "status": "failed",
+      "what": "Would have required high performance computing facilities to devote 50% of output to public benefit and report carbon footprint annually. Failed 2-6 in House Agriculture and Natural Resources Subcommittee, March 3, 2026.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "SB2584 (Jackson) / HB2047 (McCalmon), 2026",
+      "status": "failed",
+      "what": "Data centers receiving certain tax credits would have had to certify no WARN, FLSA or federal immigration violations in the prior year. Fizzled in Senate committees.",
+      "source": "https://tennesseelookout.com/2026/04/28/tennessee-bill-gives-data-centers-ability-to-self-power-with-limited-regulation/",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Rep. Aftyn Behn proposal for 2027 session: three-year pause on data center sales tax exemption certificates",
+      "status": "pending",
+      "what": "Announced plan to file a bill halting new exemption certificates for three years and requiring the Department of Revenue to report annual cost, holders, compliance and revocations. Not yet filed as of the source date.",
+      "source": "https://tennesseelookout.com/2026/09/09/nashville-lawmaker-proposes-pause-on-data-center-tax-exemptions/",
+      "date": "2026-09-09"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "McMinnville (Warren County)",
+      "type": "moratorium",
+      "what": "18-month moratorium on data center permitting, passed unanimously by the Board of Mayor and Aldermen.",
+      "status": "enacted 2026-06-09",
+      "source": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/",
+      "date": "2026-06-15"
+    },
+    {
+      "place": "Coffee County",
+      "type": "moratorium",
+      "what": "Data center moratorium passed unanimously (at least one year per Tennessee Lookout).",
+      "status": "enacted 2026-06-09",
+      "source": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/",
+      "date": "2026-06-15"
+    },
+    {
+      "place": "Warren County",
+      "type": "moratorium",
+      "what": "County moratorium vote expected June 22, 2026.",
+      "status": "proposed; outcome not confirmed",
+      "source": "https://tennesseelookout.com/2026/06/15/local-tennessee-officials-are-putting-data-center-plans-on-ice-to-consider-regulations/",
+      "date": "2026-06-15"
+    },
+    {
+      "place": "Knox County",
+      "type": "moratorium",
+      "what": "County moratorium on the June 2026 commission agenda; vote expected June 22, 2026.",
+      "status": "proposed; outcome not confirmed",
+      "source": "https://commission.knoxcountytn.gov/wp-content/uploads/CommissionPreliminaryAgendaJune2026.pdf",
+      "date": "2026-06-22"
+    },
+    {
+      "place": "Nashville-Davidson County (Metro)",
+      "type": "moratorium",
+      "what": "BL2026-1448 (Councilmember Courtney Johnston): moratorium on new data center permits through Dec 1, 2026.",
+      "status": "passed by Metro Council 2026-07-21",
+      "source": "https://nashvillebanner.com/2026/07/21/nashville-data-center-regulations-moratorium/",
+      "date": "2026-07-21"
+    },
+    {
+      "place": "Nashville-Davidson County (Metro)",
+      "type": "zoning",
+      "what": "BL2026-1391 and BL2026-1392 (lead sponsor Rollin Horton): zoning rules for data centers, including distance requirements from sensitive uses, by size and megawatts.",
+      "status": "passed by Metro Council 2026-07-21",
+      "source": "https://nashvillebanner.com/2026/07/21/nashville-data-center-regulations-moratorium/",
+      "date": "2026-07-21"
+    },
+    {
+      "place": "Memphis",
+      "type": "moratorium",
+      "what": "12-month pause on data center rezoning applications, site plan approvals and building permits (sponsor J.B. Smiley Jr.); would not apply to existing xAI data centers. Advanced from committee Aug 18, 2026; council voted Oct 6 to delay the final vote to Oct 20, 2026. At the contentious Oct 6, 2026 meeting the council deferred the vote; the council chair then barred Rep. Justin J. Pearson and others from the Oct 10 and Nov 10 meetings, and Pearson sued the city on Oct 15 (Tennessee Lookout, https://tennesseelookout.com/2026/10/15/rep-pearson-sues-memphis-alleging-first-amendment-violation/).",
+      "status": "pending",
+      "source": "https://www.wcax.com/2026/10/07/data-center-moratorium-vote-postponed-after-fight-protests/",
+      "date": "2026-10-07"
+    },
+    {
+      "place": "Gallatin (Sumner County)",
+      "type": "moratorium",
+      "what": "City council approved a 60-day pause on new data center applications on July 28, 2026; the planning commission recommended a 12-month moratorium on Aug 25, 2026.",
+      "status": "60-day pause enacted 2026-07-28; 12-month moratorium recommended, final council vote not confirmed",
+      "source": "https://www.lpm.org/news/2026-09-08/one-tn-community-offers-a-glimpse-at-what-to-expect-as-hyperscale-data-centers-come-online",
+      "date": "2026-09-08"
+    }
+  ],
+  "news": [
+    {
+      "title": "Rep. Pearson sues Memphis alleging First Amendment violation",
+      "outlet": "Tennessee Lookout",
+      "url": "https://tennesseelookout.com/2026/10/15/rep-pearson-sues-memphis-alleging-first-amendment-violation/",
+      "date": "2026-10-15",
+      "tone": "bad"
+    }
+  ]
+}

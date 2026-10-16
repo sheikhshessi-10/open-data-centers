@@ -1,0 +1,458 @@
+[
+  {
+    "id": "ma-middlesex-markley-lowell",
+    "name": "Markley Lowell data center",
+    "owner": "Markley Group",
+    "operator": "Markley Group",
+    "tier": "large",
+    "state": "MA",
+    "county": "Middlesex County",
+    "town": "Lowell",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents sued MassDEP (April 2026) over its approval of Markley's air plan for eight new diesel generators (27 total), the state's first lawsuit against a data center; a Middlesex Superior Court judge temporarily blocked four of the new generators",
+        "source": "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts",
+        "date": "2026-09-08"
+      },
+      {
+        "what": "City of Lowell temporary moratorium on new or expanded data centers while it considers zoning standards",
+        "source": "https://www.bdlaw.com/lauren-m-karam/publications/massachusetts-conditions-large-data-center-permits-on-community-agreements/",
+        "date": "2026-09-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Healey: proposed data centers need local approval",
+        "outlet": "WBUR",
+        "url": "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts",
+        "date": "2026-09-08",
+        "tone": "neutral"
+      },
+      {
+        "title": "A new ballot initiative takes aim at Massachusetts data centers",
+        "outlet": "Boston.com",
+        "url": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+        "date": "2026-08-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Operating Markley campus in Lowell (company site names Boston and Lowell data centers). Law firm summary describes it as about 352,000 sq ft in a dense residential area. Court order blocking four generators dated 2026-08-10 per Beveridge & Diamond summary. MW not sourced; included as a large campus based on its 27-generator air permit and size, check MW."
+  },
+  {
+    "id": "ma-suffolk-markley-one-summer",
+    "name": "Markley One Summer Street",
+    "owner": "Markley Group",
+    "operator": "Markley Group",
+    "tier": "large",
+    "state": "MA",
+    "county": "Suffolk County",
+    "town": "Boston",
+    "lat": 42.355418,
+    "lng": -71.060477,
+    "stage": "running",
+    "announced": "1998",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 30,
+        "unit": "MW drawn (about)",
+        "kind": "estimate",
+        "source": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+        "date": "2026-09-18"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Boston City Councilor Miniard Culpepper proposed a citywide zoning ban on new data centers; existing sites like Markley's could keep operating but not expand",
+        "source": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+        "date": "2026-09-18"
+      }
+    ],
+    "news": [
+      {
+        "title": "Boston councilor proposes ban on new data centers",
+        "outlet": "WBUR",
+        "url": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+        "date": "2026-09-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Downtown Crossing carrier hotel and data center, opened 1998 (WBUR). Company site lists One Summer Street, Boston.",
+    "pin_source": "https://www.markleygroup.com/",
+    "pin_address": "One Summer Street, Boston, MA 02110"
+  },
+  {
+    "id": "ma-hampden-westmass-westfield",
+    "name": "Westfield data center (Servisar Industrial Way)",
+    "owner": "Westmass Area Development Corp. (developer)",
+    "operator": null,
+    "tier": "large",
+    "state": "MA",
+    "county": "Hampden County",
+    "town": "Westfield",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 4000000000,
+        "unit": "USD (Boston.com, Aug 2026; The Reminder reported $2.75B in June 2026)",
+        "kind": "estimate",
+        "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+        "date": "2026-08-26"
+      },
+      "power_mw": {
+        "value": 85,
+        "unit": "MW draw (Westfield Gas & Electric general manager's estimate, about the city's whole peak load)",
+        "kind": "estimate",
+        "source": "https://thereminder.com/?p=101411",
+        "date": "2026-06-10"
+      },
+      "acres": {
+        "value": 10,
+        "unit": "acres (parcel on Servisar Industrial Way)",
+        "kind": "estimate",
+        "source": "https://thereminder.com/?p=101411",
+        "date": "2026-06-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Westfield Gas & Electric (municipal utility)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://thereminder.com/?p=101411",
+        "date": "2026-06-10"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Sen. John Velis wrote to the state (Oct 2025, Apr 2026) that data center energy costs should not fall on residents",
+        "source": "https://thereminder.com/?p=101411",
+        "date": "2026-06-10"
+      }
+    ],
+    "news": [
+      {
+        "title": "Velis: Burden of data centers should not fall on residents",
+        "outlet": "The Reminder",
+        "url": "https://thereminder.com/?p=101411",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "A new ballot initiative takes aim at Massachusetts data centers",
+        "outlet": "Boston.com",
+        "url": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+        "date": "2026-08-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Developer named as Westmass Area Development Corp. in The Reminder; end user not named. Boston.com says the $4B project 'has been approved' and the city then passed a one-year moratorium on more projects. Investment figures differ between outlets; the approving body and date are not sourced."
+  },
+  {
+    "id": "ma-worcester-iron-mountain-bos1",
+    "name": "Iron Mountain BOS-1",
+    "owner": "Iron Mountain Data Centers",
+    "operator": null,
+    "tier": "small",
+    "state": "MA",
+    "county": "Worcester County",
+    "town": "Northborough",
+    "lat": 42.340882,
+    "lng": -71.637054,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 3.6,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/33013536/data-center-tours-iron-mountain-bos-1-northborough-ma",
+        "date": "2023-10-23"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 58,
+        "unit": "acres (campus)",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/33013536/data-center-tours-iron-mountain-bos-1-northborough-ma",
+        "date": "2023-10-23"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "171 Bearfoot Road, Northborough. Colocation, about 21,000-22,000 sq ft; LEED Gold. Small (under 20 MW): listed because the gap list named it. Company page: https://www.ironmountain.com/data-centers/locations/boston-data-center (not opened).",
+    "pin_source": "https://www.ironmountain.com/data-centers/locations/boston-data-center",
+    "pin_address": "171 Bearfoot Road, Northborough, MA"
+  },
+  {
+    "id": "ma-norfolk-digital-realty-bos14",
+    "name": "Digital Realty BOS14 Needham (128 First Avenue)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "MA",
+    "county": "Norfolk County",
+    "town": "Needham",
+    "lat": 42.301773,
+    "lng": -71.221844,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "128 First Avenue, Needham; total building size 281,000 sq ft, 280,000 sq ft leasable (https://www.digitalrealty.com/data-centers/americas/boston/bos14). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ma-middlesex-coresite-bo1",
+    "name": "CoreSite BO1 Somerville (70 Inner Belt Road)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "MA",
+    "county": "Middlesex County",
+    "town": "Somerville",
+    "lat": 42.377127,
+    "lng": -71.080769,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "70 Inner Belt Road, Somerville; 273,000+ sq ft (https://www.coresite.com/data-centers/locations/boston). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ma-middlesex-centersquare-waltham",
+    "name": "Centersquare Waltham BOS1",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "MA",
+    "county": "Middlesex County",
+    "town": "Waltham",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 38.2,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/boston",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Waltham BOS1 in the Route 128 corridor: 50,150 sq ft raised floor, 38.2 MW utility power (https://www.csquare.com/data-centers/boston). Watertown BOS4 (19.1 MW) not included. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  }
+]

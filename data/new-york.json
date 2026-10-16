@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "ny-niagara-terawulf-lake-mariner",
+    "name": "Lake Mariner Data Campus",
+    "owner": "TeraWulf",
+    "operator": "TeraWulf",
+    "tier": "large",
+    "state": "NY",
+    "county": "Niagara County",
+    "town": "Barker",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 600,
+        "unit": "MW total critical IT capacity (438 MW contracted, 162 MW open)",
+        "kind": "real",
+        "source": "https://www.terawulf.com/our-sites",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Company cites 'sustainable water cooling' for the HPC buildings",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
+        "date": "2025-08-18"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mining campus on the site of the former 700 MW Somerset coal plant (company page), being partly converted to AI/HPC. Fluidstack leases about 360 MW of critical IT load across CB-3, CB-4 and CB-5 (CB-5, 160 MW, expected to start operating 2H 2026); Google backstops about $3.2B of Fluidstack's lease obligations (press release 2025-08-18). Barker is in the Town of Somerset. Announced date for the original mining campus not sourced here."
+  },
+  {
+    "id": "ny-tompkins-terawulf-lake-hawkeye",
+    "name": "Lake Hawkeye Data Campus (Cayuga site)",
+    "owner": "TeraWulf",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Tompkins County",
+    "town": "Lansing",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-08-14",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 320,
+        "unit": "MW total critical IT capacity planned (company page; Aug 2025 lease gave rights to develop up to 400 MW)",
+        "kind": "real",
+        "source": "https://www.terawulf.com/our-sites",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 183,
+        "unit": "acres (former industrial site, long-term ground lease)",
+        "kind": "real",
+        "source": "https://investors.terawulf.com/news-events/press-releases/detail/113/terawulf-secures-long-term-ground-lease-at-cayuga-site-to-expand-high-performance-computing-infrastructure",
+        "date": "2025-08-14"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Redevelopment of the former 300 MW Cayuga coal plant in Lansing. 80-year ground lease with Cayuga Operating Company LLC (owned by TeraWulf's CEO; parent Riesling Power got $95M in TeraWulf stock plus $3M cash). Aug 2025 release expected 138 MW online in 2H 2026; TeraWulf's site page (checked 2026-10-15) lists the status as 'Permitting' with 0 MW contracted, so stage kept at announced."
+  },
+  {
+    "id": "ny-yates-greenidge-dresden",
+    "name": "Greenidge Generation (Dresden power plant and bitcoin mine)",
+    "owner": "Vulcan Infrastructure and Power (formerly Greenidge Generation Holdings)",
+    "operator": "Greenidge Generation LLC",
+    "tier": "large",
+    "state": "NY",
+    "county": "Yates County",
+    "town": "Dresden",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2020-03-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "On-site natural gas power plant that also sells power to the NYISO grid; mining can be curtailed to send more power to the grid",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vulcanip.com/wp-content/uploads/2025/11/GREE-New-Air-Permit-11.7.25.pdf",
+        "date": "2025-11-07"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Seneca Lake Guardian, Earthjustice and Sierra Club sued over the plant's water discharge permit (dismissed in federal court)",
+        "source": "https://vulcanip.com/wp-content/uploads/2023/08/GREE-SPDES-Case-Dimissed-8.23.23.pdf",
+        "date": "2023-08-23"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "NYSDEC denied renewal of the plant's Title V air permit (company statement on the denial); NY Supreme Court later rejected the denial (2024-11-14)",
+        "source": "https://vulcanip.com/wp-content/uploads/2022/06/Statement-of-Greenidge-6-30-22.pdf",
+        "date": "2022-06-30"
+      },
+      {
+        "what": "Nov 2025 settlement with NYSDEC: new five-year Title V permit requiring a 44% cut in permitted greenhouse gas emissions and 25% cut from actual emissions by 2030; settlement ended all litigation",
+        "source": "https://vulcanip.com/wp-content/uploads/2025/11/Stipulation-of-Settlement-between-DEC-and-Greenidge-11.07.25.pdf",
+        "date": "2025-11-07"
+      }
+    ],
+    "news": [
+      {
+        "title": "Greenidge, New York State Agree on Historic New Air Permit",
+        "outlet": "Greenidge Generation (company release)",
+        "url": "https://vulcanip.com/wp-content/uploads/2025/11/GREE-New-Air-Permit-11.7.25.pdf",
+        "date": "2025-11-07",
+        "tone": "neutral"
+      },
+      {
+        "title": "New York Supreme Court rejects Greenidge permit denial",
+        "outlet": "Greenidge Generation (company release)",
+        "url": "https://vulcanip.com/wp-content/uploads/2024/11/GREE-Permit-Denial-Rejected-by-NY-Supreme-Court-11.14.24.pdf",
+        "date": "2024-11-14",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Gas-fired power plant on Seneca Lake converted to bitcoin mining; company dates start of data center operations to 2020-03-05. Company renamed Vulcan Infrastructure and Power (Nasdaq: VIP) in July 2026 and is pursuing AI/HPC uses for Dresden (company says more than 100 MW of near-term AI/HPC opportunities across its sites, 2026-08-14 release). Stage running per Aug 2026 release (plant upgrades and repairs completed). Company-wide energized capacity 104 MW, not split by site, so power_mw left null."
+  },
+  {
+    "id": "ny-st-lawrence-nccs-massena",
+    "name": "North Country Colocation Services Massena (former Coinmint site)",
+    "owner": "New York Digital Investment Group (NYDIG)",
+    "operator": "North Country Colocation Services (NYDIG affiliate)",
+    "tier": "large",
+    "state": "NY",
+    "county": "St. Lawrence County",
+    "town": "Massena",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 435,
+        "unit": "MW of power available to the facility (up to, company claim)",
+        "kind": "real",
+        "source": "https://www.nccs.one/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "full-time jobs (company)",
+        "kind": "real",
+        "source": "https://www.northcountrypublicradio.org/news/story/54053/20261007/ny-hit-pause-on-large-data-centers-a-massive-project-in-massena-may-be-exempt",
+        "date": "2026-10-07"
+      },
+      "jobs_promised_build": {
+        "value": 2000,
+        "unit": "construction jobs (company)",
+        "kind": "real",
+        "source": "https://www.northcountrypublicradio.org/news/story/54053/20261007/ny-hit-pause-on-large-data-centers-a-massive-project-in-massena-may-be-exempt",
+        "date": "2026-10-07"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Hydropower from the adjacent Moses-Saunders Power Dam (company page)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nccs.one/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "NY hit pause on large data centers. A massive project in Massena may be exempt",
+        "outlet": "North Country Public Radio",
+        "url": "https://www.northcountrypublicradio.org/news/story/54053/20261007/ny-hit-pause-on-large-data-centers-a-massive-project-in-massena-may-be-exempt",
+        "date": "2026-10-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "High-density compute colocation (AI and blockchain) next to the Moses-Saunders dam. coinmint.one now redirects to nccs.one; the link to the old Coinmint bitcoin mine at the former Alcoa site is from the redirect only, not confirmed by a source text. Opening date not sourced. NCPR (2026-10-07): NYDIG/NCCS plan 1.5 million sq ft and 635 MW at the shuttered Alcoa East/Reynolds site (being acquired by NYDIG); initial construction slated for later in 2026 per company site; town board voted 3-2 on 2026-09-26 against a local moratorium; town says NCCS applied for permits in 2020 and may be exempt from EO 62 (state has not confirmed). Treated as the same campus as this record; if sources show the Reynolds site is separate from the running facility, split it."
+  },
+  {
+    "id": "ny-genesee-stream-stamp",
+    "name": "Stream Data Centers STAMP campus (Project Double Reed)",
+    "owner": "Stream Data Centers (STREAM U.S. Data Centers, LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Genesee County",
+    "town": "Alabama",
+    "lat": 43.096499,
+    "lng": -78.403291,
+    "stage": "announced",
+    "announced": "2025-03-06",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 19460000000,
+        "unit": "USD (revised application; Jan 2026 summary said $11.18B)",
+        "kind": "real",
+        "source": "https://www.gcedc.com/news/article/current/2026/03/05/100160/public-hearing-set-for-stream-us-data-centers-project",
+        "date": "2026-03-05"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 130,
+        "unit": "acres (90 permanent: 60 north campus + 30 south campus; 40 temporary construction)",
+        "kind": "real",
+        "source": "https://www.gcedc.com/file-library/100319/STREAMUSDataCentersLLC.ProjectSummary.1.30.26.pdf",
+        "date": "2026-01-30"
+      },
+      "jobs_promised_perm": {
+        "value": 125,
+        "unit": "new jobs",
+        "kind": "real",
+        "source": "https://www.gcedc.com/file-library/100319/STREAMUSDataCentersLLC.ProjectSummary.1.30.26.pdf",
+        "date": "2026-01-30"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "construction jobs at peak (about, company)",
+        "kind": "real",
+        "source": "https://www.streamdatacenters.com/project-stamp/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "National Grid / 345 kV bulk power system at STAMP (company says it is coordinating with National Grid, state authorities and NYISO)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.streamdatacenters.com/project-stamp/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": {
+        "value": "Closed-loop, air-cooled; water use about that of a small office building (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.streamdatacenters.com/project-stamp/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "Requested from GCEDC: sales tax exemption est. $769,488,000 and mortgage tax exemption est. $31,227,000 (total incentives est. $774,004,877 in Jan 2026 summary); 30-year PILOT/host deal",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.gcedc.com/file-library/100319/STREAMUSDataCentersLLC.ProjectSummary.1.30.26.pdf",
+        "date": "2026-01-30"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "30-year PILOT/host payments of $285 million to Genesee County, Town of Alabama and Oakfield-Alabama Central School District",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.gcedc.com/news/article/current/2026/03/05/100160/public-hearing-set-for-stream-us-data-centers-project",
+        "date": "2026-03-05"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "GCEDC rescinded its March 2025 approval after Stream said it would expand the project; new SEQR review and public hearings (Mar 19 and Apr 16, 2026) followed",
+        "source": "https://www.gcedc.com/news/article/current/2025/09/18/100144/statement-regarding-stream-u.s.-data-centers",
+        "date": "2025-09-18"
+      }
+    ],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2.2 million sq ft campus, three two-story buildings, at Crosby Road in STAMP (Town of Alabama). GCEDC board first approved the original plan 2025-03-06, then rescinded it 2025-09-18 for an expanded project. As of the GCEDC project page (Oct 2026) no final incentive resolution or SEQR findings are listed; town site plan submitted 2026-09-16. Company projects operations starting 2027. MW not published. STAMP borders the Tonawanda Seneca Nation; no opposition source gathered in this run.",
+    "pin_source": "https://www.gcedc.com/file-library/100319/STREAMUSDataCentersLLC.ProjectSummary.1.30.26.pdf",
+    "pin_address": "6501 Crosby Road, Alabama, NY"
+  },
+  {
+    "id": "ny-erie-digipowerx-buffalo",
+    "name": "Digi Power X Buffalo Mining Facility",
+    "owner": "Digi Power X Inc. (formerly Digihost Technology)",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Erie County",
+    "town": "Buffalo",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "Grid power (company says its two New York sites use grid-based power); anchor subscriber to a 5 MW community solar project in Grand Island",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026037677/ea0283764-10k_digipower.htm",
+        "date": "2026-03-31"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mining facility at 1001 East Delavan Ave., Buffalo: over 60,000 sq ft under a 99-year lease (10-K filed 2026-03-31). Company footprint page lists Buffalo as an owned and operated node. Site MW not given separately: the 10-K says 141.7 MW available across its New York sites; a line reading '18.7 MW secured in Buffalo Alabama' is ambiguous and not used. Opening date not sourced (lease dated 2021-12-21)."
+  },
+  {
+    "id": "ny-niagara-digipowerx-north-tonawanda",
+    "name": "Digi Power X North Tonawanda power plant and data center site",
+    "owner": "Digi Power X Inc. (formerly Digihost Technology)",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Niagara County",
+    "town": "North Tonawanda",
+    "lat": 43.047995,
+    "lng": -78.851555,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 123,
+        "unit": "MW of power secured at North Tonawanda (company)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026037677/ea0283764-10k_digipower.htm",
+        "date": "2026-03-31"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "Company-owned 60 MW gas-fired power plant on site, currently run as a peaker plant",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026037677/ea0283764-10k_digipower.htm",
+        "date": "2026-03-31"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 13.5,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026037677/ea0283764-10k_digipower.htm",
+        "date": "2026-03-31"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1070 Erie Ave., North Tonawanda. Plant bought 2023-02-08. The 10-K lists it as one of the company's three facilities and says it is developing AI data center capacity in upstate New York (load study approved for another 60 MW at one NY location), but does not say whether computing (mining or AI) runs here today, so stage is 'announced' for the data center use. The plant itself runs as a peaker.",
+    "pin_source": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026037677/ea0283764-10k_digipower.htm",
+    "pin_address": "1070 Erie Ave, North Tonawanda, NY"
+  },
+  {
+    "id": "ny-niagara-hut8-alpha",
+    "name": "Hut 8 Alpha (Niagara Falls)",
+    "owner": "Hut 8 Corp.",
+    "operator": "Hut 8 (hosts American Bitcoin miners)",
+    "tier": "large",
+    "state": "NY",
+    "county": "Niagara County",
+    "town": "Niagara Falls",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 50,
+        "unit": "MW power capacity",
+        "kind": "real",
+        "source": "https://www.aap.com.au/aapreleases/globenewswire9226500/",
+        "date": "2024-09-06"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mining site acquired through the 2023 Hut 8 / US Bitcoin Corp (USBTC) merger. Hut 8 10-Q for Q2 2026 lists Alpha (Niagara Falls, New York) among five ASIC sites it owns and/or leases and operates, mainly occupied by American Bitcoin miners. Earlier noise dispute with the City of Niagara Falls settled April 2023 (reported, not checked here). Street address not sourced."
+  },
+  {
+    "id": "ny-niagara-h5-lockport",
+    "name": "Lockport data center (former Yahoo campus)",
+    "owner": "H5 Data Centers (per Investigative Post; built by Yahoo)",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Niagara County",
+    "town": "Lockport",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2009-06-30",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 150000000,
+        "unit": "USD (first phase, 2009 announcement)",
+        "kind": "real",
+        "source": "https://www.datacenterknowledge.com/business/it-s-official-yahoo-building-in-lockport-ny",
+        "date": "2009-06-30"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "NYPA hydropower: 10 MW for phase one plus 15 MW for phase two (2009 report)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterknowledge.com/business/it-s-official-yahoo-building-in-lockport-ny",
+        "date": "2009-06-30"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": {
+        "value": 478000000,
+        "unit": "USD in property and sales tax breaks (reported total), plus low-cost NYPA hydropower",
+        "kind": "estimate",
+        "source": "https://investigativepost.org/2026/07/21/hochul-wants-ban-on-tax-breaks-for-data-centers/",
+        "date": "2026-07-21"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 63,
+        "unit": "acres controlled in the Town of Lockport industrial park (2013)",
+        "kind": "real",
+        "source": "https://niagarachamber.org/?p=2537",
+        "date": "2013-07-11"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hochul wants ban on tax breaks for data centers",
+        "outlet": "Investigative Post",
+        "url": "https://investigativepost.org/2026/07/21/hochul-wants-ban-on-tax-breaks-for-data-centers/",
+        "date": "2026-07-21",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Built by Yahoo in the Town of Lockport industrial park off Upper Mountain and Junction roads; Lockport IDA gave 20-year tax packages (Buffalo News 2013). Investigative Post (2026) calls it 'H5 Data Centers, Lockport (formerly Yahoo!)'; the ownership change is from that one source. No 2026 source on how much is running today; 'running' rests on the campus having opened and being cited as operating."
+  },
+  {
+    "id": "ny-erie-riverview-tonawanda",
+    "name": "Riverview Innovation and Technology Campus",
+    "owner": "Riverview Innovation and Technology Campus (Jon Williams, Ontario Specialty Contracting, with an unnamed data center partner)",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Erie County",
+    "town": "Tonawanda",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (project figure)",
+        "kind": "real",
+        "source": "https://spectrumlocalnews.com/nys/buffalo/news/2026/06/01/public-hearing-set-on-proposed-data-center-at-former-tonawanda-coke-plant",
+        "date": "2026-06-01"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Erie County Executive Mark Poloncarz said he would not support county IDA tax breaks for the project.",
+        "source": "https://investigativepost.org/2026/07/21/hochul-wants-ban-on-tax-breaks-for-data-centers/",
+        "date": "2026-07-21"
+      }
+    ],
+    "news": [
+      {
+        "title": "Data center project at former Tonawanda Coke site on hold",
+        "outlet": "BTPM NPR",
+        "url": "https://www.btpm.org/local/2026-06-03/data-center-project-at-former-tonawanda-coke-site-on-hold",
+        "date": "2026-06-03",
+        "tone": "neutral"
+      },
+      {
+        "title": "Public hearing set on proposed data center at former Tonawanda Coke plant",
+        "outlet": "Spectrum News",
+        "url": "https://spectrumlocalnews.com/nys/buffalo/news/2026/06/01/public-hearing-set-on-proposed-data-center-at-former-tonawanda-coke-plant",
+        "date": "2026-06-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About 500,000 sq ft AI data center on the former Tonawanda Coke site, River Road, Town of Tonawanda. In June 2026 the developer asked the planning board to pause its application because of a NYISO backlog (Supervisor John Flynn called it on hold); the developer says the project is not on hold and will proceed after NYISO and National Grid approvals. News reports (not checked) cite up to $2B and a planned $50M substation. DCD also covered it (former-coke-plant-near-buffalo-eyed-for-300mw-data-center), date not read."
+  },
+  {
+    "id": "ny-dutchess-treetop-east-fishkill",
+    "name": "Treetop East Fishkill AI data center proposal",
+    "owner": "Treetop Companies",
+    "operator": null,
+    "tier": "large",
+    "state": "NY",
+    "county": "Dutchess County",
+    "town": "East Fishkill",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (one-gigawatt grid study request)",
+        "kind": "real",
+        "source": "https://westchester.news12.com/2026/06/25/east-fishkill-to-pass-moratorium-on-data-centers-as-developers-float-possibility-of-project-in-town/3LLFVbZfhK0r6jjmjA3uCP",
+        "date": "2026-06-25"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "East Fishkill Town Board unanimously approved a three-year moratorium on data centers after residents objected (water, power).",
+        "source": "https://spectrumlocalnews.com/nys/watertown/news/2026/06/27/east-fishkill-data-center-moratorium",
+        "date": "2026-06-27"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "East Fishkill to pass moratorium on data centers as developers float possibility of project in town",
+        "outlet": "News12",
+        "url": "https://westchester.news12.com/2026/06/25/east-fishkill-to-pass-moratorium-on-data-centers-as-developers-float-possibility-of-project-in-town/3LLFVbZfhK0r6jjmjA3uCP",
+        "date": "2026-06-25",
+        "tone": "bad"
+      },
+      {
+        "title": "East Fishkill data center moratorium",
+        "outlet": "Spectrum News",
+        "url": "https://spectrumlocalnews.com/nys/watertown/news/2026/06/27/east-fishkill-data-center-moratorium",
+        "date": "2026-06-27",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Treetop asked NYISO to study whether the grid could handle a 1 GW AI data center on the edge of town just south of I-84. No formal application or site plan filed; current zoning does not allow standalone data centers. Exact parcel not sourced (an IBM-site link seen in one blog is unconfirmed)."
+  },
+  {
+    "id": "ny-new-york-digital-realty-60-hudson",
+    "name": "Digital Realty JFK12 (60 Hudson Street)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "NY",
+    "county": "New York County",
+    "town": "New York",
+    "lat": 40.718203,
+    "lng": -74.008818,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "60 Hudson Street, Manhattan carrier hotel; Digital Realty lists JFK12 at 163,500 sq ft in a 24-story building (https://www.digitalrealty.com/data-centers/americas/new-york/jfk12). Promoted from lead ny-new-york-dlr-60-hudson. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ny-new-york-digital-realty-32-aoa",
+    "name": "Digital Realty JFK13 (32 Avenue of the Americas)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "NY",
+    "county": "New York County",
+    "town": "New York",
+    "lat": 40.719896,
+    "lng": -74.005113,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "32 Avenue of the Americas, Manhattan; Digital Realty lists JFK13 at 132,500 sq ft (https://www.digitalrealty.com/data-centers/americas/new-york/jfk13). CoreSite NY1 (48,000+ sq ft) is also in this building (https://www.coresite.com/data-centers/locations/new-york). About 0.2 miles from 60 Hudson St but a different building, so a separate record. Promoted from lead ny-new-york-dlr-32-aoa. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ny-new-york-digital-realty-111-8th",
+    "name": "Digital Realty JFK10 (111 8th Avenue)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "NY",
+    "county": "New York County",
+    "town": "New York",
+    "lat": 40.740905,
+    "lng": -74.001769,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "111 8th Avenue, Manhattan; Digital Realty lists JFK10 at 111,000 sq ft (https://www.digitalrealty.com/data-centers/americas/new-york/jfk10). Equinix NY9 (35,898 sq ft) is in the same building (https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/new-york-data-centers/ny9). Promoted from lead ny-new-york-dlr-111-8th. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ny-new-york-sabey-intergate-manhattan",
+    "name": "Sabey Intergate.Manhattan (375 Pearl Street)",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "NY",
+    "county": "New York County",
+    "town": "New York",
+    "lat": 40.710858,
+    "lng": -74.000695,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 18,
+        "unit": "MW capacity",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/new-york-data-center",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "375 Pearl St, the former Verizon Building, over a million sq ft; 222,000 sq ft data center footprint, 18 MW capacity, 23 carriers (https://sabeydatacenters.com/locations/new-york-data-center). Included as about 20 MW and over 100,000 sq ft."
+  }
+]

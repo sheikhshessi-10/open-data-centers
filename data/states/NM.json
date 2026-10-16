@@ -1,0 +1,145 @@
+{
+  "state": "NM",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Industrial revenue bonds (IRBs) with property tax abatement",
+      "law": "County Industrial Revenue Bond Act (NMSA 1978, 4-59-1 et seq.) and municipal Industrial Revenue Bond Act (NMSA 1978, 3-32-1 et seq.)",
+      "what": "County or city issues bonds and holds title to the land and equipment, leasing it back to the company, so the project pays no property tax except a negotiated PILOT. Used for Project Jupiter (~$165B, 95% abatement, $12M/yr PILOT for 30 years), Meta Los Lunas (Village IRBs) and proposed for Google Lea County (~$134B).",
+      "value_known": "Project Jupiter: EDD estimates current property tax on the land ~$55,427/yr vs. $360M PILOT over 30 years",
+      "source": "https://www.nmlegis.gov/handouts/WNR%20102925%20Item%205%20EDD%20Data%20Center%20Economic%20Incentives.pdf",
+      "date": "2025-10-29"
+    },
+    {
+      "name": "Local Economic Development Act (LEDA) gross receipts tax share",
+      "law": "Local Economic Development Act, NMSA 1978, 5-10-1 et seq.",
+      "what": "For projects over $350M in construction costs, 50% of general-fund GRT paid on construction can be returned to the project through the LEDA fund if the state, county and city all agree. Meta Los Lunas also received $10M in LEDA funding.",
+      "value_known": "EDD example for Project Jupiter: $478M GRT share on $17B of construction",
+      "source": "https://www.nmlegis.gov/handouts/WNR%20102925%20Item%205%20EDD%20Data%20Center%20Economic%20Incentives.pdf",
+      "date": "2025-10-29"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "25-00048-UT",
+      "regulator": "New Mexico Public Regulation Commission",
+      "utility": "PNM",
+      "what": "Amended special service contract with Greater Kudu LLC (Meta Los Lunas) plus three solar PPAs and three battery storage agreements (Star Light, Four Mile Mesa, Windy Lane) and amended Rate 36B and Riders 47 and 49, to serve Meta's expansion load. Meta pays for the resources.",
+      "site_ids": [
+        "nm-valencia-meta-los-lunas"
+      ],
+      "status": "filed; hearing notice approved 2025-07-03 (outcome not checked)",
+      "url": "https://www.prc.nm.gov/wp-content/uploads/2025/07/25-00048-UT-Approved-Form-of-Notice-07-03-2025.pdf",
+      "date": "2025-07-03"
+    },
+    {
+      "id": "16-00191-UT",
+      "regulator": "New Mexico Public Regulation Commission",
+      "utility": "PNM",
+      "what": "Original special service contract, PPA and green energy rider for Facebook (now Meta, Greater Kudu LLC) Los Lunas data center.",
+      "site_ids": [
+        "nm-valencia-meta-los-lunas"
+      ],
+      "status": "final order 2016-08-17",
+      "url": "https://www.prc.nm.gov/wp-content/uploads/2026/08/Large-Load-Policy-Technical-Analysis-Survey-v-3.0.pdf",
+      "date": "2016-08-17"
+    },
+    {
+      "id": "PRC large-load policy report (no case number found)",
+      "regulator": "New Mexico Public Regulation Commission",
+      "utility": "PNM, El Paso Electric, Southwestern Public Service",
+      "what": "PRC 2026 technical report on large-load tariffs for data centers. Per news, PNM plans to file a large-load tariff with minimum revenue requirements and exit fees, El Paso Electric proposed two large-load tariffs in its NM rate review, and the PRC will start a working group. Case numbers not found.",
+      "site_ids": [],
+      "status": "study / pending filings",
+      "url": "https://www.prc.nm.gov/wp-content/uploads/2026/08/Large-Load-Policy-Technical-Analysis-Survey-v-3.0.pdf",
+      "date": "2026-08-01"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 235 (2026) Microgrid Oversight Act",
+      "status": "failed",
+      "what": "Would have given the PRC oversight of large private microgrids such as Project Jupiter's. Passed Senate 22-20 on 2026-02-14; postponed indefinitely in House Judiciary.",
+      "source": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legType=B&legNo=235&year=26",
+      "date": "2026-02-15"
+    },
+    {
+      "name": "Proposed statewide data center moratorium (for 2027 session)",
+      "status": "pending",
+      "what": "Rep. Micaela Lara Cadena, Sen. Carrie Hamblen and Reps. Eleanor Chávez and Angelica Rubio outlined a bill for a statewide moratorium on large data centers. Not yet filed; no bill number. Also covered by KRQE: https://www.krqe.com/news/politics-government/two-new-mexico-lawmakers-outline-bill-for-possible-statewide-data-center-moratorium/",
+      "source": "https://www.dailylobo.com/article/2026/08/project-jupiter-where-the-ai-data-center-project-stands-in-nm",
+      "date": "2026-08-17"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Socorro County",
+      "type": "moratorium",
+      "what": "One-year moratorium on data centers and related infrastructure on unincorporated land; advisory committee to recommend rules. Adopted unanimously.",
+      "status": "in effect (from 2026-06-09)",
+      "source": "https://sourcenm.com/2026/06/10/new-mexico-county-adopts-yearlong-data-center-moratorium/",
+      "date": "2026-06-10"
+    },
+    {
+      "place": "Santa Fe County",
+      "type": "moratorium",
+      "what": "18-month moratorium on new data centers drawing 1 MW or more. Passed unanimously.",
+      "status": "in effect (from 2026-06-30)",
+      "source": "https://sourcenm.com/2026/07/01/santa-fe-county-becomes-latest-new-mexico-community-to-adopt-data-center-moratorium/",
+      "date": "2026-07-01"
+    },
+    {
+      "place": "Sierra County",
+      "type": "moratorium",
+      "what": "18-month moratorium on future data center development, prompted by a Spaceport America proposal. Passed unanimously.",
+      "status": "in effect (from 2026-07-21)",
+      "source": "https://sourcenm.com/2026/07/22/new-mexico-county-adopts-data-center-moratorium-as-residents-protest-spaceport-proposal/",
+      "date": "2026-07-22"
+    },
+    {
+      "place": "Grant County",
+      "type": "moratorium",
+      "what": "Commission approved a notice of intent to consider a one-year data center moratorium modeled on Socorro's; text to be weighed Oct 8, 2026.",
+      "status": "pending: final text was set for Oct 8, 2026; KRWG on Oct 14 still described the county as considering it, expected at the next commission meeting (Oct 22)",
+      "source": "https://www.krwg.org/show/silver-city-report/2026-10-14/a-data-center-explores-a-potential-future-in-grant-county-and-more",
+      "date": "2026-10-14"
+    },
+    {
+      "place": "City of Roswell (Chaves County)",
+      "type": "ordinance",
+      "what": "90-day emergency moratorium (Jan 12, 2026), extended twice through Sept 20, 2026; then Ordinance 2026-08-13 adopted Aug 10, 2026 amending the Unified Development Code with data center classes by electric demand, location limits, 100-200 ft buffers and noise limits.",
+      "status": "in effect (ordinance adopted 2026-08-10)",
+      "source": "https://roswellconnections.com/datacenters/",
+      "date": "2026-08-10"
+    },
+    {
+      "place": "City of Raton (Colfax County)",
+      "type": "moratorium",
+      "what": "City leaders postponed a vote on a temporary data center moratorium until after the Atterix feasibility study.",
+      "status": "postponed",
+      "source": "https://krtnradio.com/2026/02/10/atterix-mou-causes-uproar-among-some-attendees/",
+      "date": "2026-02-10"
+    },
+    {
+      "place": "Hidalgo County",
+      "type": "moratorium",
+      "what": "County government was considering a data center moratorium (reported alongside the Grant County Hachita proposal).",
+      "status": "under consideration (as of 2026-09-09); outcome not checked",
+      "source": "https://www.krwg.org/show/silver-city-report/2026-09-09/a-new-data-center-proposed-in-grant-county-and-more",
+      "date": "2026-09-09"
+    },
+    {
+      "place": "Town of Silver City (Grant County)",
+      "type": "moratorium",
+      "what": "Town began considering a data center moratorium; Planning and Zoning Commission endorsed it. No data center proposal in town.",
+      "status": "under consideration (as of 2026-10-14)",
+      "source": "https://www.krwg.org/show/silver-city-report/2026-10-14/a-data-center-explores-a-potential-future-in-grant-county-and-more",
+      "date": "2026-10-14"
+    }
+  ]
+}

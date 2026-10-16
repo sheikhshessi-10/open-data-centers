@@ -1,0 +1,140 @@
+{
+  "state": "MA",
+  "checked": {
+    "dockets": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "Executive Order 658 (Healey) on large data centers",
+      "status": "enacted",
+      "what": "Signed 2026-09-08. Data centers (new or expanded) with peak demand over 25 MW cannot get state permits unless they follow the June 2026 state framework and sign a community benefits agreement meeting OEJE guidelines; must buy incremental clean electricity or pay alternative compliance payments; bans state agency NDAs with data centers; MassDEP payment mechanism and municipal guidance due by Dec 31. Executive order, not a statute.",
+      "source": "https://www.bdlaw.com/lauren-m-karam/publications/massachusetts-conditions-large-data-center-permits-on-community-agreements/",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "Statewide initiative petition requiring local voter approval of data centers",
+      "status": "pending",
+      "what": "Filed by Jim Fleming (West Springfield): no local permit for a data center until utility cost protections, water certification and a drought plan are in place and two-thirds of local voters approve. AG review due Sept 2; about 75,000 signatures needed by early December; could reach the 2028 ballot.",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "name": "S 3166 (Senate energy bill) with data center amendment (Sen. Vanna Howard)",
+      "status": "pending",
+      "what": "Energy bill in conference committee includes a data center amendment.",
+      "source": "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "HD5404 and SB3213 (2025-2026)",
+      "status": "pending",
+      "what": "HD5404 would protect residential customers from data center electricity costs; SB3213 would set broader requirements on large data centers.",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "Data center sales tax exemption",
+      "law": null,
+      "what": "20-year sales tax exemption for data centers; final regulations issued by the Executive Office of Economic Development in March 2026 require applicants to disclose peak energy demand; new applications paused in June 2026 with no restart date.",
+      "value_known": null,
+      "source": "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts",
+      "date": "2026-09-08"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Holyoke",
+      "type": "ordinance",
+      "what": "Ban on new data centers using more than 12 MW (first Massachusetts city to ban data centers, June 2026).",
+      "status": "enacted",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Westfield",
+      "type": "moratorium",
+      "what": "One-year moratorium on additional data center projects after a $4B project was approved; council hearing on the 12-month proposal was set for June 18, 2026.",
+      "status": "enacted",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Lowell",
+      "type": "moratorium",
+      "what": "Temporary moratorium on new or expanded data centers while new zoning standards are considered.",
+      "status": "enacted",
+      "source": "https://www.bdlaw.com/lauren-m-karam/publications/massachusetts-conditions-large-data-center-permits-on-community-agreements/",
+      "date": "2026-09-08"
+    },
+    {
+      "place": "Malden",
+      "type": "moratorium",
+      "what": "One-year moratorium while it writes data center zoning rules.",
+      "status": "enacted",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Shutesbury",
+      "type": "moratorium",
+      "what": "Data center moratorium (date and length not given).",
+      "status": "enacted",
+      "source": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+      "date": "2026-09-18"
+    },
+    {
+      "place": "Southborough",
+      "type": "zoning",
+      "what": "Data centers need a special permit and are limited to 50,000 sq ft.",
+      "status": "enacted",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Mansfield",
+      "type": "zoning",
+      "what": "Caps data center electricity use at 2 MW.",
+      "status": "enacted",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Everett",
+      "type": "zoning",
+      "what": "Data centers in the Docklands Innovation District limited to 20,000 sq ft or 5 MW.",
+      "status": "enacted",
+      "source": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+      "date": "2026-08-26"
+    },
+    {
+      "place": "Boston",
+      "type": "zoning",
+      "what": "Councilor Miniard Culpepper's proposed zoning amendment banning new data centers citywide (AI, crypto, cloud); existing sites can't expand; needs Zoning Commission approval.",
+      "status": "pending",
+      "source": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+      "date": "2026-09-18"
+    },
+    {
+      "place": "Leominster",
+      "type": "moratorium",
+      "what": "Has passed or is considering a data center moratorium (unclear).",
+      "status": "unclear",
+      "source": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+      "date": "2026-09-18"
+    }
+  ],
+  "dockets": [
+    {
+      "id": null,
+      "regulator": "Massachusetts Department of Public Utilities",
+      "utility": "Eversource (NSTAR Electric), National Grid, Unitil",
+      "what": "DPU directive to the electric distribution companies on data center interconnection requests, following EO 658 (2026-09-08) and the June 2026 state data center framework (data centers expected to bring their own clean energy for 100% of demand). Docket number not found; document blocked, content from search excerpt.",
+      "site_ids": [],
+      "status": "issued",
+      "url": "https://www.mass.gov/doc/directive-to-the-electric-distribution-companies-regarding-data-center-interconnection-requests/download",
+      "date": "2026-09-24"
+    }
+  ]
+}

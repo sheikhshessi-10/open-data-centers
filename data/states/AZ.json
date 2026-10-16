@@ -1,0 +1,138 @@
+{
+  "state": "AZ",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Computer Data Center (CDC) Program - TPT and use tax deduction",
+      "law": "A.R.S. 41-1519 (with transaction privilege/use tax deductions in Title 42)",
+      "what": "Arizona Commerce Authority certifies data centers; owners, operators and colocation tenants (500 kW+ for 2+ years) get sales/use tax relief on qualifying data center equipment for 10 years, or 20 years for 'sustainable redevelopment projects' (new $200M+ sites with green certification, or reused vacant/green-certified buildings). Minimum new investment within 5 years: $50M in counties over 800,000 people (Maricopa, Pima), $25M elsewhere. No dollar cap. No new applications after Dec 31, 2033. Certificate holders may not sell electricity; recapture if investment not met.",
+      "value_known": null,
+      "source": "https://www.azleg.gov/ars/41/01519.htm",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Government Property Lease Excise Tax (GPLET) agreements",
+      "law": "A.R.S. 42-6201 et seq.",
+      "what": "Cities take title to the project and lease it back so the company pays an excise tax instead of property tax. Used by Mesa for Google's Mesa campus (25-year GPLET, July 2019).",
+      "value_known": null,
+      "source": "https://www.aztechcouncil.org/google-redhawk-second-phase-mesa-design-review/",
+      "date": "2024-04-09"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "E-00000A-25-0069",
+      "regulator": "Arizona Corporation Commission",
+      "utility": "All ACC-regulated electric utilities (APS, TEP, UNS Electric, co-ops)",
+      "what": "Generic docket opened by Chairman Kevin Thompson to review rate classifications and related issues for data centers, incl. making sure other customers don't pay for data center infrastructure and exploring behind-the-meter options. Workshops held.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://www.azcc.gov/news/home/2025/04/10/acc-addresses-data-center-development--ensure-customers-are-financially-protected",
+      "date": "2025-04-10"
+    },
+    {
+      "id": "E-01933A-25-0187",
+      "regulator": "Arizona Corporation Commission",
+      "utility": "Tucson Electric Power",
+      "what": "Energy Supply Agreement with Humphreys Peak Power LLC (Beale Infrastructure) for a 286 MW data center in Pima County: 10-year term, minimum monthly bills, 18-month load ramp, developer pays dedicated infrastructure. Approved Decision 81587 at Dec 3, 2025 open meeting with one commissioner dissenting. (A PRC NM report cites the number as 25-0817; the decision itself reads 25-0187.)",
+      "site_ids": [
+        "az-pima-beale-project-blue"
+      ],
+      "status": "approved 2025-12-03 (Decision 81587)",
+      "url": "https://docket.images.azcc.gov/0000215738.pdf?i=1773292783747",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "E-01345A-25-0105",
+      "regulator": "Arizona Corporation Commission",
+      "utility": "Arizona Public Service (APS)",
+      "what": "APS general rate case; APS seeks to tighten its data center rate treatment. Evidentiary hearings May 18-June 30, 2026.",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://edocket.azcc.gov/search/docket-search/item-detail/29551",
+      "date": "2026-08-01"
+    },
+    {
+      "id": "Baccara Power CEC (Line Siting case number not captured)",
+      "regulator": "Arizona Corporation Commission",
+      "utility": "Baccara Power LLC (private, serves Project Baccara)",
+      "what": "Certificate of Environmental Compatibility for a 700.2 MW gas plant to power the Project Baccara data center complex near Luke AFB. Approved 5-0.",
+      "site_ids": [
+        "az-maricopa-takanock-baccara"
+      ],
+      "status": "approved 2026-02-04",
+      "url": "https://www.azcc.gov/news/home/2026/02/06/vice-chair-walden-releases-statement-on-project-baccara",
+      "date": "2026-02-06"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB 2756 (2026) utilities; high load factor customers",
+      "status": "pending",
+      "what": "Requires APS/TEP-type utilities (to the ACC) and big public power entities like SRP (to their boards) to file semiannual reports on interconnection requests and completed interconnections of new extra high load factor customers (data centers); repeal Dec 31, 2033. Passed House Feb 23, 2026; Senate-engrossed version dated April 2026. Final outcome (signed/vetoed) NOT confirmed.",
+      "source": "https://www.azleg.gov/legtext/57leg/2R/bills/HB2756S.pdf",
+      "date": "2026-04-16"
+    },
+    {
+      "name": "Floor amendment to SB 1419 (2026) making data centers pay grid costs",
+      "status": "failed",
+      "what": "Arizona Senate rejected a floor amendment that would have required large-load customers to bear the cost of new generation, transmission and grid upgrades serving them.",
+      "source": "https://www.prc.nm.gov/wp-content/uploads/2026/08/Large-Load-Policy-Technical-Analysis-Survey-v-3.0.pdf",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "Three-year freeze on Arizona data center incentives (2026)",
+      "status": "pending",
+      "what": "Phoenix Business Journal reports Arizona leaders agreed (around May-June 2026) to a three-year freeze on data center incentives (presumably the Computer Data Center program). Bill or budget vehicle, exact scope and whether enacted are NOT confirmed; PBJ original (https://www.bizjournals.com/phoenix/news/2026/06/10/arizona-data-center-incentive-freeze.html) is paywalled and was not opened.",
+      "source": "https://ktar.com/arizona-business/pinal-county-rejects-vermaland-data-center-project",
+      "date": "2026-08-29"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Town of Marana (Pima County)",
+      "type": "ordinance",
+      "what": "Ordinance 2024.029: data centers need a Specific Plan rezoning with public hearings (no administrative approval); 400 ft setback from homes, screening, height limits, independent noise study and monitoring, backup generators limited to emergencies/testing, developer must secure own cooling water (Marana Water won't supply).",
+      "status": "in effect (adopted Dec 2024)",
+      "source": "https://www.maranaaz.gov/Newsroom-Entries/2026/Town-Clarifies-Data-Center-Review-Process-and-Development-StandardsNew-page",
+      "date": "2026-06-29"
+    },
+    {
+      "place": "City of Casa Grande (Pinal County)",
+      "type": "zoning",
+      "what": "Council approved a 273-acre rezoning at I-10 and Florence Blvd with conditions that prohibit data centers (after an earlier denial).",
+      "status": "approved 2026-04-06",
+      "source": "https://azbigmedia.com/real-estate/game-changing-development-projects-in-casa-grande-and-tonopah-earn-approvals/",
+      "date": "2026-04"
+    },
+    {
+      "place": "Cochise County",
+      "type": "ordinance",
+      "what": "Board of Supervisors adopted a zoning ordinance defining data centers and requiring a full proposal: site plan, infrastructure use, noise study, fire emergency plan and water use plan; applications public, no NDAs; possible later water and power limits. No active applications.",
+      "status": "adopted (April 2026)",
+      "source": "https://www.kold.com/2026/04/14/cochise-county-sets-guidelines-data-centers",
+      "date": "2026-04-13"
+    },
+    {
+      "place": "Mohave County",
+      "type": "zoning",
+      "what": "Data centers in airport and manufacturing zones now need a Special Use Permit (Entrata project at White Hills may be exempt as it filed a preliminary site plan first).",
+      "status": "adopted (by Dec 2025)",
+      "source": "https://azbex.com/planning-development/12-5b-mohave-data-center-plan-could-face-new-hurdle/",
+      "date": "2025-12-16"
+    },
+    {
+      "place": "City of Yuma (Yuma County)",
+      "type": "zoning",
+      "what": "Developer interest only: mayor said no data center applications or permit requests filed; resident pushback over water and heat; council took up the topic at its retreat.",
+      "status": "no application (April 2026)",
+      "source": "https://www.azfamily.com/2026/04/07/data-center-interest-yuma-raises-questions-about-water-heat/",
+      "date": "2026-04-07"
+    }
+  ]
+}

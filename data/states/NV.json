@@ -1,0 +1,234 @@
+{
+  "state": "NV",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Nevada data center tax abatements",
+      "law": "NRS 360.754",
+      "what": "GOED can grant a data center (and co-located tenants) a 75% personal property tax abatement and a sales and use tax abatement (rate reduced to 4.6%; GOED earlier described as low as 2%) for 10 or 20 years. 10-year: 10 Nevada full-time workers, 100% of state average wage, $25M capex within 5 years. 20-year: 50 workers, 100% of average wage ($32.86/hr FY27), $100M capex. Must stay 10 years, offer health insurance, 50% Nevada construction workers. From 2026-09-16 applicants must also meet the Governor's data center requirements (EO 2026-005).",
+      "value_known": "About $461M in expected data center tax breaks over 11 years; Nevada Independent analysis found local governments missed more than $537M in sales and use tax (Carson Now summary).",
+      "source": "https://goed.nv.gov/wp-content/uploads/2026/10/Nevada-Data-Center-Tax-Abatement-2026-10.1.26.pdf",
+      "date": "2026-08"
+    },
+    {
+      "name": "Executive Order 2026-005 (data center abatement conditions)",
+      "law": "Governor's Executive Order 2026-005",
+      "what": "Bars data centers from abatements on the school support tax and on the state general fund share of sales and use tax; GOED may bring forward applications only if the company pledges to pay local school support and sales taxes, meet local water standards, pay full electricity costs, and not impede public power access in grid emergencies.",
+      "value_known": null,
+      "source": "https://www.carsonnow.org/09/19/2026/lombardo-curtails-nevada-data-center-tax-break-program-in-executive-order",
+      "date": "2026-09-19"
+    }
+  ],
+  "dockets": [
+    {
+      "id": null,
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Fleet Data Centers (self-supply; NV Energy territory)",
+      "what": "Fleet filed in mid-April 2026 for a 144 MW temporary behind-the-meter natural gas plant (90 engines, 40 LNG tanks) at its South Valley campus in TRIC, to run until NV Energy delivers grid power. Docket number not found.",
+      "site_ids": [
+        "nv-storey-fleet-south-valley"
+      ],
+      "status": "filed",
+      "url": "https://www.nevadaappeal.com/news/2026/jun/09/nevada-data-center-firm-working-on-two-campuses-at-tahoe-reno-industrial-center/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "26-05026",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Sierra Pacific Power (NV Energy)",
+      "what": "Approval of a Large Load Electric Service Agreement with Amazon Data Services, Inc.",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "26-05027",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Sierra Pacific Power (NV Energy)",
+      "what": "Approval of Large Load Electric Service Agreements with PR RNO Property Owner 1, LLC and SV RNO Property Owner 1, LLC (apparently Fleet/Tract Peru Ridge and South Valley)",
+      "site_ids": [
+        "nv-storey-fleet-peru-ridge",
+        "nv-storey-fleet-south-valley"
+      ],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "26-05028",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Sierra Pacific Power (NV Energy)",
+      "what": "Approval of a Large Load Electric Service Agreement with Vantage Data Centers NV11, LLC",
+      "site_ids": [
+        "nv-storey-vantage-nv1"
+      ],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "26-05029",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Nevada Power (NV Energy)",
+      "what": "Approval of Large Load Electric Service Agreements with Novva Las Vegas, LLC and Proton NLV, LLC",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "26-05030",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Nevada Power (NV Energy)",
+      "what": "Approval of Large Load Electric Service Agreements with VIP LANDCO, LLC and Prologis L.P.",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "26-06002",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Sierra Pacific Power (NV Energy) with Microsoft",
+      "what": "UEPA permit to build the 345/34.5 kV RNO12 Substation and the 345 kV Viking Substation on private land in Storey County",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "26-07016",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Microsoft Corporation",
+      "what": "UEPA permit to build the 345/34.5 kV RNO12 Substation on private land in Storey County",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-07-31"
+    },
+    {
+      "id": "26-01035",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Copia Digital, LLC",
+      "what": "UEPA notice of a federal application for the Bergen Data Center Transmission Line Project (two up to 500 kV lines, about 0.85 mi)",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2026-01-27"
+    },
+    {
+      "id": "24-09023",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Copia GDC, LLC",
+      "what": "UEPA notice of a federal application for a 500 MW natural gas generation facility, 500 kV gen-tie (about 0.8 mi), gas pipeline and battery storage (relation to a data center not stated in title)",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2024-09-24"
+    },
+    {
+      "id": "25-05001",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Switch Ltd.",
+      "what": "Amended UEPA application to build five 345 kV transmission lines (11.90 miles) and a substation on private land in Storey County",
+      "site_ids": [
+        "nv-storey-switch-citadel"
+      ],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "24-05023",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Sierra Pacific Power (NV Energy)",
+      "what": "Clean Transition Tariff Schedule CTT (Advice Letter 674-E): eligible customers get bundled service from new clean energy resources",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2024-05-21"
+    },
+    {
+      "id": "24-05022",
+      "regulator": "Public Utilities Commission of Nevada",
+      "utility": "Nevada Power (NV Energy)",
+      "what": "Clean Transition Tariff Schedule CTT (Advice Letter 547): eligible customers get bundled service from new clean energy resources",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://pucweb1.state.nv.us/puc2/Dktinfo.aspx?Util=All",
+      "date": "2024-05-21"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "Interim Committee on Revenue bill draft: end AI data center abatements and pause new data centers",
+      "status": "pending",
+      "what": "Interim Standing Committee on Revenue (chair Sen. Dina Neal) voted 6-2 to draft a bill ending tax abatements for AI data centers and imposing a statewide pause on building or expanding them, for the 2027 session. No bill number yet.",
+      "source": "https://pvtimes.com/news/nevada-lawmakers-could-hit-pause-on-data-centers-end-their-tax-breaks-190004/",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "AB 594 (2025), Statutes of Nevada 2025 ch. 508: GOED board may deny or condition abatements",
+      "status": "enacted",
+      "what": "Approved 2025-06-10. Adds NRS 360.7573: the Board of Economic Development must deny, reduce or condition an abatement (including data center abatements) it finds not in the state's best interest, and may weigh projected water use (especially where water is limited), environmental impact, social and economic objectives. Before this the state had to approve data center abatements that met the statutory requirements (Nevada Independent). The 2025 session passed no other data center bill that this pass found.",
+      "source": "https://www.leg.state.nv.us/Statutes/83rd2025/Stats202527.html#Stats202527page3493",
+      "date": "2025-06-10"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Reno (Washoe County)",
+      "type": "moratorium",
+      "what": "City council paused acceptance of data center permits (special use permits) on 2026-05-14, 6-1, the first in Nevada; extended 6-1 on 2026-06-01 to Aug. 31, 2027 or until new rules are adopted.",
+      "status": "in effect",
+      "source": "https://www.kunr.org/local-stories/2026-06-05/reno-city-council-extends-data-center-moratorium-into-2027",
+      "date": "2026-06-05"
+    },
+    {
+      "place": "Nye County",
+      "type": "moratorium",
+      "what": "County commission unanimously approved a countywide moratorium on new data center applications on 2026-06-02 until county data center rules are adopted (about 90 days).",
+      "status": "replaced by code",
+      "source": "https://pvtimes.com/news/nye-county-approves-data-center-moratorium-186722/",
+      "date": "2026-06-05"
+    },
+    {
+      "place": "Nye County (Pahrump)",
+      "type": "ordinance",
+      "what": "New county data center code applies countywide except Pahrump, where data centers are banned; Nevada Current headline says the county 'totally bans data centers in over-appropriated water basin'. Details not read (Nevada Current blocked).",
+      "status": "adopted",
+      "source": "https://nevadacurrent.com/2026/08/20/nye-county-totally-bans-data-centers-in-over-appropriated-water-basin/",
+      "date": "2026-08-20"
+    },
+    {
+      "place": "Lyon County",
+      "type": "ordinance",
+      "what": "Board voted 5-0 (2026-06-18) to hold a data center ordinance workshop; draft ordinance expected August 2026. Residents asked for a moratorium.",
+      "status": "drafting",
+      "source": "https://www.carsonnow.org/07/10/2026/lyon-county-leaders-face-public-pushback-amid-surge-in-data-center-and-energy-development",
+      "date": "2026-07-10"
+    },
+    {
+      "place": "Henderson (Clark County)",
+      "type": "ordinance",
+      "what": "Henderson council opted for strict development agreements for data centers instead of a moratorium (headline; article paywalled).",
+      "status": "adopted",
+      "source": "https://lasvegassun.com/news/2026/jul/22/henderson-council-opts-for-strict-development-agre/",
+      "date": "2026-07-22"
+    },
+    {
+      "place": "Clark County",
+      "type": "ordinance",
+      "what": "Local ban on evaporative cooling for new facilities means only closed-loop cooled data centers can proceed; a few water-intensive facilities built before 2024 remain (as described by the Pahrump Valley Times; ordinance number not found).",
+      "status": "in effect",
+      "source": "https://pvtimes.com/news/nevada-lawmakers-could-hit-pause-on-data-centers-end-their-tax-breaks-190004/",
+      "date": "2026-09-02"
+    }
+  ]
+}

@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "mi-washtenaw-related-digital-saline",
+    "name": "Stargate Michigan (The Barn), Saline Township",
+    "owner": "Related Digital (for Oracle / OpenAI)",
+    "operator": "Oracle",
+    "tier": "large",
+    "state": "MI",
+    "county": "Washtenaw County",
+    "town": "Saline Township",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-10-30",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 43000000000,
+        "unit": "USD (reported campus value)",
+        "kind": "real",
+        "source": "https://www.wxyz.com/news/region/washtenaw-county/saline-township-to-vote-on-12-year-tax-break-for-oracles-43b-data-center-project",
+        "date": "2026"
+      },
+      "power_mw": {
+        "value": 1383,
+        "unit": "MW (contracted with DTE Electric)",
+        "kind": "real",
+        "source": "https://www.michigan.gov/mpsc/commission/news-releases/2025/12/18/mpsc-approves-dte-electric-energy-contracts-for-data-center",
+        "date": "2025-12-18"
+      },
+      "acres": {
+        "value": 250,
+        "unit": "acres (company figure; Gander reports 700 acres)",
+        "kind": "real",
+        "source": "https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan",
+        "date": "2025-10-30"
+      },
+      "jobs_promised_perm": {
+        "value": 450,
+        "unit": "jobs onsite (Related Digital and Oracle), plus 1,500 county-wide",
+        "kind": "real",
+        "source": "https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan",
+        "date": "2025-10-30"
+      },
+      "jobs_promised_build": {
+        "value": 2500,
+        "unit": "union construction jobs (more than)",
+        "kind": "real",
+        "source": "https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan",
+        "date": "2025-10-30"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "DTE Electric existing resources plus new battery storage financed by the project (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan",
+        "date": "2025-10-30"
+      },
+      "utility": {
+        "value": "DTE Electric; special contracts with Green Chile Ventures LLC (Oracle subsidiary) conditionally approved Dec 18, 2025, MPSC Case U-21990: 19-year minimum term, 80% minimum billing demand",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.michigan.gov/mpsc/commission/news-releases/2025/12/18/mpsc-approves-dte-electric-energy-contracts-for-data-center",
+        "date": "2025-12-18"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan",
+        "date": "2025-10-30"
+      },
+      "water_use": {
+        "value": "Company says daily water use comparable to an office building",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan",
+        "date": "2025-10-30"
+      },
+      "tax_break": {
+        "value": "12-year, 50% local tax abatement granted by the township (smaller than requested)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/",
+        "date": "2026"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Attorney General Dana Nessel and environmental groups appealed the MPSC approval of the DTE contract to the Court of Appeals",
+        "source": "https://michiganadvance.com/2026/08/10/nessel-and-environmental-groups-file-initial-arguments-in-appeal-of-dte-saline-data-center-contract/",
+        "date": "2026-08-10"
+      },
+      {
+        "what": "Residents asked state regulators to void the 12-year, 50% tax break, arguing the township skipped required steps",
+        "source": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
+        "date": "2026-08-14"
+      },
+      {
+        "what": "Township board originally voted down the project before construction began after a settlement",
+        "source": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/",
+        "date": "2026-05-06"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Two township officials resigned amid the controversy",
+        "source": "https://www.mlive.com/news/ann-arbor/2026/06/second-elected-official-quits-in-community-grappling-with-openai-oracle-data-center.html",
+        "date": "2026-06"
+      }
+    ],
+    "news": [
+      {
+        "title": "Saline Township data center: major construction underway, financing secured",
+        "outlet": "Michigan Public",
+        "url": "https://www.michiganpublic.org/economy/2026-04-25/saline-township-data-center-major-construction-underway-financing-secured",
+        "date": "2026-04-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began",
+        "outlet": "Fortune",
+        "url": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/",
+        "date": "2026-05-06",
+        "tone": "bad"
+      },
+      {
+        "title": "MPSC approves DTE Electric energy contracts for data center with conditions",
+        "outlet": "Michigan Public Service Commission",
+        "url": "https://www.michigan.gov/mpsc/commission/news-releases/2025/12/18/mpsc-approves-dte-electric-energy-contracts-for-data-center",
+        "date": "2025-12-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Three 550,000 sq ft buildings. Ceremonial groundbreaking June 1, 2026; completion due end of 2027 (Gander). Developer also bought an adjacent golf course (MLive, Aug 2026). Dollar figures vary ($16B to $43B) by source."
+  },
+  {
+    "id": "mi-wayne-google-van-buren",
+    "name": "Google Project Cannoli, Van Buren Township",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "MI",
+    "county": "Wayne County",
+    "town": "Van Buren Township",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW maximum load",
+        "kind": "real",
+        "source": "https://vbtmi.gov/departments/municipal_services/data_center_project.php",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 282,
+        "unit": "acres north of I-94 between Haggerty Rd and I-275",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
+        "date": "2026-10-01"
+      },
+      "jobs_promised_perm": {
+        "value": 51,
+        "unit": "full-time jobs (at least, reported)",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2026/10/google-data-center-van-buren-approval/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "DTE Electric; Google pays for up to 1,600 MW of new renewables and 480 MW of battery storage",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
+        "date": "2026-10-01"
+      },
+      "utility": {
+        "value": "DTE Electric; special contracts (Primary Supply Agreement and Clean Capacity Accelerator Agreement) in MPSC case U-22058; 20-year term, 80% minimum billing demand; conditionally approved by the MPSC Oct 1, 2026",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
+        "date": "2026-10-01"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "Up to 3.6 million gallons per day (reported)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.mlive.com/news/2026/05/google-gets-local-taxes-cut-in-half-at-major-michigan-data-center-project.html",
+        "date": "2026-05"
+      },
+      "tax_break": {
+        "value": "Local taxes cut in half; Google saves more than $125M; Wayne County Commission overrode the county executive's veto",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
+        "date": "2026-10-01"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Wayne County Executive Warren Evans vetoed the tax break (overridden by the county commission)",
+        "source": "https://www.detroitnews.com/story/news/local/wayne-county/2026/09/25/wayne-county-executive-warren-evans-vetoes-van-buren-twp-data-center-tax-break/91943250007/",
+        "date": "2026-09-25"
+      },
+      {
+        "what": "Recall petitions target the full township board over the data center",
+        "source": "https://www.detroitnews.com/story/news/local/wayne-county/2026/06/24/recall-petitions-van-buren-twp-officials-data-center-appeal/90662992007/",
+        "date": "2026-06-24"
+      },
+      {
+        "what": "Online petition to stop the data center",
+        "source": "https://www.change.org/p/stop-the-massive-data-center-in-van-buren-township-michigan",
+        "date": "2026"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Project would destroy 13 acres of wetlands",
+        "source": "https://planetdetroit.org/2026/06/google-data-center-wetlands/",
+        "date": "2026-06"
+      }
+    ],
+    "news": [
+      {
+        "title": "Google gets local taxes cut in half at major Michigan data center project",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/2026/05/google-gets-local-taxes-cut-in-half-at-major-michigan-data-center-project.html",
+        "date": "2026-05",
+        "tone": "neutral"
+      },
+      {
+        "title": "Regulators approve DTE contract for Google data center",
+        "outlet": "Planet Detroit",
+        "url": "https://planetdetroit.org/2026/10/dte-google-data-center-contract-approval/",
+        "date": "2026-10-01",
+        "tone": "neutral"
+      },
+      {
+        "title": "Wayne County overrides veto on Google data center tax break",
+        "outlet": "Crain's Detroit Business",
+        "url": "https://www.crainsdetroit.com/technology/cdb-wayne-county-overrides-veto-google-data-center-20261001/",
+        "date": "2026-10-01",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google data center secures Van Buren Township approval, with startup expected in late 2027",
+        "outlet": "Planet Detroit",
+        "url": "https://planetdetroit.org/2026/10/google-data-center-van-buren-approval/",
+        "date": "2026-10-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer Panattoni presents at township meetings. Township Planning Commission approved the final site plan 5-1 on Wednesday Oct 14, 2026 (Planet Detroit); residents say early construction is under way, so stage may move to building once confirmed. Development on 150 of 282 acres; Google pays the township $15.4M. MPSC case U-22058 (DTE application for special contracts with Google LLC; case number from the Attorney General's Aug 3, 2026 reply brief). Panattoni earlier evaluated Detroit's 38-acre Packard Plant site and found it too small. DTE service expected Dec 2027, full load within a year. 'announced' is the DTE letter of support date on the township page."
+  },
+  {
+    "id": "mi-cass-hyperscale-data-dowagiac",
+    "name": "Hyperscale Data Michigan AI Data Center Campus, Dowagiac",
+    "owner": "Hyperscale Data, Inc.",
+    "operator": "Hyperscale Data, Inc.",
+    "tier": "large",
+    "state": "MI",
+    "county": "Cass County",
+    "town": "Dowagiac",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 83,
+        "unit": "acres (after a 48.5-acre purchase)",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/hyperscale-data-completes-acquisition-of-48-5-acres-to-expand-michigan-ai-data-center-campus-302812174.html",
+        "date": "2026-06-26"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents filed a noise class action against the bitcoin mining operation",
+        "source": "https://www.mlive.com/news/kalamazoo/2026/05/residents-sue-michigan-data-center-over-excessive-noise.html",
+        "date": "2026-05"
+      },
+      {
+        "what": "Pokagon Band supported the city's call for transparency on the expansion",
+        "source": "https://wwmt.com/resources/pdf/108250c4-0a22-46c8-a404-b378801aa1da-PokagonBandSupportsDowagiacsCallforTransparencyonDataCenterExpansion.pdf",
+        "date": "2026"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hyperscale Data Completes Acquisition of 48.5 Acres to Expand Michigan AI Data Center Campus",
+        "outlet": "PR Newswire (company)",
+        "url": "https://www.prnewswire.com/news-releases/hyperscale-data-completes-acquisition-of-48-5-acres-to-expand-michigan-ai-data-center-campus-302812174.html",
+        "date": "2026-06-26",
+        "tone": "neutral"
+      },
+      {
+        "title": "Residents sue Michigan data center over excessive noise",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/kalamazoo/2026/05/residents-sue-michigan-data-center-over-excessive-noise.html",
+        "date": "2026-05",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Bitcoin mining campus retooling for AI computing; company shut off its loudest equipment (Detroit News, Sept 2026). MW not found. City council declined a moratorium Jan 2026."
+  },
+  {
+    "id": "mi-oakland-verrus-lyon",
+    "name": "Project Flex, Lyon Township",
+    "owner": "Verrus",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Oakland County",
+    "town": "Lyon Township",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 172,
+        "unit": "acres (six buildings, 1.8M sq ft)",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Organized group Stop Project Flex",
+        "source": "https://www.stopprojectflex.com/",
+        "date": "2026"
+      },
+      {
+        "what": "Group sought to recall Lyon trustees over the data center",
+        "source": "https://www.detroitnews.com/story/news/local/oakland-county/2026/05/06/group-looks-to-recall-lyon-trustees-over-data-center-with-unrelated-language/89929672007/",
+        "date": "2026-05-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "New data center approved in Lyon Township",
+        "outlet": "The Oakland Press",
+        "url": "https://www.theoaklandpress.com/2025/12/16/new-data-center-approved-in-lyon-township/",
+        "date": "2025-12-16",
+        "tone": "neutral"
+      },
+      {
+        "title": "Lyon Township postpones decision on data center project",
+        "outlet": "The Oakland Press",
+        "url": "https://www.theoaklandpress.com/2026/07/13/lyon-township-postpones-decision-on-data-center-project/",
+        "date": "2026-07-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Conditional approval Dec 2025. Developer withdrew site plan July 2026, resubmitted and asked for administrative approval. Fortune reports Anthropic as intended end user (not confirmed by company). Town is in New Hudson area."
+  },
+  {
+    "id": "mi-oakland-metrobloks-southfield",
+    "name": "Metrobloks Southfield Data Center",
+    "owner": "Metrobloks",
+    "operator": "Metrobloks",
+    "tier": "large",
+    "state": "MI",
+    "county": "Oakland County",
+    "town": "Southfield",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD over two phases (company; slide deck showed $500M)",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      },
+      "power_mw": {
+        "value": 100,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      },
+      "acres": {
+        "value": 12.19,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "DTE Energy",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      },
+      "water_use": {
+        "value": "10 to 20 gallons per day (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "City council approved 5-2 over opposition from most residents who spoke",
+        "source": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Southfield City Council greenlights divisive data center plan: Too many unknowns",
+        "outlet": "Planet Detroit",
+        "url": "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+        "date": "2025-12-16",
+        "tone": "neutral"
+      },
+      {
+        "title": "Southfield data center plan advances",
+        "outlet": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/local/oakland-county/2025/12/19/southfield-data-center-plan-advances-council-mayor-siver-calls-rashida-tlaib-response-alarmist/87835366007/",
+        "date": "2025-12-19",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "109,683 sq ft on Inkster Road between 11 Mile and I-696. Financing not fully secured (Gander)."
+  },
+  {
+    "id": "mi-washtenaw-umich-lanl-ypsilanti",
+    "name": "University of Michigan / Los Alamos Computing Facility, Ypsilanti Township",
+    "owner": "University of Michigan",
+    "operator": "Los Alamos National Laboratory",
+    "tier": "large",
+    "state": "MI",
+    "county": "Washtenaw County",
+    "town": "Ypsilanti Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1250000000,
+        "unit": "USD (U-M $850M, LANL $300M, state $100M grant)",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 144,
+        "unit": "acres along Textile Road",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "$100M state grant (contested)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.mlive.com/news/ann-arbor/2025/12/ypsilanti-rep-aims-to-claw-back-100m-grant-for-los-alamos-university-of-michigan-project.html",
+        "date": "2025-12"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Rep. Debbie Dingell letter opposing the location and asking regulators to review",
+        "source": "https://debbiedingell.house.gov/uploadedfiles/9.15.26_los_alamos_um_final.pdf",
+        "date": "2026-09-15"
+      },
+      {
+        "what": "State representative seeks to claw back the $100M state grant",
+        "source": "https://www.mlive.com/news/ann-arbor/2025/12/ypsilanti-rep-aims-to-claw-back-100m-grant-for-los-alamos-university-of-michigan-project.html",
+        "date": "2025-12"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Township says Los Alamos supercomputing site may be Native American burial ground",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/ann-arbor/2026/08/township-says-los-alamos-supercomputing-site-may-be-native-american-burial-ground.html",
+        "date": "2026-08",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Official project page: https://research.umich.edu/research-at-michigan/lanl/ (blocked our fetch). Groundbreaking set for 2027; LANL would operate 90% of the site."
+  },
+  {
+    "id": "mi-oakland-fairmount-oakland-university",
+    "name": "Oakland University Campus Computing Facility",
+    "owner": "Fairmount Properties",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Oakland County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-01",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 26,
+        "unit": "MW (estimated 20 to 26 MW)",
+        "kind": "real",
+        "source": "https://www.oakland.edu/data-center/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 30,
+        "unit": "full-time jobs (at least)",
+        "kind": "real",
+        "source": "https://www.oakland.edu/data-center/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "DTE (existing on-campus substation capacity, per university)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oakland.edu/data-center/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Oakland University moves forward with AI data center project amid campus opposition",
+        "outlet": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/06/26/oakland-university-moves-forward-with-ai-data-center-project-amid-campus-opposition/",
+        "date": "2026-06-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Colocation facility paired with an AI Institute; trustees voted June 2026 to begin due diligence. MLive headline calls it a $40M data center. Campus straddles Auburn Hills and Rochester Hills; town left null."
+  },
+  {
+    "id": "mi-kent-microsoft-gaines",
+    "name": "Microsoft Gaines Township Data Center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Kent County",
+    "town": "Gaines Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 320,
+        "unit": "acres near Patterson Ave and 76th St (about), plus 104 more sought in rezoning",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Hundreds protested at the April 15, 2026 rezoning hearing; planning commission tabled the rezoning",
+        "source": "https://www.fox17online.com/news/local-news/wyoming-kentwood-byron-center/hundreds-of-neighbors-protest-microsoft-data-center-rezoning-proposal-at-gaines-township-public-hearing",
+        "date": "2026-04-15"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft grows Grand Rapids data center plan amid local pushback",
+        "outlet": "Crain's Grand Rapids",
+        "url": "https://www.crainsgrandrapids.com/news/real-estate/microsoft-grows-grand-rapids-data-center-plan-amid-local-pushback/",
+        "date": "2026",
+        "tone": "neutral"
+      },
+      {
+        "title": "Hundreds of neighbors protest Microsoft data center rezoning proposal",
+        "outlet": "FOX 17",
+        "url": "https://www.fox17online.com/news/local-news/wyoming-kentwood-byron-center/hundreds-of-neighbors-protest-microsoft-data-center-rezoning-proposal-at-gaines-township-public-hearing",
+        "date": "2026-04-15",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "'announced' year is approximate from land purchase reports; not confirmed. Microsoft terminated its Michigan data center NDAs in March 2026 (Detroit News)."
+  },
+  {
+    "id": "mi-kent-switch-grand-rapids",
+    "name": "Switch The Pyramid Campus, Grand Rapids",
+    "owner": "Switch",
+    "operator": "Switch",
+    "tier": "large",
+    "state": "MI",
+    "county": "Kent County",
+    "town": "Gaines Township",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 237,
+        "unit": "MW at full build (up to)",
+        "kind": "real",
+        "source": "https://www.switch.com/grand-rapids/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "100% renewable energy (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.switch.com/grand-rapids/",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Renaissance Zone (0% local tax) and Michigan sales/use tax exemption on data center equipment (company page)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.switch.com/grand-rapids/",
+        "date": "2026-10-15"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Former Steelcase pyramid building. Gander reports Switch may expand in Gaines Township. Opening year not checked."
+  },
+  {
+    "id": "mi-calhoun-alterra-marshall",
+    "name": "Alterra Marshall Data Center and Gas Plant",
+    "owner": "Alterra Development",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Calhoun County",
+    "town": "Marshall",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1400,
+        "unit": "MW (up to; about 1,000 MW from an on-site gas plant)",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "acres": {
+        "value": 270,
+        "unit": "acres in Brooks Industrial Park (112 buildable), sold for $1.12M",
+        "kind": "real",
+        "source": "https://wwmt.com/news/local/data-center-gas-generation-plant-proposed-in-marshall-alterra-development-calhoun-county-energy-electricity-water",
+        "date": "2025-10-30"
+      },
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "skilled jobs (company estimate: 300 to 500)",
+        "kind": "estimate",
+        "source": "https://wwmt.com/news/local/data-center-gas-generation-plant-proposed-in-marshall-alterra-development-calhoun-county-energy-electricity-water",
+        "date": "2025-10-30"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "On-site natural gas generation (about 1,000 MW) plus grid power",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "City adopted a one-year moratorium delaying construction",
+        "source": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan",
+        "date": "2026"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center, gas generation plant proposed in Marshall",
+        "outlet": "WWMT",
+        "url": "https://wwmt.com/news/local/data-center-gas-generation-plant-proposed-in-marshall-alterra-development-calhoun-county-energy-electricity-water",
+        "date": "2025-10-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Marshall approves land sale for data center, gas plant project",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/jackson/2025/12/marshall-approves-112m-land-sale-for-data-center-gas-plant-project.html",
+        "date": "2025-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About half the site is wetlands (Gander)."
+  },
+  {
+    "id": "mi-kent-microsoft-lowell",
+    "name": "Microsoft Lowell Township Data Center (Covenant Business Park)",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Kent County",
+    "town": "Lowell Township",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 237,
+        "unit": "acres (five buildings plus substation)",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "City of Lowell suspended water and sewer talks; recall petitions against township officials fell short",
+        "source": "https://www.woodtv.com/news/kent-county/in-blow-to-proposed-data-center-lowell-suspends-water-sewer-talks-with-lowell-township/",
+        "date": "2026-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft reveals itself as data center developer in Lowell Township",
+        "outlet": "Lowell Ledger",
+        "url": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/",
+        "date": "2025",
+        "tone": "neutral"
+      },
+      {
+        "title": "In blow to proposed data center, Lowell suspends water, sewer talks with Lowell Township",
+        "outlet": "WOOD TV8",
+        "url": "https://www.woodtv.com/news/kent-county/in-blow-to-proposed-data-center-lowell-suspends-water-sewer-talks-with-lowell-township/",
+        "date": "2026-08",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": ""
+  },
+  {
+    "id": "mi-wayne-solstice-allen-park",
+    "name": "Solstice Data Allen Park Data Center",
+    "owner": "Solstice Data",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Wayne County",
+    "town": "Allen Park",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 26,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Planning Commission rejected the site plan after resident opposition",
+        "source": "https://www.wxyz.com/news/data-centers/data-center-site-plan-denied-in-allen-park-after-voting-was-postponed-three-times",
+        "date": "2026-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center site plan denied in Allen Park after voting was postponed three times",
+        "outlet": "WXYZ",
+        "url": "https://www.wxyz.com/news/data-centers/data-center-site-plan-denied-in-allen-park-after-voting-was-postponed-three-times",
+        "date": "2026-06",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About 45,000 sq ft on Enterprise Drive south of I-94. Developer can appeal."
+  },
+  {
+    "id": "mi-ingham-deep-green-lansing",
+    "name": "Deep Green Lansing Data Center",
+    "owner": "Deep Green",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Ingham County",
+    "town": "Lansing",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025-11-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 120000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
+        "date": "2025-11-05"
+      },
+      "power_mw": {
+        "value": 24,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
+        "date": "2025-11-05"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 15,
+        "unit": "operations jobs (more than)",
+        "kind": "real",
+        "source": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
+        "date": "2025-11-05"
+      },
+      "jobs_promised_build": {
+        "value": 35,
+        "unit": "construction jobs (more than)",
+        "kind": "real",
+        "source": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
+        "date": "2025-11-05"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Lansing Board of Water & Light",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
+        "date": "2025-11-05"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "No data center in Lansing after Deep Green withdraws plans",
+        "outlet": "Lansing City Pulse",
+        "url": "https://www.lansingcitypulse.com/stories/no-data-center-in-lansing-after-deep-green-withdraws-plans,186386",
+        "date": "2026-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Withdrew April 2026 before a likely council loss; city adopted a six-month moratorium July 2026."
+  },
+  {
+    "id": "mi-livingston-meta-howell",
+    "name": "Howell Township Hyperscale Data Center (Meta-linked)",
+    "owner": "Meta (reported)",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Livingston County",
+    "town": "Howell Township",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 1077,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Township passed a six-month moratorium (extended May 2026 through November); township and county planning commissions recommended denial of rezoning",
+        "source": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2025/11/21/howell-township-passes-moratorium-but-residents-still-feel-betrayed/87392696007/",
+        "date": "2025-11-21"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Rezoning request for Meta-backed data center near Howell withdrawn, officials say",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/ann-arbor/2025/12/rezoning-request-for-meta-backed-data-center-near-howell-withdrawn-officials-say.html",
+        "date": "2025-12",
+        "tone": "neutral"
+      },
+      {
+        "title": "Howell Twp data center application has been withdrawn for now",
+        "outlet": "Livingston Daily",
+        "url": "https://www.livingstondaily.com/story/news/local/community/livingston-county/2025/12/08/howell-twp-data-center-application-has-been-withdrawn-for-now/87664298007/",
+        "date": "2025-12-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Developer name not confirmed; Meta reported as backer. Withdrawn 'for now' Dec 2025."
+  },
+  {
+    "id": "mi-washtenaw-thor-augusta",
+    "name": "Thor Equities Augusta Township Data Center",
+    "owner": "Thor Equities",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Washtenaw County",
+    "town": "Augusta Township",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://www.clickondetroit.com/news/local/2025/06/03/farming-community-resists-1b-data-center-project-in-washtenaw-county/",
+        "date": "2025-06-03"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 522,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Voters rejected the industrial rezoning on Aug 4, 2026 (nearly 90% opposed)",
+        "source": "https://www.mlive.com/news/ann-arbor/2026/08/voters-in-augusta-township-reject-rezoning-farmland-eyed-by-data-center-project.html",
+        "date": "2026-08-04"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Farming community resists $1B data center project in Washtenaw County",
+        "outlet": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2025/06/03/farming-community-resists-1b-data-center-project-in-washtenaw-county/",
+        "date": "2025-06-03",
+        "tone": "bad"
+      },
+      {
+        "title": "Voters in Augusta Township reject rezoning farmland eyed by data center project",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/ann-arbor/2026/08/voters-in-augusta-township-reject-rezoning-farmland-eyed-by-data-center-project.html",
+        "date": "2026-08",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": ""
+  },
+  {
+    "id": "mi-monroe-cloverleaf-frenchtown",
+    "name": "Project Cherry Blossom, Frenchtown Township",
+    "owner": "Cloverleaf Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Monroe County",
+    "town": "Frenchtown Township",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 200,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://cherryblossomdatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "long-term jobs (more than)",
+        "kind": "real",
+        "source": "https://cherryblossomdatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (more than)",
+        "kind": "real",
+        "source": "https://cherryblossomdatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Township moratorium April 2026; in June the township board said it is not seeking a data center for the site",
+        "source": "https://www.frenchtownmi.gov/DocumentCenter/View/731/Board-Statement-pdf",
+        "date": "2026-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Proposed AI data center in Monroe County faces community pushback",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/ann-arbor/2025/11/proposed-ai-data-center-in-monroe-county-faces-community-pushback.html",
+        "date": "2025-11",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company calls it a multi-billion-dollar investment (no figure). Former golf course near I-75 and N. Dixie Hwy. Stage set to cancelled based on township statement; Cloverleaf has not announced a withdrawal in sources seen."
+  },
+  {
+    "id": "mi-monroe-cloverleaf-ironwood",
+    "name": "Project Ironwood, Dundee",
+    "owner": "Cloverleaf Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Monroe County",
+    "town": "Dundee Township",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 350,
+        "unit": "acres (company page; Gander reports 750)",
+        "kind": "real",
+        "source": "https://ironwooddatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "long-term jobs (more than)",
+        "kind": "real",
+        "source": "https://ironwooddatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (more than)",
+        "kind": "real",
+        "source": "https://ironwooddatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling with one-time fill (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://ironwooddatacenter.com/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Village of Dundee ended talks after public pushback; council voted to block water supply; township enacted a temporary moratorium",
+        "source": "https://www.wtol.com/article/news/local/village-of-dundee-michigan-officials-end-talks-on-data-center-after-public-pushback/512-03d03eb6-f350-4e2f-bd74-f16bf8d11a4c",
+        "date": "2025-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Village of Dundee officials end talks on data center after public pushback",
+        "outlet": "WTOL",
+        "url": "https://www.wtol.com/article/news/local/village-of-dundee-michigan-officials-end-talks-on-data-center-after-public-pushback/512-03d03eb6-f350-4e2f-bd74-f16bf8d11a4c",
+        "date": "2025-10",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company calls it a multi-billion-dollar investment (no figure). Cloverleaf withdrew its agreement Oct 2025 (Gander). Gander also mentions Milan Township."
+  },
+  {
+    "id": "mi-wayne-raeden-gibraltar",
+    "name": "Raeden Gibraltar Data Center (former McLouth Steel site)",
+    "owner": "Raeden",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Wayne County",
+    "town": "Gibraltar",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "City adopted a one-year moratorium (with waiver) in March 2026; Raeden sued in August 2026",
+        "source": "https://planetdetroit.org/2026/08/gibraltar-faces-data-center-lawsuit/",
+        "date": "2026-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Gibraltar approves data center moratorium",
+        "outlet": "Planet Detroit",
+        "url": "https://planetdetroit.org/2026/03/gibraltar-data-center-moratorium/",
+        "date": "2026-03",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center developer sues Michigan city challenging one-year pause",
+        "outlet": "MLive",
+        "url": "https://www.mlive.com/news/detroit/2026/08/data-center-developer-sues-michigan-city-challenging-one-year-pause-on-projects.html",
+        "date": "2026-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Site on W. Jefferson Ave."
+  },
+  {
+    "id": "mi-ingham-comino-mason",
+    "name": "Comino Development Mason / Vevay Township Data Center",
+    "owner": "Comino Development",
+    "operator": null,
+    "tier": "large",
+    "state": "MI",
+    "county": "Ingham County",
+    "town": "Mason",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (more than, reported)",
+        "kind": "real",
+        "source": "https://gandernewsroom.com/2026/03/02/how-many-ai-data-centers-are-planned-in-michigan-we-counted",
+        "date": "2026-10-08"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Vevay Township declined Public Act 425 agreement talks for the project",
+        "source": "https://www.wilx.com/2026/06/11/vevay-township-declines-public-act-425-agreement-talks-proposed-mason-data-center/",
+        "date": "2026-06-11"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Development firm behind proposed Mason data center identified",
+        "outlet": "Lansing State Journal",
+        "url": "https://www.lansingstatejournal.com/story/news/2026/08/21/development-firm-behind-proposed-mason-data-center-identified/91394830007/",
+        "date": "2026-08-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "Vevay Township landowners seeking Mason annexation for data center",
+        "outlet": "WILX",
+        "url": "https://www.wilx.com/2026/08/20/vevay-township-landowners-seeking-mason-annexation-data-center/",
+        "date": "2026-08-20",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "No formal proposal filed. Landowners petitioned to annex 400+ acres into Mason; State Boundary Commission found the petition legally sufficient Oct 2026. A council member faces a recall."
+  }
+]

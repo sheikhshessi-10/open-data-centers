@@ -1,0 +1,42 @@
+{
+  "state": "VT",
+  "checked": {
+    "dockets": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "H.727 An act relating to sustainable data center deployment (Sustainable Data Centers Act)",
+      "status": "failed",
+      "what": "Would have regulated data centers of 20 MW or more (quarterly water and energy reporting, decommissioning legislation by 2026-12-15). Passed House 2026-03-31 and Senate 26-3; vetoed by Gov. Scott; House vote to override failed 83-52 (veto sustained) on 2026-05-29.",
+      "source": "https://legislature.vermont.gov/bill/status/2026/H.727",
+      "date": "2026-05-29"
+    },
+    {
+      "name": "S.205 AI data center moratorium",
+      "status": "pending",
+      "what": "Temporary moratorium on siting and building AI data centers while the Public Utility Commission studies them; referred to Senate Finance 2026-01-06, no later action found (committee meetings through 2026-02-18); likely died when the session ended, not confirmed.",
+      "source": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0205/S-0205%20As%20Introduced.pdf",
+      "date": "2026-01-06"
+    }
+  ],
+  "rate_cases": [
+    {
+      "utility": "Green Mountain Power",
+      "what": "No data center tariff case found. Existing GMP Rate 70 serves C&I customers taking power from the transmission grid with peak demand over 10 MW (cited by DPS in H.727 testimony). GMP told the Senate it has sites that can add 50-200 MW.",
+      "impact": null,
+      "source": "https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Bills/H.727/Witness%20Documents/H.727~TJ%20Poor~Public%20Service%20Department%20Testimony~2-12-2026.pdf",
+      "date": "2026-02-12"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "None: no data-center-specific state tax incentive found",
+      "law": null,
+      "what": "Vermont has no data center tax incentive in NCSL's 'Status of Data Center Tax Incentives, by State (2026)' table (adapted from Husch Blackwell's 50-state survey, last updated 2026-07-27; listed as N/A; table data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv). Checked 32 V.S.A. 9741 (sales and use tax exemptions) on 2026-10-15: no data center exemption (only a general office machines/computers item).",
+      "value_known": null,
+      "source": "https://legislature.vermont.gov/statutes/section/32/233/09741",
+      "date": "2026-10-15"
+    }
+  ]
+}

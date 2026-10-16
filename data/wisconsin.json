@@ -1,0 +1,664 @@
+[
+  {
+    "id": "wi-racine-microsoft-mount-pleasant",
+    "name": "Microsoft Fairwater Datacenter Campus, Mount Pleasant",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "WI",
+    "county": "Racine County",
+    "town": "Mount Pleasant",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 4700000000,
+        "unit": "USD (Microsoft estimate of local hyperscale construction spend in Wisconsin 2024-2028)",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/",
+        "date": "2026-06-23"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 800,
+        "unit": "full-time employees expected in the Village once the second facility is fully operational",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/",
+        "date": "2026-06-23"
+      },
+      "jobs_promised_build": {
+        "value": 10000,
+        "unit": "construction workers who contributed over two years (nearly)",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/",
+        "date": "2026-06-23"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "We Energies (proposed data center rates for Mount Pleasant in the Very Large Customer tariff case)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+        "date": "2026-03-09"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Covered by Wisconsin's data center sales and use tax exemption (2023-25 budget); dollar value for this site not disclosed",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-tax-break-to-cost-state-more-than-2-billion-lost-revenue/",
+        "date": "2026-04-24"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft completes construction on first datacenter facility in Mount Pleasant, Wisconsin",
+        "outlet": "Microsoft",
+        "url": "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/",
+        "date": "2026-06-23",
+        "tone": "good"
+      },
+      {
+        "title": "At least four Wisconsin communities signed secrecy deals for billion-dollar data centers",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First facility (Fairwater) operational since spring 2026; second adjacent facility under construction, due 2028. Built on land once meant for Foxconn. Wisconsin Watch reports Microsoft announced plans in Jan 2026 for 15 more data centers worth $13B here, and elsewhere cites a $20B complex. Dollar totals differ by source; Microsoft's own figure used."
+  },
+  {
+    "id": "wi-ozaukee-vantage-port-washington",
+    "name": "Vantage Lighthouse Campus (OpenAI / Oracle Stargate), Port Washington",
+    "owner": "Vantage Data Centers",
+    "operator": "Vantage Data Centers",
+    "tier": "large",
+    "state": "WI",
+    "county": "Ozaukee County",
+    "town": "Port Washington",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 15000000000,
+        "unit": "USD (reported)",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "power_mw": {
+        "value": 902,
+        "unit": "MW critical IT load",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 672,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 5000,
+        "unit": "workers at peak construction (about 1,000 on site daily in April 2026)",
+        "kind": "real",
+        "source": "https://www.ozaukeepress.com/content/hyperscale-construction-project",
+        "date": "2026-04-08"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "We Energies; company says 70% from zero-emission sources (solar, wind, battery), rest matched by renewable purchases",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+        "date": "2026-10-15"
+      },
+      "utility": {
+        "value": "We Energies (Very Large Customer tariff, PSC docket 6630-TE-113)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/06/oracle-sues-wisconsin-regulators-data-center-credit-requirements-public-service-commission/",
+        "date": "2026-06-23"
+      },
+      "cooling_type": {
+        "value": "Closed-loop chiller system with air-cooled and liquid-to-liquid cooling for GPUs (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": "Company says minimal water for cooling, water use efficiency near zero",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+        "date": "2026-10-15"
+      },
+      "tax_break": {
+        "value": "Covered by Wisconsin's data center sales tax exemption; city created a $175M TIF district",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+        "date": "2026-05-04"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$3M to Valley Creek water quality and flood project (Ozaukee Press); Wisconsin Watch also reports a $225,000 school foundation donation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.ozaukeepress.com/content/hyperscale-construction-project",
+        "date": "2026-04-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Voters approved an April 7, 2026 referendum requiring voter approval for future TIF districts over $10 million; a business-backed lawsuit is pending",
+        "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+        "date": "2026-04-07"
+      },
+      {
+        "what": "Recall effort against Mayor Ted Neitzke; three people arrested at a December 2025 council meeting",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hyperscale construction project",
+        "outlet": "Ozaukee Press",
+        "url": "https://www.ozaukeepress.com/content/hyperscale-construction-project",
+        "date": "2026-04-08",
+        "tone": "neutral"
+      },
+      {
+        "title": "Oracle sues Wisconsin regulators over data center credit requirements",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/06/oracle-sues-wisconsin-regulators-data-center-credit-requirements-public-service-commission/",
+        "date": "2026-06-23",
+        "tone": "neutral"
+      },
+      {
+        "title": "In a Wisconsin land rush, data centers made them millionaires",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/07/wisconsin-land-rush-data-centers-millionaires-port-washington-properties/",
+        "date": "2026-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Backed by OpenAI and Oracle (Stargate). Groundbreaking Dec 17, 2025; four one-story buildings, 2.5M sq ft, completion 2028. Exact announcement date not confirmed (2025). Oracle sued the PSC over credit rules in the tariff (case 2026CV256, inferred from the filing's filename)."
+  },
+  {
+    "id": "wi-dodge-meta-beaver-dam",
+    "name": "Meta Beaver Dam Data Center",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "WI",
+    "county": "Dodge County",
+    "town": "Beaver Dam",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 520,
+        "unit": "acres (reported)",
+        "kind": "estimate",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "operational jobs (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "skilled trade workers at peak (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Alliant Energy (Wisconsin Power and Light); Electric Service Agreement approved with changes by the PSC May 7, 2026, docket 6680-TE-115",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://psc.wi.gov/Documents/PressReleases/05.08.26PressRelease.PDF",
+        "date": "2026-05-07"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "TIF district (Nov 2024) plus state data center sales tax exemption; values not disclosed",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "City signed an NDA Dec 1, 2023; Meta developed the project through shell companies Balloonist LLC and Degas LLC and confirmed its role in Dec 2025",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      }
+    ],
+    "news": [
+      {
+        "title": "At least four Wisconsin communities signed secrecy deals for billion-dollar data centers",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26",
+        "tone": "bad"
+      },
+      {
+        "title": "PSC Ensures Stronger Public Transparency, Customer Protections in Review of Alliant Energy's Data Center Service Agreement",
+        "outlet": "PSC of Wisconsin",
+        "url": "https://psc.wi.gov/Documents/PressReleases/05.08.26PressRelease.PDF",
+        "date": "2026-05-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "In Beaver Dam Commerce Park. Expected to open 2027. Public announcement Feb 2025 (owner not named until Dec 2025). A separate $40M Beaver Dam data center approved April 2026 is below the size bar and not recorded."
+  },
+  {
+    "id": "wi-dane-qts-deforest",
+    "name": "QTS DeForest / Vienna Campus (proposed)",
+    "owner": "QTS Data Centers",
+    "operator": "QTS Data Centers",
+    "tier": "large",
+    "state": "WI",
+    "county": "Dane County",
+    "town": "DeForest",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2025-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 12000000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 1600,
+        "unit": "acres in the town of Vienna, to be annexed",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Resident opposition; state Department of Administration found the annexation not in the public interest; village said Jan 27, 2026 the project is not feasible",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-27"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "At least four Wisconsin communities signed secrecy deals for billion-dollar data centers",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Dropped Jan 2026; Wisconsin Watch reports QTS moving the project to Iowa. Also in Wausau Pilot & Review guide: https://wausaupilotandreview.com/2026/06/01/what-is-up-with-all-these-data-centers-a-wisconsin-guide/"
+  },
+  {
+    "id": "wi-rock-viridian-janesville",
+    "name": "Viridian Acquisitions Janesville Data Center (former GM plant)",
+    "owner": "Viridian Acquisitions",
+    "operator": null,
+    "tier": "large",
+    "state": "WI",
+    "county": "Rock County",
+    "town": "Janesville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 8000000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "City signed an NDA about two months after the July 2025 developer approach",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      }
+    ],
+    "news": [
+      {
+        "title": "No one wanted to redevelop this polluted property. Then came AI",
+        "outlet": "E&E News",
+        "url": "https://www.eenews.net/articles/no-one-wanted-to-redevelop-this-polluted-property-then-came-ai/",
+        "date": "2026",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "In negotiations as of 2026; plan includes a $30M cleanup of the former GM plant. End user not named. E&E News article not opened directly (linked from Wisconsin Watch)."
+  },
+  {
+    "id": "wi-dunn-balloonist-menomonie",
+    "name": "Menomonie Data Center (Balloonist LLC)",
+    "owner": "Balloonist LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "WI",
+    "county": "Dunn County",
+    "town": "Menomonie",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2025-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1600000000,
+        "unit": "USD (proposed)",
+        "kind": "real",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 300,
+        "unit": "acres bought for $25.5M (more than)",
+        "kind": "estimate",
+        "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+        "date": "2026-04-20"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Mayor put project on hold Sept 2025; council reversed the warehousing zoning change in Jan 2026",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "City signed NDA with Balloonist LLC in Feb 2024, over a year before the July 2025 announcement",
+        "source": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26"
+      }
+    ],
+    "news": [
+      {
+        "title": "At least four Wisconsin communities signed secrecy deals for billion-dollar data centers",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/01/wisconsin-data-center-secrecy-deals-nda-nondisclosure-agreement/",
+        "date": "2026-01-26",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Balloonist LLC is the same shell name Meta used at Beaver Dam (Wisconsin Watch), but no source seen confirms Meta is the end user here. Also in Wausau Pilot guide: https://wausaupilotandreview.com/2026/06/01/what-is-up-with-all-these-data-centers-a-wisconsin-guide/ Wausau Pilot & Review (June 2026, https://wausaupilotandreview.com/2026/06/01/what-is-up-with-all-these-data-centers-a-wisconsin-guide/) reports the mayor put the project on hold in Sept 2025 and the council later reversed the zoning change that allowed it; stage left at paused pending a city record."
+  },
+  {
+    "id": "wi-wood-pnk-wisconsin-rapids",
+    "name": "Wisconsin Rapids Data Center (DC Rapids LLC, former paper mill)",
+    "owner": "DC Rapids LLC (PNK Group)",
+    "operator": null,
+    "tier": "large",
+    "state": "WI",
+    "county": "Wood County",
+    "town": "Wisconsin Rapids",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW campus (reported)",
+        "kind": "estimate",
+        "source": "https://wisconsinwatch.org/2026/08/wisconsin-ai-data-center-land-big-tech-wrightstown-voters-opposition-opinion/",
+        "date": "2026-08-31"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 210,
+        "unit": "acres (reported)",
+        "kind": "estimate",
+        "source": "https://wisconsinwatch.org/2026/08/wisconsin-rapids-data-center-objections-developers-russian-connections/",
+        "date": "2026-08-28"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents' group South Wood County Neighbors for Responsible Development organized against the project",
+        "source": "https://wisconsinwatch.org/2026/08/wisconsin-rapids-data-center-objections-developers-russian-connections/",
+        "date": "2026-08-28"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Wisconsin Watch reported the developers' ties to Russia (PNK Group owner Andrey Sharkov; project lead Anton Voronkin) and that former NYC Mayor Eric Adams is a paid PNK adviser",
+        "source": "https://wisconsinwatch.org/2026/08/wisconsin-rapids-data-center-objections-developers-russian-connections/",
+        "date": "2026-08-28"
+      }
+    ],
+    "news": [
+      {
+        "title": "In Wisconsin Rapids, data center objections include developers' Russian connections",
+        "outlet": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/2026/08/wisconsin-rapids-data-center-objections-developers-russian-connections/",
+        "date": "2026-08-28",
+        "tone": "bad"
+      },
+      {
+        "title": "Public hearing on DC Rapids LLC conditional use permit for a data center",
+        "outlet": "City of Wisconsin Rapids",
+        "url": "https://www.wirapids.gov/m/newsflash/home/detail/104",
+        "date": "2026-08-28",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "DC Rapids LLC applied for a conditional use permit for a data center at 950 Fourth Ave. N. (city notice), a former paper mill site near downtown on the Wisconsin River. First filed around late April 2026 by Ruslan Zinurov (Performance Computing Holdings); now led by Anton Voronkin of New York-based PNK Group. Planning Commission hearing and recommendation set for Sept 16, 2026; those minutes were not yet posted, so the outcome is not known. On Oct 5, 2026 the Plan Commission recommended a city data center moratorium of up to 12 months and created a Data Center Overlay District (https://www.wirapids.gov/Archive.aspx?ADID=1610). An earlier 2025 proposal in the city was dropped (Wisconsin Watch). Coordinates not set: address known but not geocoded from a source."
+  }
+]

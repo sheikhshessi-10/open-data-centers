@@ -1,0 +1,149 @@
+{
+  "state": "AL",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Chapter 9B data processing center abatements",
+      "law": "Ala. Code Title 40, Chapter 9B (as amended)",
+      "what": "Property and sales/use tax abatements (non-educational portions) for data processing centers with total peak demand under 100 MW per the Commerce Department summary: up to $200M investment, 10 years; $200M-$400M, 20 years; data centers can get property tax abatements of up to 30 years.",
+      "value_known": "Varies; example: Lowndes County approved a 20-year, $1.15B abatement for Project Red Clay",
+      "source": "https://www.madeinalabama.com/why-alabama/taxes-incentives/",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Alabama Jobs Act investment and jobs credits",
+      "law": "Ala. Code §§ 40-18-370 to 40-18-383",
+      "what": "Investment credit used for data centers, e.g., Meta Huntsville.",
+      "value_known": "Meta Huntsville: estimated $86.25M over 10 years",
+      "source": "https://governor.alabama.gov/press-releases/governor-ivey-announces-facebook-to-invest-750-million-in-new-data-center-in-huntsville",
+      "date": "2018-06-14"
+    },
+    {
+      "name": "Act 2026-573 changes to Chapter 9B data center abatements",
+      "law": "Act 2026-573",
+      "what": "Updates requirements for data processing centers granted Chapter 9B abatements on or after Jan. 1, 2027; the 30-year property tax abatement applies only to data centers granted abatements before Jan. 1, 2027. Details to be posted by the Department of Revenue.",
+      "value_known": null,
+      "source": "https://www.revenue.alabama.gov/tax-incentives/chapter-9b-abatements/",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Docket 33709",
+      "regulator": "Alabama Public Service Commission",
+      "utility": "Alabama Power",
+      "what": "Generic proceeding (PSC page: https://psc.alabama.gov/docket-33709-public-comment-and-reply-info/) setting procedures and standards for reviewing Alabama Power contracts with large-load data centers. Oct 6, 2026: PSC adopted rules for contracts with data centers of 150 MW or more; a contract is deemed approved if the PSC does not vote within 90 days; public summaries must give counterparty, location and maximum capacity; no public hearings required.",
+      "site_ids": [],
+      "status": "rules adopted 2026-10-06",
+      "url": "https://www.selc.org/?p=44631",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "Alabama Power - Alabama ADC Holdings contract (docket number not captured)",
+      "regulator": "Alabama Public Service Commission",
+      "utility": "Alabama Power",
+      "what": "Electric service contract with Alabama ADC Holdings LLC (Nebius Birmingham site) filed about July 30, 2026; size, price, term and guarantees redacted.",
+      "site_ids": [
+        "al-jefferson-nebius-birmingham-oxmoor"
+      ],
+      "status": "pending",
+      "url": "https://www.wbrc.com/2026/07/30/public-can-read-alabama-powers-data-center-contract-just-not-parts-that-could-affect-bill/",
+      "date": "2026-07-30"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 270 (Sen. Lance Bell), 2026: large-load data center contracts",
+      "status": "enacted",
+      "what": "Lets the PSC approve utility contracts with large-load data centers when the data center is expected to pay the extra costs of serving it and to benefit other customers. A new Alabama data center contract law took effect Oct 1, 2026 (WBRC/Fox10, https://www.fox10tv.com/2026/10/02/alabama-data-center-law-takes-effect-oct-1-heres-what-it-means-your-power-bill/); passage listed in the Business Council of Alabama session recap.",
+      "source": "https://alabamareflector.com/briefs/alabama-house-committee-oks-senate-bill-regulating-data-centers/",
+      "date": "2026-03-18"
+    },
+    {
+      "name": "HB 399, 2026: data center investment incentives",
+      "status": "enacted",
+      "what": "Revises targeted incentives for data centers (listed in the Business Council of Alabama's end-of-session summary of legislation passed). Related SB 265 would cap data center abatement periods at 20 years from Jan 1, 2027 and require the largest facilities to start paying state sales and use tax on some purchases once in service. Act number and final text not confirmed. Department of Revenue says Act 2026-573 updates data center abatement requirements from Jan. 1, 2027 (bill number of Act 2026-573 not confirmed as HB 399).",
+      "source": "https://www.bcatoday.org/week-thirteen-of-the-2026-legislative-session/",
+      "date": "2026-04-16"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Birmingham",
+      "type": "moratorium",
+      "what": "Six-month (180-day) pause on new applications for data centers over 20 MW; does not apply to complete applications already under review (e.g., Nebius). Permanent rules were still pending in late April 2026.",
+      "status": "enacted 2026-03-03; expired about September 2026",
+      "source": "https://wbrc.com/2026/03/04/birmingham-city-council-votes-pause-new-data-center-applications-six-months",
+      "date": "2026-03-04"
+    },
+    {
+      "place": "Homewood",
+      "type": "moratorium",
+      "what": "Data center moratorium for up to one year.",
+      "status": "active from June 2026",
+      "source": "https://www.cbs42.com/alabama-news/central-alabama-cities-with-active-data-center-moratoriums/amp/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Springville",
+      "type": "moratorium",
+      "what": "Data center moratorium for up to one year.",
+      "status": "active from June 2026",
+      "source": "https://www.cbs42.com/alabama-news/central-alabama-cities-with-active-data-center-moratoriums/amp/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Leeds",
+      "type": "moratorium",
+      "what": "Data center moratorium for up to one year.",
+      "status": "active from June 2026",
+      "source": "https://www.cbs42.com/alabama-news/central-alabama-cities-with-active-data-center-moratoriums/amp/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Cullman",
+      "type": "moratorium",
+      "what": "Data center moratorium for up to one year.",
+      "status": "active from June 2026",
+      "source": "https://www.cbs42.com/alabama-news/central-alabama-cities-with-active-data-center-moratoriums/amp/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Rogersville (Lauderdale County)",
+      "type": "moratorium",
+      "what": "Town considering a data center moratorium.",
+      "status": "proposed; outcome not confirmed",
+      "source": "https://www.cbs42.com/alabama-news/central-alabama-cities-with-active-data-center-moratoriums/amp/",
+      "date": "2026-07-15"
+    },
+    {
+      "place": "Bessemer",
+      "type": "zoning",
+      "what": "City amended its zoning code to allow data centers in I-1 light industrial zones (before the Project Marvel rezoning).",
+      "status": "enacted 2025",
+      "source": "https://insideclimatenews.org/news/18112025/alabama-city-council-approves-rezoning-for-massive-data-center/",
+      "date": "2025-11-18"
+    },
+    {
+      "place": "Morgan County",
+      "type": "moratorium",
+      "what": "One-year data center moratorium approved June 23, 2026, blocking a proposed bitcoin mine near Somerville",
+      "status": "enacted 2026-06-23",
+      "source": "https://www.datacenterdynamics.com/en/news/morgan-county-alabama-passes-data-center-moratorium-blocking-cryptomine-proposal/",
+      "date": "2026-06-23"
+    },
+    {
+      "place": "Westover",
+      "type": "moratorium",
+      "what": "Six-month data center moratorium approved unanimously while leaders consider rules (Swift site still permitted by right)",
+      "status": "enacted Aug 2026",
+      "source": "https://abc3340.com/news/abc-3340-news-iteam/how-did-westovers-proposed-data-center-get-here-records-show-the-timeline",
+      "date": "2026-08-24"
+    }
+  ]
+}

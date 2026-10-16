@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ak-north-slope-stak-energy-dalton",
+    "name": "Stak Energy North Slope data center",
+    "owner": "Stak Energy",
+    "operator": null,
+    "tier": "large",
+    "state": "AK",
+    "county": "North Slope Borough",
+    "town": "off the Dalton Highway, ~25 miles south of Prudhoe Bay infrastructure",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05-12",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 500000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "power_mw": {
+        "value": 3000,
+        "unit": "MW (up to 3 GW for its own use)",
+        "kind": "real",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "acres": {
+        "value": 640,
+        "unit": "acres (about one square mile; our conversion)",
+        "kind": "estimate",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "jobs_promised_perm": {
+        "value": 60,
+        "unit": "permanent jobs (about)",
+        "kind": "real",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "peak construction workers",
+        "kind": "real",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "power_source": {
+        "value": "Natural gas via a new 25-90 mile pipeline; on-site gas power plant; no firm gas supply deal yet",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Air cooling (expected to cut water use 90%+)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "A huge data center could rise on Alaska's North Slope",
+        "outlet": "Anchorage Daily News (Northern Journal / Alaska Beacon)",
+        "url": "https://www.adn.com/business-economy/2026/05/18/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+        "date": "2026-05-18",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Alaska DNR preliminary best-interest decision to lease state land issued 2026-05-12; public comment through 2026-06-15 (state public notice ID 223817: https://aws.state.ak.us/OnlinePublicNotices/Notices/View.aspx?id=223817 - would not load for us, JS wall). Federal Clean Water Act authorization still needed for gravel pad. Borough not named by source; North Slope Borough inferred from location north of the Brooks Range. ADN, Alaska Beacon and Northern Journal ran the same story (one source)."
+  }
+]

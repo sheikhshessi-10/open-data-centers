@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "or-crook-meta-prineville",
+    "name": "Meta Prineville Data Center",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "OR",
+    "county": "Crook County",
+    "town": "Prineville",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2010",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD (more than, company figure)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 350,
+        "unit": "operational jobs (more than, company figure)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Three Facebook data centers in Prineville receive 15-year long-term rural enterprise zone (LRZ) property tax abatements (Business Oregon, 2023).",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Meta lists Prineville as broke ground 2010, $2B+ invested, 350+ operational jobs. 'announced' uses the groundbreaking year. Confirmed also by Business Oregon memo (2023)."
+  },
+  {
+    "id": "or-crook-apple-prineville",
+    "name": "Apple Prineville Data Center",
+    "owner": "Apple",
+    "operator": "Apple",
+    "tier": "large",
+    "state": "OR",
+    "county": "Crook County",
+    "town": "Prineville",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Two Apple data centers in Prineville receive 15-year long-term rural enterprise zone (LRZ) property tax abatements (Business Oregon, 2023).",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Confirmed by Business Oregon commission memo (2023) listing two Apple data centers in Prineville under LRZ abatement. Size, investment and opening year not yet sourced."
+  },
+  {
+    "id": "or-wasco-google-the-dalles",
+    "name": "Google The Dalles Data Center",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "OR",
+    "county": "Wasco County",
+    "town": "The Dalles",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2006",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 7000000000,
+        "unit": "USD (more than; Google's total in Oregon since 2006, not only this campus)",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/the-dalles-oregon/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "LRZ abatements for two Google data centers in The Dalles plus SIP determinations for two Google projects there (Business Oregon 2023). Wasco County also approved a 15-year enterprise zone abatement for a new data center on 23 acres near Taylor Lakes, with minimum $1.4M initial and $1M a year payments (Gorge Radio).",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Water secrecy fight: The Dalles went to court to keep Google's water use secret after the county DA ordered release; records were later released. City water deal: Google funds about $28.5M of water system expansion.",
+        "source": "https://www.datacenterdynamics.com/en/news/the-dalles-city-council-passes-controversial-google-data-center-water-deal/",
+        "date": null
+      }
+    ],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Google's first company-built data center (2006); fourth building started 2015 (company page). Scrutiny date not verified (null; DCD page blocked fetch). Leads for news: Gorge Radio enterprise zone story, DCK $600M expansion story. Water deal and enterprise-zone details need a metric pass."
+  },
+  {
+    "id": "or-morrow-amazon-boardman",
+    "name": "AWS Boardman / Port of Morrow data centers",
+    "owner": "Amazon (Amazon Data Services)",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "OR",
+    "county": "Morrow County",
+    "town": "Boardman",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2370000000,
+        "unit": "USD (2023 SIP project alone: $320M construction + $1.95B servers; not whole cluster)",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 80,
+        "unit": "new jobs for the 2023 SIP project (avg wage $85,000)",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "2023 Strategic Investment Program (SIP) for a Morrow County project: about $195M in taxes over 15 years otherwise; Amazon nets about $113M. Also 3 LRZ abatements in/around Boardman and 5 more certified in the Columbia River Enterprise Zone. OPB/Oregonian put the 2023 Port of Morrow enterprise zone deal at about $1B.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "local_tax_paid": {
+        "value": 19000000,
+        "unit": "USD per year property taxes in Morrow County (more than; 3 of 5 county data centers still exempt)",
+        "kind": "real",
+        "source": "https://eastoregonian.com/2025/05/30/local-leaders-praise-data-centers-look-to-future/",
+        "date": "2025-05-30"
+      },
+      "community_deal": {
+        "value": "SIP agreement: Amazon pays nearly $18M ($5.03M upfront and $850,000 per year) on top of community service fees.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Nitrate groundwater class action against Amazon, Port of Morrow and large farms; Amazon settled for about $20-21M without admitting fault (spring 2026).",
+        "source": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20"
+      },
+      {
+        "what": "Oregon Rural Action organizing against data center water use, nitrate pollution, farmland loss and secrecy (NDAs).",
+        "source": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Morrow County OKs $1 billion deal in tax breaks with Amazon",
+        "outlet": "OPB",
+        "url": "https://www.opb.org/article/2023/05/19/amazon-data-center-oregon-morrow-county/",
+        "date": "2023-05-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "Eastern Oregon leaders praise data centers, look to future",
+        "outlet": "East Oregonian",
+        "url": "https://eastoregonian.com/2025/05/30/local-leaders-praise-data-centers-look-to-future/",
+        "date": "2025-05-30",
+        "tone": "good"
+      },
+      {
+        "title": "As new data centers are headed to Eastern Oregon, opponents share their concerns",
+        "outlet": "OPB",
+        "url": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Cluster record for AWS campuses in and around Boardman (incl. PDX90, which uses Boardman city water). AWS began building in Morrow County roughly 15 years ago (East Oregonian 2025). May later be split into named campuses. The 1,300-acre 'exascale' site is separate (or-morrow-amazon-exascale)."
+  },
+  {
+    "id": "or-morrow-amazon-exascale",
+    "name": "AWS Boardman 'exascale' campus (1,300 acres)",
+    "owner": "Amazon",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "OR",
+    "county": "Morrow County",
+    "town": "Boardman",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (about 1 GW, per county planning documents as reported)",
+        "kind": "estimate",
+        "source": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20"
+      },
+      "acres": {
+        "value": 1300,
+        "unit": "acres (land bought near Boardman)",
+        "kind": "real",
+        "source": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Oregon Rural Action raising concerns about water, farmland (about 2,000 acres of vineyards across the road) and NDAs signed by local officials.",
+        "source": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon purchases 1,300 acres in Morrow County, Oregon",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/amazon-purchases-1300-acres-in-morrow-county-oregon/",
+        "date": "2026-03-31",
+        "tone": "neutral"
+      },
+      {
+        "title": "As new data centers are headed to Eastern Oregon, opponents share their concerns",
+        "outlet": "OPB",
+        "url": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+        "date": "2026-08-20",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "AWS says development plans are not final. Land rezoned for data center use. The Oregonian (March 2026) reported it as possibly Oregon's first exascale data center. Two sources: OPB and DCD."
+  },
+  {
+    "id": "or-umatilla-amazon-umatilla",
+    "name": "AWS Umatilla County data centers (Umatilla, Hermiston area)",
+    "owner": "Amazon (Amazon Data Services)",
+    "operator": "Amazon Web Services",
+    "tier": "large",
+    "state": "OR",
+    "county": "Umatilla County",
+    "town": "Umatilla",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Active SIP in Umatilla city/County approved 2017; 7 more certified long-term rural enterprise zone facilities in Umatilla County due to start 15-year abatements by 2030.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+        "date": "2023-06-02"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Eastern Oregon leaders praise data centers, look to future",
+        "outlet": "East Oregonian",
+        "url": "https://eastoregonian.com/2025/05/30/local-leaders-praise-data-centers-look-to-future/",
+        "date": "2025-05-30",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Cluster record for AWS campuses in Umatilla County (Umatilla, Hermiston and nearby). Split into named campuses later if sources allow."
+  },
+  {
+    "id": "or-umatilla-sabey-umatilla",
+    "name": "SDC Umatilla",
+    "owner": "Sabey Data Centers",
+    "operator": "Sabey Data Centers",
+    "tier": "large",
+    "state": "OR",
+    "county": "Umatilla County",
+    "town": "Umatilla",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 120,
+        "unit": "MW (more than, aggregate)",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/sdc-umatilla",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Hydropower from McNary Dam; onsite substation planned; possible solar and wind (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/sdc-umatilla",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Free cooling much of the year plus liquid cooling options; projected PUE about 1.25-1.3",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sabeydatacenters.com/locations/sdc-umatilla",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company timeline: shovels in ground 2024, core and shell 2026, first 9 MW hall 2027, Building 2 2029+. Pre-leasing."
+  },
+  {
+    "id": "or-morrow-rowan-percheron",
+    "name": "Percheron",
+    "owner": "Rowan Digital Infrastructure",
+    "operator": "Rowan Digital Infrastructure",
+    "tier": "large",
+    "state": "OR",
+    "county": "Morrow County",
+    "town": "Boardman",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2023",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (hyperscale campus, phased)",
+        "kind": "real",
+        "source": "https://rowan.com/portfolio/percheron/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 275,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://rowan.com/portfolio/percheron/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Rowan page: rezoning secured 2023, land closed 2024, phased buildout to 2030; quotes the City of Boardman but does not name the county. County (Morrow) and town (Boardman) inferred from that; confirm. Stage 'permitted' = rezoned, no construction reported."
+  },
+  {
+    "id": "or-washington-qts-hillsboro",
+    "name": "QTS Hillsboro campus",
+    "owner": "QTS Data Centers",
+    "operator": "QTS Data Centers",
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Hillsboro",
+    "lat": 45.556953,
+    "lng": -122.931527,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 250,
+        "unit": "MW (planned campus, five buildings, 1.5M sq ft)",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/21546125/hillsboro-goes-bananas",
+        "date": "2023-02-20"
+      },
+      "acres": {
+        "value": 92,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/21546125/hillsboro-goes-bananas",
+        "date": "2023-02-20"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "QTS page (Hillsboro 1 DC1): 25-acre site, 20+ MW critical, 4951 NE Huffman St, Hillsboro. DCF 2023: 92-acre campus, 250 MW, Meta as lead tenant. Acreage differs (25 vs 92); likely first site vs whole campus.",
+    "pin_source": "https://www.qtsdatacenters.com/data-centers/hillsboro",
+    "pin_address": "4951 NE HUFFMAN ST, HILLSBORO, OR, 97124"
+  },
+  {
+    "id": "or-washington-aligned-hillsboro",
+    "name": "Aligned PDX-01 Hillsboro",
+    "owner": "Aligned Data Centers",
+    "operator": "Aligned Data Centers",
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Hillsboro",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2023-01",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 108,
+        "unit": "MW (planned campus)",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/21546125/hillsboro-goes-bananas",
+        "date": "2023-02-20"
+      },
+      "acres": {
+        "value": 27,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://aligneddc.com/data-centers/hillsboro/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Address NE 30th Ave & NE Evergreen Rd, Hillsboro (company page). Stage kept at announced (2023 plan); trackers say operating, not confirmed by an official or second source."
+  },
+  {
+    "id": "or-washington-stack-hillsboro",
+    "name": "STACK Portland (Hillsboro) campuses POR01-POR03",
+    "owner": "STACK Infrastructure",
+    "operator": "STACK Infrastructure",
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Hillsboro",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 250,
+        "unit": "MW (Portland market total across 3 campuses; POR03 200 MW scalable)",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/portland/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 93,
+        "unit": "acres (Portland market total)",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/portland/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "One record for STACK's Hillsboro campuses POR01, POR02, POR03 (company calls them 3 campuses; merged here as one company campus cluster). DCF 2023: 50-acre campus expanding to 230 MW."
+  },
+  {
+    "id": "or-washington-digitalrealty-hillsboro",
+    "name": "Digital Realty Hillsboro (PDX10, PDX12)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Hillsboro",
+    "lat": 45.547265,
+    "lng": -122.891087,
+    "stage": "running",
+    "announced": "2017",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company page lists PDX10 (3825 NW Aloclek St, 48,000 sq ft) and PDX12 (5870 NE Schaaf St, 546,000 sq ft). Development site came via DuPont Fabros in 2017 (DCF). MW not sourced; 546,000 sq ft implies well above the size bar.",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/portland/pdx10",
+    "pin_address": "3825 NW ALOCLEK PL, HILLSBORO, OR, 97124"
+  },
+  {
+    "id": "or-washington-crane-forestgrove",
+    "name": "Crane PDX01 Forest Grove campus",
+    "owner": "Crane Data Centers / Principal Asset Management",
+    "operator": "Crane Data Centers",
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Forest Grove",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2023-01-16",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW (more than, campus)",
+        "kind": "real",
+        "source": "https://cranedc.com/blog/portland-dc-press-release",
+        "date": "2023-01-16"
+      },
+      "acres": {
+        "value": 35,
+        "unit": "acres (first phase site)",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/21546125/hillsboro-goes-bananas",
+        "date": "2023-02-20"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Trackers list PDX01 as under construction; not confirmed, so stage kept 'announced'."
+  },
+  {
+    "id": "or-washington-ntt-hillsboro",
+    "name": "NTT Hillsboro campus (HI1 and later buildings)",
+    "owner": "NTT Global Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Hillsboro",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 144,
+        "unit": "MW critical IT planned across five buildings",
+        "kind": "estimate",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/21546125/hillsboro-goes-bananas",
+        "date": "2023"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 47,
+        "unit": "acres",
+        "kind": "estimate",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/21546125/hillsboro-goes-bananas",
+        "date": "2023"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "1000 Friends of Oregon, Oregon Education Association, Tualatin Riverkeepers, Tax Fairness Oregon, a Hillsboro councilor and farmers filed a petition for writ of review in Washington County Circuit Court against 17 Hillsboro Enterprise Zone tax-break approvals made in March-June 2026; NTT is among the companies named.",
+        "source": "https://www.opb.org/article/2026/06/23/hillsboro-data-center-fight-heads-to-court/",
+        "date": "2026-06-23"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hillsboro data center fight heads to court",
+        "outlet": "OPB",
+        "url": "https://www.opb.org/article/2026/06/23/hillsboro-data-center-fight-heads-to-court/",
+        "date": "2026-06-23",
+        "tone": "bad"
+      },
+      {
+        "title": "Politicians, teachers union sue Hillsboro, Washington County over tax breaks to data centers",
+        "outlet": "Oregon Capital Chronicle (via Lincoln Chronicle)",
+        "url": "https://lincolnchronicle.org/politicians-teachers-union-sue-hillsboro-washington-county-over-tax-breaks-to-data-centers/",
+        "date": "2026-06-25",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead. Oregon Capital Chronicle: Hillsboro approved five new enterprise zone incentives for NTT in one application (five-year property tax breaks tied to building or expanding over two decades). DCF (2023, trade press): 47 acres, up to 144 MW across five buildings, first opened about 2020. NTT location page blocked/moved; size figures are trade-press, so marked estimate."
+  },
+  {
+    "id": "or-washington-flexential-hillsboro",
+    "name": "Flexential Portland-Hillsboro campus",
+    "owner": "Flexential",
+    "operator": null,
+    "tier": "large",
+    "state": "OR",
+    "county": "Washington County",
+    "town": "Hillsboro",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 60,
+        "unit": "MW campus total after Hillsboro 3 (almost 60 MW)",
+        "kind": "real",
+        "source": "https://www.areadevelopment.com/Print/newsitems/5-8-2020/flenential-data-center-portland-oregon.shtml",
+        "date": "2020-05-08"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "1000 Friends of Oregon, Oregon Education Association, Tualatin Riverkeepers, Tax Fairness Oregon, a Hillsboro councilor and farmers filed a petition for writ of review in Washington County Circuit Court against 17 Hillsboro Enterprise Zone tax-break approvals made in March-June 2026; Flexential is among the companies named.",
+        "source": "https://www.opb.org/article/2026/06/23/hillsboro-data-center-fight-heads-to-court/",
+        "date": "2026-06-23"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hillsboro data center fight heads to court",
+        "outlet": "OPB",
+        "url": "https://www.opb.org/article/2026/06/23/hillsboro-data-center-fight-heads-to-court/",
+        "date": "2026-06-23",
+        "tone": "bad"
+      },
+      {
+        "title": "Opponents sue to block 17 proposed data centers in Hillsboro",
+        "outlet": "Willamette Week",
+        "url": "https://www.wweek.com/news/courts/2026/06/23/opponents-sue-to-block-17-proposed-data-centers-in-hillsboro/",
+        "date": "2026-06-23",
+        "tone": "bad"
+      },
+      {
+        "title": "Flexential data center expansion, Portland-Hillsboro 3",
+        "outlet": "Area Development",
+        "url": "https://www.areadevelopment.com/Print/newsitems/5-8-2020/flenential-data-center-portland-oregon.shtml",
+        "date": "2020-05-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead. Area Development (2020, quoting CEO Chris Downie): Hillsboro 3 is 358,000 sq ft, 36 MW on 20 acres; campus nearly 700,000 sq ft and almost 60 MW. DCF 2023: five data centers and a sixth planned, 54 MW addition. Trade reports (not read): Hillsboro 6, 350,000 sq ft, 27 MW, announced Sept 2025. Flexential named in the 2026 enterprise zone lawsuit (OPB, WWeek). Company page 403/404."
+  }
+]

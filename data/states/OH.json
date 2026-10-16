@@ -1,0 +1,283 @@
+{
+  "state": "OH",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales and use tax exemption",
+      "law": "Ohio Rev. Code 122.175",
+      "what": "100% sales tax exemption on data center construction materials and equipment, granted by the Tax Credit Authority. Gov. DeWine ordered the Tax Credit Authority to stop taking new data center requests after its June 1, 2026 meeting while the Joint Data Center Committee studies impacts; existing exemptions unaffected.",
+      "value_known": "2025 cost about $1.6B in state sales tax plus about $446M local (about $2B total; 2024 about $722M). Ohio has agreed to at least $2.3B in state exemptions for 18 companies.",
+      "source": "https://signalohio.org/ohio-republicans-back-off-effort-to-kill-a-beefy-tax-credit-for-data-centers/",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "Data center sales tax exemption: history",
+      "law": "Ohio Rev. Code 122.175",
+      "what": "Enacted in 2016; eliminated in the 2025 budget bill but reinstated (governor's veto).",
+      "value_known": null,
+      "source": "https://ohiohouse.gov/news/democratic/rep-rader-introduces-companion-data-center-sales-tax-exemption-repeal-bill-144878",
+      "date": "2026-05-27"
+    },
+    {
+      "name": "Data center sales tax exemption: reported investment",
+      "law": "Ohio Rev. Code 122.175",
+      "what": "DeWine said data centers previously granted sales and use tax benefits reported total capital investment of $27.2B in 2025.",
+      "value_known": "$27.2B capital investment (2025), not the cost of the break",
+      "source": "https://www.fox19.com/2026/05/28/ohio-governor-halts-data-center-tax-credits-amid-concerns-studies/",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Pause on new data center sales tax exemptions",
+      "law": "Executive direction to Tax Credit Authority",
+      "what": "DeWine froze new data center exemption requests on May 27, 2026.",
+      "value_known": null,
+      "source": "https://www.wosu.org/2026-05-27/gov-dewine-freezes-controversial-data-center-tax-break-for-now",
+      "date": "2026-05-27"
+    },
+    {
+      "name": "Local property tax abatements (Community Reinvestment Areas, PILOTs)",
+      "law": "Ohio CRA law (local agreements)",
+      "what": "Cities grant 15- to 30-year, up to 100% property tax abatements, often with PILOT payments to schools. In New Albany, 17 data centers have 65%-100% abatements over 15 years. Statewide abatement data not available.",
+      "value_known": null,
+      "source": "https://signalohio.org/ohio-republicans-back-off-effort-to-kill-a-beefy-tax-credit-for-data-centers/",
+      "date": "2026-06-11"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "PUCO 24-0508-EL-ATA",
+      "regulator": "Public Utilities Commission of Ohio",
+      "utility": "AEP Ohio",
+      "what": "AEP Ohio data center tariff. New data centers over 25 MW must pay for at least 85% of contracted demand each month for up to 12 years (incl. 4-year ramp), show financial viability, and pay exit fees if cancelled. Settlement of AEP, PUCO staff, Ohio Consumers' Counsel, Ohio Energy Group, OPAE and Walmart (Oct 23, 2024); a rival data center industry settlement (Google, Amazon, Microsoft etc., 75% minimum) was not adopted. Order lifts AEP's moratorium on new central Ohio data center agreements.",
+      "site_ids": [],
+      "status": "Approved July 9, 2025; data center interests' rehearing request denied (Ohio Capital Journal); OMA Energy Group said it would appeal. Tariff effective July 23, 2025; second load-study tranche: applications due Sept 30, 2026, studies start Oct 1, 2026 (AEP Data Center Tariff page).",
+      "url": "https://www.publicpower.org/node/27907",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "PUCO 25-0392-EL-AIR",
+      "regulator": "Public Utilities Commission of Ohio",
+      "utility": "AEP Ohio",
+      "what": "AEP Ohio rate case; AEP proposed extending the data center tariff to all data center customers, a $20,000/month supplemental customer charge, and barring existing data centers from the 6CP pilot. PUCO staff recommended approval except the supplemental charge.",
+      "site_ids": [],
+      "status": "Settlement filed Jan 7, 2026 (distribution rates down $58.7M overall, about -$1.22/month for a 1,000 kWh home); PUCO hearing expected Q1 2026; as of Oct 15, 2026 AEP's case page still says rates change only after PUCO approves - no final order found",
+      "url": "https://www.aepohio.com/company/about/rates/2025-base-case",
+      "date": "2026-01-07"
+    },
+    {
+      "id": null,
+      "regulator": "Ohio Power Siting Board",
+      "utility": "Will-Power OH LLC (behind-the-meter)",
+      "what": "Apollo Power Generation Facility: 350 MW gas plus about 120 MW batteries on 147 acres in Middleton Township, Wood County, serving only the adjacent Meta data center; approved through expedited review with no public hearings, 34 conditions.",
+      "site_ids": [
+        "oh-wood-meta-bowling-green"
+      ],
+      "status": "approved; construction set to start Feb 2026",
+      "url": "https://bgindependentmedia.org/power-plant-for-meta-data-center-in-wood-county-fast-tracked-approved-with-no-public-hearings/",
+      "date": "2026-02-03"
+    },
+    {
+      "id": null,
+      "regulator": "Public Utilities Commission of Ohio",
+      "utility": "FirstEnergy (Ohio Edison, Cleveland Electric Illuminating, Toledo Edison)",
+      "what": "FirstEnergy data center tariff proceeding; Ohio Consumers' Counsel filed reply comments for consumer protection on Aug 25, 2026. Case number and proposed terms not read (PUCO docket site blocked).",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://www.occ.ohio.gov/content/fe-data-center-tariff-reply-comments-consumer-protection",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "PUCO 26-0347-EL-AIR",
+      "regulator": "Public Utilities Commission of Ohio",
+      "utility": "FirstEnergy (Ohio Edison, Cleveland Electric Illuminating, Toledo Edison)",
+      "what": "Distribution rate case filed April 22, 2026: about $800M/yr distribution spending plus $83M/yr tree trimming recovered 2027-2029; typical residential increase about $4.26-$5.30/month each year. OCC factsheet mentions no data center provisions.",
+      "site_ids": [],
+      "status": "pending; hearings not yet scheduled",
+      "url": "https://www.occ.ohio.gov/factsheet/firstenergy-rate-increase-26-0347-el-air",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "PUCO 26-0132-EL-AIR",
+      "regulator": "Public Utilities Commission of Ohio",
+      "utility": "Duke Energy Ohio",
+      "what": "Electric distribution rate case: about 38% increase in distribution charges, about +$8.32/month for a typical home, effective 2027 if approved. OCC factsheet mentions no data center provisions. No Duke Energy Ohio large-load or data center tariff docket found in pass 2.",
+      "site_ids": [],
+      "status": "pending; public hearings Dec 1 and Dec 10, 2026",
+      "url": "https://www.occ.ohio.gov/factsheet/duke-energy-ohio-rate-increase-26-0132-el-air",
+      "date": "2026-10-15"
+    },
+    {
+      "id": null,
+      "regulator": "Ohio Power Siting Board",
+      "utility": "AEP Ohio (Ohio Power Company)",
+      "what": "72.9 MW behind-the-meter natural gas fuel cell facility (228 Bloom Energy units) at 4186 Scioto Darby Creek Rd, Hilliard, serving Amazon's data center campus; AEP builds and owns, Amazon pays. Hilliard appealed the Ohio EPA air permit to ERAC (Nov 2025) and withdrew Sept 15, 2026.",
+      "site_ids": [
+        "oh-franklin-amazon-hilliard"
+      ],
+      "status": "approved, effective Sept 22, 2025; operation projected Sept 2027",
+      "url": "https://hilliardohio.gov/fuel-cells/",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "OPSB 26-0426-EL-BTX (planned filing)",
+      "regulator": "Ohio Power Siting Board",
+      "utility": "AEP Ohio",
+      "what": "Southern Ohio 765 kV transmission for the planned Piketon data center campus: Hanging Rock-Baku line (~33 miles new) and the Baku-Gavin line (to be filed as 26-0426-EL-BTX); customer pays for the transmission; construction late 2027 to 2029.",
+      "site_ids": [
+        "oh-pike-sb-energy-ports"
+      ],
+      "status": "pre-filing (public meetings Sept 23-24, 2026)",
+      "url": "https://www.aepohio.com/company/news/view?releaseID=12272",
+      "date": "2026-09-22"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "2025 state budget repeal of data center sales tax exemption",
+      "status": "failed",
+      "what": "Legislature passed a provision ending the data center sales tax exemption; Gov. DeWine vetoed it; House Speaker Huffman said he lacked the 60 votes to override. Budget bill number not given in source.",
+      "source": "https://signalohio.org/ohio-republicans-back-off-effort-to-kill-a-beefy-tax-credit-for-data-centers/",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "SB 374 (repeal of data center sales tax exemption)",
+      "status": "pending",
+      "what": "Bipartisan Senate bill to repeal the exemption (reported effective Oct 1, 2027). Rep. Rader introduced a House companion (reported as HB 975, effective Oct 1, 2026). HB 957 (introduced May 27, 2026) would also bar new exemptions (secondary source only; official legislature site did not load).",
+      "source": "https://ohiohouse.gov/news/democratic/rep-rader-introduces-companion-data-center-sales-tax-exemption-repeal-bill-144878",
+      "date": "2026-05-27"
+    },
+    {
+      "name": "Joint Data Center Committee legislative package",
+      "status": "pending",
+      "what": "Would shrink new data center tax breaks (not existing ones). Scheduled vote pulled late June 10, 2026 after House Republicans wanted full repeal.",
+      "source": "https://signalohio.org/ohio-republicans-back-off-effort-to-kill-a-beefy-tax-credit-for-data-centers/",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "Citizen constitutional amendment to ban large data centers",
+      "status": "pending",
+      "what": "Rural Ohioans circulating petitions for a November ballot amendment banning data centers over 25 MW statewide; qualification not checked.",
+      "source": "https://www.ideastream.org/environment-energy/2026-04-15/some-stark-county-residents-skeptical-of-developers-answers-on-data-center-project",
+      "date": "2026-04-15"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Ohio (statewide count)",
+      "type": "moratorium",
+      "what": "At least 138 municipalities and townships had active data center moratoriums as of Sept 17, 2026; 23 more effectively ban them; at least 23 more considering. A state budget amendment limits community referendums on zoning for megaproject property.",
+      "status": "active",
+      "source": "https://ohiocapitaljournal.com/2026/09/18/ohio-now-has-over-125-active-moratoriums-on-data-centers-see-where-they-are/",
+      "date": "2026-09-18"
+    },
+    {
+      "place": "Pierce Township, Clermont County",
+      "type": "moratorium",
+      "what": "No zoning permits for data centers; zoning standards being drafted.",
+      "status": "active through May 31, 2027",
+      "source": "https://hoodline.com/2026/09/pierce-township-data-center-proposal-faces-moratorium-grid-and-beckjord-questions/",
+      "date": "2026-09-10"
+    },
+    {
+      "place": "Jackson Township, Franklin County",
+      "type": "moratorium",
+      "what": "One-year moratorium on all data centers on unincorporated land, unanimous trustee vote May 2026.",
+      "status": "active",
+      "source": "https://614now.com/2026/hot-topics/data-overload-central-ohio-township-place-year-long-ban-on-building-new-data-centers",
+      "date": "2026-05-29"
+    },
+    {
+      "place": "Pleasant Township, Franklin County",
+      "type": "moratorium",
+      "what": "Data center moratorium approved earlier in 2026.",
+      "status": "active (per May 2026 report)",
+      "source": "https://614now.com/2026/hot-topics/data-overload-central-ohio-township-place-year-long-ban-on-building-new-data-centers",
+      "date": "2026-05-29"
+    },
+    {
+      "place": "Grove City, Franklin County",
+      "type": "moratorium",
+      "what": "Moratorium (C-22-26); Project Maple 310-acre data center plan on hold subject to it.",
+      "status": "active",
+      "source": "https://grovecityohio.gov/697/Project-Maple---Preliminary-Development-",
+      "date": "2026-06"
+    },
+    {
+      "place": "Urbana, Champaign County",
+      "type": "moratorium",
+      "what": "12-month moratorium on new data centers passed 6-1.",
+      "status": "active",
+      "source": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+      "date": "2026-03-04"
+    },
+    {
+      "place": "Shalersville Township, Portage County",
+      "type": "moratorium",
+      "what": "Data center moratorium until early November 2026, blocking the Bitdeer proposal until it ends.",
+      "status": "active",
+      "source": "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+      "date": "2026-05"
+    },
+    {
+      "place": "Muhlenberg Township, Pickaway County",
+      "type": "moratorium",
+      "what": "12-month pause on new data center planning applications after residents objected to a Pacifico Energy data center and power plant.",
+      "status": "active (adopted Feb 2026)",
+      "source": "https://www.datacenterdynamics.com/en/news/muhlenberg-ohio-introduces-year-long-moratorium-on-new-data-centers/",
+      "date": "2026-02"
+    },
+    {
+      "place": "Cincinnati, Hamilton County",
+      "type": "moratorium",
+      "what": "City paused new data centers while local impacts are studied.",
+      "status": "active (per May 2026 report)",
+      "source": "https://www.fox19.com/2026/05/28/ohio-governor-halts-data-center-tax-credits-amid-concerns-studies/",
+      "date": "2026-05-28"
+    },
+    {
+      "place": "Cleveland, Cuyahoga County",
+      "type": "moratorium",
+      "what": "Ward 15 Councilman Charles Slife introduced a data center moratorium ordinance May 4, 2026.",
+      "status": "proposed (outcome not checked)",
+      "source": "https://www.cleveland19.com/2026/05/14/city-rejects-permit-application-proposed-data-center-clevelands-slavic-village-neighborhood/",
+      "date": "2026-05-14"
+    },
+    {
+      "place": "Village of McDonald (Trumbull County)",
+      "type": "moratorium",
+      "what": "One-year moratorium on data centers while the village sets zoning rules; hits the McDonald Steel site project (Oppidan Connect).",
+      "status": "approved (special meeting, mid-Sept 2026)",
+      "source": "https://businessjournaldaily.com/mcdonald-pauses-data-center-development-ysu-rethinks-recruitment-strategy/",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "City of Alliance (Stark County)",
+      "type": "moratorium",
+      "what": "18-month moratorium on new data center construction (July 2026) after June 2026 rules limiting data centers to industrial zones and denying AI data center permits; subcommittee to report Oct 20, 2026.",
+      "status": "in effect",
+      "source": "https://www.yahoo.com/news/us/articles/alliance-getting-data-center-looks-112529197.html",
+      "date": "2026-09-22"
+    },
+    {
+      "place": "Allen Township (Hancock County)",
+      "type": "zoning",
+      "what": "Data center zoning rules: 10,000 gallons/day water cap, 40-decibel noise limit, 10 MW maximum facility load, air-cooled only, decommissioning plan with bond; PUD exemption added.",
+      "status": "adopted (Oct 2026)",
+      "source": "https://www.yahoo.com/news/us/articles/allen-township-data-center-rules-142339494.html",
+      "date": "2026-10-09"
+    },
+    {
+      "place": "City of Wapakoneta (Auglaize County)",
+      "type": "zoning",
+      "what": "Data centers made a conditional use in 2024 (needs added review and approval).",
+      "status": "in effect",
+      "source": "https://mercercountyoutlook.net/2026/10/12/city-of-wapakoneta-update-on-potential-data-center/",
+      "date": "2026-10-12"
+    }
+  ]
+}

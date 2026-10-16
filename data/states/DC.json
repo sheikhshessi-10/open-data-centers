@@ -1,0 +1,53 @@
+{
+  "state": "DC",
+  "checked": {
+    "rate_cases": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "regulators": [
+    {
+      "name": "Public Service Commission of the District of Columbia",
+      "role": "Utility regulator (Pepco electric rates and tariffs)",
+      "url": "https://dcpsc.org/"
+    },
+    {
+      "name": "District Department of Energy and Environment",
+      "role": "Environment and water permits",
+      "url": "https://doee.dc.gov/"
+    },
+    {
+      "name": "Council of the District of Columbia",
+      "role": "Legislature",
+      "url": "https://dccouncil.gov/"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Pepco (Potomac Electric Power Company, Exelon)",
+      "type": "investor-owned",
+      "serves": "All of the District of Columbia",
+      "url": "https://www.pepco.com/"
+    }
+  ],
+  "rate_cases": [
+    {
+      "utility": "Pepco",
+      "what": "Formal Case 1176, Pepco Multiyear Rate Plan ('Climate Ready Pathway'). PSC approved a modified plan 2024-11-26; D.C. Court of Appeals vacated the orders 2026-03-05 and remanded; evidentiary hearing set for Dec. 7-8, 2026. The case page does not mention data centers or large loads.",
+      "impact": null,
+      "source": "https://dcpsc.org/Slideshow/FC1176.aspx",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Formal Case Nos. 1017, 1183 and 1186",
+      "regulator": "Public Service Commission of the District of Columbia",
+      "utility": "Pepco (standard offer service) and PJM capacity costs",
+      "what": "PSC held a June 3, 2026 legislative-style informational hearing on the jump in the generation (wholesale) part of residential bills, filed in FC 1017 (standard offer service), FC 1183 (PJM capacity auction investigation and task force) and FC 1186 (energy affordability). The Office of the People's Counsel said data center costs are being socialized across PJM, large-load customers should pay more of the transmission upgrades built for them, and PJM should require deposits and proof of viability before counting large loads in forecasts. No DC docket that sets a data center or large-load tariff was found.",
+      "site_ids": [],
+      "status": "open (informational hearing held 2026-06-03)",
+      "url": "https://opc-dc.gov/wp-content/uploads/2026/06/OPC_LegisHearing_Statement.pdf",
+      "date": "2026-06-03"
+    }
+  ]
+}

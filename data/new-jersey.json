@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "nj-union-coreweave-kenilworth",
+    "name": "CoreWeave Kenilworth (11 NEST, Northeast Science & Technology Center)",
+    "owner": "CoreWeave",
+    "operator": "CoreWeave",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Union County",
+    "town": "Kenilworth",
+    "lat": 40.679051,
+    "lng": -74.27169,
+    "stage": "building",
+    "announced": "2024-10-28",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1800000000,
+        "unit": "USD (about; NJEDA cites about $1.76B)",
+        "kind": "real",
+        "source": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+        "date": "2025-11-25"
+      },
+      "power_mw": {
+        "value": 250,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+        "date": "2025-11-25"
+      },
+      "acres": {
+        "value": 27,
+        "unit": "acres (adjacent land bought with the building)",
+        "kind": "real",
+        "source": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+        "date": "2025-11-25"
+      },
+      "jobs_promised_perm": {
+        "value": 143,
+        "unit": "permanent jobs",
+        "kind": "real",
+        "source": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+        "date": "2025-11-25"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PSE&G (upgrading electrical infrastructure)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/coreweave-signs-280-000-sf-lease-at-onyx-and-machines-northeast-science--technology-center-in-kenilworth-302289222.html",
+        "date": "2024-10-28"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": 250000000,
+        "unit": "USD tax credits over five years (up to $50M per year), first award under the Next New Jersey Program - AI (NJEDA, Nov 2025)",
+        "kind": "real",
+        "source": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+        "date": "2025-11-25"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "CoreWeave begins $1.8 billion data center project in Kenilworth, landing first award under new EDA tax credit program",
+        "outlet": "Real Estate NJ",
+        "url": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+        "date": "2025-11-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "CoreWeave signs 280,000 SF lease at Onyx and Machine's Northeast Science & Technology Center in Kenilworth",
+        "outlet": "PR Newswire (company release)",
+        "url": "https://www.prnewswire.com/news-releases/coreweave-signs-280-000-sf-lease-at-onyx-and-machines-northeast-science--technology-center-in-kenilworth-302289222.html",
+        "date": "2024-10-28",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Former Merck campus on Galloping Hill Road. CoreWeave bought the building and 27 adjacent acres from the Onyx-led partnership for $322M (Aug 2025). 392,600 sq ft total (284,500 sq ft retrofit plus 108,100 sq ft new). Construction began mid-September 2025; operation expected early 2027.",
+    "pin_source": "https://www.nestcenter.com/",
+    "pin_address": "2000 Galloping Hill Road, Kenilworth, NJ 07033"
+  },
+  {
+    "id": "nj-cumberland-dataone-vineland",
+    "name": "DataOne Vineland AI Factory (Nebius)",
+    "owner": "DataOne",
+    "operator": "DataOne (tenant: Nebius)",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Cumberland County",
+    "town": "Vineland",
+    "lat": 39.429939,
+    "lng": -75.016379,
+    "stage": "building",
+    "announced": "2025-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 350,
+        "unit": "MW (DRBC: 350 MW expanding to 1 GW over three phases)",
+        "kind": "real",
+        "source": "https://www.nj.gov/drbc/library/documents/Pindar_DataCenters_NJWSAC041726.pdf",
+        "date": "2026-04-17"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "permanent on-site jobs (about)",
+        "kind": "real",
+        "source": "https://nebius.com/vinelandnj",
+        "date": "2026-07-10"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://nebius.com/vinelandnj",
+        "date": "2026-07-10"
+      },
+      "power_source": {
+        "value": "Mostly on-site natural gas generation (company: Bloom Energy fuel cells, off-grid; WHYY: about 85% on-site gas with 32 gas engines, 6 diesel generators, proposed LNG backup tank, 15% from Vineland Municipal Utilities and Atlantic City Electric)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://nebius.com/vinelandnj",
+        "date": "2026-07-10"
+      },
+      "utility": {
+        "value": "Vineland Municipal Utilities and Atlantic City Electric for grid share",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://whyy.org/articles/data-center-artificial-intelligence-vineland-new-jersey/",
+        "date": "2026-03-25"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling with indoor air chillers (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://nebius.com/vinelandnj",
+        "date": "2026-07-10"
+      },
+      "water_use": {
+        "value": "One-time fill of 1 million gallons, then about 7 Olympic pools per year (company figure)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://nebius.com/vinelandnj",
+        "date": "2026-07-10"
+      },
+      "tax_break": {
+        "value": "Five-year PILOT agreement approved by Vineland in January 2026",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://nebius.com/vinelandnj",
+        "date": "2026-07-10"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "About 100 people rallied against the Vineland AI data center (organized by congressional candidate Bayly Winder)",
+        "source": "https://whyy.org/articles/data-center-artificial-intelligence-vineland-new-jersey/",
+        "date": "2026-03-25"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Vineland residents rally against AI data center",
+        "outlet": "WHYY",
+        "url": "https://whyy.org/articles/data-center-artificial-intelligence-vineland-new-jersey/",
+        "date": "2026-03-25",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "WHYY reported a $17B figure tied to the Nebius-Microsoft contract; that is a contract value, not site investment, so investment_usd is null. 805 Sheridan Ave (DRBC). DRBC April 2026: Phase 1 under construction, Phases 2 and 3 planned, 2.4M sq ft; WHYY says latest plan under 718,000 sq ft. NJDEP air permit pending as of March 2026; planning hearing on energy plan postponed. Expected operational 2027 (company).",
+    "pin_source": "https://www.nj.gov/drbc/library/documents/Pindar_DataCenters_NJWSAC041726.pdf",
+    "pin_address": "805 Sheridan Ave, Vineland, NJ"
+  },
+  {
+    "id": "nj-gloucester-metrobloks-gibbstown",
+    "name": "Metrobloks PHL MB01 DC2",
+    "owner": "Metrobloks",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Gloucester County",
+    "town": "Greenwich Township (Gibbstown)",
+    "lat": 39.820207,
+    "lng": -75.2611,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.nj.gov/drbc/library/documents/Pindar_DataCenters_NJWSAC041726.pdf",
+        "date": "2026-04-17"
+      },
+      "acres": {
+        "value": 12,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.nj.gov/drbc/library/documents/Pindar_DataCenters_NJWSAC041726.pdf",
+        "date": "2026-04-17"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "285 Swedesboro Avenue; 370,000 sq ft; nearby water supplier NJ American-Bridgeport (DRBC staff presentations Oct 2025 and April 2026). Town inferred from address; confirm municipality.",
+    "pin_source": "https://www.nj.gov/drbc/library/documents/Pindar_DataCenters_NJWSAC041726.pdf",
+    "pin_address": "285 Swedesboro Avenue, Gibbstown, NJ"
+  },
+  {
+    "id": "nj-gloucester-energyconcepts-earthstation76",
+    "name": "Earth Station 76",
+    "owner": "Energy Concepts (Integrated Energy Concepts Engineering)",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Gloucester County",
+    "town": "Logan Township",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW (100-150 MW)",
+        "kind": "real",
+        "source": "https://www.nj.gov/drbc/library/documents/Pindar_DataCenters_NJWSAC041726.pdf",
+        "date": "2026-04-17"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Logan Township Council adopted an ordinance banning data centers in all zoning districts",
+        "source": "https://newtownpress.com/2026/04/30/logan-acts-to-prohibit-data-centers/",
+        "date": "2026-04-30"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Logan acts to prohibit data centers",
+        "outlet": "New Town Press",
+        "url": "https://newtownpress.com/2026/04/30/logan-acts-to-prohibit-data-centers/",
+        "date": "2026-04-30",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Along Route 130; 560,000 sq ft two-story building described as off-grid with carbon capture. Site plans were removed from the company website after the ban; not confirmed cancelled. DRBC lists the address as Salem County, but Logan Township is in Gloucester County."
+  },
+  {
+    "id": "nj-middlesex-chirisa-piscataway",
+    "name": "Chirisa Piscataway Campus (PNJ-01 / PNJ-02)",
+    "owner": "Chirisa Technology Parks",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Middlesex County",
+    "town": "Piscataway",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-01",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 90,
+        "unit": "MW campus (by mid-2026, company)",
+        "kind": "real",
+        "source": "https://chirisatechnologyparks.com/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 20,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://chirisatechnologyparks.com/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Adaptive reuse of an existing building shell plus adjacent two-story new building; reserved for 2027 delivery (company page)."
+  },
+  {
+    "id": "nj-middlesex-qts-piscataway",
+    "name": "QTS Piscataway",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Middlesex County",
+    "town": "Piscataway",
+    "lat": 40.556869,
+    "lng": -74.488838,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 65,
+        "unit": "MW critical power (65+), plus planned 15 MW, 50,000 sq ft expansion",
+        "kind": "real",
+        "source": "https://q.com/data-centers/piscataway/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 38,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://q.com/data-centers/piscataway/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "101 Possumtown Road. Running colocation/hyperscale campus; opening year not confirmed.",
+    "pin_source": "https://q.com/data-centers/piscataway/",
+    "pin_address": "101 Possumtown Road, Piscataway, NJ"
+  },
+  {
+    "id": "nj-mercer-qts-eastwindsor",
+    "name": "QTS East Windsor",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Mercer County",
+    "town": "East Windsor",
+    "lat": 40.282546,
+    "lng": -74.557773,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 600000000,
+        "unit": "USD (expansion)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "power_mw": {
+        "value": 70,
+        "unit": "MW critical power (70+)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 52,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 5,
+        "unit": "permanent QTS jobs (5-8, expansion)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 400,
+        "unit": "construction jobs (expansion, about)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "power_source": {
+        "value": "Grid plus 14 MW, 50-acre on-site solar field",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "utility": {
+        "value": "JCP&L (QTS says it pays for all project energy infrastructure)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling with free cooling heat exchangers (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": 50000,
+        "unit": "gallons per month typical building use (company estimate)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/east-windsor/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "159 Princeton-Hightstown Road; former McGraw-Hill complex, operating about 12 years. One additional data center planned on the site; Princeton Perspectives reports it was approved. East Windsor then adopted an 18-month moratorium on new data centers through Dec 31, 2027 (affects future proposals).",
+    "pin_source": "https://q.com/data-centers/east-windsor/",
+    "pin_address": "159 Princeton-Hightstown Road, East Windsor, NJ"
+  },
+  {
+    "id": "nj-hudson-equinix-secaucus",
+    "name": "Equinix Secaucus Campus (NY2, NY4, NY5, NY6)",
+    "owner": "Equinix",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Hudson County",
+    "town": "Secaucus",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2015-03-09",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Equinix expands New York campus with state-of-the-art NY6",
+        "outlet": "Equinix",
+        "url": "https://investor.equinix.com/news-events/press-releases/detail/474/equinix-expands-new-york-campus-with-state-of-the-art",
+        "date": "2015-03-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Major interconnection campus; NY6 added 2015 ($66M). Trackers put campus power at about 50 MW (NY4 24 MW, NY5 10 MW, NY6 16.2 MW); not confirmed by Equinix. Announced date is the NY6 release, not the campus start. Pass 3 (2026-10-15): Equinix also lists NY3 at 600 Jefferson Avenue, Secaucus (250,853 sq ft colocation; https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/new-york-data-centers/ny3). Equinix pages give NY2 275 Hartz Way 131,040 sq ft, NY4 755 Secaucus Rd 151,771, NY5 800 Secaucus Rd 129,436, NY6 105 Enterprise Ave S 16,393. NY3 is about a mile from the others; kept in this record unless the lead splits it."
+  },
+  {
+    "id": "nj-middlesex-digitalrealty-piscataway",
+    "name": "Digital Realty Piscataway Campus (EWR11, EWR12, EWR19)",
+    "owner": "Digital Realty",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Middlesex County",
+    "town": "Piscataway",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "EWR12 at 365 S. Randolphville Road is 323,000 sq ft over two stories, part of the 'Digital Piscataway campus' (company page). Trackers put campus power around 72 MW (EWR11 26, EWR12 34, EWR19 12) with a dedicated 69 kV substation; not confirmed by company."
+  },
+  {
+    "id": "nj-middlesex-ironmountain-edison",
+    "name": "Iron Mountain NJE-1",
+    "owner": "Iron Mountain",
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Middlesex County",
+    "town": "Edison",
+    "lat": 40.529935,
+    "lng": -74.327944,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25.6,
+        "unit": "MW (company page also says 30 MW elsewhere)",
+        "kind": "real",
+        "source": "https://resources.ironmountain.com/solution-guides/d/data-centers-new-jersey-nje-1",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 43,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://resources.ironmountain.com/solution-guides/d/data-centers-new-jersey-nje-1",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "100% renewable power (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://resources.ironmountain.com/solution-guides/d/data-centers-new-jersey-nje-1",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "830,000 sq ft Tier III facility; formerly IO New Jersey. Trackers give address 3003 Woodbridge Avenue.",
+    "pin_source": "https://www.ironmountain.com/data-centers/locations/na/new-jersey",
+    "pin_address": "3003 Woodbridge Ave, Edison, NJ 08837"
+  },
+  {
+    "id": "nj-middlesex-princetonnurseries-southbrunswick",
+    "name": "Princeton Nurseries Data Center",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "NJ",
+    "county": "Middlesex County",
+    "town": "South Brunswick",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 143,
+        "unit": "acres (segment of former Princeton Nurseries site)",
+        "kind": "real",
+        "source": "https://patch.com/new-jersey/southbrunswick/petition-seeks-stop-proposed-data-center-south-brunswick",
+        "date": "2026-06-04"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Change.org petition to reject or suspend approvals had 887 signatures (June 4, 2026)",
+        "source": "https://patch.com/new-jersey/southbrunswick/petition-seeks-stop-proposed-data-center-south-brunswick",
+        "date": "2026-06-04"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Petition seeks to stop proposed data center in South Brunswick",
+        "outlet": "Patch",
+        "url": "https://patch.com/new-jersey/southbrunswick/petition-seeks-stop-proposed-data-center-south-brunswick",
+        "date": "2026-06-04",
+        "tone": "bad"
+      },
+      {
+        "title": "Artificial intelligence infrastructure hits bumps in the suburbs",
+        "outlet": "Princeton Perspectives",
+        "url": "https://princetonperspectives.com/artificial-intelligence-infrastructure-hits-bumps-in-the-suburbs/",
+        "date": "2026-07-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "About 341,000 sq ft on Route 1 (4405 Route 1 per trackers); South Brunswick Planning Board approved it in 2025. PSE&G must confirm capacity. Developer not named in opened sources (trackers: WRV Nurseries South Brunswick LLC). No MW or dollar figure found; size bar assumed from scale."
+  },
+  {
+    "id": "nj-passaic-digital-realty-clifton",
+    "name": "Digital Realty Clifton campus (EWR20, EWR21)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Passaic County",
+    "town": "Clifton",
+    "lat": 40.829521,
+    "lng": -74.126671,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "EWR20 at 100 Delawanna Avenue (7 stories, 183,000 sq ft; https://www.digitalrealty.com/data-centers/americas/new-york/ewr20) and EWR21 at 2 Peekay Drive (215,000 sq ft; https://www.digitalrealty.com/data-centers/americas/new-york/ewr21), Clifton, about 0.25 miles apart: one campus, about 398,000 sq ft. Coordinates are EWR20. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "nj-hudson-coresite-secaucus",
+    "name": "CoreSite Secaucus (NY2, NY3)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Hudson County",
+    "town": "Secaucus",
+    "lat": 40.78512,
+    "lng": -74.064115,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "NY2 (256,000+ sq ft) and NY3 (138,000+ sq ft), both at 2 Emerson Lane, Secaucus (https://www.coresite.com/data-centers/locations/new-york). Trackers cite 18 MW and 15 MW (not used). Promoted from lead nj-hudson-coresite-secaucus. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "nj-somerset-cyrusone-nym1",
+    "name": "CyrusOne NYM1 Somerset",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Somerset County",
+    "town": "Somerset",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 23,
+        "unit": "MW total IT capacity",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/somerset-nj",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company page: 185,000 sq ft technical IT space, 23 MW total IT capacity, over 430,000 data center sq ft at full build (https://www.cyrusone.com/data-centers/north-america/somerset-nj). Street address not on the page. Promoted from lead nj-somerset-cyrusone-nym1."
+  },
+  {
+    "id": "nj-hudson-centersquare-weehawken",
+    "name": "Centersquare Weehawken EWR2",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Hudson County",
+    "town": "Weehawken",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 45.7,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/new-york-new-jersey",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Weehawken EWR2 on the Hudson River waterfront: 199,110 sq ft raised floor, 45.7 MW utility power (https://www.csquare.com/data-centers/new-york-new-jersey). Trackers give 300 Boulevard East (not confirmed by company). Promoted from lead nj-hudson-centersquare-weehawken. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  },
+  {
+    "id": "nj-hudson-centersquare-secaucus-ewr5",
+    "name": "Centersquare Secaucus EWR5",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "NJ",
+    "county": "Hudson County",
+    "town": "Secaucus",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 26.3,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/new-york-new-jersey",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Secaucus EWR5, off the Lincoln Tunnel: 59,572 sq ft raised floor, 26.3 MW utility power (https://www.csquare.com/data-centers/new-york-new-jersey). Different owner from the Equinix and CoreSite Secaucus records. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  }
+]

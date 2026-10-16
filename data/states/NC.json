@@ -1,0 +1,346 @@
+{
+  "state": "NC",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Sales tax exemption for qualifying datacenters (electricity and datacenter support equipment)",
+      "law": "N.C. Gen. Stat. 105-164.13(55a); definition at 105-164.3(201)",
+      "what": "Exempts electricity used at, and support equipment (power, HVAC, servers, software) located at, a qualifying datacenter. Qualifying: Commerce Secretary finds at least $75M private investment within five years (investment on or after Jan. 1, 2012), wage standard by development tier (none in tier one), and health insurance for full-time staff. Forfeited if investment not timely made.",
+      "value_known": null,
+      "source": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.13.html",
+      "date": "2026-10-15"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 730 Ratepayer Protection Act",
+      "status": "pending",
+      "what": "Data centers with 100 MW+ peak demand: noise and air assessments before zoning, ban on local tax incentives, water-recycling cooling, minimum contracts and billing to protect households, study of rates and climate goals. Passed Senate 2nd reading May 2025; House passed committee substitute 69-44 on June 3, 2026; referred to Senate Rules June 8, 2026 for concurrence.",
+      "source": "https://www.ncleg.gov/BillLookUp/2025/S730",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "HB 1063 Ratepayer and Resource Protection Act",
+      "status": "pending",
+      "what": "Data centers 40 MW+: end sales tax exemption and other incentives, pay full marginal cost of grid upgrades, on-site clean generation, annual DEQ reports on power, water and cooling.",
+      "source": "https://www.wsoctv.com/news/local/nc-statehouse-considers-5-bills-regulate-data-centers/PAEILXEJDJGNVPFIJYZSEOMTGA/",
+      "date": "2026-05-21"
+    },
+    {
+      "name": "SB 844 Affordable Energy Omnibus",
+      "status": "pending",
+      "what": "Data centers 50 MW+: utilities must create large-load tariffs, environmental reviews, local referendums on projects.",
+      "source": "https://www.wsoctv.com/news/local/nc-statehouse-considers-5-bills-regulate-data-centers/PAEILXEJDJGNVPFIJYZSEOMTGA/",
+      "date": "2026-05-21"
+    },
+    {
+      "name": "HB 1180 Data Center Amendments",
+      "status": "pending",
+      "what": "Data centers over 20 MW: Utilities Commission to create tariffs with 10-year minimum contracts, minimum billing, financial assurance, notice before load cuts.",
+      "source": "https://www.wsoctv.com/news/local/nc-statehouse-considers-5-bills-regulate-data-centers/PAEILXEJDJGNVPFIJYZSEOMTGA/",
+      "date": "2026-05-21"
+    },
+    {
+      "name": "HB 1189 Data Center Transparency Act",
+      "status": "pending",
+      "what": "Bipartisan: eliminate data center sales tax exemptions and impose a two-year moratorium on state permits and approvals for siting data centers.",
+      "source": "https://www.wsoctv.com/news/local/nc-statehouse-considers-5-bills-regulate-data-centers/PAEILXEJDJGNVPFIJYZSEOMTGA/",
+      "date": "2026-05-21"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "E-7, Sub 1329",
+      "regulator": "North Carolina Utilities Commission",
+      "utility": "Duke Energy Carolinas",
+      "what": "Rate case where AG and Public Staff push a large-load tariff (50 MW+, minimum bills, exit fees, curtailment hours). Duke has contracts with 16 energy-intensive customers totaling 4,337 MW. Settlement proposed; AG declined to sign. Docket number confirmed from the Oct. 6, 2026 large load tariff settlement filing.",
+      "site_ids": [],
+      "status": "pending, new rates expected Jan. 1, 2027",
+      "url": "https://www.publicradioeast.org/2026-06-08/consumer-advocates-push-nc-state-regulators-to-create-separate-rates-for-data-centers",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "E-7, Sub 1329 and E-2, Sub 1380 (large load tariff)",
+      "regulator": "North Carolina Utilities Commission",
+      "utility": "Duke Energy Carolinas / Duke Energy Progress",
+      "what": "Large load tariff handled inside the two rate cases (Microsoft's June 8, 2026 request for a separate docket was taken under advisement). Commission asked for comments Aug. 12 and 14, 2026 on a model rate schedule. Oct. 6, 2026: Duke filed a large load tariff settlement with the Public Staff, Amazon Data Services, Andale LLC, CIGFUR II and III, DOD/federal agencies, Google and Microsoft: minimum contract 10 years (under 100 MW) or 15 years (100 MW+), minimum billing demand, letters of credit for network upgrades, liquidated damages on early exit. SELC's clients (NC Justice Center, NC Housing Coalition, SACE, Vote Solar) say upfront payments and exit fees are too low.",
+      "site_ids": [],
+      "status": "settlement filed Oct. 6, 2026; awaiting Commission order",
+      "url": "https://www.selc.org/wp-content/uploads/2026/10/2026-10-06-Duke-Energy-LLT-Settlement.pdf",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "E-2, Sub 1380",
+      "regulator": "North Carolina Utilities Commission",
+      "utility": "Duke Energy Progress",
+      "what": "AG asks for a separate rate class for data centers and large users; opposes proposed 15% increase. Docket number confirmed from the Oct. 6, 2026 large load tariff settlement filing.",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://ncdoj.gov/gov-stein-ag-jackson-will-hold-duke-energy-to-new-federal-data-center-pledge/",
+      "date": "2026-07-23"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Charlotte",
+      "type": "moratorium",
+      "what": "150-day pause on new data center applications; projects with complete applications before June 8 continue",
+      "status": "in effect until Nov. 5, 2026",
+      "source": "https://www.wfae.org/energy-environment/2026-08-04/charlotte-city-staff-presents-an-update-on-data-center-moratorium",
+      "date": "2026-06-08"
+    },
+    {
+      "place": "Rowan County",
+      "type": "moratorium",
+      "what": "One-year pause on new data centers (does not cover Edged project underway)",
+      "status": "passed",
+      "source": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+      "date": "2026-06-11"
+    },
+    {
+      "place": "Salisbury",
+      "type": "zoning",
+      "what": "Land development ordinance amended to allow data center applications with limits on size, noise and water use",
+      "status": "passed",
+      "source": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+      "date": "2026-06-02"
+    },
+    {
+      "place": "Hillsborough",
+      "type": "moratorium",
+      "what": "Two-month pause while town writes data center ordinance",
+      "status": "passed",
+      "source": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+      "date": "2026-06-11"
+    },
+    {
+      "place": "Orange County",
+      "type": "moratorium",
+      "what": "One-year pause on data centers",
+      "status": "passed Apr. 21, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-04-21"
+    },
+    {
+      "place": "Durham",
+      "type": "moratorium",
+      "what": "60-day moratorium passed May 4, extended 10 months on June 15 (one year total)",
+      "status": "in effect",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-06-15"
+    },
+    {
+      "place": "Durham County",
+      "type": "moratorium",
+      "what": "Nine-month pause, exempts data centers under 100,000 sq ft",
+      "status": "in effect until May 2027",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-08-24"
+    },
+    {
+      "place": "Chatham County",
+      "type": "moratorium",
+      "what": "One-year moratorium on data centers and crypto mining",
+      "status": "passed Feb. 11, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-02-11"
+    },
+    {
+      "place": "Apex",
+      "type": "moratorium",
+      "what": "One-year data center moratorium",
+      "status": "passed Apr. 14, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-04-14"
+    },
+    {
+      "place": "Cary",
+      "type": "moratorium",
+      "what": "18-month pause while studying power, water, noise, site design",
+      "status": "passed Aug. 27, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-08-27"
+    },
+    {
+      "place": "Raleigh",
+      "type": "moratorium",
+      "what": "Six-month moratorium on approvals of large data centers; exempts up to 5 MW; final rules targeted Apr. 6, 2027",
+      "status": "passed 7-1 Oct. 6, 2026",
+      "source": "https://www.wunc.org/politics/2026-10-07/raleigh-council-data-center-moratorium-opposition",
+      "date": "2026-10-06"
+    },
+    {
+      "place": "Wendell",
+      "type": "moratorium",
+      "what": "Pause on data centers through Dec. 31",
+      "status": "passed",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-09-16"
+    },
+    {
+      "place": "Edgecombe County",
+      "type": "moratorium",
+      "what": "Two-year data center moratorium (after adding data centers to the UDO Nov. 3, 2025)",
+      "status": "passed Aug. 3, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-08-03"
+    },
+    {
+      "place": "Harnett County",
+      "type": "moratorium",
+      "what": "12-month data center moratorium",
+      "status": "passed May 4, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-05-04"
+    },
+    {
+      "place": "Cumberland County",
+      "type": "moratorium",
+      "what": "Six-month data center moratorium, expires December 2026",
+      "status": "passed June 15, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-06-15"
+    },
+    {
+      "place": "Fayetteville",
+      "type": "ordinance",
+      "what": "Data center regulations under study; public hearing Aug. 10; no moratorium consensus",
+      "status": "pending",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-09-16"
+    },
+    {
+      "place": "Lee County",
+      "type": "zoning",
+      "what": "Data centers added to UDO: pre-application meeting, noise study, water/wastewater/electric confirmations required",
+      "status": "adopted Apr. 20, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-04-20"
+    },
+    {
+      "place": "Sanford",
+      "type": "zoning",
+      "what": "Data centers added to the UDO",
+      "status": "adopted Apr. 21, 2026",
+      "source": "https://www.wral.com/news/local/central-north-carolina-data-center-plans-april-2026/",
+      "date": "2026-04-21"
+    },
+    {
+      "place": "Boiling Spring Lakes",
+      "type": "moratorium",
+      "what": "Year-long pause because local rules do not address data centers",
+      "status": "passed",
+      "source": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+      "date": "2026-06-11"
+    },
+    {
+      "place": "Gates County",
+      "type": "moratorium",
+      "what": "Data center moratorium (most such pauses also cover crypto mining)",
+      "status": "passed",
+      "source": "https://www.northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit/",
+      "date": "2026-03-25"
+    },
+    {
+      "place": "Canton",
+      "type": "moratorium",
+      "what": "Data center moratorium",
+      "status": "passed",
+      "source": "https://www.northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit/",
+      "date": "2026-03-25"
+    },
+    {
+      "place": "Brevard",
+      "type": "moratorium",
+      "what": "90-day data center pause",
+      "status": "passed",
+      "source": "https://www.northcarolinahealthnews.org/2026/03/25/nc-communities-push-back-ai-data-centers-project-delta-lawsuit/",
+      "date": "2026-03-25"
+    },
+    {
+      "place": "Forsyth County",
+      "type": "moratorium",
+      "what": "Proposed six-month moratorium rejected over legal concerns",
+      "status": "failed",
+      "source": "https://www.wfdd.org/politics-government/2026-10-13/environmental-political-advocates-call-for-data-center-moratorium-in-nc",
+      "date": "2026-09"
+    },
+    {
+      "place": "Vance County",
+      "type": "moratorium",
+      "what": "Residents' petition (370 signatures) for a county-wide one-year moratorium",
+      "status": "pending (petition)",
+      "source": "https://www.datacenterdynamics.com/en/news/officials-in-north-carolina-county-give-ok-for-rezoning-potential-data-center-incoming/",
+      "date": "2026-04"
+    },
+    {
+      "place": "Cherokee County",
+      "type": "ordinance",
+      "what": "Crypto mining moratorium expired about early 2025; Jan. 2026 request to renew it and add AI data centers got no action; planning board to draft an ordinance limiting data centers without countywide zoning",
+      "status": "no moratorium in effect (Apr. 2026)",
+      "source": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Jackson County",
+      "type": "moratorium",
+      "what": "Moratorium covering data centers and crypto mining",
+      "status": "passed (date not given)",
+      "source": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Madison County",
+      "type": "moratorium",
+      "what": "Moratorium covering data centers and crypto mining",
+      "status": "passed (date not given)",
+      "source": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Clay County",
+      "type": "moratorium",
+      "what": "Moratorium covering data centers and crypto mining",
+      "status": "passed (date not given)",
+      "source": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Boone",
+      "type": "moratorium",
+      "what": "Data center moratorium",
+      "status": "passed (date not given)",
+      "source": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Swain County",
+      "type": "moratorium",
+      "what": "Data center moratorium under consideration",
+      "status": "pending (Apr. 2026)",
+      "source": "https://www.publicradioeast.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+      "date": "2026-04-10"
+    },
+    {
+      "place": "Stokes County",
+      "type": "zoning",
+      "what": "Amendments allow data centers in conditional zoning districts for heavy manufacturing countywide, against a Planning Board recommendation for a six-month moratorium",
+      "status": "adopted July 13, 2026",
+      "source": "https://southerncoalition.org/resource/stokes-county-and-data-centers-explainer/",
+      "date": "2026-07-24"
+    },
+    {
+      "place": "Statesville",
+      "type": "zoning",
+      "what": "City Council rezoned about 330 acres off Stamey Farm Road for Compass Datacenters' five-building campus",
+      "status": "approved 8-0, Sept. 2025",
+      "source": "https://www.governing.com/infrastructure/north-carolina-city-approves-massive-data-center-despite-local-opposition",
+      "date": "2025-09-17"
+    }
+  ]
+}

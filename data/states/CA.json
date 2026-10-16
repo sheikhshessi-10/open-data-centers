@@ -1,0 +1,264 @@
+{
+  "state": "CA",
+  "checked": {
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "dockets": [
+    {
+      "id": "CPUC Resolution E-5455 (PG&E AL 7785-E)",
+      "regulator": "California Public Utilities Commission",
+      "utility": "PG&E",
+      "what": "Exceptional case agreement to energize a new 250 MW, 230 kV Google load in San Jose; draft approves with modifications (refund limits, separate Tier 2 advice letter for network upgrades, cost cap reporting, upfront advance ~$600k/MW).",
+      "site_ids": [
+        "ca-santa-clara-google-north-san-jose"
+      ],
+      "status": "pending (vote postponed Aug 13 -> Sept 3 -> Oct 8, 2026; outcome not confirmed)",
+      "url": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M607/K718/607718746.PDF",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "PG&E Electric Rule 30",
+      "regulator": "California Public Utilities Commission",
+      "utility": "PG&E",
+      "what": "Proposed standards for connecting large transmission-level customers such as data centers; CPUC approved an interim rule for PG&E; final outcome pending.",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://spectrumnews1.com/ca/la/politics/2026/10/10/mega-data-center-environment-cost-power-consumption",
+      "date": "2026-10-11"
+    },
+    {
+      "id": "IID large load tariff (proposed)",
+      "regulator": "Imperial Irrigation District Board",
+      "utility": "Imperial Irrigation District",
+      "what": "Proposed tariff for customers over 20 MW: curtailed first in demand surges, 15-year minimum contract with exit penalty, customer pays for upgrades.",
+      "site_ids": [
+        "ca-imperial-ivcm-imperial-valley"
+      ],
+      "status": "proposed (board vote expected)",
+      "url": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "Silicon Valley Power data center load growth",
+      "regulator": "City of Santa Clara (Silicon Valley Power, municipal utility)",
+      "utility": "Silicon Valley Power",
+      "what": "Peak load ~720 MW with 500 MW of new load requested, mostly data centers (55 operating, 3 in pipeline); city says grid limits cap new data centers; expansion projects to finish by 2029. Completed buildings (Digital Realty SJC37, STACK SVY02, ~100 MW) waiting for power.",
+      "site_ids": [
+        "ca-santa-clara-stack-svy02",
+        "ca-santa-clara-digital-realty-santa-clara"
+      ],
+      "status": "ongoing",
+      "url": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+      "date": "2025-05-30"
+    },
+    {
+      "id": "CEC 26-SPPE-01",
+      "regulator": "California Energy Commission",
+      "utility": null,
+      "what": "Small Power Plant Exemption for RB Inyokern Data Center backup generators (99 MW).",
+      "site_ids": [
+        "ca-kern-rl-capital-rb-inyokern"
+      ],
+      "status": "under review",
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/rb-inyokern-data-center",
+      "date": "2026-04"
+    },
+    {
+      "id": "CEC 26-SPPE-02",
+      "regulator": "California Energy Commission",
+      "utility": "PG&E",
+      "what": "Small Power Plant Exemption for Prologis Silver Creek Data Center backup generators (99 MW).",
+      "site_ids": [
+        "ca-santa-clara-prologis-silver-creek"
+      ],
+      "status": "under review",
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/silver-creek-backup-generating-facility-scbgf",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "CEC 25-SPPE-01",
+      "regulator": "California Energy Commission",
+      "utility": "Vernon Public Utilities",
+      "what": "Small Power Plant Exemption for Goodman Energy Park Data Center backup generators (99 MW).",
+      "site_ids": [
+        "ca-los-angeles-gic-goodman-energy-park"
+      ],
+      "status": "under review",
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/vernon-backup-generating-facility-vbgf",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "CEC 25-SPPE-02",
+      "regulator": "California Energy Commission",
+      "utility": "PG&E",
+      "what": "Small Power Plant Exemption for NorthTown Data Center backup generators (97.3 MW).",
+      "site_ids": [
+        "ca-santa-clara-gic-northtown"
+      ],
+      "status": "under review",
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/northtown-backup-generating-facility",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "CEC 22-SPPE-02",
+      "regulator": "California Energy Commission",
+      "utility": null,
+      "what": "Small Power Plant Exemption for Microsoft San Jose Data Center 04 (97.8 MW demand).",
+      "site_ids": [
+        "ca-santa-clara-microsoft-sjdc04"
+      ],
+      "status": "under review",
+      "url": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center-04",
+      "date": "2026-10-15"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 57 (Padilla) Electrical corporations: data centers: report",
+      "status": "enacted",
+      "what": "Adds and repeals Public Utilities Code 913.22: requires a report on data center electricity costs and cost shifts.",
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB57",
+      "date": "2025-10-11"
+    },
+    {
+      "name": "AB 222 (Bauer-Kahan) Data centers: power usage effectiveness: cost shifts",
+      "status": "failed",
+      "what": "Would have required data center energy use (PUE) reporting and addressed cost shifts; placed on Senate Appropriations suspense file 2025-08-18 and the 2025-26 session ended.",
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB222",
+      "date": "2025-08-18"
+    },
+    {
+      "name": "AB 93 Water resources: data centers",
+      "status": "failed",
+      "what": "Data center water-use disclosure bill; vetoed by Gov. Newsom in 2025 (leginfo status: Vetoed). KQED reports a similar bill reached his desk in 2026 (number not confirmed).",
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB93",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "SB 58 (Padilla, 2025) Sales and use tax: certified data center facilities",
+      "status": "failed",
+      "what": "As introduced (2025-01-08) it would have cut the state sales/use tax on qualified data center equipment to a 2% maximum for up to 20 years (not past 2045) for certified data centers with $200M+ investment, 20+ county jobs, 70%+ carbon-free energy, recycled-water cooling and no diesel backup (Ryan LLC summary, https://ryan.com/insights/ca-new-certified-data-center-facility-exemption). The bill was amended in the Assembly in 2026 and chaptered on 2026-09-20 (Chapter 411, Statutes of 2026) as an unrelated hydrogen sulfide air quality standard, so the data center exemption did not become law.",
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB58",
+      "date": "2026-09-20"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Imperial County",
+      "type": "moratorium",
+      "what": "Emergency moratorium on data center projects on county land (45 days, adopted June 2026), extended through May 2027; county forming advisory committee to report in January.",
+      "status": "in effect",
+      "source": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+      "date": "2026-08-04"
+    },
+    {
+      "place": "City of Imperial",
+      "type": "moratorium",
+      "what": "Emergency moratorium on data centers in city, adopted early June 2026, extended through May 2027.",
+      "status": "in effect",
+      "source": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+      "date": "2026-08-04"
+    },
+    {
+      "place": "Calexico",
+      "type": "ordinance",
+      "what": "Council voted 5-0 on July 1, 2026 to develop a permanent data center ban.",
+      "status": "pending",
+      "source": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+      "date": "2026-08-04"
+    },
+    {
+      "place": "Calipatria",
+      "type": "ordinance",
+      "what": "Council voted 3-2 on July 14, 2026 to advance a ban within city limits.",
+      "status": "pending",
+      "source": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+      "date": "2026-08-04"
+    },
+    {
+      "place": "Imperial County",
+      "type": "ballot",
+      "what": "Residents gathering signatures for an 'Imperial County Data Center Prohibition Act' for the November 2026 ballot.",
+      "status": "signature drive (qualification not confirmed)",
+      "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+      "date": "2026-04-05"
+    },
+    {
+      "place": "San Joaquin County",
+      "type": "moratorium",
+      "what": "Urgency ordinance (5-0) pausing new land-use approvals for large data centers in unincorporated areas for 45 days, extendable; study due within six months.",
+      "status": "in effect",
+      "source": "https://stocktonia.org/news/business/2026/10/07/san-joaquin-county-halts-new-data-center-approvals-amid-water-power-concerns/",
+      "date": "2026-10-07"
+    },
+    {
+      "place": "Stockton",
+      "type": "ordinance",
+      "what": "City Council removed data centers from its 2026-28 economic development plan (Sept 1, 2026) pending listening sessions; no moratorium.",
+      "status": "adopted",
+      "source": "https://stocktonia.org/news/business/2026/10/07/san-joaquin-county-halts-new-data-center-approvals-amid-water-power-concerns/",
+      "date": "2026-10-07"
+    },
+    {
+      "place": "Oakley",
+      "type": "moratorium",
+      "what": "One-year data center moratorium.",
+      "status": "in effect",
+      "source": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "Gilroy",
+      "type": "zoning",
+      "what": "City tightened approvals for data centers (details not read).",
+      "status": "adopted",
+      "source": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "San Jose",
+      "type": "ordinance",
+      "what": "Data centers need a special use permit at a public hearing; staff to bring uniform data center standards (labor, environment, ratepayer protection, community benefits) to council by year end.",
+      "status": "pending",
+      "source": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "Santa Clara",
+      "type": "zoning",
+      "what": "City says Silicon Valley Power grid limits effectively cap new data centers; it has turned away proposals beyond those SVP already approved.",
+      "status": "in effect (informal)",
+      "source": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+      "date": "2025-05-30"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "No data-center-specific state tax break",
+      "law": null,
+      "what": "California has no enacted sales tax or property tax break written for data centers as of 2026-10-15. The one proposal found, SB 58 (2025), was not enacted in that form (see laws_and_bills).",
+      "value_known": false,
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB58",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "Partial sales and use tax exemption (manufacturing, R&D, power generation)",
+      "law": "Revenue and Taxation Code section 6377.1",
+      "what": "Partial state sales/use tax exemption on qualifying machinery and equipment for manufacturers, certain R&D firms and (since 2018) electric power generators and distributors; sunset extended to June 30, 2030. The CDTFA page does not list data centers among qualified businesses (whether a data center can qualify was not confirmed).",
+      "value_known": false,
+      "source": "https://www.cdtfa.ca.gov/industry/manufacturing-exemptions.htm",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "California Competes Tax Credit (CCTC)",
+      "law": null,
+      "what": "Negotiated state income tax credit run by GO-Biz for businesses of any industry that locate or grow in California; over $180 million available per year across application rounds. No data center award found (awards not searched one by one).",
+      "value_known": false,
+      "source": "https://business.ca.gov/california-competes-tax-credit/",
+      "date": "2026-10-15"
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+[
+  {
+    "id": "fl-polk-stonebridge-fort-meade",
+    "name": "Fort Meade hyperscale data center campus (Florida Ecopark site)",
+    "owner": "Stonebridge (developer); land owned by Florida Eco Park, LLC and Polk Industrial Park, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "FL",
+    "county": "Polk County",
+    "town": "Fort Meade",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2600000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (more than 1 GW at full capacity)",
+        "kind": "real",
+        "source": "https://wusf.org/text/environment/2026-02-16/proposals-massive-data-centers-across-florida-are-local-governments-prepared",
+        "date": "2026-02-16"
+      },
+      "acres": {
+        "value": 1300,
+        "unit": "acres (former phosphate mine; 1,163 acres rezoned to PUD per DCD)",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Duke Energy Florida (Fort Meade residents are served via Florida Municipal Power Agency)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling (developer)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      },
+      "water_use": {
+        "value": 50000,
+        "unit": "gallons per day (developer estimate, cut from 150,000; needs separate SWFWMD approval)",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      },
+      "tax_break": {
+        "value": "City approved a tax break along with rezoning (amount not reported)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://wusf.org/text/environment/2026-02-16/proposals-massive-data-centers-across-florida-are-local-governments-prepared",
+        "date": "2026-02-16"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Developer agreement approved unanimously by Fort Meade commissioners, covering infrastructure improvements and community benefits",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Dozens of residents packed the April 2026 meeting; many said they felt misled because the decision had effectively been made by the previous administration",
+        "source": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14"
+      }
+    ],
+    "news": [
+      {
+        "title": "Fort Meade moves forward with controversial $2.6B data center project despite community opposition",
+        "outlet": "FOX 13 Tampa Bay",
+        "url": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+        "date": "2026-04-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "New state law to protect consumers from data center costs faces first test",
+        "outlet": "WUSF",
+        "url": "https://www.wusf.org/politics-issues/2026-08-26/new-state-law-protect-consumers-data-center-costs-faces-first-test",
+        "date": "2026-08-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Rezoning to PUD for up to 4.4 million sq ft approved 5-0 on June 10, 2025 (DCD 2025-06-17 citing The News Chief; used as announced). Developer agreement approved April 2026. End user not named. Applicant Bohler Places LLC. Still needs permits from several agencies including SWFWMD. Trackers name it 'Florida Ecopark AI Data Center Campus' (~1.2 GW)."
+  },
+  {
+    "id": "fl-palmbeach-pba-holdings-tango",
+    "name": "Project Tango (Central Park Commerce Center)",
+    "owner": "PBA Holdings, Inc. (Enrique Tomeu)",
+    "operator": null,
+    "tier": "large",
+    "state": "FL",
+    "county": "Palm Beach County",
+    "town": "Loxahatchee (next to Arden)",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025-12",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 34500000000,
+        "unit": "USD (PBA Holdings' own estimate of total project value; earlier coverage cited about $2.6 billion)",
+        "kind": "real",
+        "source": "https://www.wusf.org/politics-issues/2026-10-01/residents-wanted-real-information-on-project-tango-the-lands-fraught-history-explains-why",
+        "date": "2026-10-01"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 202,
+        "unit": "acres (plus a requested 64-acre expansion of existing zoning)",
+        "kind": "real",
+        "source": "https://floridaphoenix.com/2026/01/01/thirsty-ai-data-center-runs-into-florida-community-opposition-2/",
+        "date": "2026-01-01"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Florida Power & Light; site near FPL 500 kV lines and West County Energy Center",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.floridatrend.com/feature/2026/03/12/power-search/",
+        "date": "2026-03-12"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Change.org petition against the project drew more than 7,000 signatures in a month",
+        "source": "https://floridaphoenix.com/2026/01/01/thirsty-ai-data-center-runs-into-florida-community-opposition-2/",
+        "date": "2026-01-01"
+      },
+      {
+        "what": "Palm Beach County Commission voted 5-1 in mid-July 2026 to deny the project (without prejudice)",
+        "source": "https://www.wusf.org/politics-issues/2026-10-01/residents-wanted-real-information-on-project-tango-the-lands-fraught-history-explains-why",
+        "date": "2026-10-01"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Transparency concerns: item first placed on the consent agenda, undisclosed end user, a commissioner recused after opposing it, campaign donations by the developer",
+        "source": "https://www.wusf.org/politics-issues/2026-10-01/residents-wanted-real-information-on-project-tango-the-lands-fraught-history-explains-why",
+        "date": "2026-10-01"
+      }
+    ],
+    "news": [
+      {
+        "title": "Residents wanted 'real information' on Project Tango. The land's fraught history explains why",
+        "outlet": "WUSF / WLRN",
+        "url": "https://www.wusf.org/politics-issues/2026-10-01/residents-wanted-real-information-on-project-tango-the-lands-fraught-history-explains-why",
+        "date": "2026-10-01",
+        "tone": "bad"
+      },
+      {
+        "title": "Thirsty AI data center runs into Florida community opposition",
+        "outlet": "Florida Phoenix",
+        "url": "https://floridaphoenix.com/2026/01/01/thirsty-ai-data-center-runs-into-florida-community-opposition-2/",
+        "date": "2026-01-01",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About 3.6 million sq ft sought in 2026. Denied without prejudice, so it can return; prior approvals could still allow a smaller data center. PBA Holdings is in dueling lawsuits with landowner WPB Logistics, LLC, which also wants data centers on nearby land. County then adopted a one-year moratorium."
+  },
+  {
+    "id": "fl-stlucie-sentinel-grove-jarvis",
+    "name": "Sentinel Grove Technology Park (Project Jarvis)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "FL",
+    "county": "St. Lucie County",
+    "town": "Fort Pierce area (Minute Maid Road, north of Orange Avenue)",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 13000000000,
+        "unit": "USD (potential, at full build)",
+        "kind": "real",
+        "source": "https://www.floridatrend.com/feature/2026/03/12/power-search/",
+        "date": "2026-03-12"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (1 GW proposed)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/data-center-developer-withdraws-application-in-florida-in-response-to-proposed-regulations/",
+        "date": "2026-02-26"
+      },
+      "acres": {
+        "value": 1218,
+        "unit": "acres of agricultural land proposed for rezoning",
+        "kind": "real",
+        "source": "https://www.floridatrend.com/feature/2026/03/12/power-search/",
+        "date": "2026-03-12"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Florida Power & Light (site near FPL 500 kV lines)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.floridatrend.com/feature/2026/03/12/power-search/",
+        "date": "2026-03-12"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "St. Lucie County planning and zoning board voted against recommending the land-use change (fall 2025)",
+        "source": "https://www.floridatrend.com/feature/2026/03/12/power-search/",
+        "date": "2026-03-12"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Developers hit pause on St. Lucie County data center plans",
+        "outlet": "WPBF",
+        "url": "https://www.wpbf.com/article/developers-hit-pause-on-st-lucie-county-data-center-plans/70483481",
+        "date": "2026-02-24",
+        "tone": "neutral"
+      },
+      {
+        "title": "Power Search",
+        "outlet": "Florida Trend",
+        "url": "https://www.floridatrend.com/feature/2026/03/12/power-search/",
+        "date": "2026-03-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Up to 15 million sq ft. Developer withdrew its land-use application in Feb 2026 to wait on state legislation (SB 482/484); commissioner said it is paused, not dead. Florida Trend (March 2026) said request tabled until late summer or fall. A tracker lists it as cancelled; not confirmed. Developer entity not confirmed by a good source."
+  },
+  {
+    "id": "fl-stlucie-atlas-compute-fort-pierce",
+    "name": "Atlas Compute AI data center campus (Fort Pierce)",
+    "owner": "Atlas Compute",
+    "operator": "Atlas Compute",
+    "tier": "large",
+    "state": "FL",
+    "county": "St. Lucie County",
+    "town": "Fort Pierce (Midway Industrial Park, Post Office Road)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 240,
+        "unit": "MW Phase 1 (up to 1 GW at full build-out)",
+        "kind": "real",
+        "source": "https://finance.yahoo.com/news/atlas-compute-secures-land-utilities-161200853.html",
+        "date": "2025-11-06"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Company cites confirmed gas supply plus access to the Florida grid",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://finance.yahoo.com/news/atlas-compute-secures-land-utilities-161200853.html",
+        "date": "2025-11-06"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Liquid cooling, closed-loop and water-free (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://finance.yahoo.com/news/atlas-compute-secures-land-utilities-161200853.html",
+        "date": "2025-11-06"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Florida-based company announced plans to build AI data center in Fort Pierce",
+        "outlet": "WPTV",
+        "url": "https://www.wptv.com/news/region-st-lucie-county/fort-pierce/florida-based-company-announced-plans-to-build-ai-data-center-in-fort-pierce",
+        "date": "2026-03-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Company targeted operations Q4 2026-Q1 2027. As of March 2026 St. Lucie County had received no application; a Dec 2025 zoning verification letter covered four Midway Industrial Park parcels owned by Fort Pierce No. 2 / No. 3 LLC (Miami). Penguin Solutions to build/run the AI infrastructure."
+  },
+  {
+    "id": "fl-desoto-dcip-arcadia",
+    "name": "DCIP DeSoto County Industrial Park data center campus",
+    "owner": "DCIP Group",
+    "operator": "DCIP Group",
+    "tier": "large",
+    "state": "FL",
+    "county": "DeSoto County",
+    "town": "Arcadia area (3800 NE Roan Road)",
+    "lat": 27.223698,
+    "lng": -81.820706,
+    "stage": "permitted",
+    "announced": "2025-09-17",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 862,
+        "unit": "acres total in county applications: 34.22 approved (2026-03-24) + 274.26 (DCIP & 3-F Ranch, filed 2026-05-07) + 553.79 (Swisher, filed 2026-05-13); company says up to 1,300 acres",
+        "kind": "real",
+        "source": "https://desotobocc.com/431/Data-Center-Applications",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Onsite natural gas generation using the Florida Gas Transmission pipeline; company says it will not draw from the local grid",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.mysuncoast.com/2026/05/26/developers-push-massive-data-center-complex-desoto-county-amid-backlash/",
+        "date": "2026-05-26"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling (company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.mysuncoast.com/2026/05/26/developers-push-massive-data-center-complex-desoto-county-amid-backlash/",
+        "date": "2026-05-26"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents packed planning commission meetings opposing the project; county adopted a one-year moratorium on 2026-07-28 but exempted DCIP's pending rezonings",
+        "source": "https://www.wgcu.org/top-story/2026-07-29/desoto-approves-data-center-moratorium-but-controversial-project-can-advance",
+        "date": "2026-07-29"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Developers push massive data center complex in DeSoto County amid backlash",
+        "outlet": "Suncoast Searchlight / WWSB",
+        "url": "https://www.mysuncoast.com/2026/05/26/developers-push-massive-data-center-complex-desoto-county-amid-backlash/",
+        "date": "2026-05-26",
+        "tone": "bad"
+      },
+      {
+        "title": "DeSoto approves data center moratorium, but controversial project can advance",
+        "outlet": "Suncoast Searchlight / WGCU",
+        "url": "https://www.wgcu.org/top-story/2026-07-29/desoto-approves-data-center-moratorium-but-controversial-project-can-advance",
+        "date": "2026-07-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First phase: PUD rezoning and concept plan for a 35,134 sq ft data center with power generation on 34.22 acres at a decommissioned power plant, approved 2026-03-24 (application RZNE-0077-2025 filed 2025-09-17). Pending: 3,686,125 sq ft (RZNE-0086-2026) and 4,655,000 sq ft with generation (RZNE-0087-2026, applicant Swisher; linked to DCIP's expansion per Suncoast Searchlight). Company plans more than a dozen data centers. Trackers cite 300 MW to 4 GW; no sourced MW.",
+    "pin_source": "https://desotobocc.com/431/Data-Center-Applications",
+    "pin_address": "3800 ROAN ST, ARCADIA, FL, 34266"
+  },
+  {
+    "id": "fl-polk-cielo-haines-city",
+    "name": "Cielo Haines City data center campus",
+    "owner": "Cielo Digital Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "FL",
+    "county": "Polk County",
+    "town": "Haines City (Marion Road and SR 544 East)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (planned campus)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/planned-data-center-in-florida-held-back-by-lack-of-available-water-from-city/",
+        "date": "2026-07-17"
+      },
+      "acres": {
+        "value": 74,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/planned-data-center-in-florida-held-back-by-lack-of-available-water-from-city/",
+        "date": "2026-07-17"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": 150000,
+        "unit": "gallons per day (requested from city)",
+        "kind": "real",
+        "source": "https://www.fox13news.com/news/haines-city-data-center-project-water-capacity-shortage.amp",
+        "date": "2026-06-25"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Stalled: city lacks water capacity; city added the 150,000 gpd to a pending SWFWMD water use permit modification. No formal application filed.",
+        "source": "https://www.fox13news.com/news/haines-city-data-center-project-water-capacity-shortage.amp",
+        "date": "2026-06-25"
+      }
+    ],
+    "news": [
+      {
+        "title": "Haines City data center project stalled by water capacity shortage",
+        "outlet": "FOX 13 Tampa Bay",
+        "url": "https://www.fox13news.com/news/haines-city-data-center-project-water-capacity-shortage.amp",
+        "date": "2026-06-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Planned data center in Florida held back by lack of available water from city",
+        "outlet": "Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/planned-data-center-in-florida-held-back-by-lack-of-available-water-from-city/",
+        "date": "2026-07-17",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Cielo approached the city in 2025 ('last year' per DCD, mid-2026). A local outlet reported the city signed a letter of support seven months before the public knew (thecitrustea.com, not verified)."
+  },
+  {
+    "id": "fl-polk-ryan-project-swan",
+    "name": "Project Swan (Lakeland)",
+    "owner": "Ryan Companies U.S. Inc.",
+    "operator": null,
+    "tier": "large",
+    "state": "FL",
+    "county": "Polk County",
+    "town": "Lakeland (923 Wilkinson Road)",
+    "lat": 28.031876,
+    "lng": -82.004386,
+    "stage": "announced",
+    "announced": "2026-05-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 60.5,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/",
+        "date": "2026-05-28"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Public uproar over Project Swan led Lakeland to adopt a one-year moratorium (4-3, 2026-08-03) on data centers and other 50 MW+ users",
+        "source": "https://www.wusf.org/politics-issues/2026-08-03/lakeland-approves-one-year-moratorium-on-data-centers",
+        "date": "2026-08-03"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hyperscale data center proposed for Lakeland",
+        "outlet": "LkldNow",
+        "url": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/",
+        "date": "2026-05-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Lakeland approves one-year moratorium on data centers",
+        "outlet": "WUSF",
+        "url": "https://www.wusf.org/politics-issues/2026-08-03/lakeland-approves-one-year-moratorium-on-data-centers",
+        "date": "2026-08-03",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Concept plan review applied for 2026-05-05 by Kimley-Horn for Ryan Companies: up to 600,000 sq ft, three data center buildings, substation. City said data centers are not a listed use in its code. City clarified in June 2026 the project remains active. Tenant unknown; MW not stated (a tracker says 100 MW). Lakeland Electric is the city utility.",
+    "pin_source": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/",
+    "pin_address": "923 WILKINSON RD, LAKELAND, FL, 33803"
+  },
+  {
+    "id": "fl-miami-dade-digital-realty-mia10",
+    "name": "Digital Realty MIA10 (36 NE 2nd Street)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "FL",
+    "county": "Miami-Dade County",
+    "town": "Miami",
+    "lat": 25.776033,
+    "lng": -80.193093,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "36 NE 2nd Street, downtown Miami; total building size 150,000 sq ft (https://www.digitalrealty.com/data-centers/americas/miami/mia10); Digital Realty's 10-K lists 1 Miami building, 150,000 net rentable sq ft (https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm). Equinix MI2 (Suite 550, 10,947 sq ft) is inside this building. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "fl-miami-dade-equinix-mi1",
+    "name": "Equinix MI1 (NAP of the Americas, 50 NE 9th Street)",
+    "owner": "Equinix",
+    "operator": "Equinix",
+    "tier": "large",
+    "state": "FL",
+    "county": "Miami-Dade County",
+    "town": "Miami",
+    "lat": 25.782753,
+    "lng": -80.193061,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 59000000,
+        "unit": "USD (MI1 redevelopment only, approximate)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/eqix-20251231.htm",
+        "date": "2026-02-11"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "50 NE 9th Street, Miami; 255,513 sq ft of colocation space (https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/miami-data-centers/mi1). Equinix 10-K lists an MI1 redevelopment under construction: 475 cabinets, about $59M, target Q3 2026 (https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/eqix-20251231.htm). Promoted from lead fl-miamidade-equinix-mi1. Size test: floor area (100,000+ sq ft rule)."
+  },
+  {
+    "id": "fl-miami-dade-coresite-mi2",
+    "name": "CoreSite MI2 Doral (2100 NW 84th Avenue)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "FL",
+    "county": "Miami-Dade County",
+    "town": "Doral",
+    "lat": 25.793233,
+    "lng": -80.332468,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2100 NW 84th Ave, Doral; 103,000+ sq ft (https://www.coresite.com/data-centers/locations/miami). CoreSite MI1 (2115 NW 22nd St, 45,000+ sq ft) not recorded. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "fl-orange-coresite-or1",
+    "name": "CoreSite OR1 Orlando (9701 S. John Young Parkway)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "FL",
+    "county": "Orange County",
+    "town": "Orlando",
+    "lat": 28.42662,
+    "lng": -81.422673,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 16,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.coresite.com/data-center/or1-orlando-fl",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "9701 S. John Young Pkwy, Orlando; 129,000+ sq ft on a 16-acre site (https://www.coresite.com/data-center/or1-orlando-fl). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  }
+]

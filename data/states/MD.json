@@ -1,0 +1,168 @@
+{
+  "state": "MD",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "dockets": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data Center Sales and Use Tax Exemption",
+      "law": "Enacted 2020 (Md. Code, Tax-General)",
+      "what": "Sales and use tax exemption on qualified data center equipment. On 2026-09-23 Gov. Moore said he will push the General Assembly to repeal it in the 2027 session.",
+      "value_known": false,
+      "source": "https://governor.maryland.gov/news/press-releases/governor-moore-signs-executive-order-codifying-responsible-data-center-development-framework",
+      "date": "2026-09-23"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "Executive Order: Responsible Data Center Development Framework (Gov. Moore)",
+      "status": "enacted",
+      "what": "Creates the Maryland Data Center Task Force to rate every proposal of 25 MW or more that seeks any state action as Aligned, Conditionally Aligned or Not Aligned; state incentives only for aligned projects; agencies defer review of not-aligned projects until local land-use approvals exist; no new state NDAs with developers; public monthly Data Center Dashboard (developer, tenant, power and water use).",
+      "source": "https://governor.maryland.gov/news/press-releases/governor-moore-signs-executive-order-codifying-responsible-data-center-development-framework",
+      "date": "2026-09-23"
+    },
+    {
+      "name": "Utility RELIEF Act (HB 1532, 2026)",
+      "status": "enacted",
+      "what": "Major 2026 energy bill; forces more data centers onto a special large-load tariff and gives faster MDE permit timelines to data centers that bring zero-emission power. Passed 2026-04-13; signed by Gov. Moore 2026-05-12. Data centers must cover the costs of their own energy infrastructure upgrades.",
+      "source": "https://governor.maryland.gov/news/press-releases/governor-moore-signs-landmark-legislation-lower-energy-costs-maryland-families-and-strengthen",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "2025 energy package: large-load customer rate schedules",
+      "status": "enacted",
+      "what": "Requires electric utilities to file new rate schedules for large-load customers such as data centers, subject to PSC approval, so residential customers do not bear their financial risks. Signed May 2025.",
+      "source": "https://marylandmatters.org/2026/01/03/data-center-regulations-2026/",
+      "date": "2026-01-03"
+    },
+    {
+      "name": "Data center impact study (veto override, Dec. 2025 special session)",
+      "status": "enacted",
+      "what": "Legislature overrode Gov. Moore's veto of a study of data centers' impact on the state; study due to the governor and General Assembly by Sept. 1, 2026.",
+      "source": "https://marylandmatters.org/2026/01/03/data-center-regulations-2026/",
+      "date": "2026-01-03"
+    },
+    {
+      "name": "Critical Infrastructure Streamlining Act of 2024 (SB 474, Ch. 411)",
+      "status": "enacted",
+      "what": "Exempts data center diesel backup generators from the PSC CPCN requirement (MDE air permits still apply). Food & Water Watch is calling for repeal.",
+      "source": "https://mgaleg.maryland.gov/2024RS/Chapters_noln/CH_411_sb0474e.pdf",
+      "date": "2024"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Frederick County",
+      "type": "zoning",
+      "what": "Critical Digital Infrastructure Overlay Zone around Quantum Frederick, expanded in Dec. 2025 by about 1,000 acres to roughly 2,500-2,600 acres, while barring data centers from other industrial zones.",
+      "status": "in force",
+      "source": "https://frederickcountymd.gov/9128/Critical-Digital-Infrastructure-Overlay-",
+      "date": "2026-01"
+    },
+    {
+      "place": "Frederick County",
+      "type": "moratorium",
+      "what": "County Executive Jessica Fitzwater's executive order pauses new data center permits and approvals through Dec. 31, 2026; already-approved projects (Quantum Frederick) not affected.",
+      "status": "in force",
+      "source": "https://marylandmatters.org/2026/08/10/counties-scramble-to-respond-to-data-centers-setting-moratoriums-a-ban/",
+      "date": "2026-07-01"
+    },
+    {
+      "place": "Frederick County",
+      "type": "ballot",
+      "what": "Petition referendum on the overlay zone expansion (20,000+ signatures) was kept off the November 2026 ballot by the Maryland Supreme Court after data center companies sued.",
+      "status": "blocked by court",
+      "source": "https://marylandmatters.org/2026/07/13/data-center-frustrations-cause-upheaval-in-county-primary-elections/",
+      "date": "2026-06-30"
+    },
+    {
+      "place": "Prince George's County",
+      "type": "moratorium",
+      "what": "County Council passed a two-year moratorium on hyperscale data center development, extending earlier pauses.",
+      "status": "in force",
+      "source": "https://marylandmatters.org/2026/07/08/prince-georges-county-extends-pause-on-hyperscale-data-center-development/",
+      "date": "2026-07-07"
+    },
+    {
+      "place": "Montgomery County",
+      "type": "moratorium",
+      "what": "Executive Order 109-26 (2026-06-12) paused data center permit approvals for six months after the Dickerson proposal (Atmosphere is challenging it in court); County Council Bill 19-26E (enacted 2026-07-28) set an 18-month moratorium on accepting and processing data center permits.",
+      "status": "in force",
+      "source": "https://natureforward.org/?p=21908",
+      "date": "2026-10-15"
+    },
+    {
+      "place": "Harford County",
+      "type": "ordinance",
+      "what": "Outright ban on data centers (June 2026), the first in Maryland, proposed by County Executive Bob Cassilly.",
+      "status": "in force",
+      "source": "https://marylandmatters.org/2026/08/10/counties-scramble-to-respond-to-data-centers-setting-moratoriums-a-ban/",
+      "date": "2026-08-10"
+    },
+    {
+      "place": "Calvert County",
+      "type": "moratorium",
+      "what": "Six-month moratorium on site plan approvals and new site plan applications for data centers (Ordinance 42-26), effective Aug. 28, 2026.",
+      "status": "in force",
+      "source": "https://www.calvertcountymd.gov/m/newsflash/Home/Detail/3201",
+      "date": "2026-08-18"
+    },
+    {
+      "place": "Calvert County",
+      "type": "zoning",
+      "what": "2025 zoning update defines data centers; allowed only in I-2 (with conditions) and I-1 (special exception); 200 ft property-line and 400 ft residential setbacks; noise limits.",
+      "status": "in force",
+      "source": "https://www.choosecalvert.com/DataCenters",
+      "date": "2025-03-01"
+    },
+    {
+      "place": "Baltimore County, Baltimore City, Howard County, Queen Anne's County, Washington County, Caroline County",
+      "type": "moratorium",
+      "what": "Temporary data center pauses reported; 13 Maryland counties had temporary moratoriums as of Aug. 2026. Details per county not checked.",
+      "status": "in force",
+      "source": "https://marylandmatters.org/2026/08/10/counties-scramble-to-respond-to-data-centers-setting-moratoriums-a-ban/",
+      "date": "2026-08-10"
+    },
+    {
+      "place": "Montgomery County",
+      "type": "ordinance",
+      "what": "Ordinance 20-35 (ZTA 26-01), adopted 2026-07-28: prohibits data centers countywide from 2026-08-17, described by the Council as a bridge to a future regulatory framework.",
+      "status": "in force",
+      "source": "https://natureforward.org/?p=21908",
+      "date": "2026-10-15"
+    },
+    {
+      "place": "Baltimore County",
+      "type": "moratorium",
+      "what": "Bill 3-26 (Jan 2026): data center study and one-year data center permit moratorium running to January 2027; holds up the Woodlawn campus.",
+      "status": "in force",
+      "source": "https://natureforward.org/woodlawn-data-center-baltimore-md-maryland-data-center-series-pt-2/",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "PC72",
+      "regulator": "Maryland Public Service Commission",
+      "utility": "BGE, Potomac Edison and other Maryland utilities",
+      "what": "PSC proceeding on protecting existing customers from data center costs. Office of People's Counsel comments (2026-08-10) asked the PSC to require projected 2028 data center demand without binding cost commitments to join peak-shaving programs, and to limit utility data center load forecasts sent to PJM to committed projects; OPC estimates existing BGE and Potomac Edison customers could pay up to $562M over 15 years under PJM's reliability backstop procurement. Case label 'PC72' taken from OPC's linked comments.",
+      "site_ids": [],
+      "status": "comments filed; PSC decision not found",
+      "url": "https://content.govdelivery.com/accounts/MDOPC/bulletins/42457f2",
+      "date": "2026-08-11"
+    },
+    {
+      "id": null,
+      "regulator": "Maryland Public Service Commission",
+      "utility": "All Maryland electric utilities",
+      "what": "Large-load tariffs each utility had to file by Sept. 1, 2026 under the Next Generation Energy Act (2025) as amended by the Utility RELIEF Act (HB 1532, Ch. 353, signed 2026-05-12): threshold cut from 100 MW / 80% load factor to 25 MW / 60%; PJM capacity costs passed through to large loads; mandatory registration with energy and water use reporting. Tariff case numbers not found.",
+      "site_ids": [],
+      "status": "filed (per Law360 analysis); PSC review pending",
+      "url": "https://www.mintz.com/sites/default/files/media/documents/2026-10-05/AG-Watch-How-Maryland-Is-Meeting-The-Data-Center-Age_Erek-L.-Barron.pdf",
+      "date": "2026-10-01"
+    }
+  ]
+}

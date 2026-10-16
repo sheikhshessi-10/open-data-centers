@@ -1,0 +1,191 @@
+{
+  "state": "TX",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "news": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Qualifying data center sales and use tax exemption",
+      "law": "Tex. Tax Code 151.359 (and 151.3595 for large projects); Comptroller Rule 3.335",
+      "what": "Exempts eligible equipment and power purchases from the 6.25% state sales tax (local tax still due). Standard: 100,000+ sq ft, 20 county jobs, $200M+ in 5 years; 10 years ($200M-$250M) or 15 years ($250M+). Large project: 250,000+ sq ft, 40 jobs, $500M+ in 5 years, 20 years. Not allowed with a Chapter 313 agreement.",
+      "value_known": null,
+      "source": "https://comptroller.texas.gov/taxes/data-centers/",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "ERCOT PGRR145 (Batch Zero)",
+      "regulator": "ERCOT / Public Utility Commission of Texas",
+      "utility": "All ERCOT transmission and distribution providers",
+      "what": "Batch Zero process for large-load (75 MW+) interconnections, with a verification step. ERCOT said Aug 3, 2026 it would miss the Aug 7 Batch Zero classification deadline and seek a good-cause exception from the PUCT after the governor's audit directive.",
+      "site_ids": [],
+      "status": "paused",
+      "url": "https://www.ercot.com/services/rq/large-load-integration",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "Governor-ordered ERCOT/PUCT data center audit",
+      "regulator": "Public Utility Commission of Texas / ERCOT",
+      "utility": null,
+      "what": "Verification and audit of all data centers in ERCOT's interconnection process (incentives, power use and on-site generation, water and cooling, community impact, ownership). ERCOT published survey questions for 400+ data centers on Sept 18, 2026; audit expected done December 2026.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://www.dlapiper.com/en/insights/publications/2026/09/governor-abbott-expands-data-center-permitting-pause",
+      "date": "2026-09"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 6 (89th Legislature, 2025)",
+      "status": "enacted",
+      "what": "Large-load law, signed and effective June 20, 2025. Applies to new or expanded loads over 75 MW at one site (PUC may lower it). PUC must set ERCOT interconnection standards: study fee of at least $100,000, proof of site control, per-MW financial security. Large loads must help pay connection costs; PUC must review transmission cost allocation (incl. 4CP) by Dec 31, 2026. Loads connected after Dec 31, 2025 must install equipment allowing curtailment during firm load shed; ERCOT to buy emergency demand reductions from 75 MW+ loads; large loads must disclose backup generation. New large loads netting against existing generators need ERCOT study and PUC approval.",
+      "source": "https://capitol.texas.gov/tlodocs/89R/analysis/html/SB00006F.htm",
+      "date": "2025-06-20"
+    }
+  ],
+  "news": [
+    {
+      "title": "Executive directive (June 10, 2026): data centers must fully fund the grid infrastructure that serves them",
+      "outlet": "DLA Piper",
+      "url": "https://www.dlapiper.com/en/insights/publications/2026/09/governor-abbott-expands-data-center-permitting-pause",
+      "date": "2026-06-10",
+      "tone": "neutral"
+    },
+    {
+      "title": "Gov. Greg Abbott pauses new data centers until ERCOT, PUCT audit energy, water usage (executive directive Aug 3, 2026)",
+      "outlet": "Houston Public Media",
+      "url": "https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/08/03/558529/gov-greg-abbott-pauses-new-data-centers-until-ercot-puct-audit-energy-water-usage/",
+      "date": "2026-08-03",
+      "tone": "neutral"
+    },
+    {
+      "title": "Texas Gov. Abbott directs data center audit; ERCOT pauses interconnection process in response",
+      "outlet": "Holland & Knight",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/08/texas-gov-abbott-directs-data-center-audit",
+      "date": "2026-08-11",
+      "tone": "neutral"
+    },
+    {
+      "title": "Governor Abbott expands data center permitting pause to environmental permits (TWDB water reporting Sept 14; TCEQ permit halt Sept 21; TCEQ update due Oct 19; plan to end incentives in 2027 session)",
+      "outlet": "DLA Piper",
+      "url": "https://www.dlapiper.com/en/insights/publications/2026/09/governor-abbott-expands-data-center-permitting-pause",
+      "date": "2026-09",
+      "tone": "neutral"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "San Marcos (Hays County)",
+      "type": "zoning",
+      "what": "City Council voted 5-2 to deny the land-use change for the $1.5B Highlander data center on Francis Harris Lane.",
+      "status": "denied",
+      "source": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center",
+      "date": "2026-02-18"
+    },
+    {
+      "place": "Hays County",
+      "type": "moratorium",
+      "what": "County Judge Ruben Becerra proposed pausing new building permits for projects needing large amounts of water (aimed at data centers).",
+      "status": "proposed",
+      "source": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center",
+      "date": "2026-02-17"
+    },
+    {
+      "place": "Round Rock (Williamson County)",
+      "type": "zoning",
+      "what": "Skybox PUD rezoning requires closed-loop cooling; approved over a ~3,500-signature petition from Protect Round Rock.",
+      "status": "approved",
+      "source": "https://austinfreepress.org/data-boom/",
+      "date": "2026-06-04"
+    },
+    {
+      "place": "Tom Green County",
+      "type": "moratorium",
+      "what": "Commissioners Court declined to advance a proposed 12-month pause on data centers over 1,000 sq ft and power projects over 5 MW in Precinct 4, citing doubts about legal authority and lawsuit risk.",
+      "status": "rejected",
+      "source": "https://sanangelolive.com/comment/49485",
+      "date": "2026-06-02"
+    },
+    {
+      "place": "Hill County",
+      "type": "moratorium",
+      "what": "County approved a moratorium-type measure on large energy/data center projects and was then hit with a $100M lawsuit (as cited by a Tom Green County commissioner).",
+      "status": "challenged in court",
+      "source": "https://sanangelolive.com/comment/49485",
+      "date": "2026-06-02"
+    },
+    {
+      "place": "Forney (Kaufman County)",
+      "type": "zoning",
+      "what": "City Council directed staff to draft zoning changes that would prohibit new data centers within city limits.",
+      "status": "proposed",
+      "source": "https://www.nbcdfw.com/news/local/data-center-spanning-hundreds-of-acres-planned-in-kaufman-county/4055993/",
+      "date": "2026-07-29"
+    },
+    {
+      "place": "Cameron County",
+      "type": "ordinance",
+      "what": "Commissioners passed a resolution opposing open-loop evaporative cooling and other high-volume potable water technologies for data centers and calling for grid and farmland safeguards (non-binding resolution).",
+      "status": "approved",
+      "source": "https://www.krgv.com/news/cameron-county-sets-safeguards-for-data-centers-to-protect-electric-grid/",
+      "date": "2026-04-07"
+    },
+    {
+      "place": "Wichita Falls (Wichita County)",
+      "type": "zoning",
+      "what": "City Council unanimously rejected rezoning nearly 100 acres off Airport Drive for a proposed data center campus.",
+      "status": "denied",
+      "source": "https://newschannel6now.com/2026/05/05/wichita-falls-city-council-rejects-airport-drive-data-center-rezoning/",
+      "date": "2026-05-05"
+    },
+    {
+      "place": "Wichita Falls (Wichita County)",
+      "type": "zoning",
+      "what": "Council approved rezoning 227 acres near Kiel Lane from residential to light industrial for a hyperscale data center (Calvano Development).",
+      "status": "approved",
+      "source": "https://www.datacenterdynamics.com/en/news/wichita-falls-council-approves-land-rezoning-for-300mw-data-center-in-texas/",
+      "date": "2024-11-11"
+    },
+    {
+      "place": "Henderson County",
+      "type": "ordinance",
+      "what": "County passed a resolution asking state lawmakers to give counties authority to regulate data centers (during the Diode Ventures Cedar Creek Lake fight).",
+      "status": "approved",
+      "source": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/",
+      "date": "2026-07-23"
+    },
+    {
+      "place": "Taylor (Williamson County)",
+      "type": "zoning",
+      "what": "Council unanimously approved an annexation agreement for the 664-acre Big Watt Digital / PowerHouse Taylor Technology Campus, letting the city regulate water use, noise and air quality; the council earlier rejected a citizen-initiated temporary ban on data centers with 1,400+ signatures.",
+      "status": "approved",
+      "source": "https://www.kut.org/energy-environment/2026-10-09/taylor-tx-annex-data-center-power-plant",
+      "date": "2026-10-08"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "Oncor Electric Delivery",
+      "type": "investor-owned",
+      "serves": "Transmission and distribution in North and Central Texas, including DFW (named next to the Wichita Falls Kiel Lane site)",
+      "url": "https://www.oncor.com/"
+    },
+    {
+      "name": "Xcel Energy (Southwestern Public Service)",
+      "type": "investor-owned",
+      "serves": "Texas Panhandle and South Plains, outside ERCOT (utility partner for Aligned Project Caprock, Hale County)",
+      "url": "https://www.xcelenergy.com/"
+    },
+    {
+      "name": "AEP Texas",
+      "type": "investor-owned",
+      "serves": "Transmission and distribution in South and West Texas (direct-connect agreement for Cipher Colchis, Tom Green County)",
+      "url": "https://www.aeptexas.com/"
+    }
+  ]
+}

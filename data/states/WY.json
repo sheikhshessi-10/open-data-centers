@@ -1,0 +1,133 @@
+{
+  "state": "WY",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Sales and use tax exemption for data processing services centers",
+      "law": "House Bill 67 (2010), signed March 5, 2010; expanded in 2011 to cover uninterruptible power, heating, cooling and air quality equipment",
+      "what": "Exempts computer and related equipment bought by qualifying data centers (over $2M a year in computing equipment, at least $5M capital cost, Wyoming Business Council job certification). Does not cover construction, property tax or electricity sales tax.",
+      "value_known": "Data centers that reported logged more than $166M in savings; a 2021 state report cited at least $124.3M (underreported; only 3 of 10 responded).",
+      "source": "https://cowboystatedaily.com/2026/06/12/heres-why-wyoming-doesnt-tax-big-data-center-purchases/",
+      "date": "2026-06-12"
+    }
+  ],
+  "dockets": [
+    {
+      "id": null,
+      "regulator": "Wyoming Public Service Commission",
+      "utility": "Black Hills Energy (Cheyenne Light, Fuel and Power)",
+      "what": "Large Power Contract Service (LPCS) tariff for new loads of 13 MW or more, approved July 2016; basis for negotiated service agreements with Microsoft, Meta and Google data centers",
+      "site_ids": [
+        "wy-laramie-microsoft-cheyenne",
+        "wy-laramie-microsoft-bison-expansion",
+        "wy-laramie-meta-cheyenne",
+        "wy-laramie-google-project-tembo"
+      ],
+      "status": "approved",
+      "url": "https://www.aarp.org/states/wyoming/will-data-centers-mean-higher-power-costs-in-wyoming/",
+      "date": "2016-07"
+    },
+    {
+      "id": null,
+      "regulator": "Wyoming Public Service Commission",
+      "utility": "Black Hills Energy (Cheyenne Light, Fuel and Power)",
+      "what": "Generation reservation agreement (April 22, 2026, amended July 2026) with a prospective customer building a 1.8 GW data center under the LPCS tariff; $285M refundable advances by June 30, 2026, raised to $377M (later $399M per Oct 2026 release); later identified as Google",
+      "site_ids": [
+        "wy-laramie-google-project-tembo"
+      ],
+      "status": "superseded by definitive agreements",
+      "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526337444/bkh-20260630.htm",
+      "date": "2026-08-06"
+    },
+    {
+      "id": null,
+      "regulator": "Wyoming Public Service Commission",
+      "utility": "Black Hills Energy (Cheyenne Light, Fuel and Power)",
+      "what": "Large Power Contract Services Agreement and Generation Facilities Agreement with Google, effective Sept 30, 2026, through 2048: up to 590 MW grid service (564 MW new gas generation at Cheyenne Prairie Generating Station, $1.8B investment 2027-2029) plus about 2.1 GW third-party resources via private microgrid",
+      "site_ids": [
+        "wy-laramie-google-project-tembo"
+      ],
+      "status": "executed",
+      "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+      "date": "2026-10-06"
+    },
+    {
+      "id": null,
+      "regulator": "Wyoming Public Service Commission",
+      "utility": "Black Hills Energy (Cheyenne Light, Fuel and Power)",
+      "what": "Robinson substation Certificate of Public Convenience and Necessity (supports the Google project)",
+      "site_ids": [
+        "wy-laramie-google-project-tembo"
+      ],
+      "status": "approved May 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+      "date": "2026-10-06"
+    },
+    {
+      "id": null,
+      "regulator": "Wyoming Public Service Commission",
+      "utility": "Black Hills Energy (Cheyenne Light, Fuel and Power)",
+      "what": "Large Customer Transmission Cost Adjustment Mechanism (LCTCAM)",
+      "site_ids": [],
+      "status": "filed June 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+      "date": "2026-10-06"
+    },
+    {
+      "id": null,
+      "regulator": "Wyoming Public Service Commission",
+      "utility": "Black Hills Energy (Cheyenne Light, Fuel and Power)",
+      "what": "South Cheyenne Transmission Expansion CPCN; a further Wyoming transmission expansion CPCN to be filed Q4 2026",
+      "site_ids": [
+        "wy-laramie-google-project-tembo"
+      ],
+      "status": "filed Sept 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+      "date": "2026-10-06"
+    },
+    {
+      "id": null,
+      "regulator": "Wyoming Industrial Siting Council / Wyoming DEQ Air Quality Division",
+      "utility": "Black Hills Energy",
+      "what": "Industrial siting permit (filed July 2026) and air quality permit (approved Aug 2026) for the Cheyenne Prairie Generating Station expansion serving the Google data center",
+      "site_ids": [
+        "wy-laramie-google-project-tembo"
+      ],
+      "status": "siting filed; air permit approved",
+      "url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526415597/bkh-ex99_1.htm",
+      "date": "2026-10-06"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "House Bill 155 (2026 budget session), data center sales tax exemption changes",
+      "status": "failed",
+      "what": "Bill by Rep. Gary Brown (R-Cheyenne) to amend the data center exemption process failed to be considered for introduction; in Sept 2026 the Joint Revenue Committee asked LSO to redraft it and is studying reporting requirements and higher data center taxes",
+      "source": "https://www.wyomingpublicmedia.org/politics-government/2026-09-03/lawmakers-consider-higher-taxes-for-data-centers",
+      "date": "2026-09-03"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Converse County",
+      "type": "zoning",
+      "what": "Rescinded its industrial park fast-track policy for the Prometheus project in May 2026 after the Wyoming attorney general found the county lacked authority",
+      "status": "rescinded",
+      "source": "https://wyofile.com/?p=130090",
+      "date": "2026-09-02"
+    },
+    {
+      "place": "Cheyenne",
+      "type": "moratorium",
+      "what": "City Council considered a moratorium on new data centers but voted against it",
+      "status": "rejected",
+      "source": "https://www.wyomingnews.com/news/local_news/microsoft-intends-to-purchase-3-200-acres-south-of-cheyenne-for-data-centers/article_3cbb2c90-9a60-4cb9-8537-1d835ea167ab.html",
+      "date": "2026-04"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "nd-dickey-applied-digital-polaris-forge-1",
+    "name": "Polaris Forge 1 (Ellendale AI Factory campus)",
+    "owner": "Applied Digital",
+    "operator": "Applied Digital",
+    "tier": "large",
+    "state": "ND",
+    "county": "Dickey County",
+    "town": "Ellendale",
+    "lat": 46.01283,
+    "lng": -98.57123,
+    "stage": "running",
+    "announced": "2021",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD (about, total, excluding customer equipment, as reported)",
+        "kind": "estimate",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07"
+      },
+      "power_mw": {
+        "value": 400,
+        "unit": "MW critical IT load contracted at full build; 250 MW operational as of Oct 2, 2026",
+        "kind": "real",
+        "source": "https://ir.applieddigital.com/news-events/press-releases/detail/161/applied-digital-brings-an-additional-75-mw-of-ai",
+        "date": "2026-10-02"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "Company declined a 10-year property tax break pilot program",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07"
+      },
+      "local_tax_paid": {
+        "value": 4300000,
+        "unit": "USD property tax for 2026 (about)",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      },
+      "community_deal": null,
+      "utility": {
+        "value": "Montana-Dakota Utilities (MDU)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "U.S. data center boom comes to ND",
+        "outlet": "Minot Daily News",
+        "url": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07",
+        "tone": "neutral"
+      },
+      {
+        "title": "Applied Digital Brings an Additional 75 MW of AI Infrastructure Online at Polaris Forge 1",
+        "outlet": "Applied Digital (press release)",
+        "url": "https://ir.applieddigital.com/news-events/press-releases/detail/161/applied-digital-brings-an-additional-75-mw-of-ai",
+        "date": "2026-10-02",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Applied Digital has operated in Ellendale since 2021: a 180 MW blockchain hosting center (2022, $180M) and the adjacent AI campus (first building opened fall 2025). Treated as one campus. Building 1 is 100 MW, Building 2 is 150 MW; a fourth building is being financed ($1.59B notes, June 2026). Company does not name tenants in the Oct 2026 release. A sound wall was built to dampen noise. About 1,900 construction workers were on site in May 2026 (Minot Daily News).",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071336444",
+    "pin_address": "Permit coordinates, ND stormwater permit NDR112081 'APLD ELN-01 LLC' (no street address)"
+  },
+  {
+    "id": "nd-cass-applied-digital-polaris-forge-2",
+    "name": "Polaris Forge 2 (Harwood AI Factory campus)",
+    "owner": "Applied Digital",
+    "operator": "Applied Digital",
+    "tier": "large",
+    "state": "ND",
+    "county": "Cass County",
+    "town": "Harwood",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-08-18",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      },
+      "power_mw": {
+        "value": 280,
+        "unit": "MW (200 MW critical IT load per company)",
+        "kind": "real",
+        "source": "https://ir.applieddigital.com/news-events/press-releases/detail/145/applied-digital-announces-proposed-offering-of-2-15",
+        "date": "2026-03-02"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Closed-loop water system with rooftop fans (company says water use comparable to a household)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "employees once open (200 to 250)",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      },
+      "jobs_actual": null,
+      "tax_break": {
+        "value": "None: company says Harwood receives no tax incentives or abatements",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      },
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Cass County Electric Cooperative; Applied Digital pays $112M for substation and transmission upgrades",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      },
+      "acres": {
+        "value": 400,
+        "unit": "acres owned (300 graded); more than 900 acres contracted at announcement",
+        "kind": "real",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Protesters argued the center will use large amounts of electricity and drive up costs for residents",
+        "source": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Company announces plan for $3 billion data center north of Fargo",
+        "outlet": "The Forum (via Yahoo)",
+        "url": "https://www.yahoo.com/news/articles/company-announces-plan-data-center-165025472.html",
+        "date": "2025-08-18",
+        "tone": "neutral"
+      },
+      {
+        "title": "Applied Digital Announces Proposed Offering of $2.15 Billion of Senior Secured Notes to fund Polaris Forge 2 Campus",
+        "outlet": "Applied Digital (press release)",
+        "url": "https://ir.applieddigital.com/news-events/press-releases/detail/145/applied-digital-announces-proposed-offering-of-2-15",
+        "date": "2026-03-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "An inside look at the Harwood data center as it nears completion",
+        "outlet": "InForum",
+        "url": "https://www.inforum.com/news/fargo/an-inside-look-at-the-harwood-data-center-as-it-nears-completion",
+        "date": "2026-09-12",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Harwood City Council approved Sept 10, 2025. Two 907,000 sq ft buildings. Part operational by end of 2026, rest early 2027. Tenant undisclosed (one report says Oracle, another an unnamed hyperscaler). ND PSC approved a $110M power project (substation and HV line) for the site in April 2026."
+  },
+  {
+    "id": "nd-oliver-applied-digital-polaris-forge-3",
+    "name": "Applied Digital Oliver County AI Factory (APLD BIS-01; likely Polaris Forge 3)",
+    "owner": "Applied Digital",
+    "operator": "Applied Digital (APLD BIS-01, LLC)",
+    "tier": "large",
+    "state": "ND",
+    "county": "Oliver County",
+    "town": null,
+    "lat": 47.111204,
+    "lng": -101.425346,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 430,
+        "unit": "MW (Minot Daily News); company says its Polaris Forge 3 is 300 MW critical IT with about 430 MW utility power in 'a northern state'",
+        "kind": "real",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07"
+      },
+      "water_use": {
+        "value": "No wastewater discharge to site aquifer; cooling water trucked in (county conditions)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+        "date": "2026-07-13"
+      },
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "temporary construction (about)",
+        "kind": "real",
+        "source": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+        "date": "2026-07-13"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "full-time (about)",
+        "kind": "real",
+        "source": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+        "date": "2026-07-13"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Oliver County approved a 180-day data center moratorium in June 2026, then repealed it a month later; residents raised concerns at public meetings",
+        "source": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+        "date": "2026-07-13"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Minot Daily News: the Oliver County site drew the strongest opposition Applied Digital has faced",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07"
+      }
+    ],
+    "news": [
+      {
+        "title": "U.S. data center boom comes to ND",
+        "outlet": "Minot Daily News",
+        "url": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05-07",
+        "tone": "neutral"
+      },
+      {
+        "title": "Applied Digital expands in North Dakota, eyes Oliver County for third data center",
+        "outlet": "Valley News Live",
+        "url": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+        "date": "2026-07-13",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Site south of Hanover near Highways 25 and 31 (rezoning request refers to a site near Center). Road use agreement signed July 10, 2026; rezoning not yet voted as of July 13, 2026. Link to Polaris Forge 3 is inferred from matching 430 MW; the company release (May 20, 2026, https://ir.applieddigital.com/news-events/press-releases/detail/152/applied-digital-reaches-significant-milestone-surpassing-1) names no state. That release: hyperscaler lease, about $7.5B base-term revenue over 15 years, initial operations August 2027.",
+    "pin_address": "4300 ND-25, Center, ND",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110072203207"
+  },
+  {
+    "id": "nd-stutsman-applied-digital-jamestown",
+    "name": "Applied Digital Jamestown hosting facility (JMS01)",
+    "owner": "Applied Digital",
+    "operator": null,
+    "tier": "large",
+    "state": "ND",
+    "county": "Stutsman County",
+    "town": "Jamestown",
+    "lat": 47.029588,
+    "lng": -98.679093,
+    "stage": "running",
+    "announced": "2021",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 82000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05"
+      },
+      "power_mw": {
+        "value": 106,
+        "unit": "MW facility (crypto mining hosting), operating at full capacity as of 2026-05-31",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000048/apld-20260531.htm",
+        "date": "2026-07-29"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": {
+        "value": 40,
+        "unit": "employees (as reported)",
+        "kind": "real",
+        "source": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "As of May 31, 2026, our 106 MW facility in Jamestown, North Dakota and our 180 MW facility in Ellendale, North Dakota continue to operate at full capacity.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000048/apld-20260531.htm",
+        "date": "2026-07-29"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "U.S. data center boom comes to ND",
+        "outlet": "Minot Daily News",
+        "url": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+        "date": "2026-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Legacy crypto hosting business; Applied Digital serves a single crypto mining customer with about 1.5 years left on its contract (10-K, July 2026). MARA's 10-K lists 273 MW of hosted capacity in 'Central North Dakota', likely Applied Digital's Jamestown and Ellendale hosting sites (not confirmed; not recorded as a separate site). Investment and jobs from Minot Daily News, not re-checked against a filing.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071785777",
+    "pin_address": "2671 STATE HWY 20, JAMESTOWN, ND, 58401"
+  },
+  {
+    "id": "nd-grand-forks-core-scientific-grand-forks",
+    "name": "Core Scientific Grand Forks data center",
+    "owner": "Core Scientific",
+    "operator": null,
+    "tier": "large",
+    "state": "ND",
+    "county": "Grand Forks County",
+    "town": "Grand Forks",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW gross utility power capacity",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Nodak Electric Cooperative, Inc.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Core Scientific lists a Grand Forks, North Dakota facility with 100 MW of gross utility power capacity from Nodak Electric Cooperative; its North Dakota site is leased and is being converted to support AI-related workloads as circumstances allow.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Leased site, historically bitcoin mining/hosting. Exact address and opening year not sourced. Core Scientific is converting facilities toward high-density colocation (CoreWeave); whether Grand Forks has been converted is not stated."
+  }
+]

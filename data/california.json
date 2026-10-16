@@ -1,0 +1,2990 @@
+[
+  {
+    "id": "ca-imperial-ivcm-imperial-valley",
+    "name": "Imperial Valley Data Center",
+    "owner": "Imperial Valley Computer Manufacturing LLC (Sebastian Rucci)",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Imperial County",
+    "town": "Imperial (unincorporated county land near Aten Rd and Clark Rd)",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (developer claim)",
+        "kind": "real",
+        "source": "https://www.imperialdatacenter.com/news",
+        "date": "2026-01-12"
+      },
+      "power_mw": {
+        "value": 330,
+        "unit": "MW (planned load, developer and county planning documents)",
+        "kind": "real",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "acres": {
+        "value": 75,
+        "unit": "acres (about; earlier reports say 74)",
+        "kind": "real",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (developer projects 100-200; county consultant agreed)",
+        "kind": "real",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "jobs_promised_build": {
+        "value": 2500,
+        "unit": "construction jobs (developer projects 2,500-3,500; county consultant estimated 1,600-1,700)",
+        "kind": "real",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "power_source": {
+        "value": "IID grid power; natural gas backup generators planned",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "utility": {
+        "value": "Imperial Irrigation District (IID says no agreement; study phase only)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": 750000,
+        "unit": "gallons per day of reclaimed water (developer estimate; no formal water agreement)",
+        "kind": "estimate",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      },
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "City of Imperial lawsuit against Imperial County seeking CEQA environmental review of the project",
+        "source": "https://www.kpbs.org/news/environment/2025/12/12/imperial-valley-city-sues-to-force-environmental-review-of-massive-data-center-project",
+        "date": "2025-12-12"
+      },
+      {
+        "what": "City of Imperial and Sierra Club suit over the lot merger; Imperial County Superior Court Judge Brooks Anderholt ruled the project needs a full EIR analyzed as a whole, halting it for now (developer plans new-trial motion or appeal)",
+        "source": "https://www.courthousenews.com/california-judge-halts-states-largest-data-center/",
+        "date": "2026-09-10"
+      },
+      {
+        "what": "Imperial County and City of Imperial emergency data center moratoriums (June 2026), extended through May 2027",
+        "source": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+        "date": "2026-08-04"
+      },
+      {
+        "what": "Residents gathering signatures for a November 2026 'Imperial County Data Center Prohibition Act' ballot measure",
+        "source": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "State Sen. Steve Padilla called for public environmental review of the project",
+        "source": "https://www.kpbs.org/news/environment/2025/12/04/california-lawmaker-calls-for-public-review-of-massive-imperial-valley-data-center-project",
+        "date": "2025-12-04"
+      },
+      {
+        "what": "Developer suing City of Imperial in federal court (civil rights/retaliation), suing IID over water request, and challenging the county moratorium; county suing developer over moratorium",
+        "source": "https://www.courthousenews.com/california-judge-halts-states-largest-data-center/",
+        "date": "2026-09-10"
+      }
+    ],
+    "news": [
+      {
+        "title": "California judge halts state's largest data center",
+        "outlet": "Courthouse News Service",
+        "url": "https://www.courthousenews.com/california-judge-halts-states-largest-data-center/",
+        "date": "2026-09-10",
+        "tone": "bad"
+      },
+      {
+        "title": "After months of public outcry, Imperial Valley cities are hitting the brakes on data centers",
+        "outlet": "KPBS",
+        "url": "https://www.kpbs.org/news/environment/2026/08/04/after-months-of-public-outcry-imperial-valley-cities-are-hitting-the-brakes-on-data-centers",
+        "date": "2026-08-04",
+        "tone": "bad"
+      },
+      {
+        "title": "California's largest data center plan rouses Imperial County",
+        "outlet": "inewsource",
+        "url": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+        "date": "2026-04-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About 950,000-1,000,000 sq ft. County approved a ministerial grading permit and CEQA exemption in Nov 2025 and a lot merger in March/April 2026. Tenant not named; Google said it is not involved. Developer says it is evaluating alternative sites. Stage 'blocked' = Sept 2026 court ruling requiring a full EIR plus county moratorium."
+  },
+  {
+    "id": "ca-kern-rl-capital-rb-inyokern",
+    "name": "RB Inyokern Data Center",
+    "owner": "R&L Capital, Inc.",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Kern County",
+    "town": "Inyokern",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 50,
+        "unit": "acres (approx., industrially zoned)",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/rb-inyokern-data-center",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Hybrid cooling per developer ('dry cooling', evaporative at peak temperatures per project FAQ)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sjvwater.org/water-a-big-question-for-proposed-ai-data-center-in-eastern-kern-desert/",
+        "date": "2026-05-08"
+      },
+      "water_use": {
+        "value": 50,
+        "unit": "acre-feet per year for cooling (per CEC application; opponents estimate far more)",
+        "kind": "real",
+        "source": "https://sjvwater.org/water-a-big-question-for-proposed-ai-data-center-in-eastern-kern-desert/",
+        "date": "2026-05-08"
+      },
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Nearly 90 public comments filed with the CEC opposing the project, mostly over groundwater in the overdrafted Indian Wells Valley",
+        "source": "https://sjvwater.org/water-a-big-question-for-proposed-ai-data-center-in-eastern-kern-desert/",
+        "date": "2026-05-08"
+      }
+    ],
+    "news": [
+      {
+        "title": "Water a big question for proposed AI data center in eastern Kern desert",
+        "outlet": "SJV Water",
+        "url": "https://sjvwater.org/water-a-big-question-for-proposed-ai-data-center-in-eastern-kern-desert/",
+        "date": "2026-05-08",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "CEC Small Power Plant Exemption docket 26-SPPE-01 (under review): 40 x 3 MW diesel backup generators, up to 99 MW backup capacity; single-story ~238,000 sq ft building near US-395 and SR-178. Data center grid load not stated. Kern County and IWV Groundwater Authority permits still needed."
+  },
+  {
+    "id": "ca-santa-clara-microsoft-san-jose-alviso",
+    "name": "Microsoft San Jose Data Center (Alviso-Milpitas Road)",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2019-11-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 99,
+        "unit": "MW maximum electrical load (estimated load about 77 MW)",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/reciprocating-engine/san-jose-data-center",
+        "date": "2022-07-14"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Grid; backup from 224 x 0.45 MW renewable natural gas generators plus two Tier 4 diesel admin generators",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/reciprocating-engine/san-jose-data-center",
+        "date": "2022-07-14"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Recycled water (non-potable treated wastewater)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "'Full-on Backlash' Against Data Centers Occurring as San José Courts Them",
+        "outlet": "KQED",
+        "url": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+        "date": "2026-09-14",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1657 Alviso-Milpitas Road. CEC docket 19-SPPE-04, exemption adopted 2022-07-14. KQED (Sept 2026) says under construction. City of San Jose file CP23-016 (4160 Zanker Rd / 1657 Alviso-Milpitas): two single-story data center buildings ~397,205 sq ft plus ~98,600 sq ft substation, 99 MW max, recycled water cooling."
+  },
+  {
+    "id": "ca-santa-clara-microsoft-sjdc04",
+    "name": "San Jose Data Center 04 (SJDC 04)",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.381513,
+    "lng": -121.931426,
+    "stage": "announced",
+    "announced": "2022",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 97.8,
+        "unit": "MW total maximum electrical demand",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center-04",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "NW corner of Orchard Parkway and Component Drive (APNs 101-02-019, -020). Two four-story buildings ~315,639 sq ft each. CEC docket 22-SPPE-02 under review. Doubt: PG&E's reported filing to serve a 'Microsoft 90 MW San Jose data center' is probably this project (unconfirmed). Same project as City of San Jose file CP23-008, 2549 Orchard Parkway (submitted 2022-11-15, still under review): two four-story data center buildings ~630,000 sq ft, customer-owned substation.",
+    "pin_address": "2549 Orchard Parkway, San Jose, CA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center-04"
+  },
+  {
+    "id": "ca-santa-clara-google-north-san-jose",
+    "name": "Google North San Jose campus (250 MW load)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose (North San Jose / Alviso)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-12-18",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 250,
+        "unit": "MW new transmission-level load at 230 kV (PG&E agreement)",
+        "kind": "real",
+        "source": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M607/K718/607718746.PDF",
+        "date": "2026-08-14"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PG&E (exceptional case agreement, Advice Letter 7785-E; CPUC Draft Resolution E-5455)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M607/K718/607718746.PDF",
+        "date": "2026-08-14"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "TURN raised concerns about rates, who pays for grid upgrades and fossil power; draft resolution would require a first-ever upfront advance (~$600,000/MW, about $150M)",
+        "source": "https://spectrumnews1.com/ca/la/politics/2026/10/10/mega-data-center-environment-cost-power-consumption",
+        "date": "2026-10-11"
+      }
+    ],
+    "news": [
+      {
+        "title": "Proposed mega data center in Silicon Valley raises energy and environmental concerns",
+        "outlet": "Spectrum News 1",
+        "url": "https://spectrumnews1.com/ca/la/politics/2026/10/10/mega-data-center-environment-cost-power-consumption",
+        "date": "2026-10-11",
+        "tone": "neutral"
+      },
+      {
+        "title": "'Full-on Backlash' Against Data Centers Occurring as San José Courts Them",
+        "outlet": "KQED",
+        "url": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+        "date": "2026-09-14",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Google says the site is for R&D / internal chip engineering, not a data center, and will mainly use recycled water; the CPUC item describes a 250 MW data center load. CPUC vote repeatedly postponed (Aug 13 -> Sept 3 -> Oct 8, 2026); outcome not confirmed."
+  },
+  {
+    "id": "ca-santa-clara-prologis-silver-creek",
+    "name": "Silver Creek Data Center",
+    "owner": "Prologis",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.257316,
+    "lng": -121.788002,
+    "stage": "announced",
+    "announced": "2026",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 99,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://sanjosespotlight.com/data-center-developers-share-plans-at-san-jose-town-hall/",
+        "date": "2026-10-02"
+      },
+      "acres": {
+        "value": 15.13,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/silver-creek-backup-generating-facility-scbgf",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PG&E (new Hellyer Switching Station at 455 Piercey Road)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/silver-creek-backup-generating-facility-scbgf",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "South San Jose resident Ken Thompson opposes the project over diesel emissions and low-frequency noise",
+        "source": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+        "date": "2026-09-14"
+      }
+    ],
+    "news": [
+      {
+        "title": "Data center developers share plans at San Jose town hall",
+        "outlet": "San Jose Spotlight",
+        "url": "https://sanjosespotlight.com/data-center-developers-share-plans-at-san-jose-town-hall/",
+        "date": "2026-10-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "5977 Silver Creek Valley Road. ~516,000 sq ft, 44 diesel backup generators (up to 99 MW backup). CEC docket 26-SPPE-02 under review. City of San Jose file SP26-016 (submitted 2026-07-13), 99 MW max electrical load.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/silver-creek-backup-generating-facility-scbgf",
+    "pin_address": "5977 SILVER CREEK VALLEY RD, SAN JOSE, CA, 95138"
+  },
+  {
+    "id": "ca-santa-clara-gic-northtown",
+    "name": "NorthTown Data Center",
+    "owner": "GIC San Jose, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 28.5,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/northtown-backup-generating-facility",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PG&E (new switching station; 115-34.5 kV project substation, 105 MVA effective)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/northtown-backup-generating-facility",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "SW corner of West Trimble Road and Orchard Parkway. CEC docket 25-SPPE-02 under review: 42 diesel generators, up to 97.3 MW backup. Owner LLC name only; parent not confirmed (possibly Goodman, same 'GIC' naming as Vernon project)."
+  },
+  {
+    "id": "ca-los-angeles-gic-goodman-energy-park",
+    "name": "Goodman Energy Park Data Center",
+    "owner": "GIC Vernon LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "Vernon",
+    "lat": 34.005568,
+    "lng": -118.217521,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Vernon Public Utilities (new VPU switching station on site)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/vernon-backup-generating-facility-vbgf",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Two buildings at 3163 and 3049 East Vernon Avenue. CEC docket 25-SPPE-01 under review: 40 diesel generators, up to 99 MW backup. Project name suggests Goodman Group; parent not confirmed.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/vernon-backup-generating-facility-vbgf",
+    "pin_address": "3163 E VERNON AVE, VERNON, CA, 90058"
+  },
+  {
+    "id": "ca-contra-costa-avaio-pittsburg",
+    "name": "AVAIO Pittsburg Data Hub",
+    "owner": "AVAIO Digital Partners I, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Contra Costa County",
+    "town": "Pittsburg",
+    "lat": 38.013517,
+    "lng": -121.910936,
+    "stage": "permitted",
+    "announced": "2025-10-14",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 22.31,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/avaio-pittsburg-backup-generating-facility-pbgf",
+        "date": "2025-11-21"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Pittsburg Power Company",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/avaio-pittsburg-backup-generating-facility-pbgf",
+        "date": "2025-11-21"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2232 Golf Club Road. ~347,740 sq ft three-story building. CEC docket 24-SPPE-01, exempted (final IS/MND 2025-11-21): 37 x 3 MW diesel generators, up to 92 MW backup. Owner via subsidiary Pittsburg Data Hub, LLC.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/avaio-pittsburg-backup-generating-facility-pbgf",
+    "pin_address": "2232 GOLF CLUB RD, PITTSBURG, CA, 94565"
+  },
+  {
+    "id": "ca-alameda-stack-svy03a",
+    "name": "STACK SVY03A Data Center Campus",
+    "owner": "STACK Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Alameda County",
+    "town": "Hayward",
+    "lat": 37.6282,
+    "lng": -122.119521,
+    "stage": "permitted",
+    "announced": "2023",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PG&E (new switching station)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/stack-svy03a-data-center-campus",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "26203 Production Avenue. Two buildings. CEC docket 23-SPPE-01 exempted: 28 generators, up to 76.6 MW backup = campus max electricity need. Construction status not confirmed.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/stack-svy03a-data-center-campus",
+    "pin_address": "26203 PRODUCTION AVE, HAYWARD, CA, 94545"
+  },
+  {
+    "id": "ca-santa-clara-stack-svy01",
+    "name": "STACK SVY01 Campus",
+    "owner": "STACK Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.402855,
+    "lng": -121.88404,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 100,
+        "unit": "MW campus capacity (4 buildings: 9, 32, 36, 24 MW)",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/silicon-valley/svy01/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 19,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/silicon-valley/svy01/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Air-cooled (no significant potable water use)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company page; address not shown. Possible overlap with STACK Trade Zone Park record. SVY01A: 9 MW, 140,000 sq ft (STACK brochure https://www.stackinfra.com/wp-content/uploads/2025/04/SVY01A-2-Pager.pdf). Brochure map places SVY01A-D next to the Advanced Manufacturing building of the Trade Zone Park project (1849 Fortune Dr / 2000 Trade Zone Blvd / 2400 Ringwood Ave, San Jose): ca-santa-clara-stack-trade-zone is the same campus; merge recommended. Merged 2026-10-15 with the former \"STACK Trade Zone\" record (same campus per STACK's SVY01A map): Trade Zone Blvd and Ringwood Ave. CEC docket 21-SPPE-02, exemption granted 2023-04-12: up to 91 MW backup for two data center buildings plus an advanced manufacturing building. Possible duplicate of STACK SVY01 (San Jose) - could not confirm SVY01 address. City of San Jose PD22-001 (1849 Fortune Dr, 2000 Trade Zone Blvd, 2400 Ringwood Ave): two data centers ~522,194 sq ft plus ~136,573 sq ft manufacturing building; approved 2023-05-09. DUPLICATE: STACK's SVY01A brochure map (https://www.stackinfra.com/wp-content/uploads/2025/04/SVY01A-2-Pager.pdf) shows SVY01A-D on one site with the Advanced Manufacturing building, so Trade Zone Park is part of the SVY01 campus. Recommend merging this record into ca-santa-clara-stack-svy01.",
+    "pin_address": "2000 Trade Zone Blvd, San Jose, CA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects"
+  },
+  {
+    "id": "ca-santa-clara-stack-svy02",
+    "name": "STACK SVY02 (former Memorex HQ)",
+    "owner": "STACK Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 48,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/silicon-valley/svy02/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 9,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/silicon-valley/svy02/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Silicon Valley Power",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://finance.yahoo.com/news/silicon-valley-data-centers-totalling-123621082.html",
+        "date": "2025-11"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Silicon Valley data centers totalling nearly 100MW could 'sit empty for years' due to lack of power",
+        "outlet": "Tom's Hardware via Yahoo Finance (citing Bloomberg)",
+        "url": "https://finance.yahoo.com/news/silicon-valley-data-centers-totalling-123621082.html",
+        "date": "2025-11",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Building complete but not powered; Bloomberg reported it and Digital Realty SJC37 may sit empty for years while Silicon Valley Power upgrades its grid. Stage set to 'building' (complete, awaiting power). News date approximate (month)."
+  },
+  {
+    "id": "ca-santa-clara-vantage-ca1",
+    "name": "Vantage Santa Clara I (CA1)",
+    "owner": "Vantage Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.37273,
+    "lng": -121.972052,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 77,
+        "unit": "MW critical IT load",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-i-california/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 21,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-i-california/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Chilled water loops, outside air; campus uses gray water for cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-i-california/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Six multi-story data centers, 335,000+ sq ft; three 50 MW substations on site.",
+    "pin_source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-i-california/",
+    "pin_address": "2820 NORTHWESTERN PKWY, SANTA CLARA, CA, 95051"
+  },
+  {
+    "id": "ca-santa-clara-vantage-ca2",
+    "name": "Vantage Santa Clara II (CA2) / McLaren Data Center",
+    "owner": "Vantage Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.363224,
+    "lng": -121.947369,
+    "stage": "permitted",
+    "announced": "2017-12-26",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 75,
+        "unit": "MW critical IT load",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-ii-california/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 9,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-ii-california/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Chilled water loop with integrated economizer",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-ii-california/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Merged with CEC 'McLaren Data Center' (17-SPPE-01, exemption approved 2018-11-07: three four-story buildings, ~541,000 gsf, 8.97 acres, 47 generators up to 98.67 MW backup) - same description as CA2. Company page still written in future tense; likely running but not confirmed, so stage left at 'permitted'.",
+    "pin_source": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-ii-california/",
+    "pin_address": "737 MATHEW ST, SANTA CLARA, CA, 95050"
+  },
+  {
+    "id": "ca-santa-clara-vantage-ca3",
+    "name": "Vantage Santa Clara III (CA3)",
+    "owner": "Vantage Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.371288,
+    "lng": -121.974047,
+    "stage": "permitted",
+    "announced": "2021-04-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 64,
+        "unit": "MW critical IT capacity",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center/santa-clara-iii-california/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 8,
+        "unit": "acres (nearly)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center/santa-clara-iii-california/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Silicon Valley Power",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/data-center/santa-clara-iii-california/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2590 Walsh Avenue. Same site as CEC 'CA3 Backup Generating Facility' (21-SPPE-01, exempted 2022; 44 x 2.75 MW diesel generators, up to 96 MW backup). Company page in future tense; stage not confirmed beyond permitted.",
+    "pin_source": "https://vantage-dc.com/data-center/santa-clara-iii-california/",
+    "pin_address": "2590 WALSH AVE, SANTA CLARA, CA, 95051"
+  },
+  {
+    "id": "ca-santa-clara-digital-realty-santa-clara",
+    "name": "Digital Realty Santa Clara campus",
+    "owner": "Digital Realty",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.370105,
+    "lng": -121.947492,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Silicon Valley Power",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/lafayette-backup-generating-facility",
+        "date": "2023-11-09"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Silicon Valley data centers totalling nearly 100MW could 'sit empty for years' due to lack of power",
+        "outlet": "Tom's Hardware via Yahoo Finance (citing Bloomberg)",
+        "url": "https://finance.yahoo.com/news/silicon-valley-data-centers-totalling-123621082.html",
+        "date": "2025-11",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company lists a dozen Santa Clara buildings (Space Park Dr, Comstock St, Lafayette St, Alfred St, De La Cruz Blvd, Walsh Ave, Northwestern Pkwy). Includes CEC-exempted Lafayette Data Center (20-SPPE-02, granted 2023-11-09: 576,120 sq ft, 66 MW critical IT, 13.04 acres) and Walsh Data Center at 651 Walsh Ave (19-SPPE-02, applicant 651 Walsh Partners LLC with Digital Realty 10-K as exhibit; 80 MW max building load). SJC37 reported complete but unpowered (Bloomberg); possibly the Lafayette project (unconfirmed). Campus total MW not published. Correction 2026-10-15: SJC37 is at 641 Walsh Ave (4 stories, 399,500 sq ft; https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc37), next to the 651 Walsh CEC project, so it is more likely the Walsh project than Lafayette (unconfirmed). Santa Clara buildings per Digital Realty pages: SC1 2220 De La Cruz Blvd (471,000 sq ft), SJC10 1100 Space Park Dr (163,500), SJC11 3011 Lafayette St (91,000), SJC14 1500 Space Park Dr, SJC15/16/29 Comstock St, SJC30/35 Alfred St, SJC31 2805 Lafayette St (146,000), SJC34 2820 Northwestern Pkwy. Possible duplicate: ca-santa-clara-dupont-fabros-sc1 (555 Reed St, DuPont Fabros, now Digital Realty); addresses differ, not merged.",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc37",
+    "pin_address": "641 WALSH AVE, SANTA CLARA, CA, 95050"
+  },
+  {
+    "id": "ca-santa-clara-c1-sequoia",
+    "name": "Sequoia Data Center",
+    "owner": "Tishman Speyer (bought from CyrusOne, July 2026)",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.366598,
+    "lng": -121.941612,
+    "stage": "permitted",
+    "announced": "2019-08-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 15,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/sequoia-data-center",
+        "date": "2021-06-25"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Tishman Speyer Acquires Santa Clara Data Center Site for $65 Million",
+        "outlet": "Traded",
+        "url": "https://traded.co/blog/tishman-speyer-acquires-santa-clara-data-center-site-for-65-million/",
+        "date": "2026-07-30",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2600 De La Cruz Blvd. ~702,114 sq ft four-story building, 54 diesel generators (96.5 MW backup), 100 MVA substation. CEC docket 19-SPPE-03, exempted (hearing 2021-06-25). Applicant LLC name suggests CyrusOne; not confirmed. Build status unknown. Owner update 2026-10-15: Traded (2026-07-30) reports Tishman Speyer bought 2600 De La Cruz Blvd (15.2 acres, $42.4M) and adjacent 2750 De La Cruz Blvd (8.4 acres, $23M) from CyrusOne for $65.4M; the 2021-approved plan was a 703,000 sq ft, ~96.5 MW data center; buyer's plans not announced. CyrusOne's 2018 SEC prospectus confirms it bought 15 acres in Santa Clara on 2018-08-31 for $52.8M (https://www.sec.gov/Archives/edgar/data/1553023/000104746918006403/a2236788z424b5.htm), so applicant C1-Santa Clara LLC was CyrusOne. CyrusOne's location list no longer shows a California site (https://www.cyrusone.com/data-centers). This record covers the 'CyrusOne Santa Clara' gap; sale rests on one news source.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/sequoia-data-center",
+    "pin_address": "2600 DE LA CRUZ BLVD, SANTA CLARA, CA, 95050"
+  },
+  {
+    "id": "ca-santa-clara-oppidan-mission-college",
+    "name": "Mission College Data Center",
+    "owner": "Oppidan",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.388784,
+    "lng": -121.965171,
+    "stage": "permitted",
+    "announced": "2019-11-25",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Silicon Valley Power (new substation built by Oppidan, owned by SVP)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2305 Mission College Blvd. Two three-story buildings, 490,000 sq ft; 43 x 2.5 MW diesel generators (78.1 MW backup). CEC docket 19-SPPE-05, exempted. End owner/operator and build status not confirmed.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center",
+    "pin_address": "2305 MISSION COLLEGE BLVD, SANTA CLARA, CA, 95054"
+  },
+  {
+    "id": "ca-santa-clara-mecp1-laurelwood",
+    "name": "Laurelwood Data Center",
+    "owner": "MECP1 Santa Clara 1, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2019",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 99,
+        "unit": "MW maximum electrical load incl. IT and cooling",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/laurelwood-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Silicon Valley Power (60 kV onsite substation)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/laurelwood-data-center",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Two multi-story buildings, 56 x 3 MW diesel generators. CEC docket 19-SPPE-01, exempted. Applicant name suggests Menlo Equities; not confirmed. Build status unknown."
+  },
+  {
+    "id": "ca-santa-clara-martin-avenue-properties-martin",
+    "name": "Martin Data Center",
+    "owner": "Martin Avenue Properties, LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2022-11-17",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "651 Martin Avenue. CEC docket 22-SPPE-03, exempted (Notice of Determination filed): 44 x 2.75 MW diesel generators, up to 96 MW backup. Parent company not identified. Build status unknown."
+  },
+  {
+    "id": "ca-santa-clara-dupont-fabros-sc1",
+    "name": "Santa Clara SC-1 Data Center",
+    "owner": "DuPont Fabros Technology (Xeres Ventures, LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.360406,
+    "lng": -121.942322,
+    "stage": "running",
+    "announced": "2008-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "555 Reed Street. CEC docket 11-SPPE-01 (exemption 2012-03-28) for Phase 2; 32 backup generators totaling 72 MW at full build; CEC lists 'power plant on line' 2015. Owner per 2011 filing; current owner not confirmed (DuPont Fabros later merged into Digital Realty, not verified here). Possible duplicate of ca-santa-clara-digital-realty-santa-clara: Digital Realty lists an 'SC1' data center at 2220 De La Cruz Blvd, Santa Clara (https://www.digitalrealty.com/data-centers/americas/silicon-valley/sc1); address differs from 555 Reed St, so not merged.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/santa-clara-sc-1-data-center",
+    "pin_address": "555 REED ST, SANTA CLARA, CA, 95050"
+  },
+  {
+    "id": "ca-santa-clara-equinix-great-oaks-south",
+    "name": "Equinix Great Oaks campus (SV1, SV5, SV10, SV11, SV12x / Great Oaks South)",
+    "owner": "Equinix",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.232669,
+    "lng": -121.78027,
+    "stage": "running",
+    "announced": "2020-03-19",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 99,
+        "unit": "MW maximum (city approval SP15-031 for Great Oaks South, 3 buildings)",
+        "kind": "real",
+        "source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 18,
+        "unit": "acres (approx.)",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/great-oaks-south-generating-facility",
+        "date": "2021-12-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PG&E (new substation)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/great-oaks-south-generating-facility",
+        "date": "2021-12-10"
+      },
+      "cooling_type": {
+        "value": "Air-cooled (no significant potable water use)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "123, 127 and 131 Great Oaks Blvd. Three two-story buildings of 182,350 sq ft each; 36 x 3.25 MW diesel generators (99 MW backup). Applicant SV1, LLC (Equinix subsidiary). CEC docket 20-SPPE-01, final decision 2021-12-10. Build status not confirmed. Update 2026-10-15: Equinix SV12x (hyperscale, 113,000 sq ft colocation) is live at 123 Great Oaks Blvd (https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv12x), so the Great Oaks South buildings are at least partly running; stage changed to running. City of San Jose SP15-031 (127 Great Oaks): three buildings totaling 579,000 sq ft on 18.56 gross acres, 99 MW max, air-cooled, approved 2017-01-12. Record widened to the whole Equinix Great Oaks campus, which Equinix names as such: SV1 11 Great Oaks Blvd (82,850 sq ft), SV5 9 Great Oaks Blvd (93,495), SV10 7 Great Oaks Blvd (107,919), SV11 5 Great Oaks Blvd (121,930). Other Equinix SV sites (SV2 Santa Clara, SV3 San Jose Lundy Ave, SV4 Sunnyvale, SV8 Palo Alto, SV14-16 Santa Clara Corvin Dr) not recorded; MW unpublished.",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/great-oaks-south-generating-facility",
+    "pin_address": "123 GREAT OAKS BLVD, SAN JOSE, CA, 95119"
+  },
+  {
+    "id": "ca-santa-clara-gilroy-data-center",
+    "name": "Gilroy Data Center",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Gilroy",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2020-12-17",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Site east of Arroyo Circle between segments of Camino Arroyo. CEC docket 20-SPPE-03 for 50 x 2.5 MW diesel generators (96 MW backup); applicant (referred to as 'ADS' in docket) withdrew and CEC terminated the proceeding. Owner not identified in what we read."
+  },
+  {
+    "id": "ca-los-angeles-prime-lax01",
+    "name": "Prime Los Angeles Campus LAX01",
+    "owner": "Prime Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "Vernon",
+    "lat": 34.001399,
+    "lng": -118.230279,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 33,
+        "unit": "MW critical power",
+        "kind": "real",
+        "source": "https://primedatacenters.com/locations/los-angeles/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 1.95,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://primedatacenters.com/locations/los-angeles/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "4701 S. Santa Fe Ave; one hyperscale building ~242,495 sq ft, leased. Town per address (Vernon) not stated on page.",
+    "pin_source": "https://primedatacenters.com/locations/los-angeles/",
+    "pin_address": "4701 S SANTA FE AVE, VERNON, CA, 90058"
+  },
+  {
+    "id": "ca-sacramento-prime-smf01",
+    "name": "Prime Sacramento Campus SMF01 (McClellan Park)",
+    "owner": "Prime Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Sacramento County",
+    "town": "McClellan Park",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 26,
+        "unit": "MW critical power at full build (8 MW operating + 18 MW under construction)",
+        "kind": "real",
+        "source": "https://primedatacenters.com/locations/sacramento/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 8.64,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://primedatacenters.com/locations/sacramento/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2407 and 2408 AK Street. SMF01-01 operating (8 MW), SMF01-02 under construction (18 MW)."
+  },
+  {
+    "id": "ca-sacramento-ntt-sacramento",
+    "name": "NTT Sacramento campus (CA1, CA2, CA3)",
+    "owner": "NTT DATA (Global Data Centers Americas, formerly RagingWire)",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Sacramento County",
+    "town": "Sacramento",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 52.7,
+        "unit": "MW critical IT load (campus, 3 data centers)",
+        "kind": "real",
+        "source": "https://www.nttdata.com/en-us/services/global-data-centers/global-locations/americas/sacramento-data-centers",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Option of 100% green energy; CA3 powered by 100% green energy (supplier not named)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nttdata.com/en-us/services/global-data-centers/global-locations/americas/sacramento-data-centers",
+        "date": "2026-10-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Three data centers (CA1, CA2, CA3); 266,000 sq ft of total data floor space (NTT page). Street address not on NTT's page (trackers list Striker Ave / National Dr; not used). Promoted from lead ca-sacramento-ntt-sacramento."
+  },
+  {
+    "id": "ca-santa-clara-coresite-santa-clara",
+    "name": "CoreSite Santa Clara campus (SV3-SV9)",
+    "owner": "CoreSite",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.376338,
+    "lng": -121.970242,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Silicon Valley Power (SV9 has an onsite 2N Silicon Valley Power substation)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.coresite.com/data-center/sv9-santa-clara-ca",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Santa Clara campus holds SV3, SV4, SV5, SV6, SV7, SV8 and SV9 (SV4 2972 Stender Way 101,000+ sq ft; SV7 3020 Coronado Dr 227,000+ sq ft; SV8 3035 Stender Way 161,000+ sq ft; SV9 2915 Stender Way 228,000+ sq ft, newest), per https://www.coresite.com/data-centers/locations/silicon-valley. CoreSite's whole Silicon Valley footprint (incl. SV1 San Jose 55 S. Market St and SV2 Milpitas 1656 McCarthy Blvd, not in this record) is 1.4M+ sq ft. Campus MW not published; size threshold judged from floor area. CoreSite's parent (American Tower) not re-checked here.",
+    "pin_source": "https://www.coresite.com/data-centers/locations/silicon-valley",
+    "pin_address": "2972 STENDER WAY, SANTA CLARA, CA, 95054"
+  },
+  {
+    "id": "ca-los-angeles-coresite-la-campus",
+    "name": "CoreSite Los Angeles campus (LA1, LA2, LA3)",
+    "owner": "CoreSite",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "Los Angeles",
+    "lat": 34.058136,
+    "lng": -118.236994,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 18,
+        "unit": "MW capacity of LA3 only (LA1, LA2 not published)",
+        "kind": "real",
+        "source": "https://www.coresite.com/data-center/la3-los-angeles-ca",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Per https://www.coresite.com/data-centers/locations/los-angeles: LA1 at One Wilshire, 624 S. Grand Ave (171,000+ sq ft); LA2 900 N. Alameda St (432,000+ sq ft); LA3 200 Bauchet St (160,000+ sq ft; first phase 51,000 sq ft / 6 MW opened Dec 2020). 763K+ sq ft total. LA1 is about 1.5 miles from LA2/LA3; kept as one record because CoreSite calls them its LA campus.",
+    "pin_source": "https://www.coresite.com/data-centers/locations/los-angeles",
+    "pin_address": "900 N ALAMEDA ST, LOS ANGELES, CA, 90012"
+  },
+  {
+    "id": "ca-los-angeles-digital-realty-lax10",
+    "name": "Digital Realty LAX10 (600 West 7th Street)",
+    "owner": "Digital Realty",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "Los Angeles",
+    "lat": 34.047281,
+    "lng": -118.25669,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "600 West 7th Street, downtown Los Angeles: 7-story, 489,500 sq ft building, carrier hotel with 25+ network providers (https://www.digitalrealty.com/data-centers/americas/los-angeles/lax10). Equinix LA1 (6th and 7th floors, 60,719 sq ft colocation) is inside this building and is not a separate record. MW not published.",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/los-angeles/lax10",
+    "pin_address": "600 W 7TH ST, LOS ANGELES, CA, 90017"
+  },
+  {
+    "id": "ca-los-angeles-digital-realty-el-segundo",
+    "name": "Digital Realty El Segundo (LAX11, LAX12)",
+    "owner": "Digital Realty",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "El Segundo",
+    "lat": 33.918074,
+    "lng": -118.387349,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "LAX11 at 200 North Nash Street (2 levels, 113,500 sq ft; https://www.digitalrealty.com/data-centers/americas/los-angeles/lax11) and LAX12 at 2260 East El Segundo Boulevard (2 stories, 129,000 sq ft; .../lax12), El Segundo. Grouped as one El Segundo record (about a mile apart); split if sources treat them separately. MW not published. Digital Realty BUR10 (3015 Winona Ave, Burbank, 82,500 sq ft) not recorded (small).",
+    "pin_source": "https://www.digitalrealty.com/data-centers/americas/los-angeles/lax11",
+    "pin_address": "200 N NASH ST, EL SEGUNDO, CA, 90245"
+  },
+  {
+    "id": "ca-los-angeles-equinix-el-segundo",
+    "name": "Equinix El Segundo (LA3, LA4)",
+    "owner": "Equinix",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "El Segundo",
+    "lat": 33.926858,
+    "lng": -118.394155,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "LA3 at 1920 East Maple Avenue (78,318 sq ft colocation) and LA4 at 445 North Douglas Street (77,263 sq ft colocation), El Segundo (https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/los-angeles-data-centers/la3 and /la4). MW not published. Equinix LA7 (1501 Francisco Street, 74,981 sq ft) not recorded; LA1 sits inside Digital Realty LAX10.",
+    "pin_source": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/los-angeles-data-centers/la3",
+    "pin_address": "1920 E MAPLE AVE, EL SEGUNDO, CA, 90245"
+  },
+  {
+    "id": "ca-santa-clara-gi-partners-bowers",
+    "name": "Bowers Data Center",
+    "owner": "GI Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": 37.372379,
+    "lng": -121.976505,
+    "stage": "permitted",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 72,
+        "unit": "MW backup generating capacity (CEC exemption)",
+        "kind": "real",
+        "source": "https://www.energy.ca.gov/powerplant/backup-generating-system/bowers-backup-generating-facility",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2805 Bowers Avenue, Santa Clara. CEC Small Power Plant Exemption docket 22-SPPE-01, status Exempted. Build status not confirmed; CEC page lists no dates.",
+    "pin_address": "2805 Bowers Avenue, Santa Clara, CA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.energy.ca.gov/powerplant/backup-generating-system/bowers-backup-generating-facility"
+  },
+  {
+    "id": "ca-kern-crc-golden-valley-tech-hub",
+    "name": "Golden Valley Technology Hub",
+    "owner": "California Resources Corp. (with Beacon Data Centers)",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Kern County",
+    "town": "Taft (Elk Hills)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 275,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://labusinessjournal.com/featured/crc-expands-beyond-oilfield/",
+        "date": "2026-08-31"
+      },
+      "acres": {
+        "value": 100,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://labusinessjournal.com/featured/crc-expands-beyond-oilfield/",
+        "date": "2026-08-31"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Existing cogeneration power plant at Elk Hills (mostly or entirely), not the grid",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://labusinessjournal.com/featured/crc-expands-beyond-oilfield/",
+        "date": "2026-08-31"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop system, minimal evaporation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://labusinessjournal.com/featured/crc-expands-beyond-oilfield/",
+        "date": "2026-08-31"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "CRC expands beyond oilfield",
+        "outlet": "Los Angeles Business Journal",
+        "url": "https://labusinessjournal.com/featured/crc-expands-beyond-oilfield/",
+        "date": "2026-08-31",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center in west Kern would likely tap nearby power plant, carbon storage",
+        "outlet": "The Bakersfield Californian",
+        "url": "https://www.bakersfield.com/news/data-center-in-west-kern-would-likely-tap-nearby-power-plant-carbon-storage/article_ccd4361c-ffb8-4fe1-b445-4328df380986.amp.html",
+        "date": "2026-05-28",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "About 400,000 sq ft incl. substation, offices, parking (KERO 23). Beacon Data Centers (Calgary) funds early-stage development. CRC has applied for a Kern County conditional use permit; environmental review expected to start later in 2026 (LABJ 2026-08-31). Conflict: Bakersfield Californian (2026-05-28) described a CRC data center idea tied to Capital Power's McKittrick plant with no application filed yet; may be an earlier stage of the same idea. Promoted from lead ca-kern-crc-golden-valley-tech-hub."
+  },
+  {
+    "id": "ca-santa-clara-menlo-digital-great-oaks",
+    "name": "Menlo Digital South San Jose data center (5601 Great Oaks Parkway)",
+    "owner": "Menlo Digital",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.25065,
+    "lng": -121.795226,
+    "stage": "announced",
+    "announced": "2026-08-10",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 99,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://sanjosespotlight.com/data-center-developers-share-plans-at-san-jose-town-hall/",
+        "date": "2026-10-02"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Air-cooled, closed-loop",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sanjosespotlight.com/data-center-developers-share-plans-at-san-jose-town-hall/",
+        "date": "2026-10-02"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center developers share plans at San Jose town hall",
+        "outlet": "San Jose Spotlight",
+        "url": "https://sanjosespotlight.com/data-center-developers-share-plans-at-san-jose-town-hall/",
+        "date": "2026-10-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City file SP26-022 (submitted 2026-08-10): Special Use Permit for a 444,436 sq ft data center with on-site substation and public open space at 5601 Great Oaks Parkway; environmental review under CEC (https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects). San Jose Spotlight (2026-10-02) describes Menlo Digital's 444,400 sq ft, 99 MW data center on Charlotte Drive between Lexington Ave and Raleigh Rd; matched to SP26-022 by size and location (our judgment). Promoted from lead ca-santa-clara-menlo-digital-charlotte.",
+    "pin_address": "5601 Great Oaks Parkway, San Jose, CA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects"
+  },
+  {
+    "id": "ca-santa-clara-326-charcot",
+    "name": "326 Charcot Avenue data center (SP26-026)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.381801,
+    "lng": -121.915781,
+    "stage": "announced",
+    "announced": "2026-09-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City file SP26-026 (submitted 2026-09-02): Special Use Permit to demolish 5 buildings and build a ~514,000 sq ft, 3-story data center; environmental review under the CEC (CEC reviews backup plants of 50-100 MW). Applicant not listed. Promoted from lead ca-santa-clara-326-charcot. Source: https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_address": "326 CHARCOT AVE, SAN JOSE, CA, 95131"
+  },
+  {
+    "id": "ca-santa-clara-180-park-avenue",
+    "name": "180 Park Avenue data center (PD25-015)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.331264,
+    "lng": -121.891213,
+    "stage": "announced",
+    "announced": "2025-08-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City file PD25-015 (submitted 2025-08-12), downtown San Jose: Option B would build an 11-story, 299-ft data center with two underground levels for a substation and water tank room (~457,125 sq ft); Option A keeps an existing entitlement (SP20-032). Applicant and MW not listed. Source: https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_address": "180 PARK AVE, SAN JOSE, CA, 95110"
+  },
+  {
+    "id": "ca-santa-clara-300-south-first",
+    "name": "300 South 1st Street data center (PD25-013)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.33142,
+    "lng": -121.886956,
+    "stage": "announced",
+    "announced": "2024-10-17",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City file PD25-013 (submitted 2024-10-17), downtown San Jose: demolish a 58,362 sq ft office building and build a 7-story, 200-ft, ~238,000 sq ft data center plus three 30-story towers. Applicant and MW not listed; size threshold judged from floor area (doubt). Source: https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_address": "300 S 1ST ST, SAN JOSE, CA, 95113"
+  },
+  {
+    "id": "ca-santa-clara-350-west-trimble",
+    "name": "350 W Trimble data center (CP23-013)",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.382509,
+    "lng": -121.934939,
+    "stage": "announced",
+    "announced": "2025-06-30",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City file CP23-013 (listed date 2025-06-30): Conditional Use Permit for a ~206,250 sq ft, 81-ft data center building, 50-ft water tank, 21 generators and a private substation at 350 W Trimble. Applicant and MW not listed; size threshold judged from floor area (doubt). Appears distinct from NorthTown (SW corner of W Trimble Rd and Orchard Pkwy, 42 generators). Source: https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_source": "https://www.sanjoseca.gov/your-government/departments-offices/planning-building-code-enforcement/planning-division/data-center-and-other-large-energy-use-projects",
+    "pin_address": "350 W TRIMBLE RD, SAN JOSE, CA, 95131"
+  },
+  {
+    "id": "ca-santa-clara-prologis-rwf-buffer-lands",
+    "name": "Prologis data center and manufacturing campus (Regional Wastewater Facility buffer lands)",
+    "owner": "Prologis",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose (North San Jose, Hwy 237 and Zanker Rd)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 159,
+        "unit": "acres (city-owned wastewater facility buffer land)",
+        "kind": "real",
+        "source": "https://www.sanjoseinside.com/news/prologis-inc-wins-bid-for-one-of-the-largest-economic-development-projects-in-south-bay/",
+        "date": "2025-11-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "PG&E (first 250 MW of available power)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sanjoseinside.com/news/prologis-inc-wins-bid-for-one-of-the-largest-economic-development-projects-in-south-bay/",
+        "date": "2025-11-10"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Prologis Inc. wins bid for one of the largest economic development projects in South Bay",
+        "outlet": "San Jose Inside",
+        "url": "https://www.sanjoseinside.com/news/prologis-inc-wins-bid-for-one-of-the-largest-economic-development-projects-in-south-bay/",
+        "date": "2025-11-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "'Full-on backlash' against data centers occurring as San Jose courts them",
+        "outlet": "KQED",
+        "url": "https://www.kqed.org/news/12099195/full-on-backlash-against-data-centers-occurring-as-san-jose-courts-them",
+        "date": "2026-09-14",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "City picked Prologis as preferred developer for a data center and advanced manufacturing campus on 159 acres of San Jose-Santa Clara Regional Wastewater Facility buffer land; council hearing set for 2025-11-18 on an agreement with milestones and key terms; city estimates $30M a year in tax revenue. Environmental review, hearings and final ground leases (both San Jose and Santa Clara councils) still required. Total MW differs by source: KQED ~496 MW across data centers and research facilities; trade press ~396 MW (not used). Promoted from lead ca-santa-clara-prologis-wastewater-buffer. City estimates about 6,000 jobs for the whole campus (data centers plus manufacturing; not stated as permanent)."
+  },
+  {
+    "id": "ca-santa-clara-terra-ventures-terra",
+    "name": "Terra Data Center (4701 North First Street)",
+    "owner": "Terra Ventures",
+    "operator": null,
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose (Alviso)",
+    "lat": 37.377451,
+    "lng": -121.92149,
+    "stage": "announced",
+    "announced": "2023-08-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 9.3,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://datacenterdynamics.com/en/news/natural-gas-powered-data-center-pitched-in-san-jose-california",
+        "date": "2025-04-01"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Natural gas fuel cells (Bloom Energy) as primary power, grid reactive; fuel-cell heat drives absorption chillers",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenterdynamics.com/en/news/natural-gas-powered-data-center-pitched-in-san-jose-california",
+        "date": "2025-04-01"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Natural gas-powered data center pitched in San Jose, California",
+        "outlet": "DatacenterDynamics",
+        "url": "https://datacenterdynamics.com/en/news/natural-gas-powered-data-center-pitched-in-san-jose-california",
+        "date": "2025-04-01",
+        "tone": "neutral"
+      },
+      {
+        "title": "Energy Plant + Data Center Proposed at 4701 North First Street, San Jose",
+        "outlet": "San Francisco YIMBY",
+        "url": "https://sfyimby.com/category/terra-ventures",
+        "date": "2025-04-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "4701 North First Street (Alviso). Re-filed with San Jose planning in 2025: three-story ~295,100 sq ft data center plus ~167,400 sq ft energy supply hub on a 9.3-acre site bounded by North First St, Anderson Alley, Top Golf Dr and Liberty St (DCD 2025-04-01); first filed 2023 (SF YIMBY 2023-08-07, 2025-04-07). Replaces approved hotel/Topgolf plans. Trackers say 417 MW (not used). Not on the city's current data center application list as read 2026-10-15 (status unclear; may be listed under another file). Promoted from lead ca-santa-clara-terra-ventures-alviso.",
+    "pin_address": "4701 North First Street, San Jose, CA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://datacenterdynamics.com/en/news/natural-gas-powered-data-center-pitched-in-san-jose-california"
+  },
+  {
+    "id": "ca-san-francisco-digital-realty-200-paul",
+    "name": "Digital Realty SFO10 (200 Paul Avenue)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "CA",
+    "county": "San Francisco County",
+    "town": "San Francisco",
+    "lat": 37.722945,
+    "lng": -122.397716,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "200 Paul Avenue, San Francisco; total building size 495,000 sq ft (https://www.digitalrealty.com/data-centers/americas/silicon-valley/sfo10). Digital Realty 10-K lists 5 San Francisco buildings, 844,000 net rentable sq ft (https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ca-san-francisco-digital-realty-365-main",
+    "name": "Digital Realty SFO12 (365 Main Street)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "CA",
+    "county": "San Francisco County",
+    "town": "San Francisco",
+    "lat": 37.788616,
+    "lng": -122.390817,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "365 Main Street, San Francisco; total building size 227,000 sq ft (https://www.digitalrealty.com/data-centers/americas/silicon-valley/sfo12). About 4 miles from 200 Paul Ave, so a separate record. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ca-alameda-digital-realty-oak10",
+    "name": "Digital Realty OAK10 Oakland (720 2nd Street)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "CA",
+    "county": "Alameda County",
+    "town": "Oakland",
+    "lat": 37.798563,
+    "lng": -122.282585,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "720 2nd Street, Oakland; total building size 122,000 sq ft (https://www.digitalrealty.com/data-centers/americas/silicon-valley/oak10). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ca-santa-clara-coresite-sv1-san-jose",
+    "name": "CoreSite SV1 San Jose (55 S. Market Street)",
+    "owner": "CoreSite (American Tower)",
+    "operator": "CoreSite (American Tower)",
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "San Jose",
+    "lat": 37.334512,
+    "lng": -121.891429,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "55 S. Market St, downtown San Jose; 320,000+ sq ft (https://www.coresite.com/data-centers/locations/silicon-valley). Not part of ca-santa-clara-coresite-santa-clara (Stender Way / Coronado Dr campus). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "ca-santa-clara-centersquare-santa-clara",
+    "name": "Centersquare Santa Clara (SFO1, SFO2)",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "CA",
+    "county": "Santa Clara County",
+    "town": "Santa Clara",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 77.7,
+        "unit": "MW utility power (34.5 + 43.2)",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/silicon-valley",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Santa Clara data center 'comprised of SFO1 and SFO2': 95,981 sq ft raised floor / 34.5 MW utility and 100,056 sq ft / 43.2 MW utility (https://www.csquare.com/data-centers/silicon-valley). Santa Clara SFO4 (57,450 sq ft, 43.1 MW utility) is a separate building whose location relative to SFO1/SFO2 is not given; not split out. Sunnyvale SFO3 (8.6 MW utility) is small. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  },
+  {
+    "id": "ca-orange-centersquare-irvine",
+    "name": "Centersquare Irvine LAX3",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "CA",
+    "county": "Orange County",
+    "town": "Irvine",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 24.9,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/los-angeles",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Irvine LAX3: 73,952 sq ft raised floor, 24.9 MW utility power (https://www.csquare.com/data-centers/los-angeles). Irvine LAX5 (52,470 sq ft, 17.3 MW utility) is a second Irvine building, not included. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  },
+  {
+    "id": "ca-los-angeles-centersquare-hawthorne",
+    "name": "Centersquare Hawthorne LAX4",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "CA",
+    "county": "Los Angeles County",
+    "town": "Hawthorne",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25.9,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/los-angeles",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Hawthorne LAX4, under 6 miles from LAX: 22,987 sq ft raised floor, 25.9 MW utility power (https://www.csquare.com/data-centers/los-angeles). Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  }
+]

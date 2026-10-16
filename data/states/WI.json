@@ -1,0 +1,183 @@
+{
+  "state": "WI",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales and use tax exemption",
+      "law": "2023-25 state budget (2023 Wisconsin Act 19); from a 2023 bill by Sen. Romaine Quinn and Rep. Shannon Zimmerman",
+      "what": "Exempts certified data centers from the 5% state and local sales taxes on purchases to build and equip facilities",
+      "value_known": "Legislative Fiscal Bureau: about $1.5B forgone during construction plus $369M per year once built (more than $2B total) for Beaver Dam, Mount Pleasant, Port Washington and Epic (Verona)",
+      "source": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-tax-break-to-cost-state-more-than-2-billion-lost-revenue/",
+      "date": "2026-04-24"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "6630-TE-113",
+      "regulator": "Public Service Commission of Wisconsin",
+      "utility": "We Energies (Wisconsin Electric Power Co.)",
+      "what": "Very Large Customer (VLC) and Bespoke Resources tariffs for data centers. Approved with changes Apr 24, 2026: 15-year minimum term, threshold lowered from 500 MW to 100 MW, VLCs pay 100% of generation costs, transmission cost protections. We Energies asked to reopen June 10; Oracle sued over credit-rating rules.",
+      "site_ids": [
+        "wi-ozaukee-vantage-port-washington",
+        "wi-racine-microsoft-mount-pleasant"
+      ],
+      "status": "decided (litigation pending)",
+      "url": "https://psc.wi.gov/Documents/PressReleases/04.24.2026PressRelease.PDF",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6680-TE-115",
+      "regulator": "Public Service Commission of Wisconsin",
+      "utility": "Alliant Energy (Wisconsin Power and Light)",
+      "what": "Electric Service Agreement to serve the Beaver Dam data center; approved with a stronger termination charge and safeguards May 7, 2026; Alliant ordered to file a standalone large load tariff",
+      "site_ids": [
+        "wi-dodge-meta-beaver-dam"
+      ],
+      "status": "decided",
+      "url": "https://psc.wi.gov/Documents/PressReleases/05.08.26PressRelease.PDF",
+      "date": "2026-05-07"
+    },
+    {
+      "id": null,
+      "regulator": "Public Service Commission of Wisconsin",
+      "utility": "Northern States Power Co.-Wisconsin (Xcel Energy)",
+      "what": "NSP asked the PSC for its own very large customer rate structure (credit bar BBB-); docket number not found",
+      "site_ids": [],
+      "status": "filed",
+      "url": "https://wisconsinwatch.org/2026/06/oracle-sues-wisconsin-regulators-data-center-credit-requirements-public-service-commission/",
+      "date": "2026-06-23"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "2025 AB 1036 / SB 969 (ban on data center NDAs; Rep. Clint Moses)",
+      "status": "failed",
+      "what": "Would prohibit nondisclosure agreements intended to conceal information about a data center from the public. Introduced Feb 13, 2026; failed to pass Mar 23, 2026 when the session ended.",
+      "source": "https://docs.legis.wisconsin.gov/document/session/2025/REG/AB1036",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "2025 AB 840 / SB 843 (data center requirements; Rep. Zimmerman, Sen. Quinn)",
+      "status": "failed",
+      "what": "Would keep costs of infrastructure mainly serving a data center off other ratepayers, require on-site renewables serving the load, closed-loop cooling, annual water-use reports to DNR and reclamation bonds. Passed the Assembly 53-44 on Jan 20, 2026; Senate committee recommended concurrence 3-2; Senate failed to concur Mar 23, 2026 (session ended).",
+      "source": "https://docs.legis.wisconsin.gov/document/session/2025/REG/AB840",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "2025 AB 472 / SB 502 (nuclear tax credit; very large customer tariffs)",
+      "status": "failed",
+      "what": "Nuclear generation tax credit plus PSC approval of electric tariffs for very large customers. Passed the Assembly 86-11 on Jan 22, 2026; Senate failed to concur Mar 23, 2026.",
+      "source": "https://docs.legis.wisconsin.gov/document/session/2025/REG/AB472",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "2025 AB 1162 (very large customer class; Rep. Spaude)",
+      "status": "failed",
+      "what": "Would have the PSC create a very large customer class for electric utilities. Introduced Mar 19, 2026; failed to pass Mar 23, 2026.",
+      "source": "https://docs.legis.wisconsin.gov/document/session/2025/REG/AB1162",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "2025 Wisconsin Act 16 (AB 140; SB 122 companion)",
+      "status": "enacted",
+      "what": "Creates s. 66.1105(17)(i): for a 'data center district' (a TID whose project costs all relate to a certified qualified data center), the 12% TID value limit findings do not apply; covers Port Washington TID 5 (if created before Jan 1, 2028) and Beaver Dam TID 10. Such districts may not allocate positive increments to other districts. Signed July 8, 2025.",
+      "source": "https://docs.legis.wisconsin.gov/2025/related/acts/16",
+      "date": "2025-07-08"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "City of Madison",
+      "type": "moratorium",
+      "what": "One-year data center moratorium, adopted unanimously",
+      "status": "in effect",
+      "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+      "date": "2026-01"
+    },
+    {
+      "place": "Manitowoc County",
+      "type": "moratorium",
+      "what": "18-month moratorium",
+      "status": "in effect",
+      "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+      "date": "2026-05-04"
+    },
+    {
+      "place": "Town of Cassville (Grant County)",
+      "type": "moratorium",
+      "what": "Two-year interim zoning ordinance with moratorium after voters approved village powers 54-3 Note: Wisconsin Watch (Apr 29, 2026) reports town electors voted 44-0 on Apr 16, 2026 to authorize zoning authority, then the ordinance banned data centers for up to two years; the 54-3 figure in the earlier source may be a different vote (not reconciled).",
+      "status": "in effect",
+      "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+      "date": "2026-04-27"
+    },
+    {
+      "place": "Green County",
+      "type": "moratorium",
+      "what": "County data center moratorium",
+      "status": "in effect",
+      "source": "https://www.beloitdailynews.com/news/local-news/green-county-joins-the-growing-list-of-wisconsin-counties-passing-data-center-moratoriums/article_644bfc7d-ebfb-4fa4-8ac7-c46b9d28d300.html",
+      "date": "2026-07"
+    },
+    {
+      "place": "Village of Hobart (Brown County)",
+      "type": "moratorium",
+      "what": "Moratorium on AI data centers",
+      "status": "in effect",
+      "source": "https://www.greenbaypressgazette.com/story/news/local/2026/07/08/hobart-village-board-passes-moratorium-on-ai-data-centers/90837054007/",
+      "date": "2026-07-08"
+    },
+    {
+      "place": "Clark, Dane, Dodge, Door, Grant, La Crosse, Rusk, Shawano counties; City of Superior; villages of Ashwaubenon, Wrightstown, Baldwin, Greenville; towns of Beetown, Bloomington, Waterloo, Westport, Hampden, New Denmark, Big Bend",
+      "type": "moratorium",
+      "what": "Listed by Wisconsin Watch among at least 22 local data center moratoriums as of July 6, 2026 (individual ordinances not opened)",
+      "status": "in effect (reported)",
+      "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+      "date": "2026-07-06"
+    },
+    {
+      "place": "City of Port Washington",
+      "type": "ballot",
+      "what": "Voters approved requiring voter approval for future TIF districts over $10M; business-backed lawsuit pending",
+      "status": "passed",
+      "source": "https://wisconsinwatch.org/2026/04/latest-wisconsin-data-center-news-you-might-have-missed/",
+      "date": "2026-04-07"
+    },
+    {
+      "place": "Village of Wrightstown",
+      "type": "ballot",
+      "what": "Advisory referendum Aug 11, 2026 on supporting data center infrastructure: nearly 9 in 10 voted against; NetChoice threatened legal action. Village moratorium adopted June 2026, extended to one year in July.",
+      "status": "held (rejected)",
+      "source": "https://wisconsinwatch.org/2026/08/wisconsin-ai-data-center-land-big-tech-wrightstown-voters-opposition-opinion/",
+      "date": "2026-08-31"
+    },
+    {
+      "place": "Town of Beloit (Rock County)",
+      "type": "ordinance",
+      "what": "Policy requiring town board approval for data center NDAs",
+      "status": "in effect",
+      "source": "https://www.beloitdailynews.com/news/local-news/town-of-beloit-passes-policy-requiring-board-approval-for-data-center-ndas/article_5de07819-6469-4886-b966-d3bbca5eb32a.html",
+      "date": "2026"
+    },
+    {
+      "place": "City of Wisconsin Rapids",
+      "type": "moratorium",
+      "what": "Plan Commission voted 5-0 on Oct 5, 2026 to recommend a temporary development moratorium of up to 12 months on rezonings and land divisions enabling data centers, and created a DC-O Data Center Overlay District (data centers conditional only in the overlay)",
+      "status": "recommended (council action not checked)",
+      "source": "https://www.wirapids.gov/Archive.aspx?ADID=1610",
+      "date": "2026-10-05"
+    },
+    {
+      "place": "Columbia County",
+      "type": "ordinance",
+      "what": "County board policy barring supervisors from signing data center nondisclosure agreements",
+      "status": "adopted",
+      "source": "https://wisconsinwatch.org/2026/08/wisconsin-10-billion-data-center-proposal-columbia-county-town-pacific-developer/",
+      "date": "2026-07"
+    }
+  ]
+}

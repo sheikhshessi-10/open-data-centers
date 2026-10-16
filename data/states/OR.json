@@ -1,0 +1,126 @@
+{
+  "state": "OR",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Strategic Investment Program (SIP)",
+      "law": "ORS 285C.600 to 285C.635; ORS 307.123",
+      "what": "15-year partial property tax abatement on value above a taxable portion ($25M-$100M); community service fee = lesser of 25% of savings or $2.5M a year. Used by Amazon (Morrow 2023, Umatilla 2017) and Google (The Dalles).",
+      "value_known": null,
+      "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+      "date": "2023-06-02"
+    },
+    {
+      "name": "Long-term rural enterprise zone (LRZ) and standard enterprise zones",
+      "law": "ORS 285C (enterprise zones)",
+      "what": "New facility property exempt 7 to 15 years in rural zones, with hiring and pay rules and local payment deals. Ten data centers (Amazon Boardman, Apple and Facebook Prineville, Google The Dalles) were 94% of the $153M LRZ property tax impact in 2022-23. Standard 3-5 year exemptions used heavily by Hillsboro data centers. Oregon has no sales tax, so there is no sales tax exemption.",
+      "value_known": "$153 million LRZ property tax impact in 2022-23 (all LRZ, 94% from data centers)",
+      "source": "https://www.oregon.gov/biz/Publications/Boards/Business%20Oregon%20Commission/2023/AmazonSIPAgendaItem.pdf",
+      "date": "2023-06-02"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Order No. 26-239",
+      "regulator": "Oregon PUC",
+      "utility": "Portland General Electric",
+      "what": "POWER Act (HB 3546) implementation: updated rate schedules; data centers in PGE territory now pay 29% more while residential, commercial and industrial rates fell. Data centers are about 15% of IOU load, expected 25% by 2030.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://www.oregon.gov/puc/news-events/Documents/Stakeholder-Newsletter-2026-vol3.pdf",
+      "date": "2026-09"
+    },
+    {
+      "id": "UE 430",
+      "regulator": "Oregon PUC",
+      "utility": "Portland General Electric",
+      "what": "Investigation into PGE's new load connection costs and how to assign the risks and costs of connecting large customers.",
+      "site_ids": [],
+      "status": "under review",
+      "url": "https://apps.puc.state.or.us/edockets/DocketNoLayout.asp?DocketID=23949",
+      "date": null
+    },
+    {
+      "id": "UE 424",
+      "regulator": "Oregon PUC",
+      "utility": "Pacific Power",
+      "what": "Line extension allowance tariff: removes most of the line extension allowance for new customers over 25 MW.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://apps.puc.state.or.us/edockets/DocketNoLayout.asp?DocketID=23869",
+      "date": null
+    },
+    {
+      "id": "Pacific Power POWER Act implementation (docket no. not found)",
+      "regulator": "Oregon PUC",
+      "utility": "Pacific Power",
+      "what": "Pacific Power's large energy use facility class under the POWER Act, to be taken up fall 2026.",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://www.oregon.gov/puc/news-events/Documents/Stakeholder-Newsletter-2026-vol3.pdf",
+      "date": "2026-09"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB 3546 (2025) - POWER Act",
+      "status": "enacted",
+      "what": "Directs the PUC to create a separate service class for large energy use facilities (data centers) with tariffs that assign their costs to them, service contracts, and biennial reports to the Legislature; sunsets Jan 2, 2035. Oregon Laws 2025 ch. 323; emergency clause.",
+      "source": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3546",
+      "date": "2025"
+    },
+    {
+      "name": "HB 4084 (2026), Oregon Laws 2026 ch. 50",
+      "status": "enacted",
+      "what": "Creates the Joint Permitting Council and fast-track permits, and bars new data centers from Enterprise Zone property tax breaks until 90 days after the 2027 session adjourns; existing and already-approved projects keep theirs; SIP still available. Moratorium effective June 5-6, 2026.",
+      "source": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "Proposed three-year moratorium on new large data centers (2027 session)",
+      "status": "pending",
+      "what": "Sens. Jeff Golden and Courtney Neron Misslin and Reps. Lesly Munoz and Farrah Chaichi plan to propose a three-year statewide moratorium in the 2027 session; no bill number yet.",
+      "source": "https://www.ijpr.org/politics-government/2026-08-04/democratic-lawmakers-propose-three-year-moratorium-on-new-large-data-centers-in-oregon",
+      "date": "2026-08-04"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Hillsboro (Washington County)",
+      "type": "moratorium",
+      "what": "Four-month (120-day) moratorium on new data centers plus a separate 120-day pause on high-capacity battery storage for data centers; unanimous, one day's notice; projects already permitted or building not affected.",
+      "status": "in effect",
+      "source": "https://www.govtech.com/policy/with-one-days-notice-hillsboro-ore-pauses-data-centers",
+      "date": "2026-07-27"
+    },
+    {
+      "place": "Salem (Marion County)",
+      "type": "moratorium",
+      "what": "Four-month moratorium on all data center applications regardless of size, until Jan 19, 2027; council may extend.",
+      "status": "in effect",
+      "source": "https://www.kptv.com/2026/09/22/salem-pauses-data-center-projects-4-months/",
+      "date": "2026-09-21"
+    },
+    {
+      "place": "Woodburn (Marion County)",
+      "type": "moratorium",
+      "what": "120-day freeze on accepting, reviewing and approving permits for new data storage, processing and IT facilities; no applications were pending. Clackamas County also considering a moratorium.",
+      "status": "in effect",
+      "source": "https://www.kptv.com/2026/09/15/woodburn-pauses-new-data-center-projects-120-days/",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "State-owned land (Governor Kotek)",
+      "type": "moratorium",
+      "what": "Governor stopped a data center company from buying Department of Corrections land in Salem (March 2026) and paused unapproved requests for data centers on state land.",
+      "status": "in effect",
+      "source": "https://washingtonstatestandard.com/2026/09/09/repub/oregon-governor-pauses-data-centers-on-state-land/",
+      "date": "2026-09-09"
+    }
+  ]
+}

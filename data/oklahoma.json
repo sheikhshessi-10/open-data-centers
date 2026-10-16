@@ -1,0 +1,719 @@
+[
+  {
+    "id": "ok-mayes-google-pryor",
+    "name": "Google Mayes County data center (Pryor, MidAmerica Industrial Park)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "OK",
+    "county": "Mayes County",
+    "town": "Pryor",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2007",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "DATA CENTERS: Oklahoma Gains Ground in Next Wave of Data Center Development",
+        "outlet": "Site Selection",
+        "url": "https://siteselection.com/data-centers-oklahoma-gains-ground-in-next-wave-of-data-center-development/",
+        "date": "2026-06-19",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Announced 2007; expanded 2012, 2015, 2019; further Pryor expansion is part of Google's 2025 $9B Oklahoma plan. Site Selection: 1.4M sq ft, Google's second-largest data center site worldwide. Google says it has invested more than $15B in Oklahoma since 2007 (statewide). Contact: mayescounty@google.com (Google page)."
+  },
+  {
+    "id": "ok-payne-google-stillwater",
+    "name": "Google Stillwater AI campus",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "OK",
+    "county": "Payne County",
+    "town": "Stillwater",
+    "lat": 36.173895,
+    "lng": -97.052249,
+    "stage": "building",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (roughly)",
+        "kind": "estimate",
+        "source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list",
+        "date": "2026-10-13"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 400,
+        "unit": "acres (about)",
+        "kind": "estimate",
+        "source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list",
+        "date": "2026-10-13"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "OG&E",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list",
+        "date": "2026-10-13"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Neighbors sued over construction-site runoff that flooded a nearby neighborhood",
+        "source": "https://www.newson6.com/data-centers-in-oklahoma/rural-oklahoma-communities-confront-growing-data-center-boom",
+        "date": "2026-06-10"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Rural Oklahoma communities confront growing data center boom",
+        "outlet": "News On 6",
+        "url": "https://www.newson6.com/data-centers-in-oklahoma/rural-oklahoma-communities-confront-growing-data-center-boom",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google lists Stillwater as in development (announced 2025, part of $9B Oklahoma plan). Near Perkins and Richmond roads; six ~300,000 sq ft buildings in phases (News 9 list). Stage 'building' because News On 6 describes an active construction site.",
+    "pin_address": "Perkins Rd & Richmond Rd, Stillwater, OK",
+    "pin_geocoder": "osm",
+    "pin_precision": "intersection",
+    "pin_source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list"
+  },
+  {
+    "id": "ok-muskogee-google-summit",
+    "name": "Google Muskogee County campus (near Summit)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "OK",
+    "county": "Muskogee County",
+    "town": "Summit",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11-18",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "OG&E (negotiating long-term contracts to serve the data centers directly, Google covering related infrastructure)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.newson6.com/technology/google-data-centers-muskogee-county-oklahoma",
+        "date": "2025-11-20"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "$1M to the Muskogee community (schools, small business, skilled trades) for both Muskogee campuses",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.newson6.com/technology/google-data-centers-muskogee-county-oklahoma",
+        "date": "2025-11-20"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google to build two data centers in Muskogee County as part of $9B Oklahoma investment",
+        "outlet": "News On 6",
+        "url": "https://www.newson6.com/technology/google-data-centers-muskogee-county-oklahoma",
+        "date": "2025-11-20",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "One of two Muskogee County campuses in Google's $9B Oklahoma plan; Google's page lists Muskogee County as in development. No campus-level size published."
+  },
+  {
+    "id": "ok-muskogee-google-council-hill",
+    "name": "Google Muskogee County campus (near Council Hill)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "OK",
+    "county": "Muskogee County",
+    "town": "Council Hill",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11-18",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "OG&E",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.newson6.com/technology/google-data-centers-muskogee-county-oklahoma",
+        "date": "2025-11-20"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google to build two data centers in Muskogee County as part of $9B Oklahoma investment",
+        "outlet": "News On 6",
+        "url": "https://www.newson6.com/technology/google-data-centers-muskogee-county-oklahoma",
+        "date": "2025-11-20",
+        "tone": "good"
+      },
+      {
+        "title": "Rural Oklahoma communities confront growing data center boom",
+        "outlet": "News On 6",
+        "url": "https://www.newson6.com/data-centers-in-oklahoma/rural-oklahoma-communities-confront-growing-data-center-boom",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "News On 6 (June 2026) describes a data center under construction near the High Springs solar farm at Council Hill; end user there not named in that piece, may be this Google campus (would make stage building). Check."
+  },
+  {
+    "id": "ok-tulsa-google-clydesdale",
+    "name": "Project Clydesdale (Google, west of Owasso)",
+    "owner": "Google",
+    "operator": "Beale Infrastructure",
+    "tier": "large",
+    "state": "OK",
+    "county": "Tulsa County",
+    "town": "Owasso",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2026-08-19",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 506,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.newson6.com/data-centers-in-oklahoma/google-data-center-campus-tulsa-county-oklahoma",
+        "date": "2026-08-19"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Public Service Company of Oklahoma (PSO); new on-site substation funded by Beale",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.newson6.com/data-centers-in-oklahoma/google-data-center-campus-tulsa-county-oklahoma",
+        "date": "2026-08-19"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "1.5 miles of water lines for Washington County RWD No. 3, roadwork, substation; 160+ electrical apprentices by 2030",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.newson6.com/data-centers-in-oklahoma/google-data-center-campus-tulsa-county-oklahoma",
+        "date": "2026-08-19"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google begins construction on 506-acre data center campus in Tulsa County",
+        "outlet": "News On 6",
+        "url": "https://www.newson6.com/data-centers-in-oklahoma/google-data-center-campus-tulsa-county-oklahoma",
+        "date": "2026-08-19",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Unincorporated Tulsa County near Cherokee Industrial Park. Beale Infrastructure developed it (trade press: ~$1B groundbreaking); Google named end user Aug 19, 2026. Google page lists Tulsa County (announced 2026)."
+  },
+  {
+    "id": "ok-tulsa-meta-anthem",
+    "name": "Meta Tulsa data center (Project Anthem)",
+    "owner": "Meta",
+    "operator": "Meta",
+    "tier": "large",
+    "state": "OK",
+    "county": "Tulsa County",
+    "town": "Tulsa",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 340,
+        "unit": "acres (about)",
+        "kind": "estimate",
+        "source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list",
+        "date": "2026-10-13"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "operational jobs (about)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "skilled trade workers at peak (about)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "More than 400 people gather at data center town hall in Tulsa",
+        "outlet": "News On 6",
+        "url": "https://www.newson6.com/data-centers-in-oklahoma/more-than-400-people-gather-at-data-center-town-hall-in-tulsa-heres-what-they-had-to-say",
+        "date": "2026-08-02",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Fair Oaks Industrial Park, east Tulsa near 11th St and Creek Turnpike. Meta lists groundbreaking 2026; Site Selection says broke ground April 2026. Developer entity Atmoss LLC withdrew its phase-two zoning application in March (News 9)."
+  },
+  {
+    "id": "ok-mayes-lambda-midamerica",
+    "name": "Lambda MidAmerica Industrial Park data center",
+    "owner": "Lambda",
+    "operator": "Lambda",
+    "tier": "large",
+    "state": "OK",
+    "county": "Mayes County",
+    "town": "Chouteau",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-09-27",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (up to)",
+        "kind": "real",
+        "source": "https://lambda.ai/blog/new-lambda-data-center-in-oklahoma",
+        "date": "2026-09-27"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction jobs (up to)",
+        "kind": "real",
+        "source": "https://lambda.ai/blog/new-lambda-data-center-in-oklahoma",
+        "date": "2026-09-27"
+      },
+      "power_source": null,
+      "utility": {
+        "value": "Grand River Dam Authority (GRDA); Lambda pays 100% of energy and upfront infrastructure costs",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://lambda.ai/blog/new-lambda-data-center-in-oklahoma",
+        "date": "2026-09-27"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://lambda.ai/blog/new-lambda-data-center-in-oklahoma",
+        "date": "2026-09-27"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "South section of MidAmerica Industrial Park, Chouteau-Mazie school district. Lambda estimates $500M in taxes over 10 years. Size not disclosed; included as an AI campus."
+  },
+  {
+    "id": "ok-muskogee-core-scientific-muskogee",
+    "name": "Core Scientific Muskogee campus (incl. former Polaris site)",
+    "owner": "Core Scientific",
+    "operator": "Core Scientific",
+    "tier": "large",
+    "state": "OK",
+    "county": "Muskogee County",
+    "town": "Muskogee",
+    "lat": 35.689549,
+    "lng": -95.393659,
+    "stage": "building",
+    "announced": "2024-02-15",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1500,
+        "unit": "MW gross planned (about 1.0 GW leasable); 70 MW building commissioning, 82.5 MW under construction; ~440 MW in-service Polaris power",
+        "kind": "real",
+        "source": "https://investors.corescientific.com/news-events/press-releases/detail/135/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-muskogee-oklahoma-campus",
+        "date": "2026-05-06"
+      },
+      "acres": {
+        "value": 250,
+        "unit": "acres secured for expansion (about)",
+        "kind": "real",
+        "source": "https://investors.corescientific.com/news-events/press-releases/detail/135/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-muskogee-oklahoma-campus",
+        "date": "2026-05-06"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Oklahoma Gas & Electric (OG&E)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://investors.corescientific.com/news-events/press-releases/detail/135/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-muskogee-oklahoma-campus",
+        "date": "2026-05-06"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Bitcoin mining datacenter to be built in Muskogee",
+        "outlet": "Oklahoma Energy Today",
+        "url": "https://www.okenergytoday.com/2024/02/bitcoin-mining-datacenter-to-be-built-in-muskogee/",
+        "date": "2024-02-15",
+        "tone": "neutral"
+      },
+      {
+        "title": "Core Scientific Completes Acquisition of Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW",
+        "outlet": "Core Scientific",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/142/core-scientific-completes-acquisition-of-polaris-ds-advancing-planned-muskogee-expansion-to-1-5-gw-of-gross-power",
+        "date": "2026-08-14",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Polaris Technologies announced a 200 MW, $100M bitcoin mining site at the Port of Muskogee in Feb 2024 ('announced' date). Core Scientific bought Polaris DS (~440 MW OG&E service) for ~$444M (closed Aug 14, 2026), tying it to its Muskogee HPC campus. Assumed one campus; if Polaris and Core's 43rd St site are separate parcels, split. Investment for Core build not disclosed.",
+    "pin_source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list",
+    "pin_address": "4800 S 24TH ST W, MUSKOGEE, OK, 74401"
+  },
+  {
+    "id": "ok-pittsburg-iren-kiowa",
+    "name": "IREN Kiowa campus",
+    "owner": "IREN Ltd",
+    "operator": null,
+    "tier": "large",
+    "state": "OK",
+    "county": "Pittsburg County",
+    "town": "Kiowa",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1600,
+        "unit": "MW planned gross capacity",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+        "date": "2026-08-27"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Kiowa provides the path to another hyperscale tier opportunity as power ramps from 2028.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/irenreportsq3fy26results.htm",
+        "date": "2026-05-08"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "IREN lists 'Kiowa, Oklahoma, United States' at 1,600 MW among its announced data center projects (10-K, 2026-08-27) and calls Sweetwater and Kiowa its flagship gigawatt campuses, with capacity ramping from 2028 (Q3 FY26 release, 2026-05-08). The utility serving Kiowa has filed a proposed large-load rate at the Oklahoma Corporation Commission. County is taken from the town of Kiowa (Pittsburg County); IREN names no county or address, so the parcel could lie just outside town."
+  },
+  {
+    "id": "ok-canadian-powercompute-calumet",
+    "name": "PowerCompute Calumet",
+    "owner": "PowerCompute, Inc. (formerly LM Funding America)",
+    "operator": null,
+    "tier": "large",
+    "state": "OK",
+    "county": "Canadian County",
+    "town": "Calumet",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-12",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 15,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526133333/lmfa-20251231.htm",
+        "date": "2026-03-31"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "15 MW bitcoin hosting/mining site in Calumet bought in December 2024, about 4,480 miners (10-K, 2026-03-31). LM Funding had earlier lent to Tech Infrastructure JV I LLC to finish the site. Small; listed because crypto campuses count at any size."
+  }
+]

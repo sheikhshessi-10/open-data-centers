@@ -1,0 +1,1173 @@
+[
+  {
+    "id": "ky-mason-meta-maysville",
+    "name": "Mason County hyperscale data center (Meta)",
+    "owner": "Meta (via a data center subsidiary)",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Mason County",
+    "town": "Maysville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1200,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.lpm.org/news/2025-10-31/kentucky-regulators-approve-power-co-ops-rates-terms-for-future-data-centers",
+        "date": "2025-10-31"
+      },
+      "acres": {
+        "value": 3000,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+        "date": "2026-10-14"
+      },
+      "jobs_promised_perm": {
+        "value": 400,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+        "date": "2026-10-14"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "East Kentucky Power Cooperative territory (EKPC data center tariff, PSC Case 2025-00140); project near EKPC's Spurlock plant",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.lpm.org/news/2025-10-31/kentucky-regulators-approve-power-co-ops-rates-terms-for-future-data-centers",
+        "date": "2025-10-31"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Tentative agreement: county would issue industrial revenue bonds for up to 40 years exempting the campus from local property taxes; in lieu, payments of $5M/yr to the county and $2M/yr to the county school district.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+        "date": "2026-10-14"
+      },
+      "community_deal": {
+        "value": "Tentative community benefits agreement with Meta's subsidiary: at least $130M for water and wastewater infrastructure, roads and public safety; $5M/yr to county and $2M/yr to schools; 400 full-time jobs.",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+        "date": "2026-10-14"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents' group We Are Mason County (executive director Max Moran) organized against the project and the officials' non-disclosure agreements.",
+        "source": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+        "date": "2026-10-14"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Meta revealed as company behind controversial Mason County hyperscale data center",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/10/14/meta-revealed-as-company-behind-controversial-mason-county-hyperscale-data-center/",
+        "date": "2026-10-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "Kentucky regulators approve power co-ops' rates, terms for future data centers",
+        "outlet": "Louisville Public Media",
+        "url": "https://www.lpm.org/news/2025-10-31/kentucky-regulators-approve-power-co-ops-rates-terms-for-future-data-centers",
+        "date": "2025-10-31",
+        "tone": "neutral"
+      },
+      {
+        "title": "Kentucky could be on the eve of a data center boom, but in Mason County details are sketchy",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2025/08/21/kentucky-could-be-on-the-eve-of-a-data-center-boom-but-in-mason-county-details-are-sketchy/",
+        "date": "2025-08-21",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Nearly 3,000-acre campus; developer kept secret under NDAs for over a year until Judge-Executive Owen McNeill named Meta at the Oct 13, 2026 fiscal court meeting. The 1.2 GW figure was reported in 2025 for the then-unnamed 'Fortune 100' developer. Agreement is tentative; investment described only as 'billions'. Mason County CBA PDF link from the Lantern (opened via Lantern only)."
+  },
+  {
+    "id": "ky-mccracken-brookfield-paducah-doe-site",
+    "name": "Paducah AI and HPC innovation campus (former Paducah Gaseous Diffusion Plant)",
+    "owner": "Brookfield (data center developer), with NextEra Energy and Big Rivers Electric",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "McCracken County",
+    "town": "Paducah",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07-29",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 100000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29"
+      },
+      "power_mw": {
+        "value": 1800,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 600,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29"
+      },
+      "jobs_promised_build": {
+        "value": 8000,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29"
+      },
+      "power_source": {
+        "value": "NextEra to install about 2 GW of new natural gas-fired generation and up to 2.6 GW of battery storage at or near the site",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29"
+      },
+      "utility": {
+        "value": "Big Rivers Electric Corporation and other local and regional utilities (partners)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hyperscale data center, natural gas-fired project planned for Paducah's former nuclear plant",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/07/29/hyperscale-data-center-natural-gas-fired-project-planned-for-paducahs-former-nuclear-plant/",
+        "date": "2026-07-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Announced by the U.S. Department of Energy on 2026-07-29 as a public-private partnership on federal land (DOE release quoted by the Lantern; DOE URL not captured). 'More than $100 billion' covers the data center and the power plants together. 1.8 GW data center capacity. Confidence high because the announcement is from DOE, an official source, though only seen through the Lantern."
+  },
+  {
+    "id": "ky-mccracken-riot-paducah",
+    "name": "Riot Platforms Paducah bitcoin mine (Industrial Park West, former Block Mining)",
+    "owner": "Riot Platforms",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "McCracken County",
+    "town": "Paducah",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 60,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.wkms.org/business-economy/2026-05-06/small-nuclear-reactor-could-power-mccracken-count-crypto-mining-center-under-new-partnership",
+        "date": "2026-05-06"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Paducah Power System market (Riot 10-K lists Paducah Power Systems, TVA and Big Rivers as markets for its Kentucky sites)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm",
+        "date": "2026-03-02"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Small nuclear reactor could power McCracken County crypto mining center under new partnership",
+        "outlet": "WKMS",
+        "url": "https://www.wkms.org/business-economy/2026-05-06/small-nuclear-reactor-could-power-mccracken-count-crypto-mining-center-under-new-partnership",
+        "date": "2026-05-06",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Riot's 10-K (filed 2026-03-02) says Block Mining, bought July 2024, has two operational Kentucky sites ('Kentucky Facility') with 137 MW developed capacity combined; WKMS says this site is 60 MW with potential to 110 MW, and a partnership with Terrestrial Energy could add a small modular reactor. Industrial Park West just outside Paducah city limits."
+  },
+  {
+    "id": "ky-marshall-riot-calvert-city",
+    "name": "Riot Platforms Calvert City bitcoin mine (former Block Mining)",
+    "owner": "Riot Platforms",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Marshall County",
+    "town": "Calvert City",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "See where data center developers are looking to build in Kentucky",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Riot's 10-K describes an assumed operating lease of a data center in Calvert City, Kentucky (about $1.4M a year) from the Block Mining acquisition (2024). Kentucky Lantern map says 25 MW. Just above the 20 MW bar."
+  },
+  {
+    "id": "ky-marshall-corescientific-calvert-city",
+    "name": "Core Scientific Calvert City data center",
+    "owner": "Core Scientific",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Marshall County",
+    "town": "Calvert City",
+    "lat": 37.044897,
+    "lng": -88.417797,
+    "stage": "running",
+    "announced": "2019",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Tennessee Valley Authority",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/core-20251231.htm",
+        "date": "2026-03-02"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "See where data center developers are looking to build in Kentucky",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Core Scientific 10-K (FY2025) lists 'Paducah-Calvert City, Kentucky' with 150 MW gross utility capacity from TVA, owned site. Bitcoin mining since 2019 (Lantern); company page: https://corescientific.com/high-density-data-centers/calvert-city-ky/",
+    "pin_source": "https://corescientific.com/high-density-data-centers/calvert-city-ky/",
+    "pin_address": "1035 Shar-Cal Rd, Calvert City, KY 42029"
+  },
+  {
+    "id": "ky-calloway-soluna-project-sophie",
+    "name": "Project Sophie",
+    "owner": "Soluna Holdings",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Calloway County",
+    "town": "Murray",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2021",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/slnh-20251231.htm",
+        "date": "2026-03-30"
+      },
+      "acres": {
+        "value": 3.2,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/slnh-20251231.htm",
+        "date": "2026-03-30"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "West Kentucky Rural Electric Cooperative (industrial power contract, Feb 2021); PPA requires curtailment at certain hours",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/slnh-20251231.htm",
+        "date": "2026-03-30"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "25 MW crypto/compute site, 22 buildings on a 3.2-acre tract bought March 2021; Soluna also leased a 33.19-acre tract (Feb 2023). Hosts Bit Digital miners. Just above the 20 MW bar."
+  },
+  {
+    "id": "ky-hancock-terawulf-hawesville",
+    "name": "TeraWulf Hawesville site (former Century Aluminum smelter)",
+    "owner": "TeraWulf",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Hancock County",
+    "town": "Hawesville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-02-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 482,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16"
+      },
+      "acres": {
+        "value": 250,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm",
+        "date": "2026-02-27"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Neighboring Daviess County passed a 12-month data center moratorium on May 28, 2026 after the Hancock County proposal became public.",
+        "source": "https://kentuckylantern.com/2026/06/08/some-kentucky-counties-and-cities-are-hitting-pause-on-data-centers/",
+        "date": "2026-06-08"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Some Kentucky counties and cities are hitting pause on data centers",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/06/08/some-kentucky-counties-and-cities-are-hitting-pause-on-data-centers/",
+        "date": "2026-06-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "TeraWulf 10-K: Feb 2, 2026 purchase agreement for a former industrial brownfield in Hawesville with more than 250 buildable acres, high-voltage lines and on-site power infrastructure. Lantern map: maximum 482 MW at the idled Century Aluminum mill. Acres value is 'more than 250'."
+  },
+  {
+    "id": "ky-boyd-terawulf-muskie",
+    "name": "Muskie Data Campus (EastPark)",
+    "owner": "TeraWulf",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Boyd County",
+    "town": "Ashland",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05-26",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://investors.terawulf.com/news-events/press-releases/detail/141/terawulf-expands-infrastructure-platform-with-acquisition-of-1-gw-eastern-kentucky-hpc-campus",
+        "date": "2026-05-26"
+      },
+      "acres": {
+        "value": 285,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://investors.terawulf.com/news-events/press-releases/detail/141/terawulf-expands-infrastructure-platform-with-acquisition-of-1-gw-eastern-kentucky-hpc-campus",
+        "date": "2026-05-26"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Kentucky Power (AEP), building a 345 kV substation tied to the 765 kV network; service under the Industrial General Service large-load tariff",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://investors.terawulf.com/news-events/press-releases/detail/141/terawulf-expands-infrastructure-platform-with-acquisition-of-1-gw-eastern-kentucky-hpc-campus",
+        "date": "2026-05-26"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Boyd County residents packed a public meeting at the Boyd County Convention and Arts Center, booing over officials' NDAs and demanding protections.",
+        "source": "https://kentuckylantern.com/2026/06/02/starting-it-off-shady-residents-question-ndas-protections-for-proposed-boyd-co-data-center/",
+        "date": "2026-06-02"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "TeraWulf Expands Infrastructure Platform with Acquisition of 1+ GW Eastern Kentucky HPC Campus",
+        "outlet": "TeraWulf (press release)",
+        "url": "https://investors.terawulf.com/news-events/press-releases/detail/141/terawulf-expands-infrastructure-platform-with-acquisition-of-1-gw-eastern-kentucky-hpc-campus",
+        "date": "2026-05-26",
+        "tone": "good"
+      },
+      {
+        "title": "'Starting it off shady.' Residents question NDAs, protections for proposed Boyd Co. data center",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/06/02/starting-it-off-shady-residents-question-ndas-protections-for-proposed-boyd-co-data-center/",
+        "date": "2026-06-02",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "EastPark Industrial Park straddles Boyd and Greenup counties; Kentucky Lantern places it in both. Recorded under Boyd County; check parcel records. First 500 MW expected from H2 2028, another 500 MW targeted H2 2030. Bought from Industrial Equity Partners. Same site where the state clawed back $15M from the failed Braidy Industries aluminum mill."
+  },
+  {
+    "id": "ky-greenup-rubix-ak-steel",
+    "name": "Project Ashland (former AK Steel Ashland Works site)",
+    "owner": "Rubix Data Centers (Submer Group)",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Greenup County",
+    "town": "Russell",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 8000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/22/developer-proposes-hyperscale-data-center-at-the-site-at-former-eastern-kentucky-steel-mill/",
+        "date": "2026-07-22"
+      },
+      "power_mw": {
+        "value": 2000,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/22/developer-proposes-hyperscale-data-center-at-the-site-at-former-eastern-kentucky-steel-mill/",
+        "date": "2026-07-22"
+      },
+      "acres": {
+        "value": 425,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/22/developer-proposes-hyperscale-data-center-at-the-site-at-former-eastern-kentucky-steel-mill/",
+        "date": "2026-07-22"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Developer proposes hyperscale data center at the site of former eastern Kentucky steel mill",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/07/22/developer-proposes-hyperscale-data-center-at-the-site-at-former-eastern-kentucky-steel-mill/",
+        "date": "2026-07-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Eight two-story buildings; $8-12 billion on computing infrastructure; up to 2 GW. Company answered the City of Russell's due-diligence questionnaire, posted on the city website (https://webgen1files1.revize.com/russellky/Project_Ashland_Municipal_Data_Center_Due_Diligence_Questionnaire_Answered%20(FINAL).pdf). The former AK Steel mill sits between Ashland and Russell; county assignment (Greenup) follows the Lantern map and the City of Russell's role, check parcel records. investment_usd is the low end of the stated $8-12B range."
+  },
+  {
+    "id": "ky-jefferson-poe-powerhouse-camp-ground-road",
+    "name": "Camp Ground Road hyperscale data center (West Louisville / Rubbertown)",
+    "owner": "Poe Companies and PowerHouse Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Jefferson County",
+    "town": "Louisville",
+    "lat": 38.193306,
+    "lng": -85.867257,
+    "stage": "building",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Grid with on-site substation; a dedicated diesel backup generator for each server warehouse",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.lpm.org/news/2026-03-05/west-louisville-data-center-approved-despite-opposition",
+        "date": "2026-03-05"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "More than twenty people spoke against the project at the Louisville Metro Planning Commission; commission approved it 6-1 on March 5, 2026.",
+        "source": "https://www.lpm.org/news/2026-03-05/west-louisville-data-center-approved-despite-opposition",
+        "date": "2026-03-05"
+      },
+      {
+        "what": "Anti-data center activists filed complaints including with the U.S. EPA Office of Civil Rights over the Louisville project.",
+        "source": "https://www.lpm.org/news/2026-09-28/frustration-over-kentucky-data-center-has-found-another-target-ethics-complaints",
+        "date": "2026-09-28"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "West Louisville data center approved despite opposition",
+        "outlet": "Louisville Public Media",
+        "url": "https://www.lpm.org/news/2026-03-05/west-louisville-data-center-approved-despite-opposition",
+        "date": "2026-03-05",
+        "tone": "bad"
+      },
+      {
+        "title": "Kentucky's two largest cities take action to address concerns over hyperscale data centers",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/06/10/kentuckys-two-largest-cities-take-action-to-address-concerns-over-hyperscale-data-centers/",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1.6 million sq ft; reviewed as a 'telecommunications hotel' on heavy-industrial land without rezoning. Lantern describes it as 'being constructed'. No MW or investment figure found in this sweep.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110071904558",
+    "pin_address": "6201 Camp Ground Rd, Louisville, KY 40216"
+  },
+  {
+    "id": "ky-carroll-poe-powerhouse-carrollton",
+    "name": "Carrollton Industrial Campus data center (Greens Bottom Road)",
+    "owner": "Poe Companies and PowerHouse Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Carroll County",
+    "town": "Carrollton",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 9600000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents filed ethics complaints against Carrollton council members who voted on the land deals; Carroll County Ethics Commission opened a formal investigation Sept 17, 2026.",
+        "source": "https://www.lpm.org/news/2026-09-28/frustration-over-kentucky-data-center-has-found-another-target-ethics-complaints",
+        "date": "2026-09-28"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Frustration over Kentucky data center has found another target: ethics complaints",
+        "outlet": "Louisville Public Media",
+        "url": "https://www.lpm.org/news/2026-09-28/frustration-over-kentucky-data-center-has-found-another-target-ethics-complaints",
+        "date": "2026-09-28",
+        "tone": "bad"
+      },
+      {
+        "title": "See where data center developers are looking to build in Kentucky",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "$9.6B near the Kentucky River; city signed land deals about a year before the project went public (July 2026, per WHAS11). Separate from the Deca Companies proposal in the same county (see lead)."
+  },
+  {
+    "id": "ky-barren-kia-cave-point",
+    "name": "Cave Point Commerce Center",
+    "owner": "Kentucky Industrial Alliance (landowner/seller; end developer not named)",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Barren County",
+    "town": "Cave City",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-06-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1200,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.wkyt.com/2026/06/10/kentucky-industrial-alliance-says-proposed-cave-city-data-center-could-bring-millions-tax-revenue/",
+        "date": "2026-06-10"
+      },
+      "acres": {
+        "value": 600,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.wkyt.com/2026/06/10/kentucky-industrial-alliance-says-proposed-cave-city-data-center-could-bring-millions-tax-revenue/",
+        "date": "2026-06-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Cave City council passed a one-year data center moratorium (May 2026); Kentucky Industrial Alliance is suing the council over it.",
+        "source": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Kentucky Industrial Alliance says proposed Cave City data center could bring millions in tax revenue",
+        "outlet": "WKYT/WBKO",
+        "url": "https://www.wkyt.com/2026/06/10/kentucky-industrial-alliance-says-proposed-cave-city-data-center-could-bring-millions-tax-revenue/",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "See where data center developers are looking to build in Kentucky",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/07/07/see-where-data-center-developers-are-looking-to-build-in-kentucky/",
+        "date": "2026-08-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "10 buildings of about 200,000 sq ft (2 million sq ft) on about 600 acres in the Cave City Industrial Park and unincorporated Barren County, near Mammoth Cave National Park. Draft impact study estimates $45.2M a year in property tax."
+  },
+  {
+    "id": "ky-bell-murray-industries-pineville",
+    "name": "Murray Industries 'Pineville' data center",
+    "owner": "Murray Industries (Dale Murray)",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Bell County",
+    "town": "Pineville",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2026-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 360,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/08/04/bell-county-passed-a-data-center-moratorium-resident-worry-that-work-continues/",
+        "date": "2026-08-04"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Kentucky Utilities (LG&E and KU) says it believes the 360 MW 'Pineville' project is moving forward",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://kentuckylantern.com/2026/08/04/bell-county-passed-a-data-center-moratorium-resident-worry-that-work-continues/",
+        "date": "2026-08-04"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Bell County Fiscal Court passed a two-year moratorium on data center construction after residents packed the courthouse.",
+        "source": "https://www.wymt.com/2026/07/02/bell-county-passes-data-center-moratorium-halting-construction-2-years/",
+        "date": "2026-07-02"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Bell County passed a data center moratorium. Residents worry that work continues.",
+        "outlet": "Kentucky Lantern",
+        "url": "https://kentuckylantern.com/2026/08/04/bell-county-passed-a-data-center-moratorium-resident-worry-that-work-continues/",
+        "date": "2026-08-04",
+        "tone": "bad"
+      },
+      {
+        "title": "Bell County passes data center moratorium halting construction 2 years",
+        "outlet": "WYMT",
+        "url": "https://www.wymt.com/2026/07/02/bell-county-passes-data-center-moratorium-halting-construction-2-years/",
+        "date": "2026-07-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "On former coal-mining land with leftover electrical infrastructure along the Bell-Knox county line. Stage 'paused' due to the county moratorium; residents say work may be continuing."
+  },
+  {
+    "id": "ky-simpson-tenkey-franklin",
+    "name": "TenKey LandCo Franklin data center",
+    "owner": "TenKey LandCo",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Simpson County",
+    "town": "Franklin",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Simpson County Fiscal Court passed an ordinance (Dec 2025) requiring data centers to be on heavy-industrial land with a conditional use permit; residents attended a special planning meeting Jan 20, 2026. TenKey sued the county Jan 2026.",
+        "source": "https://www.lpm.org/news/2026-01-28/data-center-developer-sues-simpson-county-government-over-land-use-ordinance",
+        "date": "2026-01-28"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Data center developer sues Simpson County government over land use ordinance",
+        "outlet": "Louisville Public Media",
+        "url": "https://www.lpm.org/news/2026-01-28/data-center-developer-sues-simpson-county-government-over-land-use-ordinance",
+        "date": "2026-01-28",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Described as a 'massive' data center; no MW or dollar figure captured in this sweep. Stage 'blocked' reflects the county ordinance now under litigation; change if the court rules. Neighbouring Allen County passed a 24-month moratorium after watching Simpson's experience."
+  },
+  {
+    "id": "ky-oldham-western-hospitality-partners",
+    "name": "Oldham County hyperscale data center",
+    "owner": "Western Hospitality Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "KY",
+    "county": "Oldham County",
+    "town": "La Grange",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Oldham County data center switches sites, reduces size amid local resistance",
+        "outlet": "Louisville Public Media",
+        "url": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance",
+        "date": "2025-06-03",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Original plan (March 2025): 2 million sq ft, eight buildings, 600 MW, $6B on 267 acres off Highway 53. June 2025: moved to a 30-acre drive-in theater site at 3210 DW Griffith Lane between LaGrange and Buckner, next to LG&E's Buckner substation, at reduced size (new size not captured). Metrics left null because the published figures describe the abandoned original site. Current status after mid-2025 not confirmed; Lantern map (Aug 2026) still lists it."
+  }
+]

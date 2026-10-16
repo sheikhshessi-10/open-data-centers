@@ -1,0 +1,96 @@
+[
+  {
+    "id": "ct-new-london-ne-edge-millstone",
+    "name": "NE Edge Waterford data center at Millstone Power Station",
+    "owner": "NE Edge LLC (NE Edge Waterford LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "CT",
+    "county": "New London County",
+    "town": "Waterford",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2023",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 55,
+        "unit": "acres of the Millstone Power Station property (two two-story buildings and a switchyard)",
+        "kind": "real",
+        "source": "https://www.waterfordct.gov/DocumentCenter/View/4815",
+        "date": "2025-04-16"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Planned direct supply from Dominion's Millstone nuclear station (opponents say about 15% of Millstone's output)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/",
+        "date": "2026-04-15"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Host fee agreement with the Town of Waterford (2023): NE Edge to pay the town $231 million over 30 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.waterfordct.gov/DocumentCenter/View/4815",
+        "date": "2025-04-16"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Concerned Citizens of Waterford and East Lyme (CCWEL), formed August 2023, filed concerns with the Office of Consumer Counsel, the Connecticut Siting Council and the Attorney General",
+        "source": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/",
+        "date": "2026-04-15"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Connecticut Siting Council denied Dominion's first petition to host the data center, without prejudice (2024); no new petition filed as of April 2025",
+        "source": "https://www.waterfordct.gov/DocumentCenter/View/4815",
+        "date": "2025-04-16"
+      }
+    ],
+    "news": [
+      {
+        "title": "NE Edge transfers Waterford data center rights to new company",
+        "outlet": "The Day",
+        "url": "https://www.waterfordct.gov/DocumentCenter/View/4815",
+        "date": "2025-04-16",
+        "tone": "neutral"
+      },
+      {
+        "title": "Tale of a defeated CT data center (opinion, CCWEL founder)",
+        "outlet": "CT Mirror",
+        "url": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/",
+        "date": "2026-04-15",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Belmont, Mass.-based NE Edge proposed a data center on Millstone land. Waterford selectmen voted 2-1 on 2025-04-16 to let NE Edge assign the host fee agreement to NE Edge Waterford LLC. Stage 'cancelled' rests on an opinion piece by the opposing group's founder saying the host agreement 'has ended due to a default, with the agreement expiring according to its terms' (Apr 2026) and an EnergizeCT internal summary calling it 'stalled / likely inactive' (~300 MW, ~1.5M sq ft). Confirm with Waterford town records or The Day. The Day article copy is hosted on the Town of Waterford document center."
+  }
+]

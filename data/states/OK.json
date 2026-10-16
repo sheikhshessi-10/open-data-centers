@@ -1,0 +1,73 @@
+{
+  "state": "OK",
+  "checked": {
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "HB 2992 Data Center Customer Ratepayer Protection Act of 2026",
+      "status": "enacted",
+      "what": "Requires large data centers to pay for their own energy infrastructure so costs are not passed to residential ratepayers. Passed House 84-0, Senate 48-0; emergency clause.",
+      "source": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2992&Session=2600",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "SB 259 Groundwater Modernization Act",
+      "status": "enacted",
+      "what": "Bars data centers from groundwater use for open-air evaporative cooling without recirculation; requires low-consumptive cooling (closed-loop, immersion) for a permit; annual water-use reports to OWRB. Effective Nov. 1, 2026.",
+      "source": "https://www.news9.com/data-centers-in-oklahoma/stitt-data-center-accountability-bill-signing-oklahoma",
+      "date": "2026-05-20"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Shawnee",
+      "type": "moratorium",
+      "what": "Temporary moratorium on new data center proposals while the city studies and updates rules; effective immediately.",
+      "status": "in effect through end of 2027",
+      "source": "https://www.news9.com/data-centers-in-oklahoma/shawnee-approves-temporary-moratorium-on-new-data-centers",
+      "date": "2026-08-19"
+    },
+    {
+      "place": "Tulsa",
+      "type": "moratorium",
+      "what": "Temporary moratorium on new data center projects within city limits while leaders study impacts.",
+      "status": "approved (duration not stated)",
+      "source": "https://www.newson6.com/data-centers-in-oklahoma/rural-oklahoma-communities-confront-growing-data-center-boom",
+      "date": "2026-06-10"
+    },
+    {
+      "place": "Oklahoma City",
+      "type": "moratorium",
+      "what": "Temporary moratorium on new data center projects within city limits while leaders study impacts.",
+      "status": "approved (duration not stated)",
+      "source": "https://www.newson6.com/data-centers-in-oklahoma/rural-oklahoma-communities-confront-growing-data-center-boom",
+      "date": "2026-06-10"
+    },
+    {
+      "place": "Pawhuska (Public Works Authority)",
+      "type": "moratorium",
+      "what": "PWA voted 3-2 for a data center moratorium, stalling an 8-10 MW AI data center in a former carpet mill.",
+      "status": "in effect through Dec. 31, 2026",
+      "source": "https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list",
+      "date": "2026-10-13"
+    },
+    {
+      "place": "Cheyenne and Arapaho Tribes (tribal lands)",
+      "type": "moratorium",
+      "what": "Tribal citizens voted 261-83 for a three-year moratorium on data center construction on tribal lands.",
+      "status": "in effect until October 2029",
+      "source": "https://www.newson6.com/data-centers-in-oklahoma/oklahoma-cheyenne-arapaho-data-center-moratorium",
+      "date": "2026-10-05"
+    },
+    {
+      "place": "Yukon",
+      "type": "ballot",
+      "what": "Residents filed an initiative petition to require a public vote on future data center developments.",
+      "status": "signature gathering (90 days)",
+      "source": "https://www.news9.com/data-centers-in-oklahoma/yukon-residents-seek-public-vote-on-local-data-center-project",
+      "date": "2026-08-25"
+    }
+  ]
+}

@@ -1,0 +1,3649 @@
+[
+  {
+    "id": "oh-licking-amazon-new-albany",
+    "name": "AWS New Albany campus (Beech and Miller roads)",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "New Albany",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2015",
+    "confidence": "low",
+    "metrics": {
+      "investment_usd": {
+        "value": 3500000000,
+        "unit": "USD (New Albany five-building campus, part of 2023 $7.8B plan)",
+        "kind": "real",
+        "source": "https://columbusconstruction.org/3460-2/",
+        "date": "2025-08-30"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 439,
+        "unit": "acres (campus; work complete on 85 acres as of Aug 2025)",
+        "kind": "real",
+        "source": "https://columbusconstruction.org/3460-2/",
+        "date": "2025-08-30"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon opens two New Albany datacenters",
+        "outlet": "Columbus/Central Ohio Building & Construction Trades Council",
+        "url": "https://columbusconstruction.org/3460-2/",
+        "date": "2025-08-30",
+        "tone": "good"
+      },
+      {
+        "title": "Amazon announces $7.8 billion megaproject",
+        "outlet": "Columbus/Central Ohio Building & Construction Trades Council",
+        "url": "https://columbusconstruction.org/amazon-announces-7-8-billion-megaproject/",
+        "date": "2023-06-26",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "AWS US East (Ohio) region. Three existing New Albany data centers in 2023; two more opened Aug 7, 2025 in a five-facility, 1.25M sq ft campus. AWS says it will invest $10B more in Ohio by 2030 (over $23B total). 'announced' = year AWS says its Ohio investment began (2015). Confidence medium: union council newsletter plus trackers; no AWS page fetched (blocked)."
+  },
+  {
+    "id": "oh-licking-google-new-albany",
+    "name": "Google New Albany data center",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "New Albany",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2019",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google to invest another $2.3 billion in central Ohio data centers",
+        "outlet": "WOSU",
+        "url": "https://www.wosu.org/2024-06-18/google-to-invest-another-2-3-billion-in-central-ohio-data-centers",
+        "date": "2024-06-18",
+        "tone": "good"
+      },
+      {
+        "title": "Google announces plans to invest $1.7 billion in a trio of Central Ohio data centers",
+        "outlet": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2023/08/29/google-announces-plans-to-invest-1-7-billion-in-a-trio-of-central-ohio-data-centers/",
+        "date": "2023-08-29",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google broke ground on its first Ohio data center in New Albany in 2019 (WOSU). Google's Ohio investments ($1B 2021, $1.7B 2023, $2.3B 2024) are announced across New Albany, Columbus and Lancaster together, so no per-site dollar figure. County: the New Albany business park sites are in Licking County; not stated by these sources."
+  },
+  {
+    "id": "oh-licking-meta-new-albany",
+    "name": "Meta New Albany data center / Prometheus AI cluster",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "New Albany",
+    "lat": 40.077591,
+    "lng": -82.753445,
+    "stage": "building",
+    "announced": "2017",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD (more than; original campus)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/all-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 300,
+        "unit": "operational jobs once completed (300+)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/all-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1200,
+        "unit": "skilled trade workers at peak",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/all-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Meet Prometheus: World's highest capacity data center slated to open in Ohio in 2026",
+        "outlet": "NBC4 WCMH-TV",
+        "url": "https://www.nbc4i.com/news/local-news/new-albany/meet-prometheus-worlds-highest-capacity-data-center-slated-to-open-in-ohio-in-2026/",
+        "date": "2025-07",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Meta lists New Albany: $1.5B+, groundbreaking 2017, 1,200 peak trade workers, 300+ jobs (all-locations page, read 2026-10-15; date is access date). Prometheus, Meta's first ~1 GW AI cluster, is being added here with tent-style structures and an on-site gas power yard (NBC4, July 2025, not readable: reports a 200 MW plant). 1 GW figure unverified, kept out of metrics. Address 1500 Beech Road per AOL/Dispatch summary. Stage building reflects the Prometheus expansion; original buildings are running. Meta also committed $10M to AEP Ohio's Neighbor to Neighbor bill-help program (Aug 2026).",
+    "pin_address": "1500 Beech Road, New Albany, OH",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://datacenters.atmeta.com/all-locations/ (address is from record notes citing an AOL/Dispatch summary, not on the Meta page itself)"
+  },
+  {
+    "id": "oh-licking-qts-new-albany",
+    "name": "QTS New Albany campus",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "New Albany",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023-11-27",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD (roughly)",
+        "kind": "real",
+        "source": "https://q.com/?p=743",
+        "date": "2023-11-27"
+      },
+      "power_mw": {
+        "value": 222,
+        "unit": "MW critical power (planned)",
+        "kind": "real",
+        "source": "https://q.com/?p=743",
+        "date": "2023-11-27"
+      },
+      "acres": {
+        "value": 93,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://q.com/?p=743",
+        "date": "2023-11-27"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "QTS plans four-building data center campus in New Albany, Ohio",
+        "outlet": "DatacenterDynamics",
+        "url": "https://datacenterdynamics.com/en/news/qts-plans-four-building-data-center-campus-in-new-albany-ohio",
+        "date": "2023",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Gray Construction project page says it built two data centers (78 MW combined) and QTS plans two more on an adjacent 57-acre site after a late-2024 substation. Some buildings may be running; stage set to building. County not stated in QTS page."
+  },
+  {
+    "id": "oh-licking-vantage-oh1",
+    "name": "Vantage OH1 campus",
+    "owner": "Vantage Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "New Albany",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-10-25",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD (over)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-breaks-ground-on-192mw-campus-enters-growing-ohio-data-center-market-with-over-2-billion-investment-in-hyperscale-digital-infrastructure/",
+        "date": "2024-10-25"
+      },
+      "power_mw": {
+        "value": 192,
+        "unit": "MW IT capacity",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-breaks-ground-on-192mw-campus-enters-growing-ohio-data-center-market-with-over-2-billion-investment-in-hyperscale-digital-infrastructure/",
+        "date": "2024-10-25"
+      },
+      "acres": {
+        "value": 70,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-breaks-ground-on-192mw-campus-enters-growing-ohio-data-center-market-with-over-2-billion-investment-in-hyperscale-digital-infrastructure/",
+        "date": "2024-10-25"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "people across construction and long-term operations (more than; combined figure)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-breaks-ground-on-192mw-campus-enters-growing-ohio-data-center-market-with-over-2-billion-investment-in-hyperscale-digital-infrastructure/",
+        "date": "2024-10-25"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Vantage Data Centers breaks ground on 192MW campus in New Albany",
+        "outlet": "Vantage Data Centers",
+        "url": "https://vantage-dc.com/news/vantage-data-centers-breaks-ground-on-192mw-campus-enters-growing-ohio-data-center-market-with-over-2-billion-investment-in-hyperscale-digital-infrastructure/",
+        "date": "2024-10-25",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "First building was slated to open late 2025; opening not confirmed. County: New Albany, release does not name county; Licking County assumed from New Albany business park location - CHECK."
+  },
+  {
+    "id": "oh-licking-cologix-johnstown",
+    "name": "Cologix Johnstown campus",
+    "owner": "Cologix",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "Johnstown",
+    "lat": 40.137174,
+    "lng": -82.715468,
+    "stage": "building",
+    "announced": "2024-11-20",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 7000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.powermag.com/cologix-plans-7-billion-800-mw-data-center-complex-in-ohio",
+        "date": "2024-11-20"
+      },
+      "power_mw": {
+        "value": 800,
+        "unit": "MW (up to, eight data centers)",
+        "kind": "real",
+        "source": "https://www.powermag.com/cologix-plans-7-billion-800-mw-data-center-complex-in-ohio",
+        "date": "2024-11-20"
+      },
+      "acres": {
+        "value": 154,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.powermag.com/cologix-plans-7-billion-800-mw-data-center-complex-in-ohio",
+        "date": "2024-11-20"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Cologix plans $7 billion, 800-MW data center complex in Ohio",
+        "outlet": "POWER Magazine",
+        "url": "https://www.powermag.com/cologix-plans-7-billion-800-mw-data-center-complex-in-ohio",
+        "date": "2024-11-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Data center company Cologix acquires 154 acres in Licking County",
+        "outlet": "WSYX/ABC6",
+        "url": "https://myfox28columbus.com/news/local/data-center-company-cologix-buys-land-licking-county-ai-ready",
+        "date": "2024-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Cologix lists COL7 (12017 Duncan Plains Road) and COL8 (11719 Duncan Plains Road), Johnstown, as 'Now Available for Pre-Leasing' (Cologix Columbus page, checked 2026-10-15). Eight AI-ready data centers, about 2M sq ft (POWER). Stage building per trackers; Cologix's page does not confirm construction, so it may still be announced/pre-leasing.",
+    "pin_source": "https://myfox28columbus.com/news/local/data-center-company-cologix-buys-land-licking-county-ai-ready",
+    "pin_address": "12017 Duncan Plains Road, Johnstown, OH"
+  },
+  {
+    "id": "oh-franklin-google-columbus",
+    "name": "Google Columbus data center (South High Street)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Franklin County",
+    "town": "Columbus",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google to invest another $2.3 billion in central Ohio data centers",
+        "outlet": "WOSU",
+        "url": "https://www.wosu.org/2024-06-18/google-to-invest-another-2-3-billion-in-central-ohio-data-centers",
+        "date": "2024-06-18",
+        "tone": "good"
+      },
+      {
+        "title": "Google is building two more data centers in central Ohio",
+        "outlet": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2023/05/08/google-is-building-two-more-data-centers-in-central-ohio/",
+        "date": "2023-05-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Off South High Street and Rathmell Road on the Far South Side; opened 2023 (WOSU/OCJ via search). Google acquired 618 acres in Columbus and Lancaster in 2021. Investment shared across three Google Ohio sites."
+  },
+  {
+    "id": "oh-fairfield-google-lancaster",
+    "name": "Google Lancaster data center",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Fairfield County",
+    "town": "Lancaster",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google to invest another $2.3 billion in central Ohio data centers",
+        "outlet": "WOSU",
+        "url": "https://www.wosu.org/2024-06-18/google-to-invest-another-2-3-billion-in-central-ohio-data-centers",
+        "date": "2024-06-18",
+        "tone": "good"
+      },
+      {
+        "title": "Google is building two more data centers in central Ohio",
+        "outlet": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2023/05/08/google-is-building-two-more-data-centers-in-central-ohio/",
+        "date": "2023-05-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Due to open later in 2023 per OCJ (via search). Address 105 Whiley Road per an undated factsheet (unverified). Investment shared across three Google Ohio sites."
+  },
+  {
+    "id": "oh-fairfield-vantage-millersport",
+    "name": "Vantage OH2 Millersport campus",
+    "owner": "Vantage Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Fairfield County",
+    "town": "Millersport",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2100000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.nbc4i.com/news/local-news/fairfield-county/2-1-billion-vantage-data-center-announced-for-fairfield-county/amp/",
+        "date": "2025"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 37,
+        "unit": "full-time jobs",
+        "kind": "real",
+        "source": "https://www.nbc4i.com/news/local-news/fairfield-county/2-1-billion-vantage-data-center-announced-for-fairfield-county/amp/",
+        "date": "2025"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "50% exemption for 10 years on certain project purchases (state)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nbc4i.com/news/local-news/fairfield-county/2-1-billion-vantage-data-center-announced-for-fairfield-county/amp/",
+        "date": "2025"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "$2.1 billion Vantage data center announced for Fairfield County",
+        "outlet": "NBC4 WCMH-TV",
+        "url": "https://www.nbc4i.com/news/local-news/fairfield-county/2-1-billion-vantage-data-center-announced-for-fairfield-county/amp/",
+        "date": "2025",
+        "tone": "neutral"
+      },
+      {
+        "title": "Fairfield County data center draws skepticism, alternative utility plans",
+        "outlet": "NBC4 WCMH-TV",
+        "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/fairfield-county-data-center-draws-skepticism-alternative-utility-plans/amp/",
+        "date": "2025",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Site off State Routes 204 and 37; 500 acres annexed from Walnut Township into Millersport. A related Millersport Energy Center application was withdrawn in September (2025). Search summary says construction began in May (year unclear) - stage building is uncertain. Trackers list ~696 MW (unconfirmed). Source date only known to the year."
+  },
+  {
+    "id": "oh-delaware-amazon-sunbury",
+    "name": "AWS Sunbury campus",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Delaware County",
+    "town": "Sunbury",
+    "lat": 40.218097,
+    "lng": -82.849611,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://1808delaware.com/sunbury/everything-you-always-wanted-to-about-amazons-planned-sunbury-development/",
+        "date": "2024"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 50,
+        "unit": "full-time jobs ($4.5M payroll)",
+        "kind": "real",
+        "source": "https://1808delaware.com/sunbury/everything-you-always-wanted-to-about-amazons-planned-sunbury-development/",
+        "date": "2024"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "30-year Community Reinvestment Area property tax exemption: 87.5% years 1-15, 75% years 16-30",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://1808delaware.com/sunbury/everything-you-always-wanted-to-about-amazons-planned-sunbury-development/",
+        "date": "2024"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Everything you always wanted to know about Amazon's planned Sunbury development",
+        "outlet": "1808 Delaware",
+        "url": "https://1808delaware.com/sunbury/everything-you-always-wanted-to-about-amazons-planned-sunbury-development/",
+        "date": "2024",
+        "tone": "neutral"
+      },
+      {
+        "title": "AWS plans $2bn data center campus in Sunbury, Ohio",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/aws-plans-2bn-data-center-campus-in-sunbury-ohio/",
+        "date": "2024",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "11793 Vans Valley Road, Sunbury Business and Technology Park. First 450,000 sq ft building: construction to start Jan 2028, operational by Dec 2034. Source date approximate (2024).",
+    "pin_address": "11793 Vans Valley Road, Sunbury, OH",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://1808delaware.com/sunbury/everything-you-always-wanted-to-about-amazons-planned-sunbury-development/"
+  },
+  {
+    "id": "oh-union-amazon-marysville",
+    "name": "AWS Marysville campus (Project Cosmos)",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Union County",
+    "town": "Marysville",
+    "lat": 40.22277,
+    "lng": -83.337213,
+    "stage": "building",
+    "announced": "2025-03-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD by 2030",
+        "kind": "real",
+        "source": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville/",
+        "date": "2025-03-11"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 55,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://marysvilleohio.org/772/Data-Center-FAQs",
+        "date": "2026"
+      },
+      "jobs_promised_perm": {
+        "value": 25,
+        "unit": "direct jobs (at least)",
+        "kind": "real",
+        "source": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville/",
+        "date": "2025-03-11"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "More than $15M per year in direct payments to Marysville Exempted Village Schools and the city for 15 years; infrastructure support for 33 Innovation Park",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville/",
+        "date": "2025-03-11"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon to invest $1 billion into Marysville",
+        "outlet": "Spectrum News 1",
+        "url": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville/",
+        "date": "2025-03-11",
+        "tone": "good"
+      },
+      {
+        "title": "City lines up $1B Amazon facility",
+        "outlet": "Marysville Journal-Tribune",
+        "url": "https://ww2.marysvillejt.com/2025/02/05/amazon-invests-1-billion-marysville-data-center",
+        "date": "2025-02-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "City FAQ (https://marysvilleohio.org/772/Data-Center-FAQs, re-read 2026-10-15): 14684 Industrial Parkway, ~55 acres, ~500,000 sq ft, ~$1B, ~$4M annual payroll; 'site readiness activities began in early 2026, with construction to follow through 2027'. Stage building confirmed by the city (site work under way).",
+    "pin_source": "https://marysvilleohio.org/772/Data-Center-FAQs",
+    "pin_address": "14684 Industrial Parkway, Marysville, OH"
+  },
+  {
+    "id": "oh-pike-sb-energy-ports",
+    "name": "PORTS Technology Campus (PORTS-Pike AI campus)",
+    "owner": "SB Energy (SoftBank)",
+    "operator": "SB Energy (leased to OpenAI)",
+    "tier": "large",
+    "state": "OH",
+    "county": "Pike County",
+    "town": "Piketon",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03-20",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 10000,
+        "unit": "MW (up to 10 GW planned data center / generation)",
+        "kind": "real",
+        "source": "https://www.13abc.com/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-former-ohio-uranium-site/",
+        "date": "2026-03-20"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Up to 10 GW of new generation incl. 9.2 GW natural gas, on-site and grid-connected; SB Energy and AEP Ohio building generation and transmission, incl. $4.2B grid upgrades; $33.3B Japanese funding tied to the gas generation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.13abc.com/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-former-ohio-uranium-site/",
+        "date": "2026-03-20"
+      },
+      "utility": {
+        "value": "AEP Ohio (partner on power and transmission)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.13abc.com/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-former-ohio-uranium-site/",
+        "date": "2026-03-20"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site",
+        "outlet": "13 ABC (AP)",
+        "url": "https://www.13abc.com/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-former-ohio-uranium-site/",
+        "date": "2026-03-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "OpenAI announces massive Ohio data center with Nvidia guarantee",
+        "outlet": "Axios",
+        "url": "https://www.axios.com/2026/08/17/openai-nvidia-ohio-data-center-sb-energy",
+        "date": "2026-08-17",
+        "tone": "neutral"
+      },
+      {
+        "title": "AEP Ohio Announces Additional Southern Ohio Transmission Upgrades To Support Growing Energy Needs",
+        "outlet": "AEP Ohio",
+        "url": "https://www.aepohio.com/company/news/view?releaseID=12272",
+        "date": "2026-09-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Portsmouth Gaseous Diffusion Plant (DOE site). Aug 17, 2026: SB Energy to build, own and operate under a 20-year lease to OpenAI; initial 4.25 GW of AI compute, Nvidia option on remaining 3.75 GW (search summary of Nvidia/Axios). OpenAI says 35,000 construction jobs through 2032 and 2,500 long-term jobs (search summary; openai.com blocked). Construction expected to begin in 2026; stage left at announced. AEP Ohio (Sept 22, 2026): about 33 miles of new 765 kV line (Hanging Rock-Baku) plus rebuilds in Pike, Scioto and Lawrence counties to serve the planned data center campus at the former gaseous diffusion plant; the customer pays for the transmission; construction late 2027 to 2029 pending Ohio Power Siting Board approval; companion Baku-Gavin line to be filed as Case 26-0426-EL-BTX."
+  },
+  {
+    "id": "oh-van-wert-qts-van-wert",
+    "name": "QTS Van Wert campus",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Van Wert County",
+    "town": "Van Wert",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05-29",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (about)",
+        "kind": "real",
+        "source": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 900,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.wane.com/news/local-news/van-wert-confirms-10-billion-data-center/amp/",
+        "date": "2026-05"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "full-time QTS jobs (about)",
+        "kind": "real",
+        "source": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29"
+      },
+      "jobs_promised_build": {
+        "value": 1500,
+        "unit": "construction jobs (more than)",
+        "kind": "real",
+        "source": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "AEP; QTS pays 100% of needed energy infrastructure upgrades",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29"
+      },
+      "cooling_type": {
+        "value": "Closed-loop; uses no water for cooling once operational (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Van Wert community betterment fund; $100,000 initial investment in Vantage Career Center; projected $200M tax revenue over 20 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "City of Van Wert and QTS announce data center campus in Northwest Ohio",
+        "outlet": "QTS",
+        "url": "https://q.com/news/city-of-van-wert-and-qts-announce-data-center-campus-in-northwest-ohio/",
+        "date": "2026-05-29",
+        "tone": "neutral"
+      },
+      {
+        "title": "QTS behind Van Wert, Ohio, mega site acquisition, announces $10 billion data center campus",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/qts-behind-van-wert-ohio-mega-site-acquisition-announces-10-billion-data-center-campus/",
+        "date": "2026-06-02",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Up to seven buildings; ceremonial groundbreaking planned Q4 2026, first building early 2029, full build about 2032 (search summary). MW and acres from DCD via search (page blocked). DCD (via search) reports 500 MW and 902 of 1,500 acres of the Marsh Foundation mega site - MW unverified."
+  },
+  {
+    "id": "oh-shelby-amazon-sidney",
+    "name": "AWS Sidney campus (Project Galaxy)",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Shelby County",
+    "town": "Sidney",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 75,
+        "unit": "permanent jobs by late 2030 ($6.75M payroll)",
+        "kind": "real",
+        "source": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Utility agreement covers up to 1 million gallons of groundwater per day, about 390,000 gallons/day wastewater returned",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03"
+      },
+      "tax_break": {
+        "value": "30-year, 100% real property tax abatement (city development agreement); estimated value $180M-$350M per Dayton Daily News",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$50M payments in lieu of taxes over 15 years",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Citizen groups (incl. Sidney Citizens Data Center Watch) launched recall petitions against council members who voted for the project",
+        "source": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon's $3 billion Sidney data center faces growing local opposition in Ohio",
+        "outlet": "Construction Review Online",
+        "url": "https://constructionreviewonline.com/amazons-3-billion-sidney-data-center-faces-growing-local-opposition-in-ohio/",
+        "date": "2026-09-03",
+        "tone": "bad"
+      },
+      {
+        "title": "Sidney council approves tax abatement for Amazon 'megaproject'",
+        "outlet": "Dayton Daily News",
+        "url": "https://coxohio-dayton-daily-news-prod.cdn.arcpublishing.com/local/sidney-council-approves-tax-abatement-for-amazon-megaproject/JVTQSDOD5BGYLIZ5UK6JEI26AE",
+        "date": "2025-10",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "North of Millcreek Road, west of Vandemark Road. Council approved development agreements Oct 2025; construction began Jan 2026 (tracker; Construction Review says construction advancing). Completion projected late 2030."
+  },
+  {
+    "id": "oh-clinton-amazon-wilmington",
+    "name": "AWS Wilmington campus",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Clinton County",
+    "town": "Wilmington",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-12",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 4000000000,
+        "unit": "USD (about)",
+        "kind": "real",
+        "source": "https://www.wvxu.org/2025-12-02/amazon-proposes-4b-data-center-in-wilmington-seeks-tax-abatement",
+        "date": "2025-12-02"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 471,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.wvxu.org/2025-12-02/amazon-proposes-4b-data-center-in-wilmington-seeks-tax-abatement",
+        "date": "2025-12-02"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "jobs (at least, per city documents)",
+        "kind": "real",
+        "source": "https://www.wvxu.org/2025-12-02/amazon-proposes-4b-data-center-in-wilmington-seeks-tax-abatement",
+        "date": "2025-12-02"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Proposed 30-year PILOT (2035-2064): Amazon pays 30% of annual property taxes otherwise owed",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wvxu.org/2025-12-02/amazon-proposes-4b-data-center-in-wilmington-seeks-tax-abatement",
+        "date": "2025-12-02"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon proposes $4B data center in Wilmington, seeks tax abatement",
+        "outlet": "WVXU/WYSO",
+        "url": "https://www.wvxu.org/2025-12-02/amazon-proposes-4b-data-center-in-wilmington-seeks-tax-abatement",
+        "date": "2025-12-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Wilmington planning commission tables vote on $4B Amazon data center site plan",
+        "outlet": "WYSU (Ohio News)",
+        "url": "https://wysu.org/ohio-news/2026-01-08/wilmington-planning-commission-tables-vote-on-4b-amazon-data-center-site-plan",
+        "date": "2026-01-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Southwest Wilmington. Council postponed the abatement vote twice (Dec 2025); planning commission tabled site plan Jan 2026. Final approvals not confirmed. Both sources are the same Ohio public radio network; confidence medium."
+  },
+  {
+    "id": "oh-allen-google-lima",
+    "name": "Google Lima data center (Project Bosc)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Allen County",
+    "town": "Lima",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-03-16",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 500000000,
+        "unit": "USD capital investment",
+        "kind": "real",
+        "source": "https://www.aedg.org/data-center-updates/google-to-build-data-center-in-lima-ohio-with-500-million-capital-investment/",
+        "date": "2026-03-16"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "15-year tax abatement offset agreement",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.aedg.org/data-center-updates/google-to-build-data-center-in-lima-ohio-with-500-million-capital-investment/",
+        "date": "2026-03-16"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$250,000 per year to Elida Local Schools; about $50M for local wastewater, water supply and road infrastructure",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.aedg.org/data-center-updates/google-to-build-data-center-in-lima-ohio-with-500-million-capital-investment/",
+        "date": "2026-03-16"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google to build data center in Lima, Ohio with $500 million capital investment",
+        "outlet": "Allen Economic Development Group",
+        "url": "https://www.aedg.org/data-center-updates/google-to-build-data-center-in-lima-ohio-with-500-million-capital-investment/",
+        "date": "2026-03-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "American Township area and 200+ acres per tracker, not in the AEDG release. Construction to begin after permits."
+  },
+  {
+    "id": "oh-scioto-google-franklin-furnace",
+    "name": "Google Franklin Furnace data center (Project Dazzler)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Scioto County",
+    "town": "Franklin Furnace",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-01",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (as reported by Scioto County Daily News; trackers list $500M)",
+        "kind": "real",
+        "source": "https://sciotocountydailynews.com/our-decision-was-based-on-the-partner-not-just-the-project-new-details-released-about-googles-franklin-furnace-data-center/",
+        "date": "2026-05"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "AEP Ohio building a new substation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://sciotocountydailynews.com/our-decision-was-based-on-the-partner-not-just-the-project-new-details-released-about-googles-franklin-furnace-data-center/",
+        "date": "2026-05"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "'Our decision was based on the partner, not just the project': new details released about Google's Franklin Furnace data center",
+        "outlet": "Scioto County Daily News",
+        "url": "https://sciotocountydailynews.com/our-decision-was-based-on-the-partner-not-just-the-project-new-details-released-about-googles-franklin-furnace-data-center/",
+        "date": "2026-05",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google hosts data center information fair",
+        "outlet": "WSAZ",
+        "url": "https://www.wsaz.com/2026/05/15/google-hosts-data-center-information-fair/",
+        "date": "2026-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Green Township, east of Gallia Pike (Old U.S. 52). 500,000 sq ft complex plus support buildings; site work 2026-27, interior work through 2029. Google named as company behind Project Dazzler Jan 2026 (tracker; ~180 acres from Southern Ohio Port Authority). Investment figure conflicts ($1B vs $500M)."
+  },
+  {
+    "id": "oh-wood-meta-bowling-green",
+    "name": "Meta Bowling Green data center",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Wood County",
+    "town": "Middleton Township",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-04-09",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/04/hello-bowling-green/",
+        "date": "2025-04-09"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent jobs (about)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/04/hello-bowling-green/",
+        "date": "2025-04-09"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction workers at peak (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/04/hello-bowling-green/",
+        "date": "2025-04-09"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Apollo Power Generation Facility: 350 MW natural gas plus about 120 MW batteries, behind-the-meter, serving only the data center (Will-Power OH LLC; approved by Ohio Power Siting Board via expedited review, no public hearings)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://bgindependentmedia.org/power-plant-for-meta-data-center-in-wood-county-fast-tracked-approved-with-no-public-hearings/",
+        "date": "2026-02-03"
+      },
+      "utility": {
+        "value": "Toledo Edison (FirstEnergy)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/04/hello-bowling-green/",
+        "date": "2025-04-09"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Gas power plant for the data center approved by the Ohio Power Siting Board through expedited review with no public hearings",
+        "source": "https://bgindependentmedia.org/power-plant-for-meta-data-center-in-wood-county-fast-tracked-approved-with-no-public-hearings/",
+        "date": "2026-02-03"
+      }
+    ],
+    "news": [
+      {
+        "title": "Hello Bowling Green",
+        "outlet": "Meta",
+        "url": "https://datacenters.atmeta.com/2025/04/hello-bowling-green/",
+        "date": "2025-04-09",
+        "tone": "good"
+      },
+      {
+        "title": "Power plant for Meta data center in Wood County fast-tracked, approved with no public hearings",
+        "outlet": "BG Independent News",
+        "url": "https://bgindependentmedia.org/power-plant-for-meta-data-center-in-wood-county-fast-tracked-approved-with-no-public-hearings/",
+        "date": "2026-02-03",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "715,000 sq ft campus, AI-optimized; Meta's 24th US data center. DCD reported first building topped out May 2026 (tracker). Town field holds the township (north of Bowling Green)."
+  },
+  {
+    "id": "oh-miami-shaytura-piqua",
+    "name": "Piqua data center project (Project Klondike)",
+    "owner": "J5 LLC (dba Shaytura LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Miami County",
+    "town": "Piqua",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (estimated, $1B or more)",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 1200,
+        "unit": "acres (about, contiguous annexed land)",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "permanent on-site jobs (100+), plus 400+ contracted service jobs",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "jobs_promised_build": {
+        "value": 1000,
+        "unit": "construction workers over 3-5 years (1,000+)",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Piqua Power System (construction); AES Ohio (long-term operations)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "cooling_type": {
+        "value": "Closed-loop cooling; city water, no on-site wells",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "15-year Community Reinvestment Area abatement on building value increase; TIF on land and building value",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "$735,000 annual PILOT per data center building; developer funds $76M in water, wastewater, power and road infrastructure; school compensation agreements",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.piquaoh.org/1673/Data-Center-Project",
+        "date": "2026-08"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Piqua OKs road agreement for data center project",
+        "outlet": "Piqua Daily Call",
+        "url": "https://www.dailycall.com/news/93914/piqua-oks-road-agreement-for-data-center-project",
+        "date": "2026-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "City page names developer J5 LLC dba Shaytura LLC, not Meta. Trackers and DCD report Meta is behind Shaytura - unconfirmed by an official source. Development, water/wastewater and TIF agreements executed Jan 23, 2026. Source date is approximate (page lists hearings into Aug 2026)."
+  },
+  {
+    "id": "oh-union-anadonna-marysville-south",
+    "name": "Marysville South data center project",
+    "owner": "Anadonna LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Union County",
+    "town": "Marysville",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-11-10",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (about, $1B+ estimate)",
+        "kind": "real",
+        "source": "https://marysvilleohio.org/772/Data-Center-FAQs",
+        "date": "2026"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 600,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://marysvilleohio.org/772/Data-Center-FAQs",
+        "date": "2026"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Community Reinvestment Area agreement with property tax abatement on improvements, annual PILOT, and a donation agreement (Ordinance U)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://marysvilleohio.org/772/Data-Center-FAQs",
+        "date": "2026"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Southwest Marysville, south of Union County Airport, west of Industrial Parkway; rezoned to PUD Aug 2024; ordinance introduced Nov 10, 2025; infrastructure and overpass work 2026-27. DCD and trackers say Meta is behind Anadonna LLC (also 'Project Corgi') - not confirmed by the city."
+  },
+  {
+    "id": "oh-champaign-thor-urbana",
+    "name": "Urbana Technology Hub",
+    "owner": "Thor Equities",
+    "operator": "CyrusOne (joined project early 2026)",
+    "tier": "large",
+    "state": "OH",
+    "county": "Champaign County",
+    "town": "Urbana",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2024-09",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+        "date": "2026-03-04"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "AES Ohio",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+        "date": "2026-03-04"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "CyrusOne said daily water use would be comparable to 12 homes (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+        "date": "2026-03-04"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Petition with more than 4,000 online signatures; residents' website; 30+ spoke against; council passed 12-month moratorium 6-1",
+        "source": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+        "date": "2026-03-04"
+      },
+      {
+        "what": "Cedar Bog Association warns of irreversible harm to Cedar Bog Nature Preserve wetland within two miles",
+        "source": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+        "date": "2026-03-04"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Urbana passes moratorium on new data centers, leaving $1B proposal in limbo",
+        "outlet": "WOSU",
+        "url": "https://www.wosu.org/2026-03-04/urbana-passes-moratorium-on-new-data-centers-leaving-1b-proposal-in-limbo",
+        "date": "2026-03-04",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "460,000 sq ft single-story building near Ohio 55 and U.S. 68 by the Rittal plant. Trackers cite 62 acres and 150 MW of onsite utility power (DCD) - unconfirmed. Announced Sept 2024 per tracker. Developer site: urbanaohiodatacenter.com (not read)."
+  },
+  {
+    "id": "oh-clark-5c-springfield",
+    "name": "5C Data Centers CMH01",
+    "owner": "5C Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Clark County",
+    "town": "Springfield",
+    "lat": 39.912527,
+    "lng": -83.720846,
+    "stage": "building",
+    "announced": "2024-06",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1300000000,
+        "unit": "USD (up to)",
+        "kind": "real",
+        "source": "https://springfieldohio.gov/5c-data-center-faqs/",
+        "date": "2026"
+      },
+      "power_mw": {
+        "value": 150,
+        "unit": "MW maximum design load",
+        "kind": "real",
+        "source": "https://springfieldohio.gov/5c-data-center-faqs/",
+        "date": "2026"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 120,
+        "unit": "full-time jobs",
+        "kind": "real",
+        "source": "https://springfieldohio.gov/5c-data-center-faqs/",
+        "date": "2026"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop system",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://springfieldohio.gov/5c-data-center-faqs/",
+        "date": "2026"
+      },
+      "water_use": {
+        "value": "Up to 300,000 gallons/day theoretical peak in extreme heat; minimal or near zero most of year (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://springfieldohio.gov/5c-data-center-faqs/",
+        "date": "2026"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "5C Data Centers announces 200MW campus in Columbus, Ohio",
+        "outlet": "DatacenterDynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/5c-data-centers-announces-200mw-campus-in-columbus-ohio/",
+        "date": "2024-06",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "601 Benjamin Dr (tracker). City-hosted 5C FAQ: designed for up to 150 MW; 3 existing diesel generators, 16 more planned for Phase 1; will not begin operations until grid connections are approved; phased, no dates. Trackers list 200 MW. Stage building per tracker; the FAQ supports an existing building being expanded but does not state construction status (re-checked 2026-10-15).",
+    "pin_source": "https://springfieldohio.gov/5c-data-center-faqs/",
+    "pin_address": "601 Benjamin Dr, Springfield, OH"
+  },
+  {
+    "id": "oh-erie-aligned-neo-01",
+    "name": "Aligned NEO-01 campus",
+    "owner": "Aligned Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Erie County",
+    "town": "Sandusky",
+    "lat": 41.430426,
+    "lng": -82.716323,
+    "stage": "building",
+    "announced": "2023-09-27",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 202000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.jobsohio.com/newsroom/news-press/aligned-data-centers-plans-new-data-center-in-erie-county",
+        "date": "2023-09-27"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 129,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://aligneddc.com/northeast-ohio-data-centers/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 18,
+        "unit": "IT jobs",
+        "kind": "real",
+        "source": "https://www.jobsohio.com/newsroom/news-press/aligned-data-centers-plans-new-data-center-in-erie-county",
+        "date": "2023-09-27"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Aligned Data Centers plans new data center in Erie County",
+        "outlet": "JobsOhio",
+        "url": "https://www.jobsohio.com/newsroom/news-press/aligned-data-centers-plans-new-data-center-in-erie-county",
+        "date": "2023-09-27",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "2509 Hayes Ave, Sandusky (Aligned location page). Perkins Township brownfield; trackers list 96 MW, four buildings, construction from May 2024. Aligned's page gives no operating status, so stage stays building (pass 2 could not confirm running).",
+    "pin_source": "https://aligneddc.com/northeast-ohio-data-centers/",
+    "pin_address": "2509 Hayes Ave, Sandusky, OH"
+  },
+  {
+    "id": "oh-coshocton-aligned-conesville",
+    "name": "Aligned Conesville campus (CMH-02)",
+    "owner": "Aligned Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Coshocton County",
+    "town": "Conesville",
+    "lat": 40.192426,
+    "lng": -81.875781,
+    "stage": "building",
+    "announced": "2025-07-24",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 197,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://aligneddc.com/press-release/aligned-data-centers-expands-in-ohio-with-new-mega-scale-ai-campus/",
+        "date": "2025-07-24"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Aligned Data Centers expands in Ohio with new mega-scale AI campus",
+        "outlet": "Aligned Data Centers",
+        "url": "https://aligneddc.com/press-release/aligned-data-centers-expands-in-ohio-with-new-mega-scale-ai-campus/",
+        "date": "2025-07-24",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "47201 County Rd 273, Conesville; 197 acres in Conesville Industrial Park next to the former AEP Conesville plant (Aligned location page and July 24, 2025 release). Aligned's Ohio page lists only two Ohio campuses (NEO-01 and CMH-02), so the earlier doubt about two separate Conesville campuses is resolved: one campus, CMH-02 (tracker figures of 600 MW / 82 acres are unconfirmed). Release: multi-billion, phased, foundational customer signed, first data center targeting initial capacity mid-2026. Release calls it Aligned's third Ohio campus but does not name the other; not found. Stage building; running not confirmed.",
+    "pin_source": "https://aligneddc.com/northeast-ohio-data-centers/",
+    "pin_address": "47201 County Road 273, Conesville, OH"
+  },
+  {
+    "id": "oh-stark-bitdeer-massillon",
+    "name": "Bitdeer Massillon site",
+    "owner": "Bitdeer",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Stark County",
+    "town": "Massillon",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2025-09-22",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 221,
+        "unit": "MW total (121 MW in use 2026-03-31; 74 MW due Q2 2026, 26 MW due Q3 2026)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/ea0282628-20f_bitdeer.htm",
+        "date": "2026-04-30"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Bitcoin mining. Two buildings (~26 MW) postponed after a fire. Partly running. Massillon passed then lifted a data center moratorium after adopting zoning rules (search summary). Announced date from tracker. Pass 3 (2026-10-15): Bitdeer 20-F (2026-04-30) says Massillon became operational in 2025 and had 121 MW in use as of 2026-03-31, with 74 MW (Q2 2026) and 26 MW (Q3 2026) still to come; stage set to running."
+  },
+  {
+    "id": "oh-monroe-bitdeer-clarington",
+    "name": "Bitdeer Clarington site",
+    "owner": "Bitdeer",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Monroe County",
+    "town": "Clarington",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 570,
+        "unit": "MW under contract with a local utility",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/ea026963701ex99-1_bitdeer.htm",
+        "date": "2025-12-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Planned as AI data center. Power available end Q3 2026; power and data center infrastructure targeted Q2 2027. Trackers call it Clarington/Hannibal Industrial Park. Stage building is uncertain (design and prep work)."
+  },
+  {
+    "id": "oh-trumbull-bitdeer-niles",
+    "name": "Bitdeer Niles site",
+    "owner": "Bitdeer",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Trumbull County",
+    "town": "Niles",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300,
+        "unit": "MW (FirstEnergy interconnection; trackers say 570)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/ea026963701ex99-1_bitdeer.htm",
+        "date": "2025-12-15"
+      },
+      "acres": {
+        "value": 41.8,
+        "unit": "acres owned",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/ea026963701ex99-1_bitdeer.htm",
+        "date": "2025-12-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "FirstEnergy (interconnection agreement)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/ea026963701ex99-1_bitdeer.htm",
+        "date": "2025-12-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Grid-connected development site; target energization Q1 2029."
+  },
+  {
+    "id": "oh-portage-bitdeer-shalersville",
+    "name": "Bitdeer Shalersville AI campus (Turnpike Commerce Center)",
+    "owner": "Bitdeer",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Portage County",
+    "town": "Shalersville Township",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 300000000,
+        "unit": "USD construction (more than, excluding equipment)",
+        "kind": "real",
+        "source": "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+        "date": "2026-05"
+      },
+      "power_mw": {
+        "value": 750,
+        "unit": "MW at full build (150 MW first phase)",
+        "kind": "real",
+        "source": "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+        "date": "2026-05"
+      },
+      "acres": {
+        "value": 257,
+        "unit": "acres under contract",
+        "kind": "real",
+        "source": "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+        "date": "2026-05"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Shalersville Township data center moratorium in place until early Nov 2026; must expire or be lifted before project can proceed",
+        "source": "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+        "date": "2026-05"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Local developer, global tech firm plan major data center project in Portage County",
+        "outlet": "News 5 Cleveland",
+        "url": "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+        "date": "2026-05",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "15 buildings with Geis Development, about 5-year buildout. A Portager story (tracker-listed, not read) reports a standing-room crowd lashed out at reps at a town hall."
+  },
+  {
+    "id": "oh-butler-prologis-trenton",
+    "name": "Prologis Trenton campus (Project Mila)",
+    "owner": "Prologis",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Butler County",
+    "town": "Trenton",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 140,
+        "unit": "acres (more than)",
+        "kind": "real",
+        "source": "https://www.wvxu.org/local-news/2026-03-30/trenton-planning-commission-approves-site-plan-data-center",
+        "date": "2026-03-30"
+      },
+      "jobs_promised_perm": {
+        "value": 140,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://www.wvxu.org/local-news/2026-03-30/trenton-planning-commission-approves-site-plan-data-center",
+        "date": "2026-03-30"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Woodsdale and Trenton Environmental Resistance (Barry Blankenship) and residents objected; meeting held with no public comment",
+        "source": "https://www.wvxu.org/local-news/2026-03-30/trenton-planning-commission-approves-site-plan-data-center",
+        "date": "2026-03-30"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Trenton planning commission approves site plan for data center",
+        "outlet": "WVXU",
+        "url": "https://www.wvxu.org/local-news/2026-03-30/trenton-planning-commission-approves-site-plan-data-center",
+        "date": "2026-03-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Trenton approves 15-year tax abatement for data center",
+        "outlet": "WOSU",
+        "url": "https://www.wosu.org/2026-07-09/trenton-approves-15-year-tax-abatement-for-data-center",
+        "date": "2026-07-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "880,000 sq ft, four buildings plus substation in Trenton industrial park. Trackers list 250 MW. Tax abatement story not read."
+  },
+  {
+    "id": "oh-stark-panattoni-perry-township",
+    "name": "Perry Township data center (Faircrest St SW)",
+    "owner": "Panattoni Development Company",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Stark County",
+    "town": "Perry Township",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2026-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 240,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.ideastream.org/environment-energy/2026-04-15/some-stark-county-residents-skeptical-of-developers-answers-on-data-center-project",
+        "date": "2026-04-15"
+      },
+      "acres": {
+        "value": 100,
+        "unit": "acres (more than)",
+        "kind": "real",
+        "source": "https://www.ideastream.org/environment-energy/2026-04-15/some-stark-county-residents-skeptical-of-developers-answers-on-data-center-project",
+        "date": "2026-04-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Residents skeptical of developer answers on water, wastewater, noise, secrecy; some signed petitions for a statewide ballot ban on data centers over 25 MW",
+        "source": "https://www.ideastream.org/environment-energy/2026-04-15/some-stark-county-residents-skeptical-of-developers-answers-on-data-center-project",
+        "date": "2026-04-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Some Stark County residents skeptical of developer's answers on data center project",
+        "outlet": "Ideastream",
+        "url": "https://www.ideastream.org/environment-energy/2026-04-15/some-stark-county-residents-skeptical-of-developers-answers-on-data-center-project",
+        "date": "2026-04-15",
+        "tone": "bad"
+      },
+      {
+        "title": "Perry data center gets county OK",
+        "outlet": "WHBC",
+        "url": "https://www.whbc.com/perry-data-center-gets-county-ok/",
+        "date": "2026-06-11",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Faircrest Street SW and Kropf Avenue. Trackers say local officials identified Amazon as end user and Stark County commissioners approved 2-0 on June 11, 2026 (WHBC, not read). End user unconfirmed; stage permitted relies on that."
+  },
+  {
+    "id": "oh-franklin-undisclosed-grove-city-maple",
+    "name": "Project Maple data center campus",
+    "owner": null,
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Franklin County",
+    "town": "Grove City",
+    "lat": null,
+    "lng": null,
+    "stage": "paused",
+    "announced": "2026-05-27",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 310,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://grovecityohio.gov/697/Project-Maple---Preliminary-Development-",
+        "date": "2026-05-27"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Grove City data center ($6.9 billion) and moratorium",
+        "outlet": "Columbus Business First",
+        "url": "https://www.bizjournals.com/columbus/news/2026/06/26/grove-city-data-center-69-billion-moratorium.html",
+        "date": "2026-06-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "South of Rensch Road, north of Beatty Road. City page: 'HOLD SUBJECT TO MORATORIUM (C-22-26)'. Developer undisclosed. $6.9B from Business First headline via tracker (paywalled, not read). Investment unverified ($6.9B per Business First headline)."
+  },
+  {
+    "id": "oh-cuyahoga-lakeland-slavic-village",
+    "name": "Slavic Village data center (East 55th Street)",
+    "owner": "Lakeland Equity Group",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Cuyahoga County",
+    "town": "Cleveland",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2026-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://www.cleveland19.com/2026/05/14/city-rejects-permit-application-proposed-data-center-clevelands-slavic-village-neighborhood/",
+        "date": "2026-05-14"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Ward 15 Councilman Charles Slife introduced a data center moratorium ordinance May 4, 2026; neighbors raised concerns",
+        "source": "https://www.cleveland19.com/2026/05/14/city-rejects-permit-application-proposed-data-center-clevelands-slavic-village-neighborhood/",
+        "date": "2026-05-14"
+      },
+      {
+        "what": "City of Cleveland rejected the permit application",
+        "source": "https://www.cleveland19.com/2026/05/14/city-rejects-permit-application-proposed-data-center-clevelands-slavic-village-neighborhood/",
+        "date": "2026-05-14"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "City rejects permit application for proposed data center in Cleveland's Slavic Village neighborhood",
+        "outlet": "Cleveland 19",
+        "url": "https://www.cleveland19.com/2026/05/14/city-rejects-permit-application-proposed-data-center-clevelands-slavic-village-neighborhood/",
+        "date": "2026-05-14",
+        "tone": "bad"
+      },
+      {
+        "title": "Neighbors raise concerns about proposed Cleveland data center",
+        "outlet": "Cleveland 19",
+        "url": "https://www.cleveland19.com/2026/05/07/neighbors-raise-concerns-about-proposed-cleveland-data-center/",
+        "date": "2026-05-07",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Morabito Enterprises property on East 55th Street. Trackers list $1.6B. Both news items same outlet."
+  },
+  {
+    "id": "oh-lake-province-perry-village",
+    "name": "Perry Technology Park data center (former Champion Farm)",
+    "owner": "Province Group",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Lake County",
+    "town": "Perry",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-07",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 215,
+        "unit": "acres (three parcels: 163 village, 22 township, 30 JEDD; sale not closed)",
+        "kind": "real",
+        "source": "https://www.news5cleveland.com/news/local-news/crowd-packs-perry-village-hall-to-protest-data-center-project-as-tensions-rise-across-ohio",
+        "date": "2026-04"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "jobs (200 to 300)",
+        "kind": "real",
+        "source": "https://www.news5cleveland.com/news/local-news/crowd-packs-perry-village-hall-to-protest-data-center-project-as-tensions-rise-across-ohio",
+        "date": "2026-04"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Dozens packed a council meeting and a crowd protested outside Perry Village Hall; hour of public comment",
+        "source": "https://www.news5cleveland.com/news/local-news/crowd-packs-perry-village-hall-to-protest-data-center-project-as-tensions-rise-across-ohio",
+        "date": "2026-04"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Crowd packs Perry Village Hall to protest data center project as tensions rise across Ohio",
+        "outlet": "News 5 Cleveland",
+        "url": "https://www.news5cleveland.com/news/local-news/crowd-packs-perry-village-hall-to-protest-data-center-project-as-tensions-rise-across-ohio",
+        "date": "2026-04",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former Champion Farm nursery site off Route 20. Province Group affiliate agreed to buy the land (not closed); six buildings ~250,000 sq ft each, 65 ft tall; 'potential billion-dollar project'; construction would start in ~2 years and take 5-6 years. Village page https://perryvillageohio.com/data-center-information/ confirms the proposal (town hall July 2025; CRA and community benefits presentation April 23, 2026). Trackers list ~200 MW (unverified)."
+  },
+  {
+    "id": "oh-fayette-amazon-jeffersonville",
+    "name": "AWS Jeffersonville campus (Midwest Mega Commerce Center)",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Fayette County",
+    "town": "Jeffersonville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-01-21",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 5000000000,
+        "unit": "USD in Fayette County by 2030",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/amazon-picks-where-first-10-180916200.html",
+        "date": "2025-01-21"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "jobs (more than)",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/amazon-picks-where-first-10-180916200.html",
+        "date": "2025-01-21"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 589,
+        "unit": "acres (two parcels, 243 + 346)",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/amazon-picks-where-first-10-180916200.html",
+        "date": "2025-01-21"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "As AWS continues to invest in Ohio, we are grateful to the local leadership in Fayette County ... (Roger Wehner, AWS VP Economic Development)",
+        "source": "https://www.yahoo.com/news/amazon-picks-where-first-10-180916200.html",
+        "date": "2025-01-21"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon picks where the first of its $10 billion in data centers will go in Ohio",
+        "outlet": "Columbus Dispatch (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/amazon-picks-where-first-10-180916200.html",
+        "date": "2025-01-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "Amazon considers building Ohio data center in Fayette County",
+        "outlet": "Dayton Daily News",
+        "url": "https://daytondailynews.com/business/amazon-considers-building-ohio-data-center-in-fayette-county/INWPDSDBERGA5GN64WTWKFEQFM",
+        "date": "2025",
+        "tone": "neutral"
+      },
+      {
+        "title": "Amazon acquires 590 acres in Jefferson Township, Ohio, for $102 million",
+        "outlet": "DatacenterDynamics",
+        "url": "https://datacenterdynamics.com/en/news/amazon-acquires-590-acres-in-jefferson-township-ohio-for-102-million",
+        "date": "2025-01",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Amazon Data Services bought ~589 acres for ~$102.4M (closed Jan 15, 2025) next to I-71 and the Honda-LG battery plant, Jefferson Township, at the Midwest Mega Commerce Center. AWS VP Roger Wehner thanked Fayette County leaders (Dispatch). Ohio Consumers' Counsel FERC filing (per search summary of DDN/NBC4) said operations could start Sept 2026 and objected to ~$22.8M of transmission upgrades that could fall on AES Ohio customers; so utility is probably AES Ohio (not confirmed from a read source). Construction status not confirmed from a read source; stage left at announced. Trackers list a second parcel (Jeffersonville-2) planned 2029; kept in this one record (one campus)."
+  },
+  {
+    "id": "oh-pickaway-edgeconnex-ashville",
+    "name": "EdgeConneX Ashville campus",
+    "owner": "EdgeConneX",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Pickaway County",
+    "town": "Ashville",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "On-site behind-the-meter natural gas energy center",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://abc6onyourside.com/news/local/ashville-data-center-project-could-go-before-voters-after-supreme-court-ruling",
+        "date": "2026-08-09"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Up to $102M in support for Ashville, Harrison Township and Teays Valley Local Schools (Resolution 06-2026 term summary)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://hoodline.com/2026/07/ashville-showdown-locals-drag-blocked-data-center-vote-to-ohio-s-high-court/",
+        "date": "2026-07-16"
+      },
+      "utility": null,
+      "acres": {
+        "value": 195,
+        "unit": "acres (roughly)",
+        "kind": "real",
+        "source": "https://hoodline.com/2026/07/ashville-showdown-locals-drag-blocked-data-center-vote-to-ohio-s-high-court/",
+        "date": "2026-07-16"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents' referendum petition (669 valid signatures) against Resolution 06-2026; Ohio Supreme Court granted writ ordering the fiscal officer to certify it (Aug 2026)",
+        "source": "https://abc6onyourside.com/news/local/ashville-data-center-project-could-go-before-voters-after-supreme-court-ruling",
+        "date": "2026-08-09"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Ashville data center project could go before voters after Supreme Court ruling",
+        "outlet": "WSYX ABC6",
+        "url": "https://abc6onyourside.com/news/local/ashville-data-center-project-could-go-before-voters-after-supreme-court-ruling",
+        "date": "2026-08-09",
+        "tone": "bad"
+      },
+      {
+        "title": "Ohio Supreme Court rules Ashville must certify petition against data center",
+        "outlet": "NBC4 WCMH",
+        "url": "https://www.nbc4i.com/news/local-news/pickaway-county/ohio-supreme-court-rules-ashville-must-certify-petition-against-data-center/amp/",
+        "date": "2026-08",
+        "tone": "bad"
+      },
+      {
+        "title": "Ashville showdown: locals drag blocked data center vote to Ohio's high court",
+        "outlet": "Hoodline",
+        "url": "https://hoodline.com/2026/07/ashville-showdown-locals-drag-blocked-data-center-vote-to-ohio-s-high-court/",
+        "date": "2026-07-16",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Two data center buildings plus a gas plant. Village council approved Resolution 06-2026 (development and supply agreement term summary) by emergency in April 2026, temporarily lifting the village's moratorium; Ohio Power Siting Board decision on the energy center expected around October 2026 (per Hoodline). Earlier lead text (tracker + WFIN) said 1.8 GW substation, 200 MW gas plant and a rejected 490-acre annexation in Feb 2026 - not confirmed from a readable source. Whether the referendum made the Nov 2026 ballot was not confirmed."
+  },
+  {
+    "id": "oh-franklin-amazon-hilliard",
+    "name": "AWS Hilliard campus (Scioto Darby Creek Road)",
+    "owner": "Amazon Web Services",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Franklin County",
+    "town": "Hilliard",
+    "lat": 40.01179,
+    "lng": -83.121207,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 200000000,
+        "unit": "USD minimum required by Dec 31, 2026 under CRA agreement; city says Amazon met or exceeded it",
+        "kind": "real",
+        "source": "https://hilliardohio.gov/fuel-cells/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "Grid (AEP Ohio) plus planned 72.9 MW behind-the-meter natural gas solid oxide fuel cells (228 Bloom Energy units on ~6.4 acres at 4186 Scioto Darby Creek Rd), owned and run by AEP Ohio, paid for by Amazon Data Services; bridge power for about six years until transmission capacity is available",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://hilliardohio.gov/fuel-cells/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "AEP Ohio (Ohio Power Company)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://hilliardohio.gov/fuel-cells/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 142,
+        "unit": "acres (campus)",
+        "kind": "real",
+        "source": "https://hilliardohio.gov/fuel-cells/",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Hilliard City Council unanimously voted (Oct 27, 2025) to appeal Ohio EPA's air permit for the 228 fuel cells to the Environmental Review Appeals Commission (filed Nov 7, 2025); city withdrew the appeal Sept 15, 2026",
+        "source": "https://hilliardohio.gov/hilliard-to-appeal-epa-fuel-cell-permit-for-amazon-site/",
+        "date": "2025-10-31"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "City of Hilliard ends fuel cell permit appeal, calls for stronger local input",
+        "outlet": "City of Hilliard",
+        "url": "https://hilliardohio.gov/city-of-hilliard-ends-fuel-cell-permit-appeal-calls-for-stronger-local-input/",
+        "date": "2026-09-15",
+        "tone": "neutral"
+      },
+      {
+        "title": "Hilliard to appeal EPA fuel cell permit for Amazon site",
+        "outlet": "City of Hilliard",
+        "url": "https://hilliardohio.gov/hilliard-to-appeal-epa-fuel-cell-permit-for-amazon-site/",
+        "date": "2025-10-31",
+        "tone": "bad"
+      },
+      {
+        "title": "State law overrides local review for AWS fuel cell system in Hilliard",
+        "outlet": "City of Hilliard",
+        "url": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/",
+        "date": "2025-10-21",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "Existing buildings on the campus (north of the fuel cell site, per city); CRA agreement allows up to 2M sq ft. Columbus Building Trades newsletter (June 2023) said Amazon had three existing data centers in Hilliard. OPSB approved AEP's fuel cell application effective Sept 22, 2025 (case number not on city page); fuel cells projected to run Sept 2027. Advocacy site stopohiodatacenters.org says Amazon runs two Cosgray Road campuses and is building a third at Scioto Darby Road and I-270 - not confirmed; this record covers the Hilliard campus as one until addresses for separate campuses are sourced. Opening year not sourced.",
+    "pin_source": "https://hilliardohio.gov/fuel-cells/",
+    "pin_address": "4186 Scioto Darby Creek Rd, Hilliard, OH"
+  },
+  {
+    "id": "oh-trumbull-softbank-lordstown",
+    "name": "Stargate Lordstown (SoftBank, former GM/Foxconn plant)",
+    "owner": "SoftBank Group (Crescent Dune LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Trumbull County",
+    "town": "Lordstown",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-09-23",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 600,
+        "unit": "acres (nearly; whole plant site sold, data center uses a small part)",
+        "kind": "real",
+        "source": "https://businessjournaldaily.com/softbank-affiliate-takes-title-to-lordstown-plant/",
+        "date": "2025-09-26"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "The advanced data center will use a small part of the existing footprint at the Lordstown site. (SoftBank spokesperson)",
+        "source": "https://businessjournaldaily.com/softbank-affiliate-takes-title-to-lordstown-plant/",
+        "date": "2025-09-26"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Lordstown part of mammoth $500 billion artificial intelligence data center project",
+        "outlet": "WFMJ",
+        "url": "https://www.wfmj.com/story/53109325/lordstown-part-of-mammoth-dollar500-billion-artificial-intelligence-data-center-project",
+        "date": "2025-09-24",
+        "tone": "neutral"
+      },
+      {
+        "title": "SoftBank affiliate takes title to Lordstown plant",
+        "outlet": "Business Journal Daily",
+        "url": "https://businessjournaldaily.com/softbank-affiliate-takes-title-to-lordstown-plant/",
+        "date": "2025-09-26",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Named by OpenAI (Sept 23, 2025) as one of five new Stargate sites; WFMJ says SoftBank broke ground on an advanced data center in the 6.2M sq ft former GM plant, on track to be operational in 2026, and that Lordstown is one of two SoftBank sites that can scale to 1.5 GW over 18 months (the 1.5 GW is shared with Milam County, TX). SoftBank spokesperson: the data center 'will use a small part of the existing footprint'. Crescent Dune LLC bought land and buildings for $88M (plant plus equipment $375M) on Sept 24, 2025; Foxconn keeps making data center equipment inside. No Lordstown-specific MW or investment published. Running status in 2026 not confirmed."
+  },
+  {
+    "id": "oh-warren-cyrusone-lebanon",
+    "name": "CyrusOne Lebanon campus (CIN5 and CIN7)",
+    "owner": "CyrusOne",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Warren County",
+    "town": "Lebanon",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 35,
+        "unit": "MW total IT capacity",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/lebanon-oh-cin5-cin7",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 123,
+        "unit": "acres (campus, with build-to-suit room)",
+        "kind": "real",
+        "source": "https://www.cyrusone.com/data-centers/north-america/lebanon-oh-cin5-cin7",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "CyrusOne facility page: CIN5 and CIN7, 400,000 sq ft of technical IT space, part of the Lebanon campus near Cincinnati; street address and opening year not on the page. CyrusOne's other Cincinnati-market sites: CIN2 near downtown Cincinnati (11 MW, 143,778 sq ft; below the size bar, not recorded) and CIN6 in Florence, KY."
+  },
+  {
+    "id": "oh-franklin-cologix-scherers-court",
+    "name": "Cologix Columbus Scherers Court campus (COL1-COL3)",
+    "owner": "Cologix",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Franklin County",
+    "town": "Columbus",
+    "lat": 40.116497,
+    "lng": -83.00205,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 130000000,
+        "unit": "USD (COL3 alone, 'new $130M+ facility')",
+        "kind": "real",
+        "source": "https://cologix.com/data-centers/columbus/",
+        "date": "2026-10-15"
+      },
+      "power_mw": {
+        "value": 18,
+        "unit": "MW (COL3 alone, 18+ MW; COL1/COL2 not stated)",
+        "kind": "real",
+        "source": "https://cologix.com/data-centers/columbus/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "COL1 (535), COL2 (555) and COL3 (585) Scherers Court, Columbus; COL3 is a 160,000 sq ft facility with Uptime Tier III constructed-facility certification (Cologix page). Cologix also lists COL4 (7500 Alta View) and COL5 (6787 Green Meadows Drive, Lewis Center; under construction July 2025 per Canary Media photo caption) with no size given - not recorded; COL7/COL8 are in oh-licking-cologix-johnstown. County assumed from the Columbus address on Scherers Court (north Columbus); confirm with Franklin County auditor.",
+    "pin_source": "https://cologix.com/data-centers/columbus/",
+    "pin_address": "555 Scherers Court, Columbus, OH (COL2)"
+  },
+  {
+    "id": "oh-cuyahoga-h5-cleveland",
+    "name": "H5 Data Centers Cleveland (1625 Rockwell Avenue)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "OH",
+    "county": "Cuyahoga County",
+    "town": "Cleveland",
+    "lat": 41.506306,
+    "lng": -81.683245,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "1625 Rockwell Ave, downtown Cleveland; 351,000 sq ft colocation facility with carrier-hotel interconnection (https://h5datacenters.com/cleveland-data-center.html). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "oh-hamilton-h5-cincinnati",
+    "name": "H5 Data Centers Cincinnati campus (Cincinnati I and II)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "OH",
+    "county": "Hamilton County",
+    "town": "Cincinnati",
+    "lat": 39.106022,
+    "lng": -84.536429,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Cincinnati II at 925 Dalton Avenue: 107,000+ sq ft (https://h5datacenters.com/cincinnati-II-data-center.html); Cincinnati I at 360 Gest Street (https://h5datacenters.com/cincinnati-data-center.html), about 0.8 miles apart in Queensgate; H5 calls Cincinnati a campus. Coordinates are Cincinnati II. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "oh-delaware-centersquare-lewis-center",
+    "name": "Centersquare Lewis Center CMH1",
+    "owner": "Centersquare",
+    "operator": "Centersquare",
+    "tier": "large",
+    "state": "OH",
+    "county": "Delaware County",
+    "town": "Lewis Center",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 35.8,
+        "unit": "MW utility power",
+        "kind": "real",
+        "source": "https://www.csquare.com/data-centers/columbus",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Lewis Center CMH1, Polaris area north of Columbus: 18,704 sq ft raised floor, 35.8 MW utility power (https://www.csquare.com/data-centers/columbus). Small floor area; counts only on utility power. Centersquare's page gives the town but no street address, so no coordinates, and the county is inferred from the town name only (confirm with the address). 'Utility power' is the site's utility service, not IT load; pass 3 rule: a Centersquare site counts when utility power is 20 MW+ and its town sits in one county."
+  },
+  {
+    "id": "oh-monroe-mara-hannibal",
+    "name": "MARA Hannibal (with Long Ridge Energy campus)",
+    "owner": "MARA Holdings",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Monroe County",
+    "town": "Hannibal",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-11-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 200,
+        "unit": "MW nameplate (41 MW operational at end 2024); AI buildout up to 600 gross MW planned",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1507605/000150760525000003/mara-20241231.htm",
+        "date": "2025-03-03"
+      },
+      "water_use": null,
+      "power_source": {
+        "value": "Grid (PJM); co-located with the 485-505 MW Long Ridge combined-cycle gas plant MARA agreed to buy",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1507605/000119312526193982/d54802dex991.htm",
+        "date": "2026-04-30"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "MARA expects construction of an initial AI/Critical IT buildout to begin in 1H 2027, with initial capacity accelerated by its current 200 MW of capacity and targeted to be ready for service in mid-2028.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1507605/000119312526193982/d54802dex991.htm",
+        "date": "2026-04-30"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Operating bitcoin mine bought from Arkon Energy on 2024-11-05 (with Hopedale, OH; $67M+ for 222 MW interconnect-approved capacity). On 2026-04-30 MARA agreed to buy Long Ridge Energy & Power from FTAI Infrastructure (about $1.5B including debt): the gas plant next to the mine plus over 1,600 acres. MARA plans an AI/critical IT buildout starting 1H 2027, ready mid-2028, up to 600 gross MW. Bitdeer's separate Clarington site (oh-monroe-bitdeer-clarington) is also in Monroe County and Bitdeer has called it 'Clarington/Hannibal'; different owner, but check they are distinct parcels."
+  },
+  {
+    "id": "oh-harrison-mara-hopedale",
+    "name": "MARA Hopedale",
+    "owner": "MARA Holdings",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Harrison County",
+    "town": "Hopedale",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024-11-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25,
+        "unit": "MW total (21 operational at end 2024)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1507605/000150760525000003/mara-20241231.htm",
+        "date": "2025-03-03"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Operating bitcoin mine bought from Arkon Energy Hopedale, LLC on 2024-11-05 (MARA 10-K for 2024). MARA's 2025 10-K groups it with Hannibal as 'East Ohio' (225 MW across two cities)."
+  },
+  {
+    "id": "oh-hancock-mara-findlay",
+    "name": "MARA Findlay",
+    "owner": "MARA Holdings",
+    "operator": null,
+    "tier": "large",
+    "state": "OH",
+    "county": "Hancock County",
+    "town": "Findlay",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 150,
+        "unit": "MW total (26 MW operational at end 2024)",
+        "kind": "real",
+        "source": "https://www.sec.gov/Archives/edgar/data/1507605/000150760525000003/mara-20241231.htm",
+        "date": "2025-03-03"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Greenfield bitcoin mining data center MARA began developing in 2024 (MARA 10-K for 2024). The 2025 10-K (https://www.sec.gov/Archives/edgar/data/1507605/000150760526000007/mara-20251231.htm) lists a 150 MW 'Central Ohio' grid-connected site with 28 MW operational, which matches Findlay's 150 MW."
+  },
+  {
+    "id": "oh-licking-microsoft-heath",
+    "name": "Microsoft Heath datacenter",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "Heath",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Summer construction continues at the Microsoft datacenter site in Heath.",
+        "source": "https://local.microsoft.com/blog/heath-datacenter-construction-updates/",
+        "date": "2026-07-01"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft backs off $1B Licking County data center plans",
+        "outlet": "WSYX ABC 6",
+        "url": "https://myfox28columbus.com/news/local/microsoft-backs-off-1b-licking-county-data-center-plans",
+        "date": "2025-04-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft local page: 'Microsoft is building a datacenter in the City of Heath, Licking County.' Construction entrance off Thornwood Drive, second access road off Lees Road. Mass grading Feb-Nov 2026, substation work starting summer 2026, vertical construction timeline not set (July 2026 update). Microsoft paused its three Licking County sites in April 2025 (WSYX) and restarted site work in 2026. Part of the $1B Licking County plan (New Albany, Heath, Hebron). Promoted from lead oh-licking-microsoft-campuses."
+  },
+  {
+    "id": "oh-licking-microsoft-hebron",
+    "name": "Microsoft Hebron datacenter",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "Hebron",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Summer construction continues at the Microsoft datacenter site in Hebron.",
+        "source": "https://local.microsoft.com/blog/hebron-datacenter-construction-update/",
+        "date": "2026-07-01"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft backs off $1B Licking County data center plans",
+        "outlet": "WSYX ABC 6",
+        "url": "https://myfox28columbus.com/news/local/microsoft-backs-off-1b-licking-county-data-center-plans",
+        "date": "2025-04-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft local page: site prep began March 2026; temporary construction entrance off Canyon Road, next to Thomas J. Evans Park; mass grading Feb-Nov 2026, substation work starting (July 2026 update). Earlier reporting: about 215 acres, six buildings (WSYX, via lead). Paused April 2025, restarted 2026. Promoted from lead oh-licking-microsoft-campuses."
+  },
+  {
+    "id": "oh-licking-microsoft-new-albany",
+    "name": "Microsoft New Albany datacenter (Beech Road)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "OH",
+    "county": "Licking County",
+    "town": "New Albany",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [
+      {
+        "text": "Microsoft is building datacenters in New Albany, Heath, and Hebron, Ohio.",
+        "source": "https://local.microsoft.com/communities/americas/ohio",
+        "date": "2026-10-15"
+      }
+    ],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft local page: site on Beech Road, New Albany; July 2026 update says 'New Albany site nears completion' (site preparation), with future phases planned. Earlier reporting: 184 acres at 3287 Beech Road (lead oh-licking-microsoft-campuses). County: the Beech Road address is in the Licking County part of New Albany per the lead; Microsoft's page names no county. Not the same as Google, Meta or AWS New Albany records. Paused April 2025, restarted."
+  }
+]

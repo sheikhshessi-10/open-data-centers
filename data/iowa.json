@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "ia-pottawattamie-google-council-bluffs",
+    "name": "Google Council Bluffs data center campus",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Pottawattamie County",
+    "town": "Council Bluffs",
+    "lat": 41.167418,
+    "lng": -95.793108,
+    "stage": "running",
+    "announced": "2007",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 600000000,
+        "unit": "USD (initial 2007 investment; Google says $20B+ invested in Iowa since 2007, statewide)",
+        "kind": "real",
+        "source": "https://datacenters.google/locations/iowa/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google spending $1 billion on its data center campus in Council Bluffs",
+        "outlet": "Radio Iowa",
+        "url": "https://www.radioiowa.com/2024/07/03/google-spending-1-billion-on-its-data-center-campus-in-council-bluffs/",
+        "date": "2024-07-03",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google: new $7 billion investment in Iowa (Cedar Rapids new campus, Council Bluffs expansion)",
+        "outlet": "Google blog",
+        "url": "https://blog.google/feed/new-7-billion-investment-iowa/",
+        "date": "2025-05-30",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Opened 2009 per Radio Iowa (Google page says 2007, the year it was announced/started). Expansions announced 2012, 2015, 2024, 2025. Google's $7B (May 2025) covers this expansion plus Cedar Rapids, not split.",
+    "pin_source": "https://echo.epa.gov/detailed-facility-report?fid=110055532482",
+    "pin_address": "10410 BUNGE AVE, COUNCIL BLUFFS, IA, 51503"
+  },
+  {
+    "id": "ia-linn-google-cedar-rapids",
+    "name": "Google Cedar Rapids data center (Big Cedar Industrial Center)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Linn County",
+    "town": "Cedar Rapids",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024-03",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 576000000,
+        "unit": "USD (current phase)",
+        "kind": "real",
+        "source": "https://www.thegazette.com/environment-nature/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/",
+        "date": "2024-04-28"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 31,
+        "unit": "jobs (minimum required by development agreement)",
+        "kind": "real",
+        "source": "https://www.thegazette.com/environment-nature/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/",
+        "date": "2024-04-28"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Alliant Energy (Individual Customer Rate contract, IUC docket TF-2025-0007 with Vulpine Power LLC per Clean Energy Districts of Iowa)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://efs.iowa.gov/docket/5230790",
+        "date": "2025"
+      },
+      "cooling_type": {
+        "value": "Evaporative cooling (water vapor plumes discussed for airport impacts)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://corridorbusiness.com/cedar-rapids-council-member-suggests-potential-moratorium-on-new-data-centers/",
+        "date": "2026-06-23"
+      },
+      "water_use": {
+        "value": "City leaders estimated 200,000 to 7.8 million gallons per day",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.thegazette.com/environment-nature/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/",
+        "date": "2024-04-28"
+      },
+      "tax_break": {
+        "value": "20-year, 70% property tax exemption, about $56 million; at least 31 high-paying jobs required",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.thegazette.com/environment-nature/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/",
+        "date": "2024-04-28"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Cedar Rapids council member David Maier cast the lone vote against the indemnification agreement granting Google's first building a temporary occupancy permit; council member Ashley Vanorny suggested a future moratorium on new data centers",
+        "source": "https://corridorbusiness.com/cedar-rapids-council-member-suggests-potential-moratorium-on-new-data-centers/",
+        "date": "2026-06-23"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Google data center would be among Cedar Rapids' largest water and energy users",
+        "outlet": "The Gazette",
+        "url": "https://www.thegazette.com/environment-nature/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/",
+        "date": "2024-04-28",
+        "tone": "neutral"
+      },
+      {
+        "title": "Cedar Rapids council member suggests potential moratorium on new data centers",
+        "outlet": "Corridor Business Journal",
+        "url": "https://corridorbusiness.com/cedar-rapids-council-member-suggests-potential-moratorium-on-new-data-centers/",
+        "date": "2026-06-23",
+        "tone": "bad"
+      },
+      {
+        "title": "Google announces Big Cedar data center (Alliant Energy release)",
+        "outlet": "Alliant Energy",
+        "url": "https://www.alliantenergy.com/news/news-center/2025/06/060425-googlebigcedarannouncement",
+        "date": "2025-06-04",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Up to five (development agreement) or six (indemnification agreement references Buildings 1-6) buildings. First building got a temporary occupancy permit in June 2026. Near 76th Ave and Edgewood Rd SW."
+  },
+  {
+    "id": "ia-linn-qts-cedar-rapids",
+    "name": "QTS Cedar Rapids campus (Big Cedar Industrial Center)",
+    "owner": "QTS Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Linn County",
+    "town": "Cedar Rapids",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (planned full buildout; initial phase over $750 million per DCF)",
+        "kind": "real",
+        "source": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "date": "2025-08-08"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 612,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "date": "2025-08-08"
+      },
+      "jobs_promised_perm": {
+        "value": "at least 15 jobs per data center required (30 expected per building)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/55268088/cedar-rapids-iowa-gets-approval-for-two-major-data-center-investments-by-google-and-qts",
+        "date": "2025-03-03"
+      },
+      "jobs_promised_build": {
+        "value": "over 2,000 construction and permanent jobs (combined)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "date": "2025-08-08"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Alliant Energy (Individual Customer Rate contract, IUC docket TF-2025-0047, per Clean Energy Districts of Iowa)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://efs.iowa.gov/docket/10370786",
+        "date": "2025-10-09"
+      },
+      "cooling_type": {
+        "value": "Water-free (closed-loop) cooling; QTS says it saves about 4 billion gallons a year vs evaporative cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "date": "2025-08-08"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "20-year 75% rebate on Alliant franchise fees plus TIF rebates (70% of increment, 20 annual payments per phase); rebates could total up to $529 million",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/55268088/cedar-rapids-iowa-gets-approval-for-two-major-data-center-investments-by-google-and-qts",
+        "date": "2025-03-03"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Up to $18 million over 20 years to the Cedar Rapids Community Betterment Fund",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterfrontier.com/site-selection/article/55268088/cedar-rapids-iowa-gets-approval-for-two-major-data-center-investments-by-google-and-qts",
+        "date": "2025-03-03"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Cedar Rapids, Iowa gets approval for two major data center investments by Google and QTS",
+        "outlet": "Data Center Frontier",
+        "url": "https://www.datacenterfrontier.com/site-selection/article/55268088/cedar-rapids-iowa-gets-approval-for-two-major-data-center-investments-by-google-and-qts",
+        "date": "2025-03-03",
+        "tone": "neutral"
+      },
+      {
+        "title": "QTS announces new data center campus in Cedar Rapids",
+        "outlet": "QTS",
+        "url": "https://q.com/news/qts-announces-new-world-class-data-center-campus-in-cedar-rapids/",
+        "date": "2025-08-08",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Seven buildings planned. Council approved development agreement late January 2025."
+  },
+  {
+    "id": "ia-linn-google-palo",
+    "name": "Google data center proposal near Palo (Duane Arnold site)",
+    "owner": "Google",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Linn County",
+    "town": "Palo",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-12",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 545,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "jobs (offered in Google term sheet to Linn County)",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Google-NextEra 25-year PPA to restart the 615 MW Duane Arnold nuclear plant, Google takes over 90% of output (pending approvals)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Public records show the facility could draw 14 million gallons per day from the Cedar River (subject to change)",
+        "unit": "text",
+        "kind": "estimate",
+        "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Google term sheet (Jan 2026) offered $1M per building per year with 2% escalator, 100 jobs, $5-10M upfront for economic partnerships, $500,000 water study; county countered, Google shifted to Palo annexation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Linn County Board of Supervisors approved an 18-month moratorium (2-1, July 1, 2026) on rezoning unincorporated land to the large data center district; supervisor cited water use of the Google-linked project",
+        "source": "https://corridorbusiness.com/linn-county-data-center-moratorium-approved-how-the-board-got-to-2-1-and-what-happens-next/",
+        "date": "2026-07-01"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Residents spoke against the project at a late-March 2026 town hall; Supervisor Sami Scheetz criticized Google for pitting jurisdictions against each other",
+        "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23"
+      }
+    ],
+    "news": [
+      {
+        "title": "Google data center Linn County Palo",
+        "outlet": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+        "date": "2026-04-23",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google data center Palo Linn County",
+        "outlet": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/ipr-news/2026-03-04/google-data-center-palo-linn-county",
+        "date": "2026-03-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Two to six buildings discussed. Palo council approved fee reimbursement agreements with Google in December 2025 (announced date = that month). No annexation application filed as of April 2026."
+  },
+  {
+    "id": "ia-polk-meta-altoona",
+    "name": "Meta Altoona data center campus",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Polk County",
+    "town": "Altoona",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2013",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2500000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 400,
+        "unit": "operational jobs (400+ once completed)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1300,
+        "unit": "peak construction workers",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/us-locations/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "We are expanding the Facebook Altoona data center",
+        "outlet": "Meta",
+        "url": "https://datacenters.atmeta.com/2021/05/we-are-expanding-the-facebook-altoona-data-center/",
+        "date": "2021-05-26",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Broke ground 2013. Two more buildings announced May 2021 brought the campus to ten buildings, over 4.1 million sq ft."
+  },
+  {
+    "id": "ia-scott-meta-davenport",
+    "name": "Meta Davenport data center (Vemerald LLC)",
+    "owner": "Meta",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Scott County",
+    "town": "Davenport",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 800000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.thegazette.com/news/meta-behind-plans-for-latest-iowa-data-center/",
+        "date": "2024-05-21"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 328,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.thegazette.com/news/meta-behind-plans-for-latest-iowa-data-center/",
+        "date": "2024-05-21"
+      },
+      "jobs_promised_perm": {
+        "value": 35,
+        "unit": "jobs at $28.76/hour or more",
+        "kind": "real",
+        "source": "https://innovationia.com/2024/05/23/state-oks-local-property-tax-exemption-for-meta-subsidiarys-800-million-davenport-data-center-plan/",
+        "date": "2024-05-23"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "20-year, 60% local property tax exemption, about $161 million, approved by the Iowa Economic Development Authority board under High Quality Jobs program",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://innovationia.com/2024/05/23/state-oks-local-property-tax-exemption-for-meta-subsidiarys-800-million-davenport-data-center-plan/",
+        "date": "2024-05-23"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Meta behind plans for latest Iowa data center",
+        "outlet": "The Gazette",
+        "url": "https://www.thegazette.com/news/meta-behind-plans-for-latest-iowa-data-center/",
+        "date": "2024-05-21",
+        "tone": "neutral"
+      },
+      {
+        "title": "State OKs local property tax exemption for Meta subsidiary's $800 million Davenport data center plan",
+        "outlet": "Business Record / Innovation Iowa",
+        "url": "https://innovationia.com/2024/05/23/state-oks-local-property-tax-exemption-for-meta-subsidiarys-800-million-davenport-data-center-plan/",
+        "date": "2024-05-23",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "NW corner of Hillandale Rd and Enterprise Way, northwest Davenport. 2024 plan: groundbreaking by Q4 2025, completion end of 2027. Construction status not confirmed in this sweep; stage left as announced."
+  },
+  {
+    "id": "ia-dallas-apple-waukee",
+    "name": "Apple Waukee data center",
+    "owner": "Apple",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Dallas County",
+    "town": "Waukee",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2017-08-24",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1300000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://www.apple.com/newsroom/2017/08/apples-next-us-data-center-will-be-built-in-iowa/",
+        "date": "2017-08-24"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": "over 550 construction and operations jobs",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.apple.com/newsroom/2017/08/apples-next-us-data-center-will-be-built-in-iowa/",
+        "date": "2017-08-24"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "100% renewable from day one (company claim), wind and other local renewables",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.apple.com/newsroom/2017/08/apples-next-us-data-center-will-be-built-in-iowa/",
+        "date": "2017-08-24"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Up to $100 million to a City of Waukee Public Improvement Fund",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.apple.com/newsroom/2017/08/apples-next-us-data-center-will-be-built-in-iowa/",
+        "date": "2017-08-24"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Seven years on, Iowa's Apple data center finally opens",
+        "outlet": "AppleInsider",
+        "url": "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens",
+        "date": "2024-10-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "400,000 sq ft first building; first building opened 2024. Address reported as 2995 W Hickman Rd (tracker, unverified)."
+  },
+  {
+    "id": "ia-pottawattamie-edged-council-bluffs",
+    "name": "Edged Council Bluffs campus (OMA01)",
+    "owner": "Edged Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Pottawattamie County",
+    "town": "Council Bluffs",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2024",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 200,
+        "unit": "MW (target)",
+        "kind": "real",
+        "source": "https://edged.us/news/edged-us-celebrates-topping-out-of-oma01-1-and-oma01-2-in-council-bluffs",
+        "date": "2026-09-11"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Edged US celebrates topping out of OMA01-1 and OMA01-2 in Council Bluffs",
+        "outlet": "Edged",
+        "url": "https://edged.us/news/edged-us-celebrates-topping-out-of-oma01-1-and-oma01-2-in-council-bluffs",
+        "date": "2026-09-11",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Two buildings topped out Sept 2026. Trackers report ~105 acres south of College Rd/Kanesville Blvd and a scaled-down 570,890 sq ft plan; not verified here."
+  },
+  {
+    "id": "ia-polk-edged-ankeny",
+    "name": "Edged Des Moines (Ankeny) data center",
+    "owner": "Edged Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Polk County",
+    "town": "Ankeny",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-03-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 187000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://edged.us/news/edged-brings-ultra-efficient-ai-ready-data-center-with-advanced-waterless-cooling-to-des-moines-iowa",
+        "date": "2025-03-04"
+      },
+      "power_mw": {
+        "value": 13.2,
+        "unit": "MW critical capacity",
+        "kind": "real",
+        "source": "https://edged.us/news/edged-brings-ultra-efficient-ai-ready-data-center-with-advanced-waterless-cooling-to-des-moines-iowa",
+        "date": "2025-03-04"
+      },
+      "acres": {
+        "value": 17.5,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://edged.us/news/edged-brings-ultra-efficient-ai-ready-data-center-with-advanced-waterless-cooling-to-des-moines-iowa",
+        "date": "2025-03-04"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "ThermalWorks waterless cooling (air plus liquid up to 200 kW/rack)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://edged.us/news/edged-brings-ultra-efficient-ai-ready-data-center-with-advanced-waterless-cooling-to-des-moines-iowa",
+        "date": "2025-03-04"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Edged brings ultra-efficient AI-ready data center with waterless cooling to Des Moines, Iowa",
+        "outlet": "Edged",
+        "url": "https://edged.us/news/edged-brings-ultra-efficient-ai-ready-data-center-with-advanced-waterless-cooling-to-des-moines-iowa",
+        "date": "2025-03-04",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "SE 90th Street, far southeast Ankeny. Under 20 MW but over $100M. Topped out Aug 2025 per Edged (tracker); stage 'building' until opening confirmed."
+  },
+  {
+    "id": "ia-linn-oppidan-cedar-rapids-33rd-ave",
+    "name": "Oppidan Connect Cedar Rapids data center (1515 33rd Ave SW)",
+    "owner": "Oppidan Connect",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Linn County",
+    "town": "Cedar Rapids",
+    "lat": 41.943095,
+    "lng": -91.680453,
+    "stage": "building",
+    "announced": "2026-06-22",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 101000000,
+        "unit": "USD (building permit valuation, just over)",
+        "kind": "real",
+        "source": "https://corridorbusiness.com/building-permit-issued-for-new-cedar-rapids-data-center/",
+        "date": "2026-07-09"
+      },
+      "power_mw": {
+        "value": 10,
+        "unit": "MW (up to, per building permit)",
+        "kind": "real",
+        "source": "https://corridorbusiness.com/building-permit-issued-for-new-cedar-rapids-data-center/",
+        "date": "2026-07-09"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Building permit issued for new Cedar Rapids data center",
+        "outlet": "Corridor Business Journal",
+        "url": "https://corridorbusiness.com/building-permit-issued-for-new-cedar-rapids-data-center/",
+        "date": "2026-07-09",
+        "tone": "neutral"
+      },
+      {
+        "title": "Cedar Rapids confirms third data center planned on southwest side",
+        "outlet": "KCRG",
+        "url": "https://www.kcrg.com/2026/07/08/cedar-rapids-confirms-third-data-center-planned-southwest-side/",
+        "date": "2026-07-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Site owned by CLOP LLC / CLOP Cedar Rapids, IA LLC. 98,695 sq ft. Permit approved June 22, 2026; permitted use under existing light industrial zoning, no council vote. Stage set to building on permit issuance; construction start not confirmed.",
+    "pin_address": "1515 33rd Ave SW, Cedar Rapids, IA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://corridorbusiness.com/building-permit-issued-for-new-cedar-rapids-data-center/"
+  },
+  {
+    "id": "ia-story-lightedge-ames",
+    "name": "Lightedge Ames data center proposal (Aviation Way)",
+    "owner": "Lightedge",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Story County",
+    "town": "Ames",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-06",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 25,
+        "unit": "MW at full buildout (3 MW phase 1, 6 MW phase 2, about 10 years)",
+        "kind": "real",
+        "source": "https://www.cityofames.org/Resident-Services/Whats-Happening-in-Ames/Major-Projects/Potential-Data-Center-Development",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 10.86,
+        "unit": "acres of city airport land (lease)",
+        "kind": "real",
+        "source": "https://www.cityofames.org/Resident-Services/Whats-Happening-in-Ames/Major-Projects/Potential-Data-Center-Development",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Ames City Council held a resident listening session, reviewed options to limit data centers and a temporary delay, and created a Data Center Study Committee (members appointed Sept 22, 2026); no vote on the lease yet",
+        "source": "https://www.cityofames.org/Resident-Services/Whats-Happening-in-Ames/Major-Projects/Potential-Data-Center-Development",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Colocation proposal on leased city airport land west of Sigler Companies. Borderline on size (25 MW only at full buildout)."
+  },
+  {
+    "id": "ia-clinton-qts-clinton",
+    "name": "QTS Clinton data center campus (proposed)",
+    "owner": "QTS Data Centers",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Clinton County",
+    "town": "Clinton",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": "thousands of construction jobs and hundreds of full-time positions (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/clinton/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Alliant Energy",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/clinton/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": {
+        "value": "Closed-loop, no water consumed for cooling once operating (one-time initial fill)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/clinton/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Push for a 120-day data center moratorium in Clinton; City Council rejected it 5-2 on June 9, 2026",
+        "source": "https://www.kwqc.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton/",
+        "date": "2026-06-09"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Majority of Clinton City Council vote down data center moratorium",
+        "outlet": "WVIK",
+        "url": "https://www.wvik.org/wvik-top-stories/2026-06-10/majority-of-clinton-city-council-vote-down-data-center-moratorium",
+        "date": "2026-06-10",
+        "tone": "neutral"
+      },
+      {
+        "title": "City council turns down temporary halt on AI data centers in Clinton",
+        "outlet": "KWQC",
+        "url": "https://www.kwqc.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton/",
+        "date": "2026-06-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "QTS says plans are in very early stages, site plan not final, power capacity not disclosed. Trackers cite $10B and a site north of US 30, west of Mill Creek Pkwy (unverified)."
+  },
+  {
+    "id": "ia-warren-undisclosed-norwalk-project-west",
+    "name": "Norwalk 'Project West' data center development",
+    "owner": "Undisclosed land developer",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Warren County",
+    "town": "Norwalk",
+    "lat": 41.460963,
+    "lng": -93.697864,
+    "stage": "announced",
+    "announced": "2026-03-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 12000000000,
+        "unit": "USD (private investment, per city)",
+        "kind": "real",
+        "source": "https://norwalkiaswdevelopment.com/datacenter",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 282,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://norwalkiaswdevelopment.com/datacenter",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": {
+        "value": 80,
+        "unit": "permanent full-time jobs",
+        "kind": "real",
+        "source": "https://norwalkiaswdevelopment.com/datacenter",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 600,
+        "unit": "construction jobs over multi-year buildout",
+        "kind": "real",
+        "source": "https://norwalkiaswdevelopment.com/datacenter",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "MidAmerican Energy (power arranged between developer and MidAmerican)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://norwalkiaswdevelopment.com/datacenter",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": {
+        "value": "Development agreement reserves 400,000 gallons per day of industrial capacity; actual use unknown",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://norwalkiaswdevelopment.com/datacenter",
+        "date": "2026-10-15"
+      },
+      "tax_break": {
+        "value": "No property tax incentives; only incentive is a waiver of sanitary sewer district fees",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.norwalk.iowa.gov/news_detail_T5_R273.php",
+        "date": "2026-03-05"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "City council in Norwalk, Iowa approves potential data center development agreement despite public concerns",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/city-council-in-norwalk-iowa-approves-potential-data-center-development-agreement-despite-public-concerns/",
+        "date": "2026-03",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "City says the March 5, 2026 development agreement does not approve a data center; no site plan yet. A tracker names Tract as developer; not confirmed by city pages. South of Delaware St, west of Hwy 28.",
+    "pin_address": "Delaware St & IA-28, Norwalk, IA",
+    "pin_geocoder": "osm",
+    "pin_precision": "intersection",
+    "pin_source": "https://norwalkiaswdevelopment.com/datacenter"
+  },
+  {
+    "id": "ia-polk-tract-altoona",
+    "name": "Tract Altoona technology park",
+    "owner": "Tract",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Polk County",
+    "town": "Altoona",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-09-09",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW (over 1 GW capable over time)",
+        "kind": "real",
+        "source": "https://www.tract.com/news/tract-enters-the-des-moines-market-with-the-acquisition-of-453-acres-following-successful-collaboration-with-the-city-of-altoona-ia/",
+        "date": "2025-09-09"
+      },
+      "acres": {
+        "value": 453,
+        "unit": "acres (80 reserved for the city)",
+        "kind": "real",
+        "source": "https://www.tract.com/news/tract-enters-the-des-moines-market-with-the-acquisition-of-453-acres-following-successful-collaboration-with-the-city-of-altoona-ia/",
+        "date": "2025-09-09"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Tract enters the Des Moines market with the acquisition of 453 acres in Altoona",
+        "outlet": "Tract",
+        "url": "https://www.tract.com/news/tract-enters-the-des-moines-market-with-the-acquisition-of-453-acres-following-successful-collaboration-with-the-city-of-altoona-ia/",
+        "date": "2025-09-09",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Land developer park; site annexed, rezoned, development agreement with city; on existing 345 kV lines. End user not named."
+  },
+  {
+    "id": "ia-dallas-microsoft-mountain",
+    "name": "Microsoft West Des Moines 'Mountain' data center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Dallas County",
+    "town": "West Des Moines",
+    "lat": 41.538487,
+    "lng": -93.826992,
+    "stage": "running",
+    "announced": "2008",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Microsoft says it matches all energy used by its Iowa datacenters with renewable energy (company-wide Iowa claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+        "date": "2023-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "68.5 million gallons in 2024 across all Microsoft West Des Moines data centers (2.62% of city water system total)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft wants to bring a sixth data center, called Ruthenium, to West Des Moines",
+        "outlet": "Des Moines Register (via Yahoo)",
+        "url": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft built 5 data center campuses in this Iowa city. Here's what Wisconsin can expect.",
+        "outlet": "WPR",
+        "url": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "8855 Grand Ave. Microsoft's first West Des Moines campus (opened 2012 per Microsoft). DMR: about $3.5B invested in the first three data centers combined.",
+    "pin_source": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+    "pin_address": "8855 Grand Ave, West Des Moines, IA"
+  },
+  {
+    "id": "ia-polk-microsoft-alluvion",
+    "name": "Microsoft West Des Moines 'Alluvion' data center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Polk County",
+    "town": "West Des Moines",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2014-04-18",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1126218400,
+        "unit": "USD (four phases)",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2014-04-18/microsoft-announces-1-1-billion-data-center-in-west-des-moines",
+        "date": "2014-04-18"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 154,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2014-04-18/microsoft-announces-1-1-billion-data-center-in-west-des-moines",
+        "date": "2014-04-18"
+      },
+      "jobs_promised_perm": {
+        "value": 84,
+        "unit": "permanent jobs",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2014-04-18/microsoft-announces-1-1-billion-data-center-in-west-des-moines",
+        "date": "2014-04-18"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Microsoft says it matches all energy used by its Iowa datacenters with renewable energy (company-wide Iowa claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+        "date": "2023-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "68.5 million gallons in 2024 across all Microsoft West Des Moines data centers (2.62% of city water system total)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15"
+      },
+      "tax_break": {
+        "value": "$22 million in city tax credits plus $20,256,000 IEDA High Quality Jobs sales tax rebates",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.iowapublicradio.org/ipr-news/2014-04-18/microsoft-announces-1-1-billion-data-center-in-west-des-moines",
+        "date": "2014-04-18"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft announces $1.1 billion data center in West Des Moines",
+        "outlet": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/ipr-news/2014-04-18/microsoft-announces-1-1-billion-data-center-in-west-des-moines",
+        "date": "2014-04-18",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft wants to bring a sixth data center, called Ruthenium, to West Des Moines",
+        "outlet": "Des Moines Register (via Yahoo)",
+        "url": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft built 5 data center campuses in this Iowa city. Here's what Wisconsin can expect.",
+        "outlet": "WPR",
+        "url": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "3590 SE Soteria Ave. 1.2 million sq ft; expected completion early 2021."
+  },
+  {
+    "id": "ia-warren-microsoft-osmium",
+    "name": "Microsoft West Des Moines 'Osmium' data center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Warren County",
+    "town": "West Des Moines",
+    "lat": null,
+    "lng": null,
+    "stage": "running",
+    "announced": "2016",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Microsoft says it matches all energy used by its Iowa datacenters with renewable energy (company-wide Iowa claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+        "date": "2023-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "68.5 million gallons in 2024 across all Microsoft West Des Moines data centers (2.62% of city water system total)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft wants to bring a sixth data center, called Ruthenium, to West Des Moines",
+        "outlet": "Des Moines Register (via Yahoo)",
+        "url": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft built 5 data center campuses in this Iowa city. Here's what Wisconsin can expect.",
+        "outlet": "WPR",
+        "url": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "5855 SW Kerry St, south side of West Des Moines. Reported as a $1.5-2B, ~200-acre, four-phase project (160 acres Warren, 40 acres Madison) per city release title and DCD; not verified in this sweep (city page returned 403). Status 'running' per WPR (five campuses operating, 2025)."
+  },
+  {
+    "id": "ia-dallas-microsoft-ginger-west",
+    "name": "Microsoft West Des Moines 'Ginger West' data center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Dallas County",
+    "town": "West Des Moines",
+    "lat": 41.544372,
+    "lng": -93.835019,
+    "stage": "running",
+    "announced": "2021",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Microsoft says it matches all energy used by its Iowa datacenters with renewable energy (company-wide Iowa claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+        "date": "2023-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "68.5 million gallons in 2024 across all Microsoft West Des Moines data centers (2.62% of city water system total)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft wants to bring a sixth data center, called Ruthenium, to West Des Moines",
+        "outlet": "Des Moines Register (via Yahoo)",
+        "url": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft built 5 data center campuses in this Iowa city. Here's what Wisconsin can expect.",
+        "outlet": "WPR",
+        "url": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "11100 Booneville Rd. Microsoft says five WDM campuses operating (WPR, 2025); trackers say full buildout ~2028.",
+    "pin_address": "11100 Booneville Rd, West Des Moines, IA",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html"
+  },
+  {
+    "id": "ia-polk-microsoft-ginger-east",
+    "name": "Microsoft West Des Moines 'Ginger East' data center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Polk County",
+    "town": "West Des Moines",
+    "lat": 41.516375,
+    "lng": -93.724676,
+    "stage": "building",
+    "announced": "2023",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Microsoft says it matches all energy used by its Iowa datacenters with renewable energy (company-wide Iowa claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+        "date": "2023-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "68.5 million gallons in 2024 across all Microsoft West Des Moines data centers (2.62% of city water system total)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft wants to bring a sixth data center, called Ruthenium, to West Des Moines",
+        "outlet": "Des Moines Register (via Yahoo)",
+        "url": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft built 5 data center campuses in this Iowa city. Here's what Wisconsin can expect.",
+        "outlet": "WPR",
+        "url": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1475 SE Maffitt Lake Rd, ~130-146 acres south of Hwy 5. Trackers list buildings operating and more under construction; stage set to building.",
+    "pin_source": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+    "pin_address": "1475 SE Maffitt Lake Rd, West Des Moines, IA"
+  },
+  {
+    "id": "ia-madison-microsoft-ruthenium",
+    "name": "Microsoft West Des Moines 'Ruthenium' data center",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Madison County",
+    "town": "West Des Moines",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023-11",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 210000000,
+        "unit": "USD (phase one)",
+        "kind": "real",
+        "source": "https://www.businessrecord.com/west-des-moines-approves-agreement-with-microsoft-for-6th-data-center/",
+        "date": "2024-05-22"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 132,
+        "unit": "acres (newly annexed land)",
+        "kind": "real",
+        "source": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30"
+      },
+      "jobs_promised_perm": {
+        "value": 25,
+        "unit": "full-time jobs at start of operation",
+        "kind": "real",
+        "source": "https://www.businessrecord.com/west-des-moines-approves-agreement-with-microsoft-for-6th-data-center/",
+        "date": "2024-05-22"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Microsoft says it matches all energy used by its Iowa datacenters with renewable energy (company-wide Iowa claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+        "date": "2023-09-08"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "City to provide $15 million in public improvements (streets, utility extensions)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.businessrecord.com/west-des-moines-approves-agreement-with-microsoft-for-6th-data-center/",
+        "date": "2024-05-22"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "West Des Moines approves agreement with Microsoft for 6th data center",
+        "outlet": "Business Record",
+        "url": "https://www.businessrecord.com/west-des-moines-approves-agreement-with-microsoft-for-6th-data-center/",
+        "date": "2024-05-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft wants to bring a sixth data center, called Ruthenium, to West Des Moines",
+        "outlet": "Des Moines Register (via Yahoo)",
+        "url": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+        "date": "2023-11-30",
+        "tone": "neutral"
+      },
+      {
+        "title": "Microsoft built 5 data center campuses in this Iowa city. Here's what Wisconsin can expect.",
+        "outlet": "WPR",
+        "url": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+        "date": "2025-05-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Veterans Pkwy at Woodland Ave, NW of Osmium. Up to four buildings. WPR (May 2025) said construction set to start 2026; stage 'building' is from trackers; may still be pre-construction."
+  },
+  {
+    "id": "ia-dallas-microsoft-van-meter",
+    "name": "Microsoft Van Meter (Vision Park) data center campus",
+    "owner": "Microsoft",
+    "operator": null,
+    "tier": "large",
+    "state": "IA",
+    "county": "Dallas County",
+    "town": "Van Meter",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-01-31",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 377,
+        "unit": "acres (land bought for about $39.9 million)",
+        "kind": "real",
+        "source": "https://www.businessrecord.com/microsoft-buys-land-in-van-meter-for-another-data-center-campus/",
+        "date": "2024-01-31"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Microsoft buys land in Van Meter for another data center campus",
+        "outlet": "Business Record",
+        "url": "https://www.businessrecord.com/microsoft-buys-land-in-van-meter-for-another-data-center-campus/",
+        "date": "2024-01-31",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Vision Park, south of 360th St. Microsoft confirmed as end user but declined to discuss plans. Trackers report ~415 acres and $420M; not verified. Only one news source read; Van Meter city workshop packet (3-23-26) cited by tracker not read."
+  }
+]

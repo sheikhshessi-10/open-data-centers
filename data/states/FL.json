@@ -1,0 +1,204 @@
+{
+  "state": "FL",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center property sales tax exemption",
+      "law": "Fla. Stat. 212.08(5)(r)",
+      "what": "Exempts data center property (construction materials, equipment, servers, software, and electricity used at the data center) from sales and use tax for data centers built on or after July 1, 2017 with at least 100 MW critical IT load, at least 1 MW per tenant, and $150 million cumulative capital investment, met within 5 years of construction start. Extended in 2021 after lobbying (per WUSF).",
+      "value_known": false,
+      "source": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0212/Sections/0212.08.html",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "20260064-EI",
+      "regulator": "Florida Public Service Commission",
+      "utility": "Duke Energy Florida",
+      "what": "Duke Energy Florida petition (filed 2026-04-22) for a limited proceeding to approve a Large Load Customer Policy, Large Load Customer Agreement and revised CIAC tariffs under SB 484 (Ch. 2026-65): customers with forecast peak contract demand of 50 MW+ at one location, minimum term, minimum monthly bill, security, early termination fee, non-refundable system impact fee, 100% upfront line-extension cost; service under GSD-1/GSDT-1 until a new rate class exists. OPC and Florida Rising moved to dismiss; PSC denied the motion (Order PSC-2026-0264-PCO-EI, 2026-07-28). Hearing held Aug 25, 2026; a commissioner wrote it appears 'facially noncompliant' with SB 484. Duke would serve the Fort Meade campus.",
+      "site_ids": [
+        "fl-polk-stonebridge-fort-meade"
+      ],
+      "status": "hearing held; order pending after post-hearing briefs",
+      "url": "https://floridapsc.com/pscfiles/website-files/PDF/Agendas/archive/260707cc/26070710.html",
+      "date": "2026-08-26"
+    },
+    {
+      "id": null,
+      "regulator": "Florida Public Service Commission",
+      "utility": "Florida Power & Light",
+      "what": "FPL compliance filing saying its 2026-2029 rate structure (approved Nov 2025) already meets SB 484: large-load customers fund an engineering study and 100% of new generation, build their own substation, pay upfront for upgrades, minimum bill, 20-year contract and exit fee.",
+      "site_ids": [],
+      "status": "filed; PSC review pending",
+      "url": "https://www.wusf.org/politics-issues/2026-10-04/fpl-tells-regulators-rate-structure-complies-with-data-center-law",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "20250113-EI",
+      "regulator": "Florida Public Service Commission",
+      "utility": "Duke Energy Florida",
+      "what": "Duke's first large load tariff petition (filed Sept 2025). Abated 2026-03-19 after SB 484 passed; Duke withdrew it 2026-04-20 and refiled as 20260064-EI.",
+      "site_ids": [],
+      "status": "closed (withdrawn)",
+      "url": "https://floridapsc.com/pscfiles/website-files/PDF/Agendas/archive/260707cc/26070710.html",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "20250011-EI",
+      "regulator": "Florida Public Service Commission",
+      "utility": "Florida Power & Light",
+      "what": "FPL 2025 rate case. Created Large Load Contract Service tariffs LLCS-1 and LLCS-2 (new or added demand of 50 MW+ at one location, load factor 85%+) and an Incremental Generation Charge. The Florida Energy for Innovation Association (data center developers) intervened, calling the LLCS rates and terms excessive. PSC approved a four-year rate agreement on 2025-11-20 (FPL newsroom).",
+      "site_ids": [],
+      "status": "decided (rate agreement approved 2025-11-20)",
+      "url": "https://www.psc.state.fl.us/library/filings/2025/06613-2025/06613-2025.pdf",
+      "date": "2025-07-18"
+    },
+    {
+      "id": "20260000-OT",
+      "regulator": "Florida Public Service Commission",
+      "utility": "Florida Power & Light",
+      "what": "FPL 2026-2035 Ten-Year Site Plan review. FPL told staff it has 32 active data center customer accounts and projects 2 large data center accounts (LLCS, 50 MW+) likely to begin service in 2028.",
+      "site_ids": [],
+      "status": "data requests answered 2026-07-14",
+      "url": "https://www.psc.state.fl.us/library/filings/2026/04335-2026/04335-2026.pdf",
+      "date": "2026-07-14"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 484 (2026) Florida Hyperscale Data Center Act",
+      "status": "enacted",
+      "what": "Signed by Gov. DeSantis May 2026, effective July 1, 2026. Data centers of 50 MW+ peak are 'large-scale'; utilities must ensure large-load customers bear their full cost of service; water-use protections; local governments keep authority to deny or regulate data centers; allows local governments and agencies to sign NDAs with data center companies for up to 12 months; OPPAGA study due July 1, 2027. Final Senate vote 31-6 on 2026-03-13 after the House weakened transparency language.",
+      "source": "https://floridaphoenix.com/2026/03/13/florida-senate-half-heartedly-agrees-to-final-ok-for-weakened-data-center-bill/",
+      "date": "2026-03-13"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Palm Beach County",
+      "type": "moratorium",
+      "what": "One-year moratorium on data center construction applications adopted after Project Tango was denied, to update zoning.",
+      "status": "in force",
+      "source": "https://www.wusf.org/politics-issues/2026-10-01/residents-wanted-real-information-on-project-tango-the-lands-fraught-history-explains-why",
+      "date": "2026-10-01"
+    },
+    {
+      "place": "Sarasota County",
+      "type": "moratorium",
+      "what": "Halts acceptance, review and approval of major (hyperscale) data centers until at least July 2027.",
+      "status": "in force",
+      "source": "https://www.businessobserverfl.com/news/2026/jul/09/sarasota-county-bans-data-center/",
+      "date": "2026-07-09"
+    },
+    {
+      "place": "DeSoto County",
+      "type": "moratorium",
+      "what": "One-year moratorium on new data center applications (4-0, one recusal) on 2026-07-28; exempts DCIP's pending rezonings.",
+      "status": "in force",
+      "source": "https://www.wgcu.org/top-story/2026-07-29/desoto-approves-data-center-moratorium-but-controversial-project-can-advance",
+      "date": "2026-07-29"
+    },
+    {
+      "place": "Lakeland (Polk County)",
+      "type": "moratorium",
+      "what": "One-year moratorium (4-3) on data centers and other users of 50 MW or more, prompted by Project Swan.",
+      "status": "in force",
+      "source": "https://www.wusf.org/politics-issues/2026-08-03/lakeland-approves-one-year-moratorium-on-data-centers",
+      "date": "2026-08-03"
+    },
+    {
+      "place": "Manatee County",
+      "type": "moratorium",
+      "what": "12-month moratorium on large-scale data centers (large-load customers incl. AI and bitcoin mining).",
+      "status": "in force",
+      "source": "https://www.wusf.org/environment/2026-10-09/manatee-county-approves-a-12-month-moratorium-on-large-scale-data-centers",
+      "date": "2026-10-09"
+    },
+    {
+      "place": "Pasco County and Hernando County",
+      "type": "moratorium",
+      "what": "One-year data center moratoriums reported among Tampa Bay governments.",
+      "status": "in force",
+      "source": "https://www.wusf.org/politics-issues/2026-08-04/manatee-county-pumps-brakes-data-centers-joining-hernando-pasco",
+      "date": "2026-08-04"
+    },
+    {
+      "place": "North Port (Sarasota County)",
+      "type": "moratorium",
+      "what": "City Commission advanced an 18-month data center moratorium 4-1 (exempting the pending North Port Holdings 300 application).",
+      "status": "advanced (final vote reported later)",
+      "source": "https://www.wusf.org/politics-issues/2026-09-05/seven-hours-400-comments-packed-city-hall-north-port-moves-halt-data-centers",
+      "date": "2026-09-05"
+    },
+    {
+      "place": "Citrus County",
+      "type": "moratorium",
+      "what": "One-year moratorium on data centers and zoning changes that could enable them (May 2026).",
+      "status": "in force",
+      "source": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Marion County",
+      "type": "moratorium",
+      "what": "12-month pause on large commercial data centers of 50 MW or more.",
+      "status": "in force",
+      "source": "https://352today.com/news/257752-marion-county-pauses-large-commercial-data-centers-for-a-year-with-a-50-megawatt-cutoff-on-who-still-gets-through/",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "Washington County",
+      "type": "moratorium",
+      "what": "One-year moratorium on data center applications in unincorporated areas.",
+      "status": "in force",
+      "source": "https://washingtoncounty.news/2026/08/21/county-approves-one-year-moratorium-on-data-center-applications/",
+      "date": "2026-08-21"
+    },
+    {
+      "place": "Edgewater (Volusia County)",
+      "type": "ordinance",
+      "what": "City Council approved a ban on AI data centers; Orange County weighing a moratorium.",
+      "status": "in force",
+      "source": "https://www.fox35orlando.com/news/edgewater-approves-ban-ai-data-centers-orange-county-weighs-moratorium",
+      "date": "2026-09-14"
+    },
+    {
+      "place": "Orange County",
+      "type": "moratorium",
+      "what": "Proposed one-year moratorium on AI data center applications.",
+      "status": "proposed",
+      "source": "https://www.wusf.org/politics-issues/2026-09-16/orange-county-plans-a-moratorium-on-ai-data-centers",
+      "date": "2026-09-16"
+    },
+    {
+      "place": "Volusia County",
+      "type": "ordinance",
+      "what": "Proposed ban on large-scale data centers in unincorporated areas heads to first reading.",
+      "status": "pending",
+      "source": "https://mynews13.com/fl/orlando/news/2026/10/06/volusia-county-data-center-ban-heads-to-first-reading",
+      "date": "2026-10-06"
+    },
+    {
+      "place": "Pinellas County",
+      "type": "zoning",
+      "what": "Commissioners moved to reaffirm by resolution that large standalone data centers are already prohibited in unincorporated Pinellas.",
+      "status": "pending resolution",
+      "source": "https://www.businessobserverfl.com/news/2026/aug/29/pinellas-county-closes-door-data-centers/",
+      "date": "2026-08-29"
+    },
+    {
+      "place": "St. Petersburg (Pinellas County)",
+      "type": "zoning",
+      "what": "Data centers are prohibited under the city code.",
+      "status": "in force",
+      "source": "https://www.wusf.org/politics-issues/2026-10-14/data-centers-prohibited-under-st-petersburg-city-code",
+      "date": "2026-10-14"
+    }
+  ]
+}

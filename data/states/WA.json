@@ -1,0 +1,121 @@
+{
+  "state": "WA",
+  "checked": {
+    "incentives": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Rural data center sales and use tax exemption",
+      "law": "RCW 82.08.986, 82.12.986, 82.32.534",
+      "what": "Sales/use tax exemption on server equipment and power infrastructure (and install labor) for data centers of 100,000+ sq ft in rural counties, building permit windows through June 30, 2036; must add the lesser of 35 family-wage jobs or 3 per 20,000 sq ft within six years and get green building certification within three years. Expires July 1, 2048. Refurbishment path and replacement servers removed July 1, 2026 (ESSB 6231).",
+      "value_known": null,
+      "source": "https://dor.wa.gov/taxes-rates/tax-incentives/incentive-programs",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Urban data center sales and use tax exemption (King, Pierce, Snohomish)",
+      "law": "RCW 82.08.9861, 82.12.9861, 82.32.534",
+      "what": "Sales/use tax exemption on server equipment and power infrastructure (and install labor) for data centers of 100,000+ combined sq ft in King, Pierce or Snohomish County, building permit issued after June 9, 2022. Capped at 6 certificates a year (0 in 2023) through 2027. Must add 3 family-wage jobs per 20,000 sq ft of new server space within six years and get green building certification within three years (else tax plus 10% penalty). Refurbishments on or after July 1, 2026 do not qualify. Expires July 1, 2038.",
+      "value_known": null,
+      "source": "https://dor.wa.gov/taxes-rates/tax-incentives/incentive-programs",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Grant PUD 2026 large load rates",
+      "regulator": "Grant County PUD Commission (public utility board, not a UTC docket)",
+      "utility": "Grant County PUD",
+      "what": "Rate increases effective April 1, 2026 for large load classes; Rate 17 'Evolving Industry' (crypto/data-type loads) up 10.6% to $0.053/kWh, Rate 15 Large Industrial up 8.1%; rates to keep rising through 2030.",
+      "site_ids": [],
+      "status": "approved",
+      "url": "https://www.grantpud.org/blog/large-load-customer-frequently-asked-questions",
+      "date": "2026-04-27"
+    },
+    {
+      "id": "UE-260162",
+      "regulator": "Washington UTC",
+      "utility": "Investor-owned electric utilities (PSE, Avista, PacifiCorp)",
+      "what": "Commission-opened inquiry into large-load (data center) interconnection: rates, cost sharing, interconnection conditions, flexibility and customer protections; technical conference April 27 and workshop Aug 12, 2026; ends in a policy statement.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://www.utc.wa.gov/news/2026/utc-host-technical-conference-large-energy-loads-april-27",
+      "date": "2026-04-07"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "ESSB 6231 (2026), Chapter 266, Laws of 2026",
+      "status": "enacted",
+      "what": "Ends the rural data center exemption for refurbishment projects (no new certificates from July 1, 2026) and removes replacement server equipment from eligible equipment.",
+      "source": "https://dor.wa.gov/forms-publications/publications-subject/special-notices/modification-sales-and-use-tax-exemption-rural-data-centers",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "HB 2515 (2026) - emerging large energy use facilities",
+      "status": "failed",
+      "what": "Would have defined data centers over 20 MW as emerging large energy use facilities and required utilities to file tariffs so they don't shift costs to other customers, plus curtailment rules. Passed House 51-41 on Feb 14, 2026; returned to House Rules March 12, 2026 when session ended.",
+      "source": "https://app.leg.wa.gov/billsummary?BillNumber=2515&Year=2025&Initiative=false",
+      "date": "2026-03-12"
+    },
+    {
+      "name": "SB 6171 (2026) - emerging large energy use facilities (Senate companion)",
+      "status": "failed",
+      "what": "Senate companion to HB 2515; left in Senate Ways & Means (referred Feb 4, 2026) when the 2025-26 session ended.",
+      "source": "https://app.leg.wa.gov/billsummary?BillNumber=6171&Year=2025&Initiative=false",
+      "date": "2026-02-04"
+    },
+    {
+      "name": "SSB 5982 (2026), Chapter 181, Laws of 2026",
+      "status": "enacted",
+      "what": "Clean Energy Transformation Act changes for consumer-owned utilities and large market customers; per DWT, large customers including data centers must meet the same clean energy deadlines as utilities, with UTC reporting rules. Signed March 24, 2026, effective June 11, 2026.",
+      "source": "https://app.leg.wa.gov/billsummary?BillNumber=5982&Year=2025&Initiative=false",
+      "date": "2026-03-24"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Spokane (city)",
+      "type": "moratorium",
+      "what": "Ordinance C36887: immediate one-year citywide moratorium on accepting, processing and approving building permits for new computer data centers; passed 6-1 (Cathcart against).",
+      "status": "in effect",
+      "source": "https://my.spokanecity.org/news/releases/2026/06/23/spokane-city-council-passes-one-year-moratorium-on-data-centers/",
+      "date": "2026-06-22"
+    },
+    {
+      "place": "Spokane County",
+      "type": "moratorium",
+      "what": "Commissioners unanimously approved a four-month pause on new data center permits after a 3-2 split on a nine-month moratorium the month before.",
+      "status": "in effect",
+      "source": "https://washingtonstatestandard.com/2026/08/19/spokane-county-reverses-course-approving-four-month-data-center-pause/",
+      "date": "2026-08-19"
+    },
+    {
+      "place": "Pasco (Franklin County)",
+      "type": "moratorium",
+      "what": "Immediate pause on business license and development permit applications for data centers, crypto mining, blockchain and AI computing facilities, to be lifted within six months once rules are adopted; public hearing Sept 8, 2026. DCD reports a 6-0 vote.",
+      "status": "in effect",
+      "source": "https://www.nbcrightnow.com/news/city-of-pasco-to-hold-sept-8-hearing-on-data-center-rules/article_b12f02ff-8669-4c1f-aca4-a1f2b2af06b6.html",
+      "date": "2026-07-20"
+    },
+    {
+      "place": "Seattle (King County)",
+      "type": "moratorium",
+      "what": "One-year moratorium on new or expanded large data centers; existing ones capped, new and expanded limited to 20 MVA. Council passed unanimously June 9, 2026; mayor approved June 11.",
+      "status": "in effect",
+      "source": "https://www.kuow.org/stories/seattle-data-center-ban-heads-to-mayor-wilson-s-desk",
+      "date": "2026-06-09"
+    },
+    {
+      "place": "Cle Elum (Kittitas County)",
+      "type": "moratorium",
+      "what": "Emergency six-month moratorium on new data centers, passed unanimously (vote date not read; reported Aug 2026). A Bullfrog Flats data center may be vested under a 2002 master site plan.",
+      "status": "in effect",
+      "source": "https://hoodline.com/2026/08/cle-elum-outlaws-data-centers-but-this-200m-project-could-slip-through/",
+      "date": "2026-08-05"
+    }
+  ]
+}

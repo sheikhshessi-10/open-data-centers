@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "az-maricopa-google-mesa",
+    "name": "Google Mesa data center campus (Redhawk)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.35334,
+    "lng": -111.67897,
+    "stage": "running",
+    "announced": "2019-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (campus total by 2029 under GPLET milestones; $600M by 2025)",
+        "kind": "real",
+        "source": "https://www.aztechcouncil.org/google-redhawk-second-phase-mesa-design-review/",
+        "date": "2024-04-09"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 187,
+        "unit": "acres (about)",
+        "kind": "real",
+        "source": "https://mesa.legistar.com/LegislationDetail.aspx?GUID=30771294-571B-4D53-89AA-32023D4D2DF8&ID=7698437&Options=&Search=",
+        "date": "2025-10-14"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Air-cooled",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.aztechcouncil.org/google-redhawk-second-phase-mesa-design-review/",
+        "date": "2024-04-09"
+      },
+      "water_use": null,
+      "tax_break": {
+        "value": "25-year GPLET (Government Property Lease Excise Tax) agreement with City of Mesa, signed July 2019, approved unanimously",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.aztechcouncil.org/google-redhawk-second-phase-mesa-design-review/",
+        "date": "2024-04-09"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "NW corner of Sossaman and Elliot roads. Phase 1 construction began summer 2023 (completion required by July 2025); Phase 2 'Redhawk' 280,000 sq ft reviewed April 2024; Phase 3 design review DRB25-00686 on Mesa agenda Oct 14, 2025. Build-out milestones to 750,000 sq ft by 2029, completion 2030. Whether phase 1 is serving traffic not confirmed, so stage 'building'. Pass 3 (2026-10-15): Google's location list (https://datacenters.google/locations/, read 2026-10-15) shows Mesa, Arizona as operating (not 'in development'); stage building -> running.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F048975%27",
+    "pin_address": "Stone Applications LLC data center, 7232 E Elliot Rd, Mesa AZ 85212 (Maricopa AQD facility F048975 point)"
+  },
+  {
+    "id": "az-maricopa-meta-mesa",
+    "name": "Meta Mesa Data Center",
+    "owner": "Meta Platforms",
+    "operator": "Meta Platforms",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.34657,
+    "lng": -111.6291,
+    "stage": "running",
+    "announced": "2021",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD (more than, at full build-out)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/01/mesa-we-are-online/",
+        "date": "2025-01-30"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "operational jobs (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/01/mesa-we-are-online/",
+        "date": "2025-01-30"
+      },
+      "jobs_promised_build": {
+        "value": 2000,
+        "unit": "skilled trade workers at peak (average)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/01/mesa-we-are-online/",
+        "date": "2025-01-30"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "SRP grid; Meta matches use with 100% clean energy; three Meta-supported SRP projects add 450 MW of new renewables in Arizona",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/01/mesa-we-are-online/",
+        "date": "2025-01-30"
+      },
+      "utility": {
+        "value": "Salt River Project (SRP)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/2025/01/mesa-we-are-online/",
+        "date": "2025-01-30"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Address reported as 3841 S. Ellsworth Road. Broke ground 2021; began serving traffic Jan 30, 2025. SRP built the Huckleberry substation/line project for it (srpnet.com Project Huckleberry).",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F041517%27",
+    "pin_address": "Redale LLC data center, 3841 S Ellsworth Rd, Mesa AZ 85212 (Maricopa AQD facility F041517 point)"
+  },
+  {
+    "id": "az-maricopa-microsoft-goodyear",
+    "name": "Microsoft datacenter campus, Goodyear (West US 3 region)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Goodyear",
+    "lat": 33.41112,
+    "lng": -112.36606,
+    "stage": "running",
+    "announced": "2020",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Newest West Valley AI datacenters designed to use no water for cooling (Microsoft)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/blog/understanding-microsoft-datacenters-in-west-valley/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft operates datacenters in both El Mirage and Goodyear (West US 3 Azure region launched 2021). Separate campuses in two towns, so two records. Shared figures (not per campus, so not put in metrics): 763 full-time employees and contractors projected by end of 2026 across all Microsoft Arizona facilities; 93 West Valley community projects, over $3M since 2019. Microsoft page undated; date = date read. Reported (DCD, not opened) Microsoft owns 280+ acres in El Mirage and 450+ in Goodyear plus 100 more acres bought next to Goodyear.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F006261%27",
+    "pin_address": "Microsoft Corp - Broadway Rd, 14250 W Broadway Rd, Goodyear AZ 85338 (Maricopa AQD facility F006261 point)"
+  },
+  {
+    "id": "az-maricopa-microsoft-el-mirage",
+    "name": "Microsoft datacenter campus, El Mirage (West US 3 region)",
+    "owner": "Microsoft",
+    "operator": "Microsoft",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "El Mirage",
+    "lat": 33.565511,
+    "lng": -112.337478,
+    "stage": "running",
+    "announced": "2020",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Newest West Valley AI datacenters designed to use no water for cooling (Microsoft)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://local.microsoft.com/blog/understanding-microsoft-datacenters-in-west-valley/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Microsoft operates datacenters in both El Mirage and Goodyear (West US 3 Azure region launched 2021). Separate campuses in two towns, so two records. Shared figures (not per campus, so not put in metrics): 763 full-time employees and contractors projected by end of 2026 across all Microsoft Arizona facilities; 93 West Valley community projects, over $3M since 2019. Microsoft page undated; date = date read. Reported (DCD, not opened) Microsoft owns 280+ acres in El Mirage and 450+ in Goodyear plus 100 more acres bought next to Goodyear.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F006370%27",
+    "pin_address": "12901 W OLIVE AVE, EL MIRAGE, AZ, 85335"
+  },
+  {
+    "id": "az-maricopa-qts-phoenix-2",
+    "name": "QTS Phoenix 2 campus",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": "QTS Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Phoenix",
+    "lat": 33.462328,
+    "lng": -111.995134,
+    "stage": "running",
+    "announced": "2017-10",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 210,
+        "unit": "MW critical campus capacity (210+)",
+        "kind": "real",
+        "source": "https://q.com/data-centers/phoenix-2/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 80,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://q.com/data-centers/phoenix-2/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Five buildings at 1200-1500 N 40th Street near Sky Harbor. QTS page lists the campus but does not state build status; 'running' is from trackers and Phoenix council records (not opened). Check stage. Pass 2 (2026-10-15): stage still not confirmed; company page gives no status and the search budget ran out. Pass 3 (2026-10-15): Stage still unconfirmed: company page re-read, gives no status; only trackers (baxtel, datacenterhawk) say running. Web search budget ran out before a news or city source was found. Stage left as is, flagged.",
+    "pin_source": "https://q.com/data-centers/phoenix-2/",
+    "pin_address": "1200 N 40TH ST, PHOENIX, AZ, 85008"
+  },
+  {
+    "id": "az-maricopa-qts-phoenix-3",
+    "name": "QTS Phoenix 3 campus",
+    "owner": "QTS Data Centers (Blackstone)",
+    "operator": "QTS Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Glendale",
+    "lat": 33.50822,
+    "lng": -112.433516,
+    "stage": "announced",
+    "announced": "2022-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Water-free closed-loop cooling (one-time water fill)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://q.com/data-centers/phoenix-3/",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "QTS page lists DC1, DC2, DC9, DC13, DC14 on W. Camelback Rd (Litchfield Park mailing addresses) near Loop 303. Trackers/DCD (not opened) cite 375 acres, 16 buildings and a 750 MW filing. Stage may already be 'building'; QTS page says it 'will offer' capacity.",
+    "pin_source": "https://q.com/data-centers/phoenix-3/",
+    "pin_address": "17408 W CAMELBACK RD, LITCHFIELD PARK, AZ, 85340"
+  },
+  {
+    "id": "az-maricopa-compass-goodyear",
+    "name": "Compass Datacenters Phoenix campus",
+    "owner": "Compass Datacenters",
+    "operator": "Compass Datacenters",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Goodyear",
+    "lat": 33.43938,
+    "lng": -112.37698,
+    "stage": "running",
+    "announced": "2019-07-09",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 350,
+        "unit": "MW campus potential with on-site 230 kV substation (first master plan 144 MW IT; first two buildings 72 MW IT)",
+        "kind": "real",
+        "source": "https://www.compassdatacenters.com/news/compass-datacenters-begins-construction-of-first-two-data-centers-on-phoenix-campus/",
+        "date": "2019-07-09"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Construction of first two buildings began July 2019 with completion projected Q4 2019; whether all are running not re-checked. Trackers cite 225 acres at NW corner of Bullard Ave and Yuma Rd. Pass 2 (2026-10-15): stage still not confirmed; company page gives no status and the search budget ran out. Pass 3 (2026-10-15): Stage still unconfirmed: company page re-read, gives no status; only trackers (baxtel, datacenterhawk) say running. Web search budget ran out before a news or city source was found. Stage left as is, flagged.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F006341%27",
+    "pin_address": "Compass Datacenters PHX I, 400 S Bullard Ave, Goodyear AZ 85338 (Maricopa AQD facility F006341 point)"
+  },
+  {
+    "id": "az-maricopa-vantage-goodyear",
+    "name": "Vantage Data Centers Goodyear (AZ1) campus",
+    "owner": "Vantage Data Centers",
+    "operator": "Vantage Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Goodyear",
+    "lat": 33.44789,
+    "lng": -112.37313,
+    "stage": "running",
+    "announced": "2022-10-18",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1500000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-begins-phase-two-construction-at-growing-west-metro-phoenix-campus/",
+        "date": "2022-10-18"
+      },
+      "power_mw": {
+        "value": 160,
+        "unit": "MW IT capacity when fully developed",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-begins-phase-two-construction-at-growing-west-metro-phoenix-campus/",
+        "date": "2022-10-18"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": {
+        "value": 3000,
+        "unit": "construction and technology jobs (about)",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-begins-phase-two-construction-at-growing-west-metro-phoenix-campus/",
+        "date": "2022-10-18"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop chilled water system with air-side economizers; designed to use virtually no water for cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://vantage-dc.com/news/vantage-data-centers-begins-phase-two-construction-at-growing-west-metro-phoenix-campus/",
+        "date": "2022-10-18"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Three facilities, over 1 million sq ft. Phase two construction began Oct 2022, operation scheduled spring 2024. Earlier campus start date not checked.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F041223%27",
+    "pin_address": "Vantage Data Centers (AZ1), 45 S Bullard Ave, Goodyear AZ 85338 (Maricopa AQD facility F041223 point)"
+  },
+  {
+    "id": "az-maricopa-stream-goodyear",
+    "name": "Stream Data Centers PHXA campus",
+    "owner": "Stream Data Centers",
+    "operator": "Stream Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Goodyear",
+    "lat": 33.419503,
+    "lng": -112.35784,
+    "stage": "running",
+    "announced": "2019",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 280,
+        "unit": "MW critical load at full build (on-site APS substation 480 MW ultimate)",
+        "kind": "real",
+        "source": "https://www.streamdatacenters.com/locations/phoenix/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 157,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.streamdatacenters.com/locations/phoenix/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "APS (dedicated on-site substation)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.streamdatacenters.com/locations/phoenix/",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2950 S. Litchfield Road, Goodyear. Seven buildings planned; two complete and serving tenants, five in development. 'Announced 2019' from tracker.",
+    "pin_source": "https://www.streamdatacenters.com/locations/phoenix/",
+    "pin_address": "2950 S Litchfield Rd, Goodyear, AZ 85338"
+  },
+  {
+    "id": "az-maricopa-aligned-phoenix",
+    "name": "Aligned Data Centers Phoenix campus (PHX-01)",
+    "owner": "Aligned Data Centers",
+    "operator": "Aligned Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Phoenix",
+    "lat": 33.654767,
+    "lng": -112.111876,
+    "stage": "running",
+    "announced": "2016-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 120,
+        "unit": "MW IT at full build (62 MW first phase)",
+        "kind": "real",
+        "source": "https://aligneddc.com/press-release/aligned-energy-opens-adaptive-ultra-efficient-data-center-in-phoenix-arizona/",
+        "date": "2017-05-04"
+      },
+      "acres": {
+        "value": 51,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://aligneddc.com/press-release/aligned-energy-opens-adaptive-ultra-efficient-data-center-in-phoenix-arizona/",
+        "date": "2017-05-04"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2500 W Union Hills Dr, Phoenix; opened May 2017, 550,000 sq ft. Aligned reportedly bought land for two more Phoenix campuses (over 400 MW) - see lead az-maricopa-aligned-new-phoenix-campuses.",
+    "pin_source": "https://aligneddc.com/press-release/aligned-energy-opens-adaptive-ultra-efficient-data-center-in-phoenix-arizona/",
+    "pin_address": "2500 W UNION HILLS DR, PHOENIX, AZ, 85027"
+  },
+  {
+    "id": "az-maricopa-cyrusone-chandler",
+    "name": "CyrusOne Phoenix-Chandler campus",
+    "owner": "CyrusOne",
+    "operator": "CyrusOne",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Chandler",
+    "lat": 33.27084,
+    "lng": -111.8829,
+    "stage": "running",
+    "announced": "2012-05",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 110,
+        "unit": "MW power capacity (planned at groundbreaking)",
+        "kind": "real",
+        "source": "https://azbigmedia.com/business/cyrusone-breaks-ground-chandler-data-center/",
+        "date": "2012-05-18"
+      },
+      "acres": {
+        "value": 57,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://azbigmedia.com/business/cyrusone-breaks-ground-chandler-data-center/",
+        "date": "2012-05-18"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Groundbreaking May 2012, 1 million sq ft planned, completion planned 1Q 2013. Address reported 2335 S. Ellis St. Second source DCD (https://www.datacenterdynamics.com/en/news/cyrusone-plans-1m-sq-ft-data-center-in-arizona/) not opened. CyrusOne location page not found.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F003245%27",
+    "pin_address": "CyrusOne - Chandler, 2335 S Ellis St, Chandler AZ 85286 (Maricopa AQD facility F003245 point)"
+  },
+  {
+    "id": "az-maricopa-prime-avondale",
+    "name": "Prime Data Centers Phoenix (PHX01) campus",
+    "owner": "Prime Data Centers",
+    "operator": "Prime Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Avondale",
+    "lat": 33.41186,
+    "lng": -112.30711,
+    "stage": "building",
+    "announced": "2023-05",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (more than)",
+        "kind": "real",
+        "source": "https://primedatacenters.com/news/prime-data-centers-breaks-ground-on-three-buildings-at-its-240mw-phoenix-campus-advancing-3billion-dollar-investment-in-avondale/",
+        "date": "2026-05-21"
+      },
+      "power_mw": {
+        "value": 240,
+        "unit": "MW critical IT at full build-out (first phase 144 MW)",
+        "kind": "real",
+        "source": "https://primedatacenters.com/news/prime-data-centers-breaks-ground-on-three-buildings-at-its-240mw-phoenix-campus-advancing-3billion-dollar-investment-in-avondale/",
+        "date": "2026-05-21"
+      },
+      "acres": {
+        "value": 66.5,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://primedatacenters.com/news/prime-data-centers-breaks-ground-on-three-buildings-at-its-240mw-phoenix-campus-advancing-3billion-dollar-investment-in-avondale/",
+        "date": "2026-05-21"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Dedicated on-site 250 MW substation (phase 1 commissioned); company targets 100% renewable energy",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://primedatacenters.com/news/prime-data-centers-breaks-ground-on-three-buildings-at-its-240mw-phoenix-campus-advancing-3billion-dollar-investment-in-avondale/",
+        "date": "2026-05-21"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling, no process water use during operations",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://primedatacenters.com/news/prime-data-centers-breaks-ground-on-three-buildings-at-its-240mw-phoenix-campus-advancing-3billion-dollar-investment-in-avondale/",
+        "date": "2026-05-21"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Five buildings (~1.3M sq ft); three under construction, buildings 1-3 leased to an unnamed hyperscaler. Trackers give address 11753 W Lower Buckeye Rd.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F054388%27",
+    "pin_address": "PHX01 (11753 Lower Buckeye Property LLC; Prime corporate address 400 N Ervay St Dallas), 3700 S Avondale Blvd, Avondale AZ 85353 (Maricopa AQD facility F054388 point)"
+  },
+  {
+    "id": "az-maricopa-stack-avondale",
+    "name": "STACK Infrastructure PHX01 campus (Avondale)",
+    "owner": "STACK Infrastructure",
+    "operator": "STACK Infrastructure",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Avondale",
+    "lat": 33.42077,
+    "lng": -112.35407,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 225,
+        "unit": "MW critical capacity",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/phoenix/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "STACK lists PHX01 (Avondale, West Valley) and PHX02 (central Phoenix), 500 MW and 155 acres combined. Stage and opening date not confirmed; page describes both as STACK campuses. Pass 2 (2026-10-15): stage still not confirmed; company page gives no status and the search budget ran out. Pass 3 (2026-10-15): Stage still unconfirmed: company page re-read, gives no status; only trackers (baxtel, datacenterhawk) say running. Web search budget ran out before a news or city source was found. Stage left as is, flagged.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F050905%27",
+    "pin_address": "STACK Avondale campus site, Section 15 T1N R1W, Avondale AZ (Maricopa AQD facility F050905 point)"
+  },
+  {
+    "id": "az-maricopa-stack-phoenix",
+    "name": "STACK Infrastructure PHX02 campus (central Phoenix)",
+    "owner": "STACK Infrastructure",
+    "operator": "STACK Infrastructure",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Phoenix",
+    "lat": 33.457557,
+    "lng": -111.995289,
+    "stage": "running",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 250,
+        "unit": "MW (dedicated on-site substation)",
+        "kind": "real",
+        "source": "https://www.stackinfra.com/locations/americas/phoenix/",
+        "date": "2026-10-15"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "See az-maricopa-stack-avondale. Stage and address not confirmed. Pass 2 (2026-10-15): stage still not confirmed; company page gives no status and the search budget ran out. Pass 3 (2026-10-15): Stage still unconfirmed: company page re-read, gives no status; only trackers (baxtel, datacenterhawk) say running. Web search budget ran out before a news or city source was found. Stage left as is, flagged.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F031911%27",
+    "pin_address": "888 N 40TH ST, PHOENIX, AZ, 85008"
+  },
+  {
+    "id": "az-maricopa-ntt-mesa-elliot",
+    "name": "NTT Global Data Centers Phoenix campus (Elliot Road)",
+    "owner": "NTT Global Data Centers",
+    "operator": "NTT Global Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.350039,
+    "lng": -111.608594,
+    "stage": "building",
+    "announced": "2021-08",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 240,
+        "unit": "MW campus (seven planned buildings; PH1 36 MW IT)",
+        "kind": "real",
+        "source": "https://www.nttdata.com/en-us/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 102,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.nttdata.com/en-us/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "10256 Elliot Rd, Mesa. Tracker says PH1 opened 2022; NTT page wording is ambiguous, so stage 'building'. Pass 2 (2026-10-15): NTT PH1 page still calls PH1 'the first of seven planned data centers' (36 MW) and architect Corgan's page calls it a planned campus; trackers say PH1 running since 2022 and PH2-PH3 since 2024, but no official or news source confirms. Stage left 'building'. Pass 3 (2026-10-15): City of Mesa (2021-08-17, https://mesanow.org/news/public/article/2784) said NTT was building the 102-acre, 240 MW, seven-building campus, first building 36 MW, 'slated to open in early 2022'. Stage 'building' is sourced; 'running' rests on trackers only (no official or news source found).",
+    "pin_source": "https://www.nttdata.com/en-us/services/global-data-centers/global-locations/americas/phoenix-data-centers/phoenix-ph1-data-center",
+    "pin_address": "10256 E ELLIOT RD, MESA, AZ, 85212"
+  },
+  {
+    "id": "az-maricopa-ntt-mesa-pecos",
+    "name": "NTT Global Data Centers Mesa campus (Pecos and Crismon)",
+    "owner": "NTT Global Data Centers",
+    "operator": "NTT Global Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-03-28",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 360,
+        "unit": "MW (up to, first phase expected by Nov 2028)",
+        "kind": "real",
+        "source": "https://www.constructconnect.com/construction-economic-news/ntt-global-data-centers-acquires-173-acres-in-mesa-az-for-expansion?hs_amp=true",
+        "date": "2025-04-01"
+      },
+      "acres": {
+        "value": 173,
+        "unit": "acres (bought for $300M)",
+        "kind": "real",
+        "source": "https://www.constructconnect.com/construction-economic-news/ntt-global-data-centers-acquires-173-acres-in-mesa-az-for-expansion?hs_amp=true",
+        "date": "2025-04-01"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Seven data halls, warehouse and office. Mesa City Council approved the site plan Aug 2024 (Mesa legistar/minutes, not opened). Reported first by Arizona Republic March 28, 2025."
+  },
+  {
+    "id": "az-maricopa-novva-mesa",
+    "name": "Novva Data Centers Mesa campus",
+    "owner": "Novva Data Centers",
+    "operator": "Novva Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.339741,
+    "lng": -111.63947,
+    "stage": "permitted",
+    "announced": "2024-08-21",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3000000000,
+        "unit": "USD (more than, over about a decade)",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/novva-data-centers-announces-new-campus-in-mesa/",
+        "date": "2024-08-21"
+      },
+      "power_mw": {
+        "value": 300,
+        "unit": "MW total (phase one 96 MW IT, late 2026)",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/novva-data-centers-announces-new-campus-in-mesa/",
+        "date": "2024-08-21"
+      },
+      "acres": {
+        "value": 160,
+        "unit": "acres (state land auction Aug 2023)",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/novva-data-centers-announces-new-campus-in-mesa/",
+        "date": "2024-08-21"
+      },
+      "jobs_promised_perm": {
+        "value": 200,
+        "unit": "employees (about) when complete",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/novva-data-centers-announces-new-campus-in-mesa/",
+        "date": "2024-08-21"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Water-free air cooling; company says saves up to 650 million gallons of water per year",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.novva.com/media-center/novva-data-centers-announces-new-campus-in-mesa/",
+        "date": "2024-08-21"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "NW of Ellsworth and Warner roads, SE Mesa. Stage 'building' assumes phase-one launch late 2026 is on track; not confirmed with a construction source. Pass 2 (2026-10-15): stage still not confirmed; company page gives no status and the search budget ran out. Pass 3 (2026-10-15): Stage corrected from 'building' (a guess) to 'permitted': Mesa Planning and Zoning Board approved the 159-acre campus in late January 2025 and city staff confirmed on Feb. 3, 2025 that no council vote is needed (ABC15, citing Phoenix Business Journal, https://abc15.com/news/business/3-billion-mesa-data-center-campus-gets-green-light). No non-tracker source confirms construction has started.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F055022%27",
+    "pin_address": "Novva Phoenix LLC, NW corner Ellsworth Rd & Warner Rd, Mesa AZ 85212 (Maricopa AQD facility F055022 point)"
+  },
+  {
+    "id": "az-maricopa-edgecore-mesa",
+    "name": "EdgeCore Mesa campus",
+    "owner": "EdgeCore Digital Infrastructure",
+    "operator": "EdgeCore Digital Infrastructure",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.347346,
+    "lng": -111.618516,
+    "stage": "announced",
+    "announced": null,
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 496,
+        "unit": "MW critical IT load",
+        "kind": "real",
+        "source": "https://edgecore.com/locations/phoenix-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 84,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://edgecore.com/locations/phoenix-data-center",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop air-cooled and closed-loop chilled water (WUE below 0.01 L/kWh); supports direct-to-chip liquid cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://edgecore.com/locations/phoenix-data-center",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Five buildings, 2.7M sq ft. Company page gives no build status or start date; stage unknown, set 'announced'.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F004157%27",
+    "pin_address": "3856 S EVERTON TER, MESA, AZ, 85212"
+  },
+  {
+    "id": "az-maricopa-iron-mountain-phoenix",
+    "name": "Iron Mountain Phoenix campus (AZP-1 to AZP-3)",
+    "owner": "Iron Mountain Data Centers",
+    "operator": "Iron Mountain Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Phoenix",
+    "lat": 33.454144,
+    "lng": -111.978382,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 125,
+        "unit": "MW (AZP-1 41 + AZP-2 48 + AZP-3 36; AZS-1 Scottsdale 5.8 MW not included)",
+        "kind": "real",
+        "source": "https://www.ironmountain.com/data-centers/locations/phoenix-data-center",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 39,
+        "unit": "acres (Phoenix AZP facilities)",
+        "kind": "real",
+        "source": "https://www.ironmountain.com/data-centers/locations/phoenix-data-center",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Iron Mountain lists four operational Phoenix-metro facilities; small Scottsdale AZS-1 (5.8 MW) left out as below the bar.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F002655%27",
+    "pin_address": "615 N 48TH ST, PHOENIX, AZ, 85008"
+  },
+  {
+    "id": "az-maricopa-menlo-ahwatukee",
+    "name": "Menlo Digital MD-PHX1 (Ahwatukee)",
+    "owner": "Menlo Digital (Menlo Equities)",
+    "operator": "Menlo Digital",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Phoenix",
+    "lat": 33.312992,
+    "lng": -111.977074,
+    "stage": "announced",
+    "announced": "2024-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 257,
+        "unit": "MW utility feed from SRP (180 MW critical IT)",
+        "kind": "real",
+        "source": "https://menlo-digital.com/portfolio/md-phx1-phoenix/",
+        "date": "2026-10-15"
+      },
+      "acres": {
+        "value": 38.3,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://menlo-digital.com/portfolio/md-phx1-phoenix/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Salt River Project; SRP says developer pays full upfront cost of needed infrastructure",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.fox10phoenix.com/news/ahwatukee-residents-push-back-proposed-38-acre-menlo-digital-data-center",
+        "date": "2026-07-09"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Ahwatukee Community Alliance (led by Craig Evans) and residents oppose the site near homes and ask the city to revisit zoning",
+        "source": "https://www.fox10phoenix.com/news/ahwatukee-residents-push-back-proposed-38-acre-menlo-digital-data-center",
+        "date": "2026-07-09"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Attorney General Kris Mayes said her office will consider a public-nuisance investigation into the Menlo data center in Ahwatukee as a final community backstop",
+        "source": "https://www.kjzz.org/business/2026-10-15/mayes-says-shell-explore-nuisance-law-as-a-way-to-curb-unwanted-data-center-development",
+        "date": "2026-10-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Ahwatukee residents push back on proposed 38-acre Menlo Digital data center",
+        "outlet": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/news/ahwatukee-residents-push-back-proposed-38-acre-menlo-digital-data-center",
+        "date": "2026-07-09",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "4801-4811 E Thistle Landing Dr, Phoenix 85044. Five two-story buildings (1,022,400 sq ft). Menlo lists substation and shell Q4 2026, data halls Q1 2027; company says design done and it is pursuing permits. City council removed drainage/waterline easements ~July 1, 2026.",
+    "pin_source": "https://menlo-digital.com/portfolio/md-phx1-phoenix/",
+    "pin_address": "4811 E Thistle Landing Dr, Phoenix, AZ 85044"
+  },
+  {
+    "id": "az-maricopa-tract-buckeye",
+    "name": "Tract Buckeye data center park",
+    "owner": "Tract",
+    "operator": "Tract",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Buckeye",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2024-08-28",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1800,
+        "unit": "MW (up to, power infrastructure being planned with utility)",
+        "kind": "real",
+        "source": "https://www.tract.com/news/tract-closes-acquisition-of-2069-acres-in-buckeye-arizona/",
+        "date": "2024-08-28"
+      },
+      "acres": {
+        "value": 2069,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.tract.com/news/tract-closes-acquisition-of-2069-acres-in-buckeye-arizona/",
+        "date": "2024-08-28"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Up to 40 data centers, 20 million sq ft. Tract is a land/power developer; end users not named. Tracker cites Buckeye development agreement (Aug 2024) with up to $50M reimbursement - not confirmed."
+  },
+  {
+    "id": "az-maricopa-hassayampa-ranch-tonopah",
+    "name": "Hassayampa Ranch data center and energy campus",
+    "owner": "Hassayampa Ranch 2040 Acres LLC (Arizona Land Consulting)",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Tonopah",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-05-30",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 1687,
+        "unit": "acres rezoned to IND-2 IUPD for data center and energy campus",
+        "kind": "real",
+        "source": "https://ready.maricopa.gov/DocumentCenter/View/117683/08Z250047-PZ-Staff-Report?bidId=",
+        "date": "2026-03-05"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Water: Water Utility of Greater Tonopah; wastewater: Hassayampa Utility Company (no volumes given)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://ready.maricopa.gov/DocumentCenter/View/117683/08Z250047-PZ-Staff-Report?bidId=",
+        "date": "2026-03-05"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Game-changing development projects in Casa Grande and Tonopah earn approvals",
+        "outlet": "AZ Big Media",
+        "url": "https://azbigmedia.com/real-estate/game-changing-development-projects-in-casa-grande-and-tonopah-earn-approvals/",
+        "date": "2026-04",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Maricopa County case Z250047; P&Z hearing March 5, 2026 (staff: approve with conditions, 3 letters of opposition); Board of Supervisors approved April 8, 2026. ~1 mile N of 339th Ave and Indian School Rd. Trackers/DCD cite 1.5 GW and an investor group incl. Chamath Palihapitiya (Bloomberg Law) - not confirmed here."
+  },
+  {
+    "id": "az-maricopa-takanock-baccara",
+    "name": "Project Baccara data center complex and gas plant",
+    "owner": "Takanock LLC (Baccara Power LLC, Baccara Eagle Land LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Glendale (county island near Luke AFB)",
+    "lat": 33.565847,
+    "lng": -112.367461,
+    "stage": "permitted",
+    "announced": "2026-02-04",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 700.2,
+        "unit": "MW on-site natural gas plant (ACC Certificate of Environmental Compatibility)",
+        "kind": "real",
+        "source": "https://www.azcc.gov/news/home/2026/02/06/vice-chair-walden-releases-statement-on-project-baccara",
+        "date": "2026-02-06"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Own natural gas-fired plant (Baccara Power, 700.2 MW); ACC says APS and Irrigation District #7 ratepayers won't bear its power costs",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.azcc.gov/news/home/2026/02/06/vice-chair-walden-releases-statement-on-project-baccara",
+        "date": "2026-02-06"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "ACC approved CEC 5-0 on Feb 4, 2026. Still needs ADEQ air permit, county construction permit, Luke AFB military compatibility (Maricopa case MCP250007), SHPO and Game and Fish clearance. Site N of Olive Rd, 1/2 mile W of Litchfield Rd per county agenda (not opened).",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F057351%27",
+    "pin_address": "14522 W OLIVE AVE, WADDELL, AZ, 85355"
+  },
+  {
+    "id": "az-pinal-vermaland-la-osa",
+    "name": "La Osa Energy and Data Center (Vermaland)",
+    "owner": "Vermaland LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Pinal County",
+    "town": "Eloy",
+    "lat": null,
+    "lng": null,
+    "stage": "blocked",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 10000000000,
+        "unit": "USD (applicant's construction cost estimate, 'roughly $10 billion or more')",
+        "kind": "estimate",
+        "source": "https://pinalpost.com/commission-advances-la-osa-data-center-rezoning-and-development-plan/",
+        "date": "2026-04-16"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW cap on energy demand in scaled-back plan",
+        "kind": "real",
+        "source": "https://www.kjzz.org/fronteras-desk/2026-05-28/largest-proposed-data-center-in-arizona-to-be-scaled-back-80-after-opposition",
+        "date": "2026-05-28"
+      },
+      "acres": {
+        "value": 3385,
+        "unit": "acres (2,393 to be rezoned industrial, 992 open space)",
+        "kind": "real",
+        "source": "https://pinalpost.com/commission-advances-la-osa-data-center-rezoning-and-development-plan/",
+        "date": "2026-04-16"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Two on-site natural gas plants plus battery storage (original plan)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://pinalpost.com/commission-advances-la-osa-data-center-rezoning-and-development-plan/",
+        "date": "2026-04-16"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Applicant projection (original 59-building plan): avg ~3.83 million gal/day industrial water, max ~7.66 million; private wells initially; closed-loop cooling",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://pinalpost.com/commission-advances-la-osa-data-center-rezoning-and-development-plan/",
+        "date": "2026-04-16"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "At a Pinal County supervisors hearing about 60 public comments and 50 emails all opposed the project; board continued the rezoning to an Aug 26, 2026 hearing",
+        "source": "https://www.kjzz.org/fronteras-desk/2026-05-28/largest-proposed-data-center-in-arizona-to-be-scaled-back-80-after-opposition",
+        "date": "2026-05-28"
+      },
+      {
+        "what": "Pinal P&Z Commission recommended approval 7-2 (Chairman Robert Klob and Commissioner Tom Scott voted no)",
+        "source": "https://pinalpost.com/commission-advances-la-osa-data-center-rezoning-and-development-plan/",
+        "date": "2026-04-16"
+      },
+      {
+        "what": "Pinal County Board of Supervisors voted 4-1 to reject the rezoning and planned area development overlay, effectively killing the project after nearly five hours of public comment",
+        "source": "https://www.kjzz.org/politics/2026-08-26/pinal-county-rejects-massive-la-osa-data-center-residents-want-more-rules-for-future-projects",
+        "date": "2026-08-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Pinal County rejects massive La Osa data center. Residents want more rules for future projects",
+        "outlet": "KJZZ",
+        "url": "https://www.kjzz.org/politics/2026-08-26/pinal-county-rejects-massive-la-osa-data-center-residents-want-more-rules-for-future-projects",
+        "date": "2026-08-26",
+        "tone": "bad"
+      },
+      {
+        "title": "Largest proposed data center in Arizona to be scaled back 80% after opposition",
+        "outlet": "KJZZ",
+        "url": "https://www.kjzz.org/fronteras-desk/2026-05-28/largest-proposed-data-center-in-arizona-to-be-scaled-back-80-after-opposition",
+        "date": "2026-05-28",
+        "tone": "bad"
+      },
+      {
+        "title": "Commission advances La Osa data center rezoning and development plan",
+        "outlet": "Pinal Post",
+        "url": "https://pinalpost.com/commission-advances-la-osa-data-center-rezoning-and-development-plan/",
+        "date": "2026-04-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "South of Eloy near Red Rock, along the Greene Canal. Original plan 59 data centers; developer's attorney Court Rich said it would shrink to 11 and 1 GW. Comprehensive plan amendment approved unanimously Nov 19, 2025. Board of Supervisors rejected the rezoning 4-1 on Aug 26, 2026 (KJZZ; KOLD https://www.kold.com/2026/08/27/pinal-county-board-rejects-massive-data-center-project/); Vermaland's attorneys said the company will pursue other Arizona projects. No appeal or refiling found as of 2026-10-15. Trackers cite $33B (DCD) - not used."
+  },
+  {
+    "id": "az-coconino-huntley-page",
+    "name": "Huntley data center, Page",
+    "owner": "Huntley LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Coconino County",
+    "town": "Page",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW data center planned (1 GW, per city land sale agreement)",
+        "kind": "real",
+        "source": "https://cityofpage.org/wp-content/uploads/2026/01/ORDINANCE-Land-Sale-Huntley-Signed.pdf",
+        "date": "2026-01"
+      },
+      "acres": {
+        "value": 500,
+        "unit": "acres (up to, city land at $14,000/acre)",
+        "kind": "real",
+        "source": "https://cityofpage.org/wp-content/uploads/2026/01/ORDINANCE-Land-Sale-Huntley-Signed.pdf",
+        "date": "2026-01"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Proposed data center project in Page one mile from Horseshoe Bend",
+        "outlet": "ABC15",
+        "url": "https://www.abc15.com/news/state/proposed-data-center-project-in-page-one-mile-from-horseshoe-bend",
+        "date": "2025-11",
+        "tone": "neutral"
+      },
+      {
+        "title": "Decoding the strategic ambiguity of the Huntley data center deal",
+        "outlet": "Lake Powell Chronicle",
+        "url": "https://lakepowellchronicle.com/stories/decoding-the-strategic-ambiguity-of-the-huntley-data-center-deal,111313",
+        "date": "2026-06-23",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "City of Page Ordinance 744-25 approves sale by negotiation of ~500 acres to Huntley LLC (London address) for a 1 GW data center, its own energy project and water supply; 24-month feasibility period. News dates for ABC15 approximate (month); the source date for the ordinance is the upload month."
+  },
+  {
+    "id": "az-pima-beale-project-blue",
+    "name": "Project Blue (Beale Infrastructure Pima County campus)",
+    "owner": "Beale Infrastructure (Humphreys Peak Power LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Pima County",
+    "town": "Tucson",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3600000000,
+        "unit": "USD (about)",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/pima-county/",
+        "date": "2026-10-15"
+      },
+      "power_mw": {
+        "value": 286,
+        "unit": "MW load under TEP energy supply agreement",
+        "kind": "real",
+        "source": "https://docket.images.azcc.gov/0000215738.pdf?i=1773292783747",
+        "date": "2025-12-03"
+      },
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 180,
+        "unit": "permanent full-time jobs by 2029 (county agreement requires at least 75 paying $75,000+)",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/pima-county/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 3000,
+        "unit": "direct construction jobs 2026-2028 (more than)",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/pima-county/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Tucson Electric Power, 10-year ESA with Humphreys Peak Power LLC approved by ACC Decision 81587 (Docket E-01933A-25-0187), with minimum bills, 18-month load ramp, developer pays dedicated infrastructure",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://docket.images.azcc.gov/0000215738.pdf?i=1773292783747",
+        "date": "2025-12-03"
+      },
+      "cooling_type": {
+        "value": "Closed-loop air cooling (no water for industrial cooling)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/pima-county/",
+        "date": "2026-10-15"
+      },
+      "water_use": {
+        "value": "Estimated 15,000-20,000 gallons/day, mostly domestic",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/pima-county/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Tucson City Council voted against annexing the site (Aug 2025), blocking Tucson Water service",
+        "source": "https://azluminaria.org/2026/04/24/we-said-no-dozens-protest-as-construction-of-project-blue-data-center-begins/",
+        "date": "2025-08-06"
+      },
+      {
+        "what": "No Desert Data Center Coalition commented at local meetings and the ACC; dozens protested at the site and briefly blocked construction vehicles on Apr 24, 2026",
+        "source": "https://azluminaria.org/2026/04/24/we-said-no-dozens-protest-as-construction-of-project-blue-data-center-begins/",
+        "date": "2026-04-24"
+      },
+      {
+        "what": "One ACC commissioner cast a dissenting vote on the TEP ESA, citing 286 MW new load",
+        "source": "https://docket.images.azcc.gov/0000215738.pdf?i=1773292783747",
+        "date": "2025-12-03"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "'We said no': Dozens protest as construction of Project Blue data center begins",
+        "outlet": "AZ Luminaria",
+        "url": "https://azluminaria.org/2026/04/24/we-said-no-dozens-protest-as-construction-of-project-blue-data-center-begins/",
+        "date": "2026-04-24",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "South Houghton Industrial Campus near Pima County Fairgrounds, unincorporated Pima County south of Tucson. Beale also calls it 'Project Bobcat'. Pima supervisors approved land sale (3-2) and specific plan June 2025, commitments agreement Dec 16, 2025. Tenant widely reported as Amazon Web Services but not confirmed by an official source we read. Construction began April 2026."
+  },
+  {
+    "id": "az-pima-beale-luckett-road",
+    "name": "Luckett Road North and South data centers (Marana)",
+    "owner": "Beale Infrastructure",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Pima County",
+    "town": "Marana",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-10",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1500,
+        "unit": "MW upper bound (Town estimates 550-750 MW per site, two sites = 1,100-1,500 MW)",
+        "kind": "estimate",
+        "source": "https://www.maranaaz.gov/Government/Data-Centers/Luckett-Road-North-and-South-Data-Centers",
+        "date": "2026-01-06"
+      },
+      "acres": {
+        "value": 600,
+        "unit": "acres (two ~300-acre parcels)",
+        "kind": "real",
+        "source": "https://www.maranaaz.gov/Government/Data-Centers/Luckett-Road-North-and-South-Data-Centers",
+        "date": "2026-01-06"
+      },
+      "jobs_promised_perm": {
+        "value": 400,
+        "unit": "permanent jobs (about) at full build-out",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/marana/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 4200,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/marana/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": {
+        "value": "Tucson Electric Power (one parcel) and Trico Electric Cooperative (other parcel)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.maranaaz.gov/Government/Data-Centers/Luckett-Road-North-and-South-Data-Centers",
+        "date": "2026-01-06"
+      },
+      "cooling_type": {
+        "value": "Air-cooled closed loop; potable water only for domestic use",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.maranaaz.gov/Government/Data-Centers/Luckett-Road-North-and-South-Data-Centers",
+        "date": "2026-01-06"
+      },
+      "water_use": {
+        "value": "Estimated 15,000-20,000 gallons/day; non-potable from Cortaro-Marana Irrigation District",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://bealeinfra.com/location/marana/",
+        "date": "2026-10-15"
+      },
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents pursued a voter referendum against the rezoning after council approval (AZPM report; not opened)",
+        "source": "https://www.azpm.org/p/headlines/2026/2/6/225190-marana-residents-push-back-against-new-data-centers/",
+        "date": "2026-02-06"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Marana Town Council approves rezoning for Luckett Road project, 600-acre hyperscale data center",
+        "outlet": "AZPM",
+        "url": "https://news.azpm.org/p/news-articles/2026/1/8/227908-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/",
+        "date": "2026-01-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Town says occupant unknown; Beale's own Marana page names it Luckett Road Data Center. Applications Oct 2025; P&Z unanimous Dec 10, 2025; Council approved Jan 6, 2026. Construction start est. Q1/Q2 2027, first occupancy late 2028-2029. Town says separate from Project Blue. Referendum status not confirmed (AZPM link 404)."
+  },
+  {
+    "id": "az-maricopa-apple-mesa",
+    "name": "Apple Mesa global command center data center",
+    "owner": "Apple",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.34747,
+    "lng": -111.60249,
+    "stage": "running",
+    "announced": "2015-02-02",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 2000000000,
+        "unit": "USD (announced, about $2B)",
+        "kind": "real",
+        "source": "https://www.nbcnews.com/business/business-news/apple-build-2b-global-command-center-arizona-n298711",
+        "date": "2015-02-02"
+      },
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "Apple pledged 100% renewable energy, much of it from a new local solar farm",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nbcnews.com/business/business-news/apple-build-2b-global-command-center-arizona-n298711",
+        "date": "2015-02-02"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": {
+        "value": 300,
+        "unit": "construction and trade jobs (governor's release: 300 to 500)",
+        "kind": "real",
+        "source": "https://www.nbcnews.com/business/business-news/apple-build-2b-global-command-center-arizona-n298711",
+        "date": "2015-02-02"
+      },
+      "jobs_promised_perm": {
+        "value": 150,
+        "unit": "full-time Apple employees",
+        "kind": "real",
+        "source": "https://www.nbcnews.com/business/business-news/apple-build-2b-global-command-center-arizona-n298711",
+        "date": "2015-02-02"
+      },
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Apple to Build $2B Global Command Center in Arizona",
+        "outlet": "NBC News",
+        "url": "https://www.nbcnews.com/business/business-news/apple-build-2b-global-command-center-arizona-n298711",
+        "date": "2015-02-02",
+        "tone": "good"
+      },
+      {
+        "title": "Apple to build $2 billion data center in Arizona",
+        "outlet": "TIME",
+        "url": "https://time.com/3693605/apple-data-center",
+        "date": "2015-02-03",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Former GT Advanced Technologies sapphire plant, 1.3 million sq ft (TIME), repurposed after GTAT's 2014 bankruptcy. Monitors Apple's global networks. 'Running' rests on 2017 trade reports of phase 2 nearing completion (DCD, not opened: https://www.datacenterdynamics.com/news/apple-close-to-finishing-second-phase-of-mesa-command-center/) and 2023 reports naming the 'Apple Data Center' at Signal Butte and Elliot roads as an existing neighbor (Phoenix Business Journal via AZ Tech Council). Exact address and MW not sourced. Phase 3 status unknown.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F003392%27",
+    "pin_address": "Platypus Development LLC (company address 1 Infinite Loop Cupertino), 3740 S Signal Butte Rd, Mesa AZ 85212 (Maricopa AQD facility F003392 point)"
+  },
+  {
+    "id": "az-maricopa-amazon-mesa-elliot",
+    "name": "Amazon Web Services Mesa data center (Elliot and Signal Butte roads)",
+    "owner": "Amazon (Amazon Web Services)",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2023-09-26",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 42.9,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://www.aztechcouncil.org/amazon-submits-plans-for-multiple-data-centers-in-mesa/",
+        "date": "2023-09-26"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Amazon submits plans for multiple data centers in Mesa",
+        "outlet": "Phoenix Business Journal (via Arizona Technology Council)",
+        "url": "https://www.aztechcouncil.org/amazon-submits-plans-for-multiple-data-centers-in-mesa/",
+        "date": "2023-09-26",
+        "tone": "neutral"
+      },
+      {
+        "title": "Amazon Submits Docs for 2 Mesa Data Centers",
+        "outlet": "AZBEX",
+        "url": "https://azbex.com/planning-development/amazon-submits-docs-for-2-mesa-data-centers/",
+        "date": "2023-09-29",
+        "tone": "neutral"
+      },
+      {
+        "title": "Tech Giants Adopt Community Concessions to Advance Data Center Pipelines",
+        "outlet": "Propmodo",
+        "url": "https://propmodo.com/tech-giants-adopt-community-concessions-to-advance-data-center-pipelines/",
+        "date": "2026-10-08",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "42.9 acres off Elliot Road next to the Apple data center (former 'Project Galway' warehouse site, bought Dec 2021 for $16.9M). Presubmittal plans: two halls of about 227,000 sq ft each; Ryan Cos. named. Propmodo (Oct 2026) says Amazon has two 96 MW data center campuses under construction in Mesa near Elliot and Signal Butte roads; unclear whether that pair is this site plus the Pecos Road site, so 96 MW is not filled. Stage 'building' rests on that single 2026 report. Amazon's Pecos Road site (about 4 miles away) is lead az-maricopa-amazon-mesa-pecos."
+  },
+  {
+    "id": "az-maricopa-edged-mesa",
+    "name": "Edged Phoenix (Mesa) data center",
+    "owner": "Edged US",
+    "operator": null,
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Mesa",
+    "lat": 33.33535,
+    "lng": -111.64456,
+    "stage": "running",
+    "announced": "2026-04-07",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 36,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://itbrief.news/story/edged-us-opens-waterless-ai-data-centre-in-mesa-arizona",
+        "date": "2026-04-07"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": {
+        "value": "Waterless (ThermalWorks); liquid cooling over 400 kW per rack, air over 120 kW per rack",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://itbrief.news/story/edged-us-opens-waterless-ai-data-centre-in-mesa-arizona",
+        "date": "2026-04-07"
+      },
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Edged US opens waterless AI data centre in Mesa, Arizona",
+        "outlet": "IT Brief US",
+        "url": "https://itbrief.news/story/edged-us-opens-waterless-ai-data-centre-in-mesa-arizona",
+        "date": "2026-04-07",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead az-maricopa-edged-mesa. Edged's own news page (https://edged.us/news/) lists the opening. DCD (not opened, https://www.datacenterdynamics.com/en/news/edged-launches-36mw-data-center-in-phoenix-arizona/) reported the address as 8811 E Warner Rd, Mesa; address not confirmed by an opened source. 'announced' is the opening-report date.",
+    "pin_source": "https://gis.maricopa.gov/arcgis/rest/services/AQD/ImpactFacility/MapServer/0/query?outFields=*&f=json&where=facility_id%3D%27F050580%27",
+    "pin_address": "Edged Phoenix LLC, 8811 E Warner Rd, Mesa AZ 85212 (Maricopa AQD facility F050580 point)"
+  },
+  {
+    "id": "az-maricopa-digital-realty-phx15-chandler",
+    "name": "Digital Realty PHX15 Chandler (2121 South Price Road)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Chandler",
+    "lat": 33.274555,
+    "lng": -111.889083,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2121 South Price Road, Chandler; total building size 508,000 sq ft (https://www.digitalrealty.com/data-centers/americas/phoenix/phx15). Digital Realty 10-K: Phoenix 2 buildings, 783,000 net rentable sq ft (https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/dlr-20251231x10k.htm). H5 Phoenix (2600 W Germann Rd) is nearby but a separate owner. Promoted from lead az-maricopa-digital-realty-chandler. Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "az-maricopa-digital-realty-phx10",
+    "name": "Digital Realty PHX10 (120 East Van Buren Street)",
+    "owner": "Digital Realty",
+    "operator": "Digital Realty",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Phoenix",
+    "lat": 33.451462,
+    "lng": -112.072243,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "120 East Van Buren Street, downtown Phoenix; total building size 275,000 sq ft (https://www.digitalrealty.com/data-centers/americas/phoenix/phx10). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  },
+  {
+    "id": "az-maricopa-h5-chandler",
+    "name": "H5 Data Centers Phoenix (2600 W Germann Road, Chandler)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "AZ",
+    "county": "Maricopa County",
+    "town": "Chandler",
+    "lat": 33.276091,
+    "lng": -111.884897,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 26,
+        "unit": "MW capacity",
+        "kind": "real",
+        "source": "https://h5datacenters.com/phoenix-data-center.html",
+        "date": "2026-10-15"
+      },
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "2600 W Germann Rd, Chandler; 180,000 sq ft colocation facility, 26 MW of capacity, 40 customers (https://h5datacenters.com/phoenix-data-center.html)."
+  }
+]

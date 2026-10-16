@@ -1,0 +1,466 @@
+[
+  {
+    "id": "ar-crittenden-google-west-memphis",
+    "name": "Google West Memphis data center",
+    "owner": "Google (via subsidiary Altitude Capital LLC)",
+    "operator": null,
+    "tier": "large",
+    "state": "AR",
+    "county": "Crittenden County",
+    "town": "West Memphis",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025-10-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 4000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2025/10/02/google-state-and-local-officials-mark-start-of-4-billion-ai-data-center-in-west-memphis/",
+        "date": "2025-10-02"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 1100,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2025/10/02/google-state-and-local-officials-mark-start-of-4-billion-ai-data-center-in-west-memphis/",
+        "date": "2025-10-02"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": {
+        "value": "Grid plus Entergy's Cypress Solar: 600 MW solar and 350 MW battery facility (Docket 25-054-U) that Google is helping pay for",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2026/09/02/judge-denies-effort-to-block-arkansas-outlets-from-publishing-details-about-data-center-agreement/",
+        "date": "2026-09-02"
+      },
+      "utility": {
+        "value": "Entergy Arkansas (special rate contract approved by the Arkansas PSC Jan 29, 2026, Docket 25-055-P), not West Memphis' own utility",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx",
+        "date": "2026-10-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": {
+        "value": "Google $25 million 'Energy Impact Fund' for energy efficiency and weatherization in the area",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22"
+      },
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [
+      {
+        "what": "Entergy Arkansas sued to stop the Arkansas Democrat-Gazette and Arkansas Times from publishing details of its Google agreements; a federal judge denied the TRO. Documents show Google pays Entergy $526M toward the $1.6B Cypress Solar facility (Entergy says about $2.1B over 20 years).",
+        "source": "https://arkansasadvocate.com/2026/09/02/judge-denies-effort-to-block-arkansas-outlets-from-publishing-details-about-data-center-agreement/",
+        "date": "2026-09-02"
+      },
+      {
+        "what": "Legislators criticized Entergy for recovering Cypress Solar costs from all customers through the Generating Arkansas Jobs Act rider while saying Google covers its costs.",
+        "source": "https://arkansasadvocate.com/2026/09/15/arkansas-lawmakers-question-utility-on-data-center-projects-impact-on-ratepayers/",
+        "date": "2026-09-15"
+      }
+    ],
+    "news": [
+      {
+        "title": "Google, state and local officials mark start of $4 billion AI data center in West Memphis",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2025/10/02/google-state-and-local-officials-mark-start-of-4-billion-ai-data-center-in-west-memphis/",
+        "date": "2025-10-02",
+        "tone": "good"
+      },
+      {
+        "title": "Judge denies effort to block Arkansas outlets from publishing details about data center agreement",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/09/02/judge-denies-effort-to-block-arkansas-outlets-from-publishing-details-about-data-center-agreement/",
+        "date": "2026-09-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Arkansas lawmakers question utility on data center projects, impact on ratepayers",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/09/15/arkansas-lawmakers-question-utility-on-data-center-projects-impact-on-ratepayers/",
+        "date": "2026-09-15",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "1,100 acres about 15 minutes from the Tennessee line; $4B through 2027 (Google). Construction began Oct 2025. A KATV report on the land sale mentioned a $10B campus tied to Groot LLC, not confirmed by Google; not used. Hundreds of permanent jobs (no exact figure from Google; some outlets say 300)."
+  },
+  {
+    "id": "ar-pulaski-avaio-project-leo",
+    "name": "Project Leo",
+    "owner": "AVAIO Digital Partners",
+    "operator": null,
+    "tier": "large",
+    "state": "AR",
+    "county": "Pulaski County",
+    "town": "Little Rock",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-01",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 6000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15"
+      },
+      "power_mw": {
+        "value": 1000,
+        "unit": "MW",
+        "kind": "real",
+        "source": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15"
+      },
+      "acres": {
+        "value": 760,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15"
+      },
+      "jobs_promised_perm": {
+        "value": 500,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Entergy Arkansas: contract for an initial 150 MW at opening (June 2027), utility plans to add 420 MW; AVAIO also plans a gas plant of more than 500 MW",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Pulaski County residents organized against the AVAIO project; the Quorum Court passed data center regulations 11-4 (Sept 22, 2026) that the sponsor says would apply to AVAIO; County Judge Barry Hyde vetoed them and supporters plan an override.",
+        "source": "https://arkansasadvocate.com/2026/09/28/official-vetoes-proposed-new-regulations-on-data-centers-in-arkansas-most-populous-county/",
+        "date": "2026-09-28"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Hyperscale data centers come to Arkansas",
+        "outlet": "Talk Business & Politics",
+        "url": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15",
+        "tone": "neutral"
+      },
+      {
+        "title": "Arkansas Explained: Understanding the data center boom and debate",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "MAP: Arkansas' most populous county passes data center regulations",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/09/23/map-arkansas-most-populous-county-passes-data-center-regulations/",
+        "date": "2026-09-23",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "760 acres just east of Interstate 530 near 145th Street, unincorporated south Pulaski County. Initial $6B could grow to $21B at full build-out (1 GW). The 500 jobs figure is described by an economist as for 'the largest project' (Talk Business); verify it refers to AVAIO."
+  },
+  {
+    "id": "ar-pulaski-google-little-rock-port",
+    "name": "Google Little Rock data center ('Project Boar', Port of Little Rock)",
+    "owner": "Google (via intermediary Willowbend Capital)",
+    "operator": null,
+    "tier": "large",
+    "state": "AR",
+    "county": "Pulaski County",
+    "town": "Little Rock",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 50,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2025/07/30/two-arkansas-cities-chase-data-center-gold-but-might-be-competing-against-each-other/",
+        "date": "2025-07-30"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "City agreed to forgo 65% of property taxes for 30 years, extendable to future expansions (memorandum with Willowbend Capital)",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2025/07/30/two-arkansas-cities-chase-data-center-gold-but-might-be-competing-against-each-other/",
+        "date": "2025-07-30"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Arkansas Explained: Understanding the data center boom and debate",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22",
+        "tone": "neutral"
+      },
+      {
+        "title": "Hyperscale data centers come to Arkansas",
+        "outlet": "Talk Business & Politics",
+        "url": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "300,000 sq ft along the Arkansas River at the Port of Little Rock; city directors approved the agreement, annexation and rezoning under the code name Project Boar (April 2025). Later revealed as Google. Awaiting state and federal wetlands approvals (May 2026). Stage 'permitted' = local zoning approved; wetlands permits pending."
+  },
+  {
+    "id": "ar-johnson-serverfarm-clarksville",
+    "name": "Serverfarm Clarksville campus (ARK1)",
+    "owner": "Serverfarm",
+    "operator": null,
+    "tier": "large",
+    "state": "AR",
+    "county": "Johnson County",
+    "town": "Clarksville",
+    "lat": null,
+    "lng": null,
+    "stage": "building",
+    "announced": "2025",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 6600000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2026/07/20/mixed-opinions-limited-information-about-6-6-billion-data-center-in-arkansas-river-valley/",
+        "date": "2026-07-20"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Mixed opinions, limited information about $6.6 billion data center in Arkansas River Valley",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/07/20/mixed-opinions-limited-information-about-6-6-billion-data-center-in-arkansas-river-valley/",
+        "date": "2026-07-20",
+        "tone": "neutral"
+      },
+      {
+        "title": "Arkansas Explained: Understanding the data center boom and debate",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Next to Johnson Regional Medical Center, north of I-40. First announced at $8B; Advocate now reports $6.6B. Groundwork laid quietly in 2022. Clarksville City Council tabled resolutions for up to $55B in industrial development revenue bonds (figure as reported; looks inflated). Trade press (DCD, not opened) reports four buildings, 1.2M sq ft, 432 MW at full build-out, with first building ARK1 (108 MW) topped out, and a 135-acre site; trade press is not a source here, so these stay out of metrics. Second independent outlet not opened; confidence medium on the Advocate's on-site reporting plus state rep. Aaron Pilkington's confirmation."
+  },
+  {
+    "id": "ar-faulkner-unnamed-conway-lollie-road",
+    "name": "Conway data center (Lollie Road, unnamed Fortune 500 company)",
+    "owner": "Unnamed Fortune 500 company (via intermediary Forgelight Ventures)",
+    "operator": null,
+    "tier": "large",
+    "state": "AR",
+    "county": "Faulkner County",
+    "town": "Conway",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-04",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 1000000000,
+        "unit": "USD",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 50,
+        "unit": "jobs",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2025/07/30/two-arkansas-cities-chase-data-center-gold-but-might-be-competing-against-each-other/",
+        "date": "2025-07-30"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Conway City Council agreed to forgo 65% of property taxes for 30 years, extendable to expansions",
+        "unit": "description",
+        "kind": "real",
+        "source": "https://arkansasadvocate.com/2025/07/30/two-arkansas-cities-chase-data-center-gold-but-might-be-competing-against-each-other/",
+        "date": "2025-07-30"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents opposed to data centers crowded Conway board meetings.",
+        "source": "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+        "date": "2026-05-22"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Two Arkansas cities chase data center 'gold,' but might be competing against each other",
+        "outlet": "Arkansas Advocate",
+        "url": "https://arkansasadvocate.com/2025/07/30/two-arkansas-cities-chase-data-center-gold-but-might-be-competing-against-each-other/",
+        "date": "2025-07-30",
+        "tone": "bad"
+      },
+      {
+        "title": "Hyperscale data centers come to Arkansas",
+        "outlet": "Talk Business & Politics",
+        "url": "https://talkbusiness.net/2026/02/hyperscale-data-centers-come-to-arkansas/",
+        "date": "2026-02-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "300,000 sq ft on Lollie Road along the Arkansas River; Conway council approved an agreement with Forgelight Ventures in April 2025. Forgelight and Google's Little Rock intermediary (Willowbend) were set up by the same person, so this may be a Google alternative site or a duplicate pitch; the Advocate still listed it separately in May 2026. Owner unknown. Pass 3 (2026-10-15): Duplicate check vs ar-pulaski-google-little-rock-port: kept separate. Different counties and sites (Lollie Road, Conway vs Port of Little Rock); Arkansas Advocate lists them as two projects. Shared intermediary founder is not proof of one project."
+  }
+]

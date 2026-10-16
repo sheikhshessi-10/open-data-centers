@@ -1,0 +1,59 @@
+{
+  "state": "DE",
+  "checked": {
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "dockets": [
+    {
+      "id": "25-0826",
+      "regulator": "Delaware Public Service Commission",
+      "utility": "Delmarva Power & Light",
+      "what": "Large-load tariff for customers 25 MW and up (data centers), opened Oct 2025 on joint petition of PSC staff and the Public Advocate; PSC paused interconnection of new large loads in Delmarva territory until the tariff is set. Delmarva filed a proposed tariff Dec 19, 2025; Starwood Digital Ventures, DNREC, Walmart and unions intervened",
+      "site_ids": [
+        "de-newcastle-starwood-washington"
+      ],
+      "status": "pending; interconnection pause in effect (no final order found)",
+      "url": "https://depsc.delaware.gov/2025/10/14/delaware-psc-opens-docket-for-large-load-tariff-pauses-interconnections/",
+      "date": "2025-10-14"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HB 233",
+      "status": "pending",
+      "what": "Would require PSC-regulated utilities to create a separate rate class and tariff for large energy users so their costs are not shifted to homes and small businesses",
+      "source": "https://delawarelive.com/data-center-and-cost-drive-delaware-energy-policy/",
+      "date": "2026-04-07"
+    },
+    {
+      "name": "SB 205",
+      "status": "pending",
+      "what": "Would require a PSC certificate (renamed 'transmission certificate') before a facility uses 100 MW or more (amended up from 30 MW); PSC to act within 90 days with one extension",
+      "source": "https://delawarelive.com/data-center-and-cost-drive-delaware-energy-policy/",
+      "date": "2026-04-07"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "New Castle County",
+      "type": "ordinance",
+      "what": "Data center rules for new projects: buffers, 1,000 ft from nearest home (500 ft with noise study), efficient backup generators, closed-loop cooling, decommissioning funds; signed by County Executive Marcus Henry March 2026; does not apply to projects already in the pipeline",
+      "status": "adopted",
+      "source": "https://spotlightdelaware.org/2026/03/19/new-data-center-regulations-go-into-effect-but-not-for-del-city-proposal/",
+      "date": "2026-03-19"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "No data-center-only incentive; general Blue Collar Jobs Act credits",
+      "law": "30 Del. C. ch. 20, subchapters II-III and V (e.g., 30 Del. C. 2011)",
+      "what": "NCSL's 2026 table (adapted from Husch Blackwell's 50-state survey, updated 2026-07-27) lists Delaware's general Blue Collar Jobs Act business credits as the incentive available to data centers; no data-center-specific exemption was found. Delaware has no general sales tax. Data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv",
+      "value_known": null,
+      "source": "https://www.ncsl.org/resources/details/does-your-state-offer-data-center-tax-incentives",
+      "date": "2026-07-27"
+    }
+  ]
+}

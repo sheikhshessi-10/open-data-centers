@@ -1,0 +1,836 @@
+[
+  {
+    "id": "nm-dona-ana-borderplex-jupiter",
+    "name": "Project Jupiter (Stargate Santa Teresa campus)",
+    "owner": "BorderPlex Digital Assets and STACK Infrastructure (Blue Owl)",
+    "operator": "Oracle (main tenant; OpenAI primary user)",
+    "tier": "large",
+    "state": "NM",
+    "county": "Doña Ana County",
+    "town": "Santa Teresa",
+    "lat": 31.8183,
+    "lng": -106.6792,
+    "stage": "building",
+    "announced": "2025-02",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 165000000000,
+        "unit": "USD (industrial revenue bond amount approved; EDD slide: $21B real estate + $144B furniture, fixtures and equipment)",
+        "kind": "real",
+        "source": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19"
+      },
+      "power_mw": {
+        "value": 2450,
+        "unit": "MW (design capacity, Bloom Energy gas fuel cells)",
+        "kind": "real",
+        "source": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "date": "2026-09-24"
+      },
+      "acres": {
+        "value": 1400,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19"
+      },
+      "jobs_promised_perm": {
+        "value": 750,
+        "unit": "permanent workers",
+        "kind": "real",
+        "source": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19"
+      },
+      "jobs_promised_build": {
+        "value": 2500,
+        "unit": "construction workers late 2025 through 2028",
+        "kind": "real",
+        "source": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Private microgrid, not connected to El Paso Electric. First planned as 700-900 MW of gas turbines rising to 1 GW; in 2026 switched to Bloom Energy natural gas fuel cells (air permit pending at NMED, decision deadline Nov 23, 2026). Energy Transfer gas pipeline delayed to Feb 1, 2027.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "date": "2026-09-24"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Developer estimate at approval: ~10 million gallons to fill the four buildings over two years, then ~7.2 million gallons/year (avg 20,000 gal/day, max 60,000). Water rights later bought from a sod farm west of Sunland Park.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19"
+      },
+      "tax_break": {
+        "value": "Doña Ana County industrial revenue bonds (~$165B) with 95% property tax abatement for 30 years, plus LEDA gross receipts tax share. EDD: current property tax on the land ~$55,427/yr.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nmlegis.gov/handouts/WNR%20102925%20Item%205%20EDD%20Data%20Center%20Economic%20Incentives.pdf",
+        "date": "2025-10-29"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "PILOT ~$12M/yr ($360M over 30 years) to the county; first $50M of GRT proceeds dedicated to water/wastewater in southern Doña Ana County ($10M for partners); $6.9M community investments per El Paso Matters.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.nmlegis.gov/handouts/WNR%20102925%20Item%205%20EDD%20Data%20Center%20Economic%20Incentives.pdf",
+        "date": "2025-10-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Empowerment Congress of Doña Ana County and two residents sued the county in 3rd Judicial District Court (filed Oct 17, 2025), saying the $165B IRB approval rested on an incomplete application in violation of county code",
+        "source": "https://www.santafenewmexican.com/news/local_news/group-sues-to-stall-project-jupiter-data-center-complex-in-southern-new-mexico/article_594aeff2-2104-4e98-891c-2016f617ad4e.html",
+        "date": "2025-10-24"
+      },
+      {
+        "what": "Commissioner of Public Lands Stephanie Garcia Richard denied permission for the natural gas pipeline across state land",
+        "source": "https://www.dailylobo.com/article/2026/08/project-jupiter-where-the-ai-data-center-project-stands-in-nm",
+        "date": "2026-08-17"
+      },
+      {
+        "what": "Commissioner Susanna Chaparro voted against the IRBs (4-1) after three failed motions to delay; residents shouted 'recall' after the vote",
+        "source": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19"
+      },
+      {
+        "what": "New Energy Economy (air permit hearing) and Center for Biological Diversity (emergency water well authorization) petitioned the NM Supreme Court; the court paused both in late August 2026, then unanimously denied both petitions and lifted the stays on Sept 17, 2026",
+        "source": "https://www.abqjournal.com/business/new-mexico-supreme-court-lifts-stays-on-project-jupiter-dealing-setback-to-opponents/3124024",
+        "date": "2026-09-17"
+      },
+      {
+        "what": "More than 30 protests filed with the State Engineer against the Santa Teresa water well authorization; hearings likely next year",
+        "source": "https://www.abqjournal.com/business/new-mexico-supreme-court-lifts-stays-on-project-jupiter-dealing-setback-to-opponents/3124024",
+        "date": "2026-09-17"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "NM Department of Justice investigating fake public comments supporting the air permit, filed with residents' names without permission",
+        "source": "https://www.dailylobo.com/article/2026/08/project-jupiter-where-the-ai-data-center-project-stands-in-nm",
+        "date": "2026-08-17"
+      }
+    ],
+    "news": [
+      {
+        "title": "$165 billion Project Jupiter data center near El Paso to move forward",
+        "outlet": "El Paso Matters",
+        "url": "https://elpasomatters.org/2025/09/19/project-jupiter-data-center-santa-teresa-approved-dona-ana-commissioners/",
+        "date": "2025-09-19",
+        "tone": "neutral"
+      },
+      {
+        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "outlet": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "date": "2026-09-24",
+        "tone": "bad"
+      },
+      {
+        "title": "Project Jupiter: where the AI data center project stands in NM",
+        "outlet": "Daily Lobo",
+        "url": "https://www.dailylobo.com/article/2026/08/project-jupiter-where-the-ai-data-center-project-stands-in-nm",
+        "date": "2026-08-17",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15",
+      "opposition": "2026-10-15"
+    },
+    "notes": "One record for the whole four-building campus. Oracle says the campus remains on schedule for 2028 despite its force majeure notice. Confirmed: NM Supreme Court lifted its August stays on Sept 17, 2026 (ABQ Journal); NMED must appoint a new air permit hearing officer after Max Shepherd recused. Water pumping for construction resumed. Status of the 3rd Judicial District IRB lawsuit not checked in pass 2. Oct 15, 2026: Oracle and Yucca Growth Infrastructure said a design refinement filed with NMED cuts permitted emissions about 35% (GHG from ~8.8M to ~5.7M tons/yr) with a cap on fuel-cell output; IT capacity unchanged; air permit still under NMED technical review (release reprinted at https://www.grantcountybeat.com/nm-news/non-local-news-releases/project-jupiter-microgrid-cuts-permitted-emissions-by-35-including-greenhouse-gases-in-response-to-nmed-review-and-public-comment).",
+    "pin_source": "https://service.web.env.nm.gov/urls/IzYCTYNY",
+    "pin_address": "YGI Microgrid (Project Jupiter) air permit 10883 site coordinates, 3.6 mi S of Santa Teresa (NMED legal notice)"
+  },
+  {
+    "id": "nm-lea-google-lea-county",
+    "name": "Google Lea County data center (proposed)",
+    "owner": "Google",
+    "operator": "Google",
+    "tier": "large",
+    "state": "NM",
+    "county": "Lea County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-09-14",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 1890,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "jobs_promised_perm": {
+        "value": 125,
+        "unit": "permanent jobs (about)",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "jobs_promised_build": {
+        "value": 1700,
+        "unit": "construction jobs (about)",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Partner Excelsior Energy Capital to build a 2 GW solar field about 3 miles away; companies promise to cover 100% of new generation costs.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Closed-loop cooling (one-time fill of 9.6 million gallons)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "water_use": {
+        "value": "About 42,000 gallons/day municipal water once staffed; nearly 1 million gallons/day during construction from purchased city effluent.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "tax_break": {
+        "value": "Lea County commissioners agreed to consider about $134 billion in industrial revenue bonds.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Lea County, New Mexico (Google announcement)",
+        "outlet": "Google blog",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
+        "date": "2026-09-14",
+        "tone": "neutral"
+      },
+      {
+        "title": "One Southern New Mexico county eyes big incentives for data center as another mulls a block",
+        "outlet": "Searchlight New Mexico",
+        "url": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25",
+        "tone": "neutral"
+      },
+      {
+        "title": "Google announces it is 'exploring' a potential data center in rural New Mexico county",
+        "outlet": "Source NM",
+        "url": "https://sourcenm.com/2026/09/15/google-announces-it-is-exploring-a-potential-data-center-in-rural-new-mexico-county/",
+        "date": "2026-09-15",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Google says it is 'exploring' the site; project site leacountydatacenter.com. Two 900,000 sq ft buildings. No MW or dollar figure disclosed. Google blog page not opened (403s elsewhere); announcement confirmed by Source NM and Searchlight."
+  },
+  {
+    "id": "nm-lea-new-era-ai-hub",
+    "name": "New Era Energy & Digital Lea County AI data center hub",
+    "owner": "New Era Energy & Digital",
+    "operator": "New Era Energy & Digital",
+    "tier": "large",
+    "state": "NM",
+    "county": "Lea County",
+    "town": null,
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2025-11-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 7000,
+        "unit": "MW planned (7+ GW)",
+        "kind": "real",
+        "source": "https://www.newerainfra.ai/news/new-era-energy--digital-enters-into-land-option-purchase-agreement-for-3500-acres-in-new-mexico-for-7gw-ai-data-center-hub-marks-first-wholly-owned-development-separate-from-tcdc-joint-venture",
+        "date": "2025-11-06"
+      },
+      "acres": {
+        "value": 3500,
+        "unit": "acres (land option)",
+        "kind": "real",
+        "source": "https://www.newerainfra.ai/news/new-era-energy--digital-enters-into-land-option-purchase-agreement-for-3500-acres-in-new-mexico-for-7gw-ai-data-center-hub-marks-first-wholly-owned-development-separate-from-tcdc-joint-venture",
+        "date": "2025-11-06"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Company: natural gas (2+ GW), planned nuclear (5+ GW), batteries, grid plus behind-the-meter generation",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.newerainfra.ai/news/new-era-energy--digital-enters-into-land-option-purchase-agreement-for-3500-acres-in-new-mexico-for-7gw-ai-data-center-hub-marks-first-wholly-owned-development-separate-from-tcdc-joint-venture",
+        "date": "2025-11-06"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Land option only. Company release and SEC 8-K (https://www.sec.gov/Archives/edgar/data/2028336/000121390025108747/ea0264435-8k_newera.htm). Exact site and town not public. Speculative small-cap developer; may never be built. Could overlap with Google's Lea County site? No evidence of that."
+  },
+  {
+    "id": "nm-chaves-zenith-volts-roswell",
+    "name": "Zenith Volts data center south of Roswell",
+    "owner": "Zenith Volts Corp.",
+    "operator": "Zenith Volts Corp.",
+    "tier": "large",
+    "state": "NM",
+    "county": "Chaves County",
+    "town": "Roswell (20 miles south)",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-08-25",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 1250,
+        "unit": "MW (1.25 GW or more, company claim)",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/zenith-volts-corp-secures-county-approval-for-scalable-data-center-20-miles-south-of-roswell-nm-targeting-operation-by-november-2027-302537746.html",
+        "date": "2025-08-25"
+      },
+      "acres": {
+        "value": 300,
+        "unit": "acres data center within an approved 8,500-acre site",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/zenith-volts-corp-secures-county-approval-for-scalable-data-center-20-miles-south-of-roswell-nm-targeting-operation-by-november-2027-302537746.html",
+        "date": "2025-08-25"
+      },
+      "jobs_promised_perm": {
+        "value": 140,
+        "unit": "full-time jobs",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/zenith-volts-corp-secures-county-approval-for-scalable-data-center-20-miles-south-of-roswell-nm-targeting-operation-by-november-2027-302537746.html",
+        "date": "2025-08-25"
+      },
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "Company: grid-independent on-site solar, solar-thermal hybrid with storage, 250-acre battery system, natural gas generators for backup",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/zenith-volts-corp-secures-county-approval-for-scalable-data-center-20-miles-south-of-roswell-nm-targeting-operation-by-november-2027-302537746.html",
+        "date": "2025-08-25"
+      },
+      "utility": null,
+      "cooling_type": {
+        "value": "Geothermal cooling (company claim)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prnewswire.com/news-releases/zenith-volts-corp-secures-county-approval-for-scalable-data-center-20-miles-south-of-roswell-nm-targeting-operation-by-november-2027-302537746.html",
+        "date": "2025-08-25"
+      },
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "Company press release says Chaves County Commission granted approval; vote date not given. Target full operation November 2027. Small Wyoming-based developer; no independent news confirmation read yet."
+  },
+  {
+    "id": "nm-valencia-meta-los-lunas",
+    "name": "Meta Los Lunas Data Center",
+    "owner": "Meta Platforms (Greater Kudu LLC)",
+    "operator": "Meta Platforms",
+    "tier": "large",
+    "state": "NM",
+    "county": "Valencia County",
+    "town": "Los Lunas",
+    "lat": 34.830165,
+    "lng": -106.783827,
+    "stage": "running",
+    "announced": "2016",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 2500000000,
+        "unit": "USD (more than, in New Mexico)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/los-lunas/",
+        "date": "2026-10-15"
+      },
+      "power_mw": null,
+      "acres": null,
+      "jobs_promised_perm": {
+        "value": 400,
+        "unit": "operational jobs supported (more than)",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/los-lunas/",
+        "date": "2026-10-15"
+      },
+      "jobs_promised_build": {
+        "value": 1100,
+        "unit": "skilled trade workers at peak construction",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/los-lunas/",
+        "date": "2026-10-15"
+      },
+      "jobs_actual": null,
+      "power_source": {
+        "value": "PNM grid with Meta-paid renewables. 25-00048-UT adds Star Light (100 MW solar + 100 MW battery, Valencia Co.), Four Mile Mesa (100 MW solar + 100 MW battery, San Juan Co.) and Windy Lane (90 MW solar + 68 MW battery, De Baca Co.). Meta says 21 NM projects add 1,465 MW renewables and 488 MW storage.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prc.nm.gov/wp-content/uploads/2025/07/25-00048-UT-Approved-Form-of-Notice-07-03-2025.pdf",
+        "date": "2025-07-03"
+      },
+      "utility": {
+        "value": "PNM, special service contract with Greater Kudu LLC (PRC Case 16-00191-UT; amendment sought in 25-00048-UT)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.prc.nm.gov/wp-content/uploads/2025/07/25-00048-UT-Approved-Form-of-Notice-07-03-2025.pdf",
+        "date": "2025-07-03"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": {
+        "value": "Village of Los Lunas IRBs (earlier series reported ~$30B; expansion series up to $7.5B each), $10M LEDA, GRT reimbursement; March 2026 partnership requires $350M expansion investment by year 10",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.datacenterdynamics.com/en/news/meta-planning-expansion-of-los-lunas-data-center-campus-in-new-mexico/",
+        "date": "2025-01-16"
+      },
+      "local_tax_paid": null,
+      "community_deal": {
+        "value": "Meta pays full cost of water and wastewater service; $6.2M+ to Valencia County-area schools and nonprofits",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://datacenters.atmeta.com/asset/los-lunas/",
+        "date": "2026-10-15"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Report: Meta closer to expanding data center in Los Lunas",
+        "outlet": "KOB 4",
+        "url": "https://www.kob.com/news/top-news/report-meta-closer-to-expanding-data-center-in-los-lunas/",
+        "date": "2026-03-17",
+        "tone": "neutral"
+      },
+      {
+        "title": "Meta planning expansion of Los Lunas data center campus in New Mexico",
+        "outlet": "DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/meta-planning-expansion-of-los-lunas-data-center-campus-in-new-mexico/",
+        "date": "2025-01-16",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Address reported as 4250 Messenger Loop NW. Seven buildings running; two-building ~$800M expansion and ~500 adjacent acres bought late 2025. Broke ground 2016. Meta fact sheet date = date read (undated).",
+    "pin_address": "4250 Messenger Loop NW, Los Lunas, NM 87031",
+    "pin_geocoder": "osm",
+    "pin_precision": "address",
+    "pin_source": "record notes (address reported; not confirmed by an opened source)"
+  },
+  {
+    "id": "nm-socorro-green-data-socorro",
+    "name": "Green Data Socorro campus (cancelled)",
+    "owner": "Green Data",
+    "operator": "Green Data",
+    "tier": "large",
+    "state": "NM",
+    "county": "Socorro County",
+    "town": "Socorro",
+    "lat": null,
+    "lng": null,
+    "stage": "cancelled",
+    "announced": "2026-03",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "acres": {
+        "value": 10000,
+        "unit": "acres (data center plus solar array, proposed)",
+        "kind": "real",
+        "source": "https://sourcenm.com/2026/06/10/new-mexico-county-adopts-yearlong-data-center-moratorium/",
+        "date": "2026-06-10"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Socorro County commissioners unanimously adopted a one-year data center moratorium after months of opposition to Green Data's plan",
+        "source": "https://sourcenm.com/2026/06/10/new-mexico-county-adopts-yearlong-data-center-moratorium/",
+        "date": "2026-06-09"
+      },
+      {
+        "what": "US Rep. Gabe Vasquez called on the county to approve the moratorium",
+        "source": "https://sourcenm.com/2026/05/26/us-rep-vasquez-calls-for-new-mexico-county-to-approve-data-center-moratorium/",
+        "date": "2026-05-26"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "New Mexico county adopts yearlong data center moratorium",
+        "outlet": "Source NM",
+        "url": "https://sourcenm.com/2026/06/10/new-mexico-county-adopts-yearlong-data-center-moratorium/",
+        "date": "2026-06-10",
+        "tone": "bad"
+      },
+      {
+        "title": "Socorro County approves one-year moratorium on data centers amid Green Data Center opposition",
+        "outlet": "Albuquerque Journal",
+        "url": "https://www.abqjournal.com/news/socorro-county-approves-data-center-moratorium-amid-opposition/3060408",
+        "date": "2026-06",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Proposed by Green Data CEO Jason Bak on New Mexico Tech land between Socorro and Magdalena; first presented to Socorro Electric Cooperative in March 2026. Trackers cite 2 GW (DCD). NM Tech said June 2, 2026 it would not renew or extend the Green Data agreement. Same company later pitched a small Spaceport America site (lead nm-sierra-aetherion-spaceport). Source NM pages returned 403 to our fetcher; facts from search summaries of Source NM, ABQ Journal, KRQE, KOB."
+  },
+  {
+    "id": "nm-grant-site-layer-1-hachita",
+    "name": "Site Layer 1 gas-powered data center near Hachita",
+    "owner": "Site Layer 1 LLC (Granite Renewables)",
+    "operator": "Site Layer 1 LLC",
+    "tier": "large",
+    "state": "NM",
+    "county": "Grant County",
+    "town": "Hachita",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-08-27",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": {
+        "value": 300.8,
+        "unit": "MW of on-site natural gas engines (32 engines) per the air permit public notice",
+        "kind": "real",
+        "source": "https://www.abqjournal.com/news/in-silver-city-rapid-community-response-to-local-data-center-proposal/3115188",
+        "date": "2026-09-05"
+      },
+      "acres": null,
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "jobs_actual": null,
+      "power_source": {
+        "value": "On-site natural gas generation, about 2.3 million cubic feet of gas per hour per the public notice; Kinder Morgan El Paso Natural Gas pipeline about 2 miles away. Notice reportedly described 32 engines over 300 MW.",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25"
+      },
+      "utility": null,
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Grant County commissioners approved a notice of intent to consider a one-year data center moratorium (Commissioner Tom Shelley dissenting); text to be weighed Oct 8, 2026",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-24"
+      },
+      {
+        "what": "'No Data Centers in Grant County' organizing meeting in Silver City; Gila Resources Information Project and Center for Biological Diversity organizing",
+        "source": "https://searchlightnm.org/grant-county-residents-raise-alarm-over-secretive-proposed-data-center/",
+        "date": "2026-09-09"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "NMED Secretary James Kenney wrote that the developer's community engagement was insufficient and NMED won't act until it improves",
+        "source": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-18"
+      }
+    ],
+    "news": [
+      {
+        "title": "Grant County residents raise alarm over secretive proposed data center",
+        "outlet": "Searchlight New Mexico",
+        "url": "https://searchlightnm.org/grant-county-residents-raise-alarm-over-secretive-proposed-data-center/",
+        "date": "2026-09",
+        "tone": "bad"
+      },
+      {
+        "title": "One Southern New Mexico county eyes big incentives for data center as another mulls a block",
+        "outlet": "Searchlight New Mexico",
+        "url": "https://searchlightnm.org/one-southern-new-mexico-county-eyes-big-incentives-for-data-center-as-another-mulls-a-block/",
+        "date": "2026-09-25",
+        "tone": "bad"
+      },
+      {
+        "title": "A new data center proposed in Grant County and more",
+        "outlet": "KRWG",
+        "url": "https://www.krwg.org/show/silver-city-report/2026-09-09/a-new-data-center-proposed-in-grant-county-and-more",
+        "date": "2026-09-09",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Public legal notice in Silver City Daily Press Aug 27, 2026. On Hurt Cattle Co. ranch land near Hachita and Playas. At an October county meeting the developer described it as a solar project with possible future gas plant and data center, under 25 acre-feet/yr water. Searchlight first-article date approximate (mid-September 2026). Air permit not yet filed as of late Sept. Pass 2: owner Site Layer 1 LLC has a New York City address; manager AirLayer Advisory LLC (Delaware). Site about 4.5 miles NE of Playas along NM 9. Notice estimated nearly 1.3 million tons/yr of greenhouse gases. Air permit filing was slated for Oct 1, 2026 (ABQ Journal); whether it was filed not confirmed. KRWG (Oct 14, 2026): Granite Renewables says it is 'still feasibility phase' and holds an option on the land; much of the land planned for solar."
+  },
+  {
+    "id": "nm-chaves-roswell-information-park",
+    "name": "Roswell Information Park (proposed off-grid data center)",
+    "owner": "Roswell Information Park LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "NM",
+    "county": "Chaves County",
+    "town": "Roswell (near)",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-05-29",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": {
+        "value": "Off-grid, on-site natural gas; Desert Mountain Energy gets a 5% fee on all gas the facility uses",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.thenewswire.com/press-releases/1A0vFwYPV-desert-mountain-energy-signs-long-term-lease-agreement-with-roswell-information-park-developer.html",
+        "date": "2026-05-29"
+      },
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": {
+        "value": 154,
+        "unit": "acres leased (about; 14 acres reserved for a possible DME battery plant)",
+        "kind": "real",
+        "source": "https://www.thenewswire.com/press-releases/1A0vFwYPV-desert-mountain-energy-signs-long-term-lease-agreement-with-roswell-information-park-developer.html",
+        "date": "2026-05-29"
+      }
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Desert Mountain Energy signs long-term lease agreement with Roswell Information Park developer",
+        "outlet": "TheNewswire (company release)",
+        "url": "https://www.thenewswire.com/press-releases/1A0vFwYPV-desert-mountain-energy-signs-long-term-lease-agreement-with-roswell-information-park-developer.html",
+        "date": "2026-05-29",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Promoted from lead nm-chaves-desert-mountain-roswell-info-park. Landowner/lessor Desert Mountain Energy Corp. (TSX.V: DME); 25-year lease plus 5-year option. Release quotes the Roswell-Chaves County EDC calling it a 'hyperscale AI data center'; NM EDD and the EDC sent letters of support. No MW, investment or construction date disclosed. A tracker names developer Sustany LLC (not confirmed). Separate from Zenith Volts (20 miles south of Roswell). Size not confirmed against the 20 MW bar; kept as a site on the 'hyperscale AI' description."
+  },
+  {
+    "id": "nm-bernalillo-h5-albuquerque",
+    "name": "H5 Data Centers Albuquerque (505 Marquette Ave NW)",
+    "owner": "H5 Data Centers",
+    "operator": "H5 Data Centers",
+    "tier": "large",
+    "state": "NM",
+    "county": "Bernalillo County",
+    "town": "Albuquerque",
+    "lat": 35.088401,
+    "lng": -106.652229,
+    "stage": "running",
+    "announced": null,
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15"
+    },
+    "notes": "505 Marquette Ave NW, downtown Albuquerque; 225,000 sq ft of colocation space across two facilities (https://h5datacenters.com/albuquerque-data-center.html). Size test: no MW published, so it counts as a large colocation campus on floor area (100,000+ sq ft rule, pass 3)."
+  }
+]

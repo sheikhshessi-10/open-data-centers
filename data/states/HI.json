@@ -1,0 +1,26 @@
+{
+  "state": "HI",
+  "checked": {
+    "laws_and_bills": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "HCR 206 (2026) Large data centers working group",
+      "status": "enacted",
+      "what": "Concurrent resolution (not a law) requesting the Hawaii State Energy Office to convene a working group on impacts of large data centers on utilities, ratepayers, natural resources and climate goals. Adopted in final form 2026-04-27. Companions HR196, SCR95.",
+      "source": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=206&year=2026",
+      "date": "2026-04-27"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "None: no data-center-specific state tax incentive found",
+      "law": null,
+      "what": "Hawaii has no data center tax incentive in NCSL's 'Status of Data Center Tax Incentives, by State (2026)' table (adapted from Husch Blackwell's 50-state survey, last updated 2026-07-27; listed as N/A; table data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv). The Hawaii legislature site blocked automated checks, so state statutes were not read directly.",
+      "value_known": null,
+      "source": "https://www.ncsl.org/resources/details/does-your-state-offer-data-center-tax-incentives",
+      "date": "2026-07-27"
+    }
+  ]
+}

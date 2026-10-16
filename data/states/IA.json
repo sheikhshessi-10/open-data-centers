@@ -1,0 +1,232 @@
+{
+  "state": "IA",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "laws_and_bills": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data center sales and use tax exemption ($200M+ facilities)",
+      "law": "Iowa Code 423.3(95); IAC 701-215.12, 215.13",
+      "what": "Full sales/use tax exemption for computers, cooling, power infrastructure, backup generation, racking, backup fuel and electricity for data centers investing at least $200M within six years (5,000+ sq ft). Fuel/electricity exemption permanent for facilities operating before June 6, 2025; for later facilities 10 years in cities over 30,000, 15 years elsewhere. Annual report required.",
+      "value_known": null,
+      "source": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/data-centers",
+      "date": "2025-11-03"
+    },
+    {
+      "name": "Data center partial sales tax refunds (smaller facilities)",
+      "law": "Iowa Code 423.4(7) and 423.4(8)",
+      "what": "50% refund of sales tax (up to 5% of price) for data centers investing $1M-$10M (5 years) or $10M-$200M (10 years under $136M, 7 years $136M-$200M).",
+      "value_known": null,
+      "source": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/data-centers",
+      "date": "2025-11-03"
+    },
+    {
+      "name": "High Quality Jobs program property tax exemptions",
+      "law": "IEDA High Quality Jobs program",
+      "what": "IEDA board approves local property tax exemptions for data centers, e.g. Meta Davenport 20-year 60% (~$161M) and Microsoft Alluvion $20.3M sales tax rebates.",
+      "value_known": null,
+      "source": "https://innovationia.com/2024/05/23/state-oks-local-property-tax-exemption-for-meta-subsidiarys-800-million-davenport-data-center-plan/",
+      "date": "2024-05-23"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "TF-2025-0007",
+      "regulator": "Iowa Utilities Commission",
+      "utility": "Alliant Energy (Interstate Power and Light)",
+      "what": "Individual Customer Rate contract with Vulpine Power LLC (Google, Big Cedar Industrial Park)",
+      "site_ids": [
+        "ia-linn-google-cedar-rapids"
+      ],
+      "status": null,
+      "url": "https://efs.iowa.gov/docket/5230790",
+      "date": "2025"
+    },
+    {
+      "id": "TF-2025-0047",
+      "regulator": "Iowa Utilities Commission",
+      "utility": "Alliant Energy (Interstate Power and Light)",
+      "what": "Individual Customer Rate agreement with QTS (Big Cedar Industrial Park)",
+      "site_ids": [
+        "ia-linn-qts-cedar-rapids"
+      ],
+      "status": null,
+      "url": "https://efs.iowa.gov/document/document-permalink/10873454",
+      "date": "2025-10-09"
+    },
+    {
+      "id": "GCU-2026-0002",
+      "regulator": "Iowa Utilities Commission",
+      "utility": "Alliant Energy",
+      "what": "Morgan Valley 720 MW gas peaker plant (Linn County), linked by speakers to data center demand",
+      "site_ids": [],
+      "status": null,
+      "url": "https://efs.iowa.gov/docket/11514618",
+      "date": "2026"
+    },
+    {
+      "id": "GCU-2024-0004",
+      "regulator": "Iowa Utilities Commission",
+      "utility": "Alliant Energy",
+      "what": "Prairie Creek Station gas engines (Linn County)",
+      "site_ids": [],
+      "status": null,
+      "url": "https://efs.iowa.gov/docket/5162457",
+      "date": "2024"
+    },
+    {
+      "id": "GCU-2025-0007",
+      "regulator": "Iowa Utilities Commission",
+      "utility": "MidAmerican Energy",
+      "what": "Orient peaker plant (Adair County)",
+      "site_ids": [],
+      "status": null,
+      "url": "https://efs.iowa.gov/docket/10159036",
+      "date": "2025"
+    },
+    {
+      "id": "GCU-2026-0001",
+      "regulator": "Iowa Utilities Commission",
+      "utility": "Central Iowa Power Cooperative (CIPCO)",
+      "what": "Hickory Grove peaker plant (Scott County)",
+      "site_ids": [],
+      "status": null,
+      "url": "https://efs.iowa.gov/docket/11445529",
+      "date": "2026"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "HF 2447 / HF 2690 (2026)",
+      "status": "failed",
+      "what": "HF 2447 would have required data centers to report water and electricity use and power source, required separate utility rates for data centers, and halted construction until the utility files data center rates (advanced from House subcommittee Feb 2026). HF 2690, which would have required separate rate classes for data centers, did not reach a floor vote (per Clean Energy Districts of Iowa). HF 2690 is probably the committee renumbering of HF 2447 (not verified; legislature site unreachable).",
+      "source": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF%202690",
+      "date": "2026"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Linn County",
+      "type": "ordinance",
+      "what": "Data center ordinance for unincorporated areas: water study, water use agreement, economic development agreement, setbacks, noise, traffic rules for large projects",
+      "status": "adopted Feb 2026",
+      "source": "https://www.iowapublicradio.org/ipr-news/2026-04-23/google-data-center-linn-county-palo",
+      "date": "2026-02-18"
+    },
+    {
+      "place": "Linn County",
+      "type": "moratorium",
+      "what": "18-month pause (to Jan 1, 2028) on rezoning unincorporated land to the EU-3 large data center district; vote 2-1",
+      "status": "in effect",
+      "source": "https://corridorbusiness.com/linn-county-data-center-moratorium-approved-how-the-board-got-to-2-1-and-what-happens-next/",
+      "date": "2026-07-01"
+    },
+    {
+      "place": "Woodbury County",
+      "type": "moratorium",
+      "what": "One-year moratorium on new data centers in unincorporated areas, unanimous",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-23"
+    },
+    {
+      "place": "Dubuque County",
+      "type": "moratorium",
+      "what": "12-month moratorium on data centers while an ordinance is drafted",
+      "status": "in effect",
+      "source": "https://www.kcrg.com/2026/06/26/real-estate-company-looking-dubuque-county-land-possible-data-center/",
+      "date": "2026-05-26"
+    },
+    {
+      "place": "Johnson County",
+      "type": "moratorium",
+      "what": "Data center moratorium in effect through November 2026",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Madison County",
+      "type": "moratorium",
+      "what": "12-month data center moratorium",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Plymouth County",
+      "type": "moratorium",
+      "what": "One-year data center moratorium (June 2026)",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Shelby County",
+      "type": "moratorium",
+      "what": "Temporary ban on data centers through July 2027",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Adair County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Clarke County",
+      "type": "moratorium",
+      "what": "Temporary data center moratorium",
+      "status": "in effect",
+      "source": "https://cbs2iowa.com/news/local/woodbury-county-joins-growing-list-of-iowa-counties-pausing-data-center-development",
+      "date": "2026-06-24"
+    },
+    {
+      "place": "Clinton (city)",
+      "type": "moratorium",
+      "what": "Proposed 120-day data center moratorium rejected 5-2; city working on an ordinance",
+      "status": "rejected",
+      "source": "https://www.kwqc.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton/",
+      "date": "2026-06-09"
+    },
+    {
+      "place": "Marshalltown (city)",
+      "type": "moratorium",
+      "what": "Council voted down a data center moratorium (5-2) and a six-month version (4-3); directed staff to work on development agreements",
+      "status": "rejected",
+      "source": "https://www.timesrepublican.com/news/todays-news/2026/06/council-votes-down-data-center-moratorium/",
+      "date": "2026-06-22"
+    },
+    {
+      "place": "Ames (city)",
+      "type": "zoning",
+      "what": "Council reviewed legal options to limit data centers and a temporary delay; created a Data Center Study Committee (plan approved Aug 25, members appointed Sept 22, 2026)",
+      "status": "study under way",
+      "source": "https://www.cityofames.org/Resident-Services/Whats-Happening-in-Ames/Major-Projects/Potential-Data-Center-Development",
+      "date": "2026-09-22"
+    },
+    {
+      "place": "Decorah (city)",
+      "type": "ordinance",
+      "what": "Ordinance setting zoning, utility and environmental standards for data centers and crypto mining; first reading taken",
+      "status": "pending",
+      "source": "https://decorahnews.com/news/18330/decorah-council-moves-to-regulate-data-centers-with-strict-zoning-utility-and-environmental-standards/",
+      "date": null
+    },
+    {
+      "place": "Norwalk (city)",
+      "type": "zoning",
+      "what": "M-2 zoning district naming data centers as a use created December 2024",
+      "status": "adopted",
+      "source": "https://norwalkiaswdevelopment.com/datacenter",
+      "date": "2024-12"
+    }
+  ]
+}

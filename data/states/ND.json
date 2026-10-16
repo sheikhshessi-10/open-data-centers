@@ -1,0 +1,63 @@
+{
+  "state": "ND",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Sales and use tax exemption for enterprise IT equipment and software in qualified data centers",
+      "law": "N.D.C.C. 57-39.2-04.13 (House Bill 1089, 2015)",
+      "what": "Exempts enterprise information technology equipment and computer software used in a qualified data center from sales and use tax; under 6-year interim committee review in 2025",
+      "value_known": null,
+      "source": "https://ndlegis.gov/sites/default/files/resource/research-document/27.9096.01000.pdf",
+      "date": "2025-09"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "PU-26-22",
+      "regulator": "North Dakota Public Service Commission",
+      "utility": "Minnkota Power Cooperative",
+      "what": "Agassiz Transmission Line & Substation: about 1.74 miles of 345-kV line tapping the Maple River-Bison line and a new 345/34.5-kV substation just south of Harwood, Cass County; estimated cost $110 million. Reported as the power project serving Applied Digital's Harwood campus (the order itself does not name the customer). Certificate and route permit granted.",
+      "site_ids": [
+        "nd-cass-applied-digital-polaris-forge-2"
+      ],
+      "status": "approved (findings, conclusions and order 2026-04-29)",
+      "url": "https://psc.nd.gov/webdocs/case/26-0022/031-010.pdf",
+      "date": "2026-04-29"
+    },
+    {
+      "id": "PU-26-155",
+      "regulator": "North Dakota Public Service Commission",
+      "utility": "Applied Digital Corporation (self-supply)",
+      "what": "Applied Digital request for a jurisdictional determination on backup generation (filed 2026-04-24). Which campus it covers is not stated in the case listing.",
+      "site_ids": [],
+      "status": "open",
+      "url": "https://apps.psc.nd.gov/cases/pscasedetail?getId=26&getId2=155",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "PU-23-321",
+      "regulator": "North Dakota Public Service Commission",
+      "utility": "Montana-Dakota Utilities Co.",
+      "what": "Certificate of public convenience and necessity case titled 'Applied Digital 2nd Data Processing Extension' (filed 2023-10-02). Campus not confirmed from the listing (MDU serves the Ellendale area).",
+      "site_ids": [],
+      "status": null,
+      "url": "https://apps.psc.nd.gov/cases/pscasedetail?getId=23&getId2=321",
+      "date": "2023-10-02"
+    }
+  ],
+  "laws_and_bills": [],
+  "local_rules": [
+    {
+      "place": "Oliver County",
+      "type": "moratorium",
+      "what": "180-day moratorium on data centers approved in June 2026, repealed about a month later",
+      "status": "repealed",
+      "source": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+      "date": "2026-07-13"
+    }
+  ]
+}

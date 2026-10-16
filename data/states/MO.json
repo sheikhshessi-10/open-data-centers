@@ -1,0 +1,114 @@
+{
+  "state": "MO",
+  "checked": {
+    "incentives": "2026-10-15",
+    "dockets": "2026-10-15",
+    "local_rules": "2026-10-15"
+  },
+  "incentives": [
+    {
+      "name": "Data Center Sales Tax Exemption",
+      "law": "RSMo 144.810 (SB 149, 2015; amended SB 975/1024, 2018)",
+      "what": "New data centers (NAICS 518210/519130) investing $25M+ and creating 10+ jobs at 150% of county avg wage within 36 months get 100% state and local sales/use tax exemption on utilities, machinery, equipment, computers and construction materials for up to 15 years; expanding facilities ($5M+, 5 jobs) up to 10 years. Capped at DED's projected 10-year net fiscal benefit. DED approves in advance.",
+      "value_known": null,
+      "source": "https://revisor.mo.gov/main/OneSection.aspx?section=144.810",
+      "date": "2018-08-28"
+    },
+    {
+      "name": "Chapter 100 / Port KC revenue bonds and property tax abatement (local)",
+      "law": "RSMo ch. 100 (local industrial revenue bonds)",
+      "what": "Local bodies issue revenue bonds and grant property tax abatements for data centers, e.g. Port KC for Project Mica (25-yr 75% abatement) and Independence for Nebius (98%/90% abatement, 20 yrs).",
+      "value_known": null,
+      "source": "https://portkc.com/project/project-mica/",
+      "date": "2026-10-15"
+    }
+  ],
+  "dockets": [
+    {
+      "id": "Ameren Missouri large load tariff (case number not on PSC page)",
+      "regulator": "Missouri Public Service Commission",
+      "utility": "Ameren Missouri",
+      "what": "Large load tariff under SB 4 (2025): 12-year minimum contract plus optional 5-year ramp, collateral of two years of minimum bills, exit and early termination fees, minimum bill with 80% demand charge, cost stabilization recovery.",
+      "site_ids": [
+        "mo-montgomery-amazon-new-florence",
+        "mo-jefferson-crg-festus"
+      ],
+      "status": "approved",
+      "url": "https://psc.mo.gov/General/Utility_Tariffs_for_Large_Load_Customers",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "Evergy large load tariff (case number not on PSC page)",
+      "regulator": "Missouri Public Service Commission",
+      "utility": "Evergy (Missouri Metro / Missouri West)",
+      "what": "Large load tariff under SB 4 (2025), same core terms as Ameren's.",
+      "site_ids": [
+        "mo-clay-google-mica"
+      ],
+      "status": "approved",
+      "url": "https://psc.mo.gov/CMSInternetData/Community%20Outreach/Evergy%20Large%20Load%20Tariff.pdf",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "ET-2026-0184",
+      "regulator": "Missouri Public Service Commission",
+      "utility": "Liberty Utilities (Empire District Electric)",
+      "what": "Large load tariff case under SB 4 (2025).",
+      "site_ids": [],
+      "status": "pending",
+      "url": "https://psc.mo.gov/General/Utility_Tariffs_for_Large_Load_Customers",
+      "date": "2026-10-15"
+    }
+  ],
+  "laws_and_bills": [
+    {
+      "name": "SB 4 (2025)",
+      "status": "enacted",
+      "what": "Requires the PSC to set large load customer (incl. data center) rates so those customers pay their share of costs and others are not charged unjust costs.",
+      "source": "https://psc.mo.gov/General/Utility_Tariffs_for_Large_Load_Customers",
+      "date": "2026-10-15"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "St. Charles (city)",
+      "type": "moratorium",
+      "what": "About one-year moratorium on data center projects after Project Cumulus was pulled; council set to vote on a permanent citywide ban in May 2026.",
+      "status": "moratorium in effect; permanent ban vote outcome not confirmed",
+      "source": "https://www.firstalert4.com/2026/05/18/st-charles-weighs-data-center-ban-developer-says-project-would-have-upgraded-water-system/?outputType=amp",
+      "date": "2026-05-18"
+    },
+    {
+      "place": "Franklin County",
+      "type": "moratorium",
+      "what": "County lifted its own six-month pause on data centers.",
+      "status": "lifted",
+      "source": "https://www.sierraclub.org/press-releases/2026/03/franklin-county-lifted-its-own-six-month-pause-data-centers",
+      "date": "2026-03-16"
+    },
+    {
+      "place": "Warrenton (city)",
+      "type": "ordinance",
+      "what": "Planning and Zoning Commission approved a data center ordinance focused on standby generators (setbacks 25 ft from industrial, 50 ft commercial, 100 ft residential); sent to the Board of Aldermen Dec 16, 2025.",
+      "status": "recommended; aldermen vote not confirmed",
+      "source": "https://www.firstalert4.com/2025/12/05/warrenton-planning-commission-approves-data-center-ordinance-amid-resident-concerns/",
+      "date": "2025-12-05"
+    },
+    {
+      "place": "Nodaway County",
+      "type": "moratorium",
+      "what": "Six-month moratorium covering the proposed Scaled Microgrids data center outside Maryville.",
+      "status": "in effect as of Aug 2026",
+      "source": "https://www.kxcv.org/news/2026-08-10/nodaway-says-no-raises-concerns-over-proposed-data-centers",
+      "date": "2026-08-10"
+    },
+    {
+      "place": "Joplin (city)",
+      "type": "ballot",
+      "what": "Citizen petition for a 12-month data center moratorium (Joplin Sustainable Technology Alliance) fell short: 2,832 of 5,032 signatures.",
+      "status": "failed to qualify",
+      "source": "https://www.joplinglobe.com/news/petitions-to-stop-joplin-data-center-project-fall-short-of-goal/article_e60887e9-c142-4652-9d4b-990cb5a79e7f.html",
+      "date": "2026-03-10"
+    }
+  ]
+}

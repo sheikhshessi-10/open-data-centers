@@ -1,0 +1,71 @@
+{
+  "state": "NH",
+  "checked": {
+    "dockets": "2026-10-15",
+    "incentives": "2026-10-15"
+  },
+  "laws_and_bills": [
+    {
+      "name": "SB 439 (2026) limiting local regulation of data centers",
+      "status": "failed",
+      "what": "Would have limited local regulation of data centers; tabled May 2026.",
+      "source": "https://nhpr.org/nh-news/2026-09-01/bow-in-talks-to-become-site-of-new-data-center",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "Gov. Ayotte's proposed statewide data center moratorium",
+      "status": "pending",
+      "what": "Ayotte (2026-09-03) said she will put a multi-year moratorium in her next budget (effective July 2027 at the earliest); an executive order could act sooner. House Democrats plan a 24-month moratorium bill for the 2027 session.",
+      "source": "https://vnews.com/2026/09/03/ayotte-plans-data-center-moratorium/",
+      "date": "2026-09-03"
+    }
+  ],
+  "local_rules": [
+    {
+      "place": "Canterbury",
+      "type": "ballot",
+      "what": "Residents voted in March 2026 to ban AI companies from siting data centers.",
+      "status": "enacted",
+      "source": "https://nhpr.org/nh-news/2026-09-01/bow-in-talks-to-become-site-of-new-data-center",
+      "date": "2026-09-01"
+    },
+    {
+      "place": "Nottingham",
+      "type": "moratorium",
+      "what": "Town considering a data center moratorium after the Moulton proposal.",
+      "status": "pending",
+      "source": "https://vnews.com/2026/09/03/ayotte-plans-data-center-moratorium/",
+      "date": "2026-09-03"
+    },
+    {
+      "place": "Rochester",
+      "type": "moratorium",
+      "what": "City considering a local data center moratorium.",
+      "status": "pending",
+      "source": "https://vnews.com/2026/09/03/ayotte-plans-data-center-moratorium/",
+      "date": "2026-09-03"
+    }
+  ],
+  "dockets": [
+    {
+      "id": null,
+      "regulator": "FERC (Eversource transmission)",
+      "utility": "Eversource",
+      "what": "Preliminary study agreement between Eversource and Granite Shore Power on the viability of connecting a 350 MW project at the Merrimack Station site in Bow. No NH PUC docket on data centers or large loads found.",
+      "site_ids": [],
+      "status": "study",
+      "url": "https://www.bostonglobe.com/2026/09/02/metro/bow-nh-data-center/",
+      "date": "2026-09-02"
+    }
+  ],
+  "incentives": [
+    {
+      "name": "None: no data-center-specific state tax incentive found",
+      "law": null,
+      "what": "New Hampshire has no data center tax incentive in NCSL's 'Status of Data Center Tax Incentives, by State (2026)' table (adapted from Husch Blackwell's 50-state survey, last updated 2026-07-27; listed as N/A; table data: https://datawrapper.dwcdn.net/TQYDf/5/dataset.csv). New Hampshire has no general sales tax. NCSL (2026-04-09) says a New Hampshire bill to create new data center incentives was defeated in committee (bill number not captured).",
+      "value_known": null,
+      "source": "https://www.ncsl.org/resources/details/does-your-state-offer-data-center-tax-incentives",
+      "date": "2026-07-27"
+    }
+  ]
+}

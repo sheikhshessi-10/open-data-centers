@@ -1,0 +1,369 @@
+[
+  {
+    "id": "ks-wyandotte-red-wolf-parallel-parkway",
+    "name": "Project Red Wolf (Kansas City, Kansas)",
+    "owner": "Red Wolf Properties",
+    "operator": null,
+    "tier": "large",
+    "state": "KS",
+    "county": "Wyandotte County",
+    "town": "Kansas City",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-06",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": {
+        "value": 12000000000,
+        "unit": "USD (approximately; KSHB and Kansas Reflector)",
+        "kind": "estimate",
+        "source": "https://kansasreflector.com/2025/11/07/lawsuit-delays-12b-data-center-in-kansas-city-as-community-environmental-group-voice-concerns/",
+        "date": "2025-11-07"
+      },
+      "power_mw": {
+        "value": 600,
+        "unit": "MW (300 MW north + 300 MW south of Parallel Parkway)",
+        "kind": "real",
+        "source": "https://thebeaconnews.org/stories/2026/01/28/data-center-utility-bill-bpu/",
+        "date": "2026-01-28"
+      },
+      "acres": {
+        "value": 548,
+        "unit": "acres (about; KSHB says about 540)",
+        "kind": "real",
+        "source": "https://thebeaconnews.org/stories/2026/01/28/data-center-utility-bill-bpu/",
+        "date": "2026-01-28"
+      },
+      "jobs_promised_perm": null,
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": {
+        "value": "Kansas City Board of Public Utilities (BPU); no signed agreement as of Jan 2026",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://thebeaconnews.org/stories/2026/01/28/data-center-utility-bill-bpu/",
+        "date": "2026-01-28"
+      },
+      "cooling_type": null,
+      "water_use": null,
+      "tax_break": null,
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Residents' lawsuit over the zoning process put the project on hold",
+        "source": "https://kansasreflector.com/2025/11/07/lawsuit-delays-12b-data-center-in-kansas-city-as-community-environmental-group-voice-concerns/",
+        "date": "2025-11-07"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Lawsuit delays $12B data center in Kansas City as community, environmental group voice concerns",
+        "outlet": "Kansas Reflector",
+        "url": "https://kansasreflector.com/2025/11/07/lawsuit-delays-12b-data-center-in-kansas-city-as-community-environmental-group-voice-concerns/",
+        "date": "2025-11-07",
+        "tone": "bad"
+      },
+      {
+        "title": "Data centers and your BPU bill",
+        "outlet": "The Beacon",
+        "url": "https://thebeaconnews.org/stories/2026/01/28/data-center-utility-bill-bpu/",
+        "date": "2026-01-28",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "About four miles north of Kansas Speedway, off Parallel Parkway and 131st St. Six buildings, 1.98M sq ft over decades. Planning commission recommended rezoning; Unified Government vote set June 26, 2025 (KSHB page undated: https://www.kshb.com/news/local-news/multibillion-dollar-data-center-proposal-makes-its-way-to-kansas-city-kansas). End user unknown. Kansas Reflector page could not be opened (403); used via headline."
+  },
+  {
+    "id": "ks-johnson-beale-de-soto",
+    "name": "Beale Infrastructure De Soto campus (Mount Sunflower)",
+    "owner": "Beale Infrastructure",
+    "operator": "Beale Infrastructure",
+    "tier": "large",
+    "state": "KS",
+    "county": "Johnson County",
+    "town": "De Soto",
+    "lat": null,
+    "lng": null,
+    "stage": "permitted",
+    "announced": "2025-08",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": {
+        "value": 3100000000,
+        "unit": "USD (developer's estimated development value)",
+        "kind": "real",
+        "source": "https://johnsoncountypost.com/2025/08/26/de-soto-advances-3-1-billion-data-center-project-near-panasonic-plant-267209/",
+        "date": "2025-08-26"
+      },
+      "power_mw": null,
+      "acres": {
+        "value": 290,
+        "unit": "acres",
+        "kind": "real",
+        "source": "https://johnsoncountypost.com/2025/08/26/de-soto-advances-3-1-billion-data-center-project-near-panasonic-plant-267209/",
+        "date": "2025-08-26"
+      },
+      "jobs_promised_perm": {
+        "value": 100,
+        "unit": "long-term jobs (over, developer projection)",
+        "kind": "real",
+        "source": "https://johnsoncountypost.com/2025/08/26/de-soto-advances-3-1-billion-data-center-project-near-panasonic-plant-267209/",
+        "date": "2025-08-26"
+      },
+      "jobs_promised_build": null,
+      "power_source": null,
+      "utility": null,
+      "cooling_type": null,
+      "water_use": {
+        "value": "Water from the Kansas River via Rural Water District #7; new industrial wastewater plant",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://johnsoncountypost.com/2025/08/26/de-soto-advances-3-1-billion-data-center-project-near-panasonic-plant-267209/",
+        "date": "2025-08-26"
+      },
+      "tax_break": {
+        "value": "SB 98 sales tax exemption on equipment; sales tax exemption on construction materials; 10-year property tax abatement per building; 25% franchise fee reduction on power; industrial revenue bonds up to $50B (ceiling, not spend)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://johnsoncountypost.com/2025/08/26/de-soto-advances-3-1-billion-data-center-project-near-panasonic-plant-267209/",
+        "date": "2025-08-26"
+      },
+      "community_deal": null,
+      "jobs_actual": null,
+      "local_tax_paid": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "De Soto advances $3.1 billion data center project near Panasonic plant",
+        "outlet": "Johnson County Post",
+        "url": "https://johnsoncountypost.com/2025/08/26/de-soto-advances-3-1-billion-data-center-project-near-panasonic-plant-267209/",
+        "date": "2025-08-26",
+        "tone": "neutral"
+      },
+      {
+        "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment",
+        "outlet": "Business Wire (Beale)",
+        "url": "https://www.businesswire.com/news/home/20260429340180/en/Beale-Infrastructure-Announces-Hyperscale-Kansas-Data-Center-Campus-Advancing-$3-Billion-Infrastructure-Investment",
+        "date": "2026-04-29",
+        "tone": "good"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "NW corner of 103rd St and Edgerton Rd (former Flint Commerce Center, Astra Enterprise Park). Four buildings of 285,000 sq ft over 7-9 years; first by 2027. Developer entity Mount Sunflower Properties LLC. End user unknown. Beale release (Apr 2026, phase one) could not be opened (403); may be under construction."
+  },
+  {
+    "id": "ks-lyon-kanza-park-place-flint-hills",
+    "name": "Flint Hills Digital Campus (Emporia)",
+    "owner": "Kanza Park Place LLC",
+    "operator": null,
+    "tier": "large",
+    "state": "KS",
+    "county": "Lyon County",
+    "town": "Emporia",
+    "lat": null,
+    "lng": null,
+    "stage": "announced",
+    "announced": "2026-06-02",
+    "confidence": "medium",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": null,
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Emporia Neighbors United citizen petition to ban high-impact data centers in Emporia validated by the Lyon County Election Office; a Lyon County judge later ordered it onto the November 2026 ballot",
+        "source": "https://www.wibw.com/2026/07/21/report-emporia-citizen-petition-ban-high-impact-data-centers-validated/",
+        "date": "2026-07-21"
+      }
+    ],
+    "scrutiny": [
+      {
+        "what": "Emporia Gazette column raises reservations (noise, water, emissions, farmland, infrastructure costs); City Commission delayed meetings for training",
+        "source": "https://www.emporiagazette.com/free/article_eb712b3b-65bd-4caa-bc33-ad7342ed2c87.html",
+        "date": "2026-07-07"
+      }
+    ],
+    "news": [
+      {
+        "title": "Flint Hills Digital Campus proposed for Emporia and Lyon County",
+        "outlet": "WIBW",
+        "url": "https://www.wibw.com/2026/06/02/flint-hills-digital-campus-proposed-emporia/",
+        "date": "2026-06-02",
+        "tone": "neutral"
+      },
+      {
+        "title": "Emporia police remove audience member during heated data center zoning meeting",
+        "outlet": "KSN",
+        "url": "https://www.ksn.com/news/state-regional/emporia-data-center-zoning/amp/",
+        "date": "2026-07",
+        "tone": "bad"
+      },
+      {
+        "title": "Lyon County judge orders Emporia data center ban on ballot",
+        "outlet": "KSN",
+        "url": "https://www.ksn.com/news/state-regional/lyon-county-judge-orders-emporia-data-center-ban-on-ballot/amp/",
+        "date": "2026-08",
+        "tone": "bad"
+      }
+    ],
+    "contacts": [],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Gigawatt-scale multi-phase campus proposed in Emporia's Industrial Park IV (trade press: up to about 1,000 acres; not confirmed in a source read). Applicant Kanza Park Place LLC; no end user named, city reports no contact with tenants. July 2026: Emporia City Commission unanimously created a Digital Infrastructure Overlay District and rezoned 11 tracts into it (KSN); zoning does not by itself allow construction. Citizen ban measure on the November 2026 ballot. A Kansas Reflector opinion column questions Kanza Park Place's ownership (bankruptcy testimony), unverified. KSN article dates are approximate (relative timestamps). Promotes lead ks-lyon-flint-hills-digital-campus."
+  },
+  {
+    "id": "ks-shawnee-compass-sw-85th",
+    "name": "Compass Datacenters Shawnee County campus (SW 85th St, CU-26-203)",
+    "owner": "Compass Datacenters",
+    "operator": null,
+    "tier": "large",
+    "state": "KS",
+    "county": "Shawnee County",
+    "town": null,
+    "lat": 38.927907,
+    "lng": -95.7215,
+    "stage": "announced",
+    "announced": "2026-07-24",
+    "confidence": "high",
+    "metrics": {
+      "investment_usd": null,
+      "power_mw": null,
+      "water_use": null,
+      "power_source": null,
+      "cooling_type": null,
+      "jobs_promised_build": null,
+      "jobs_promised_perm": null,
+      "jobs_actual": null,
+      "tax_break": null,
+      "local_tax_paid": null,
+      "community_deal": null,
+      "utility": {
+        "value": "Evergy (presented to Topeka council on serving the project)",
+        "unit": "text",
+        "kind": "real",
+        "source": "https://www.wibw.com/2026/08/20/topeka-city-council-presses-compass-data-centers-evergy-during-special-meeting/",
+        "date": "2026-08-20"
+      },
+      "acres": null
+    },
+    "transparency": {
+      "power_use": "not_asked",
+      "water_use": "not_asked",
+      "power_source": "not_asked",
+      "tax_break_size": "not_asked",
+      "jobs_promised_vs_actual": "not_asked",
+      "noise_tests": "not_asked",
+      "air_permits": "not_asked",
+      "community_deal": "not_asked"
+    },
+    "official_statements": [],
+    "opposition": [
+      {
+        "what": "Shawnee County Commission adopted a six-month data center moratorium (to Feb 17, 2027) that bars final action on the pending Compass application",
+        "source": "https://www.ksnt.com/news/local-news/six-month-moratorium-approved-for-new-data-center-applications-in-shawnee-county/amp/",
+        "date": "2026-08-13"
+      }
+    ],
+    "scrutiny": [],
+    "news": [
+      {
+        "title": "Company submits data center proposal in Shawnee County",
+        "outlet": "KSNT",
+        "url": "https://www.ksnt.com/news/local-news/company-submits-data-center-proposal-in-shawnee-county/amp/",
+        "date": "2026-07",
+        "tone": "neutral"
+      },
+      {
+        "title": "Six-month moratorium approved for new data center applications in Shawnee County",
+        "outlet": "KSNT",
+        "url": "https://www.ksnt.com/news/local-news/six-month-moratorium-approved-for-new-data-center-applications-in-shawnee-county/amp/",
+        "date": "2026-08-13",
+        "tone": "bad"
+      },
+      {
+        "title": "Topeka City Council presses Compass Data Centers, Evergy during special meeting",
+        "outlet": "WIBW",
+        "url": "https://www.wibw.com/2026/08/20/topeka-city-council-presses-compass-data-centers-evergy-during-special-meeting/",
+        "date": "2026-08-20",
+        "tone": "neutral"
+      }
+    ],
+    "contacts": [
+      {
+        "who": "Shawnee County Land Use & Development (case CU-26-203)",
+        "how": "web page",
+        "value": "https://www.snco.gov/ludev/data_center.php",
+        "source": "https://www.snco.gov/ludev/data_center.php"
+      }
+    ],
+    "checked": {
+      "metrics": "2026-10-15",
+      "news": "2026-10-15"
+    },
+    "notes": "Conditional use permit application CU-26-203 for a data center on SW 85th St in the Wakarusa area southwest of Topeka (unincorporated). Received 2026-07-24, deemed incomplete 08-04, amended 08-28, deemed complete 2026-09-09; under review with an independent engineering firm, no hearing scheduled (county page). Size not in sources read (search summaries mention ~600 acres, 10 single-story buildings along SW 77th St; unconfirmed). Not to be confused with Compass's other campuses.",
+    "pin_source": "https://cdn.snco.gov/ludev/document/Data%20Centers/CU-26-203%20Compass%20Datacenters%20SW%2085th%20St/Application/CUP%20Application.pdf",
+    "pin_address": "3501 SW 77TH ST, WAKARUSA, KS, 66546"
+  }
+]
