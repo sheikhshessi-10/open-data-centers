@@ -1,6 +1,8 @@
 <div class="mapbox">
   <svg id="map" viewBox="0 0 960 620" role="img" aria-label="Map of data centers in {{STATES}}"></svg>
+  <div class="zoombar" hidden><button type="button" data-zoom="in" aria-label="Zoom in">+</button><button type="button" data-zoom="out" aria-label="Zoom out">&minus;</button><button type="button" data-zoom="reset" aria-label="Reset zoom">&#8634;</button></div>
   <div class="maptitle">
+    <p class="kicker">Field report // {{KICKER}}</p>
     <h1>Every data center in {{STATES}}</h1>
     <p>{{N}} sites, about {{MONEY}} in announced money. Tap a dot or a card to see the numbers, the news, and what each company has shared.</p>
   </div>

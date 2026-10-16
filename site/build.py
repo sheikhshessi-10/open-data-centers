@@ -133,7 +133,8 @@ def shell(title, desc, path, body, scripts="", jsonld=None):
 <meta property="og:url" content="{e(canon)}">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,800;62..125,900&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="/assets/style.css">
 {ld}
 </head>
@@ -305,7 +306,7 @@ def site_page(s, states, rank):
             f"{'Investment ' + money(inv) + '. ' if inv else ''}{f'{mw:,.0f} MW. ' if mw else ''}"
             "Sourced numbers, news, local pushback and what the company has shared.")
     body = f"""<p class="crumb"><a href="/">Map</a> » <a href="{s['state_url']}">{st_name}</a> » <a href="{s['county_url']}">{e(s['county_name'])}</a> » {e(short_name(s))}</p>
-<div class="sitehero">{bgsvg(s, 1200, 260)}<div class="in">
+<div class="sitehero" data-stage="{e(s['stage'])}">{bgsvg(s, 1200, 260)}<div class="in">
   <h1>{e(short_name(s))}</h1>
   <div class="sub">{e(s.get('owner') or 'Owner not public')}</div>
   <div class="meta"><span>{e(STAGE_LABEL.get(s['stage'], s['stage']))}</span><span>{e(s['county_name'])} {s['state']}</span>{f"<span>{e(s['town'].split(' (')[0])}</span>" if s.get('town') else ''}{f"<span>Announced {e(s['announced'])}</span>" if s.get('announced') else ''}<span>Confidence: {e(s.get('confidence') or '?')}</span>{'<span>Pin approximate</span>' if s.get('approx') else ''}</div>
@@ -499,7 +500,8 @@ def home_page(sites, ranks):
     grid = "".join(card(s, ranks[s["id"]]) for s in top)
     more = "/states/" if MANY else f'/{next(iter(REG.values()))["slug"]}/'
     body = (tpl.replace("{{GRID}}", grid).replace("{{N}}", str(len(sites))).replace("{{MONEY}}", money(inv)).replace("{{STATES}}", e(STATES_TEXT))
-            .replace("{{STATE_CHIPS}}", state_filter(sites)).replace("{{MORE_HREF}}", more))
+            .replace("{{STATE_CHIPS}}", state_filter(sites)).replace("{{MORE_HREF}}", more)
+            .replace("{{KICKER}}", "50 states + DC" if len(REG) >= 51 else f"{len(REG)} states" if MANY else " + ".join(REG)))
     if MANY:
         body = body.replace('<button class="chip" data-state="all" aria-pressed="true">All states</button>', "")
     desc = f"Map of all {len(sites)} large data centers in {STATES_TEXT}, about {money(inv)} in announced money. Sourced numbers on power, water, jobs, tax breaks, news and local pushback."
@@ -547,6 +549,9 @@ def build():
     for f in ("style.css", "home.js", "enhance.js"):
         shutil.copy(os.path.join(HERE, "static", f), os.path.join(OUT, "assets", f))
     json.dump(registry.geo_subset(), open(os.path.join(OUT, "assets", "geo.json"), "w", encoding="utf-8"), separators=(",", ":"))
+    # Small cut for the first map draw and the card outlines: states plus only the counties that hold a site.
+    json.dump(registry.geo_subset({s["county_fips"] for s in sites if s.get("county_fips")}),
+              open(os.path.join(OUT, "assets", "map.json"), "w", encoding="utf-8"), separators=(",", ":"))
     json.dump([{k: st[k] for k in ("code", "name", "slug", "fips", "county_word")} for st in REG.values()],
               open(os.path.join(OUT, "assets", "states.json"), "w", encoding="utf-8"))
     json.dump([{k: s.get(k) for k in ("id", "name", "owner", "state", "county", "county_name", "county_fips", "town", "lat", "lng", "approx", "stage",

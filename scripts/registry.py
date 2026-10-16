@@ -79,11 +79,12 @@ def _remap(a, table):
     return [_remap(x, table) for x in a]
 
 
-def geo_subset():
+def geo_subset(host_fips=None):
     """Topojson with the covered states' counties, the covered states, and every state that borders them.
 
     Neighbors are found by shared borders (shared arcs), so a new state brings its own neighbors automatically.
     Unused arcs are dropped to keep the file small.
+    With host_fips, the counties object holds only those counties (the small file the home map draws first).
     """
     topo = json.load(open(GEO_SRC, encoding="utf-8"))
     fips = {s["fips"] for s in states()}
@@ -91,7 +92,8 @@ def geo_subset():
     covered = [g for g in st_geoms if g.get("id") in fips]
     covered_arcs = set().union(*(_arcs_of(g) for g in covered)) if covered else set()
     neighbors = [g for g in st_geoms if g.get("id") not in fips and _arcs_of(g) & covered_arcs]
-    counties = [g for g in topo["objects"]["counties"]["geometries"] if str(g.get("id", ""))[:2] in fips]
+    counties = [g for g in topo["objects"]["counties"]["geometries"] if str(g.get("id", ""))[:2] in fips
+                and (host_fips is None or g.get("id") in host_fips)]
     keep = covered + neighbors
     used = sorted(set().union(*(_arcs_of(g) for g in keep + counties)))
     table = {old: new for new, old in enumerate(used)}
