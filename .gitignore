@@ -22,3 +22,6 @@ Thumbs.db
 
 # Agent patch inbox (merged into data files by scripts/merge_patches.py)
 data/_incoming/
+
+.vercel
+.env*
