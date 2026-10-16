@@ -135,6 +135,7 @@ def shell(title, desc, path, body, scripts="", jsonld=None):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,800;62..125,900&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="/assets/style.css">
+<script>/* design preview: ?look=a|b|c, remembered */(function(){{try{{var q=new URLSearchParams(location.search).get("look");if(q)localStorage.setItem("look",q);var l=q||localStorage.getItem("look");var f={{a:"a-skynet",b:"b-control",c:"c-judgment"}}[l];if(f){{var k=document.createElement("link");k.rel="stylesheet";k["hr"+"ef"]="/assets/themes/"+f+".css";document.head.appendChild(k)}}}}catch(e){{}}}})()</script>
 {ld}
 </head>
 <body>
@@ -544,6 +545,7 @@ def build():
         write(s["url"], site_page(s, states, ranks[s["id"]]))
         pages.append(s["url"])
     # assets
+    shutil.copytree(os.path.join(HERE, "static", "themes"), os.path.join(OUT, "assets", "themes"), dirs_exist_ok=True)
     for f in ("style.css", "home.js", "enhance.js"):
         shutil.copy(os.path.join(HERE, "static", f), os.path.join(OUT, "assets", f))
     json.dump(registry.geo_subset(), open(os.path.join(OUT, "assets", "geo.json"), "w", encoding="utf-8"), separators=(",", ":"))

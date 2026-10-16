@@ -1,0 +1,72 @@
+/* A. SKYNET: black field, one hot red, machine type. Clean grid, no noise on text. */
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
+:root,:root[data-theme]{
+  --bg:#050506; --surface:#0c0d10; --ink:#f3f4f6; --muted:#8b919c; --line:#1f2228; --land:#111318; --land-line:#050506; --water:#07080a; --neighbor:#0a0b0d;
+  --red:#ff2a2a; --good:#2ee6a6; --ok:#ffb020; --bad:#ff2a2a; --info:#d6d9de;
+  --s-announced:#9b7bff; --s-permitted:#38bdf8; --s-building:#ffb020; --s-running:#ff2a2a; --s-paused:#5b616b; --s-blocked:#e5e7eb; --s-cancelled:#3a3f47; --s-closed:#4b5058;
+  --display:"Chakra Petch","Arial Narrow",system-ui,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"JetBrains Mono",ui-monospace,monospace;
+  --radius:3px; color-scheme:dark;
+}
+body{letter-spacing:.005em}
+header.top{background:rgba(5,5,6,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.logo{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase;letter-spacing:.06em;font-size:19px}
+.logo i{width:12px;height:12px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px rgba(255,42,42,.18),0 0 14px var(--red);animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{50%{box-shadow:0 0 0 6px rgba(255,42,42,.05),0 0 22px var(--red)}}
+.pill{border-color:var(--red);color:var(--red);border-radius:2px}
+nav.main a{font:500 12.5px var(--mono);text-transform:uppercase;letter-spacing:.1em}
+nav.main a:hover{color:var(--red)}
+/* map: targeting grid behind, thin scan line, glowing dots */
+.mapbox{background:
+  linear-gradient(rgba(255,42,42,.05) 1px,transparent 1px) 0 0/40px 40px,
+  linear-gradient(90deg,rgba(255,42,42,.05) 1px,transparent 1px) 0 0/40px 40px,var(--water);
+  border-color:#2a1012;border-radius:var(--radius)}
+.mapbox::before,.mapbox::after{content:"";position:absolute;width:22px;height:22px;border:2px solid var(--red);pointer-events:none;z-index:2}
+.mapbox::before{left:10px;bottom:10px;border-right:0;border-top:0}
+.mapbox::after{right:10px;top:10px;border-left:0;border-bottom:0}
+.county{fill:var(--land);stroke:#1a1d23}
+.state{stroke:#ff2a2a;stroke-opacity:.35;stroke-width:.9}
+.dot{stroke:#050506;filter:drop-shadow(0 0 4px currentColor)}
+.dot[fill]{color:inherit}
+.tag rect{rx:1}
+.maptitle h1{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase;letter-spacing:.02em;line-height:1}
+.maptitle h1::before{content:"SITES DETECTED // ";display:block;font:500 12px var(--mono);letter-spacing:.18em;color:var(--red);margin-bottom:10px}
+.maptitle p{font-family:var(--body)}
+.chip{border-radius:2px;font:500 12px var(--mono);text-transform:uppercase;letter-spacing:.06em;background:var(--surface)}
+.chip[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:#000}
+.chip .sw{border-radius:1px;box-shadow:0 0 8px currentColor}
+.controls select,.search input,.controls input{border-radius:2px;background:var(--surface);font-family:var(--mono)}
+.count{color:var(--red)}
+/* cards: dark plate, stage color as a hard edge and outline */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+.card[data-stage]{--sc:var(--s-running)}
+.card[data-stage="announced"]{--sc:var(--s-announced)} .card[data-stage="permitted"]{--sc:var(--s-permitted)} .card[data-stage="building"]{--sc:var(--s-building)}
+.card[data-stage="paused"]{--sc:var(--s-paused)} .card[data-stage="blocked"]{--sc:var(--s-blocked)} .card[data-stage="cancelled"],.card[data-stage="closed"]{--sc:var(--s-cancelled)}
+.card{box-shadow:inset 0 2px 0 var(--sc)}
+.card:hover{border-color:var(--sc);box-shadow:inset 0 2px 0 var(--sc),0 0 24px -8px var(--sc)}
+.card .bgsvg rect{fill:var(--surface)!important}
+.card .bgsvg path{stroke:var(--sc)!important;fill:color-mix(in srgb,var(--sc) 10%,transparent)!important}
+.card .bgsvg circle{fill:var(--sc)!important;stroke:var(--sc)!important}
+.card .shade{background:linear-gradient(180deg,transparent 40%,rgba(0,0,0,.7))}
+.card .rank{font:700 13px var(--mono);color:var(--muted)}
+.card .rank::before{content:"#"}
+.card .stage{background:transparent;border:1px solid var(--sc);color:var(--sc);border-radius:1px}
+.card .name{font-family:var(--display);font-weight:700;font-stretch:normal;font-size:23px;text-transform:uppercase;letter-spacing:.01em;text-shadow:none}
+.card .where{font:500 11.5px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.card .foot{color:var(--ink)}
+.card .bars{background:rgba(5,5,6,.94)}
+/* pages */
+.pagehead h1,.sitehero h1,.prose h2{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase;letter-spacing:.01em}
+.crumb,.crumb a{color:var(--red)}
+.block h2,section h3{color:var(--red);letter-spacing:.16em}
+.block h2::before,section h3::before{content:"// "}
+.stat,.tile,.item,.check,.faq details,.voices{border-radius:var(--radius);background:var(--surface)}
+.stat{border-left:2px solid var(--red)}
+.stat b,.tile .v{font-family:var(--display);font-weight:700;font-stretch:normal}
+.sitehero{border-radius:var(--radius);border:1px solid var(--line)}
+.sitehero .bgsvg rect{fill:#0c0d10!important}
+.sitehero .bgsvg path{stroke:var(--red)!important;fill:rgba(255,42,42,.08)!important}
+.sitehero .meta span{background:transparent;border:1px solid #2a2d33;border-radius:1px}
+.scores .btrack,.btrack{border-radius:1px}
+.bfill{border-radius:1px}
+.st{border-radius:1px}
+.item .d a,.tile .src a{color:var(--red)}

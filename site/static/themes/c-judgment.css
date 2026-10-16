@@ -1,0 +1,55 @@
+/* C. JUDGMENT DAY (light): technical paper, black type, one warning red. Daylight-readable machine look. */
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
+:root,:root[data-theme]{
+  --bg:#f2f1ec; --surface:#fbfaf6; --ink:#0a0a0a; --muted:#5a5a55; --line:#d6d4cb; --land:#e6e4dc; --land-line:#f2f1ec; --water:#eceae3; --neighbor:#efede7;
+  --red:#d6211b; --good:#0f8a4f; --ok:#b7791f; --bad:#d6211b; --info:#d6211b;
+  --s-announced:#6d4bd8; --s-permitted:#1f6fd1; --s-building:#e0711a; --s-running:#d6211b; --s-paused:#8c8c86; --s-blocked:#0a0a0a; --s-cancelled:#b5b3ab; --s-closed:#9a988f;
+  --display:"Chakra Petch","Arial Narrow",system-ui,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"JetBrains Mono",ui-monospace,monospace;
+  --radius:2px; color-scheme:light;
+}
+header.top{border-bottom:2px solid var(--ink)}
+.logo{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase;letter-spacing:.05em;font-size:19px}
+.logo i{background:var(--red);border-radius:0}
+.pill{border-color:var(--ink);color:var(--ink);border-radius:0}
+nav.main a{font:500 12.5px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
+nav.main a:hover{color:var(--red)}
+.mapbox{background:
+  linear-gradient(rgba(10,10,10,.05) 1px,transparent 1px) 0 0/32px 32px,
+  linear-gradient(90deg,rgba(10,10,10,.05) 1px,transparent 1px) 0 0/32px 32px,var(--water);
+  border:1px solid var(--ink);border-radius:0}
+.county{fill:var(--land);stroke:#f2f1ec}
+.state{stroke:var(--ink);stroke-opacity:.55;stroke-width:.9}
+.dot{stroke:#fbfaf6}
+.maptitle h1{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase;line-height:1}
+.maptitle h1::before{content:"FIELD REPORT // 50 STATES + DC";display:block;font:500 11.5px var(--mono);letter-spacing:.16em;color:var(--red);margin-bottom:10px}
+.chip{border-radius:0;font:500 12px var(--mono);text-transform:uppercase;letter-spacing:.06em;border-color:var(--ink);background:var(--surface)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--surface)}
+.chip .sw{border-radius:0}
+.controls select,.search input{border-radius:0;border-color:var(--ink);font-family:var(--mono)}
+.card{border-radius:0;background:var(--surface);border:1px solid var(--ink);color:var(--ink)}
+.card[data-stage]{--sc:var(--s-running)}
+.card[data-stage="announced"]{--sc:var(--s-announced)} .card[data-stage="permitted"]{--sc:var(--s-permitted)} .card[data-stage="building"]{--sc:var(--s-building)}
+.card[data-stage="paused"]{--sc:var(--s-paused)} .card[data-stage="blocked"]{--sc:var(--s-blocked)} .card[data-stage="cancelled"],.card[data-stage="closed"]{--sc:var(--s-cancelled)}
+.card{box-shadow:inset 0 6px 0 var(--sc)}
+.card:hover{box-shadow:inset 0 6px 0 var(--sc),4px 4px 0 var(--ink)}
+.card .bgsvg rect{fill:var(--surface)!important}
+.card .bgsvg path{stroke:var(--ink)!important;stroke-opacity:.5;fill:color-mix(in srgb,var(--sc) 14%,transparent)!important}
+.card .bgsvg circle{fill:var(--sc)!important;stroke:var(--sc)!important}
+.card .shade{display:none}
+.card .rank{font:700 13px var(--mono)}
+.card .stage{background:var(--sc);color:#fff;border-radius:0}
+.card .name{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase;font-size:23px;text-shadow:none}
+.card .where{font:500 11.5px var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.card .bars{background:rgba(251,250,246,.96);color:var(--ink)}
+.card .btrack{background:var(--line)}
+.pagehead h1,.sitehero h1,.prose h2{font-family:var(--display);font-weight:700;font-stretch:normal;text-transform:uppercase}
+.block h2,section h3{color:var(--red);letter-spacing:.14em}
+.stat,.tile,.item,.check,.faq details,.voices{border-radius:0;border-color:var(--ink)}
+.stat b,.tile .v{font-family:var(--display);font-weight:700;font-stretch:normal}
+.sitehero{border-radius:0;border:1px solid var(--ink);color:var(--ink)}
+.sitehero .bgsvg rect{fill:var(--surface)!important}
+.sitehero .bgsvg path{stroke:var(--ink)!important;fill:rgba(214,33,27,.1)!important}
+.sitehero h1{text-shadow:none}
+.sitehero .meta span{background:transparent;border:1px solid var(--ink);border-radius:0}
+.st{border-radius:0}
+.item .d a,.tile .src a{color:var(--red)}
