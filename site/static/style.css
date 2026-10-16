@@ -157,3 +157,10 @@ code{font-family:var(--mono);font-size:.92em}
 .stagefill-announced{fill:var(--s-announced)} .stagefill-permitted{fill:var(--s-permitted)} .stagefill-building{fill:var(--s-building)}
 .stagefill-running{fill:var(--s-running)} .stagefill-paused{fill:var(--s-paused)} .stagefill-blocked{fill:#1f2937} .stagefill-cancelled{fill:var(--s-cancelled)} .stagefill-closed{fill:var(--s-closed)}
 .controls #statesel{margin-left:0}
+/* Phones: title above the map, map uses the full width at its natural shape */
+@media (max-width:700px){
+  .mapbox{display:flex;flex-direction:column}
+  .maptitle{position:static;order:-1;max-width:none;padding:16px 16px 0}
+  .mapbox svg{height:auto;aspect-ratio:960/620}
+  .tag{display:none}
+}

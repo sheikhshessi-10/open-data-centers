@@ -115,7 +115,7 @@
     const counties=topojson.feature(GEO,GEO.objects.counties).features;
     const all=topojson.feature(GEO,GEO.objects.states).features;
     const lams={type:"FeatureCollection",features:all.filter(f=>covered.has(f.id))};
-    proj=d3.geoAlbersUsa().fitExtent([[300,40],[930,600]],lams);const gp=d3.geoPath(proj);
+    proj=d3.geoAlbersUsa().fitExtent(matchMedia("(max-width: 700px)").matches?[[8,8],[952,612]]:[[300,40],[930,600]],lams);const gp=d3.geoPath(proj);
     const key=s=>(s.county||"").replace(/ (Parish|County|Borough|Census Area|Municipality|City and Borough)$/,"").toLowerCase();
     counties.forEach(f=>{const c=gp.centroid(f);if(!isNaN(c[0]))CENT.set(f.id,c)});
     const byId=new Map(counties.map(f=>[f.id,f]));
