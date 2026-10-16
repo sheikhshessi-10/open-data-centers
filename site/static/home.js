@@ -129,10 +129,14 @@
     // screen-space paths: no spherical clipping or resampling, which was most of the draw time on phones.
     const ll=topojson.feature(M,M.objects.states).features.filter(f=>covered.has(f.id));
     const pts=ll.flatMap(f=>(f.geometry.type==="Polygon"?[f.geometry.coordinates]:f.geometry.coordinates).flat(1)).flat(1);
-    proj=d3.geoAlbersUsa().fitExtent(matchMedia("(max-width: 1359px)").matches?[[8,8],[952,612]]:[[300,40],[930,600]],{type:"MultiPoint",coordinates:pts});
-    const gp=d3.geoPath();
+    const gp=d3.geoPath(),stacked=matchMedia("(max-width: 1359px)");
     const flat=G=>{const [sx,sy]=G.transform.scale,[tx,ty]=G.transform.translate;
       return {...G,transform:null,arcs:G.arcs.map(a=>{let x=0,y=0,o=[];for(const [dx,dy] of a){x+=dx;y+=dy;const q=proj([x*sx+tx,y*sy+ty]);if(q)o.push(q)}return o})}};
+    let root,lines,linesP=null,raf=0,mid=[W/2,H/2];
+    // Draws the base layers for the current layout. Runs again when the title moves above or beside the map.
+    function base(){
+    if(root){root.remove();tags.remove();CENT.clear();linesP=null}
+    proj=d3.geoAlbersUsa().fitExtent(stacked.matches?[[8,8],[952,612]]:[[300,40],[930,600]],{type:"MultiPoint",coordinates:pts});
     const P=flat(M);
     const hostF=topojson.feature(P,P.objects.counties).features;
     const all=topojson.feature(P,P.objects.states).features;
@@ -143,19 +147,21 @@
     const host=new Map();
     sites.forEach(s=>{const c=s.cfips?byId.get(s.cfips):hostF.find(f=>f.id.startsWith(FIPS[s.st])&&f.properties.name.toLowerCase()===key(s));if(c&&!host.has(c.id))host.set(c.id,s.stage)});
     // One path per layer (and one per stage for the host fills) instead of one per county.
-    const root=svg.append("g");
+    root=svg.append("g");
     root.append("g").selectAll("path").data(all.filter(f=>!covered.has(f.id))).join("path").attr("class","nb").attr("d",gp);
     root.append("path").attr("class","land").attr("d",gp(lams));
+    const bb=gp.bounds(lams);mid=[(bb[0][0]+bb[1][0])/2,(bb[0][1]+bb[1][1])/2];
     root.append("g").selectAll("path").data(d3.groups([...host],([,st])=>st)).join("path").attr("class","host")
       .attr("fill",([st])=>stageColor(st)).attr("d",([,ids])=>gp({type:"FeatureCollection",features:ids.map(([id])=>byId.get(id))}));
-    const lines=root.append("path").attr("class","cmesh").attr("display","none");
+    lines=root.append("path").attr("class","cmesh").attr("display","none");
     root.append("path").attr("class","state").attr("d",gp(topojson.mesh(P,P.objects.states,(a,b)=>covered.has(a.id)||covered.has(b.id))));
     dots=root.append("g");tags=svg.append("g");
     T=d3.zoomIdentity;u=Math.max(1,900/(svgNode.clientWidth||960));
     drawMarks();
+    }
+    base();
     dispatchEvent(new Event("odc:map"));
 
-    let linesP=null,raf=0;
     const showLines=()=>{
       if(!linesP)linesP=window.odcGeo().then(flat).then(G=>lines.attr("d",gp(topojson.mesh(G,G.objects.counties,(a,b)=>a!==b)))).catch(()=>{linesP=null});
       lines.attr("display",k>=LINES?null:"none");
@@ -199,8 +205,15 @@
       }else{lastTap=now;lastXY=xy}
     },{passive:false});
 
+    // Rotation or resize: labels and dots follow the new width; crossing the layout breakpoint redraws the map at 1x.
+    let rz=0;
+    addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{
+      u=Math.max(1,900/(svgNode.clientWidth||960));dots.selectAll("circle").attr("r",dotR);drawTags();
+    },150)});
+    stacked.addEventListener("change",()=>{svg.interrupt().call(zoom.transform,d3.zoomIdentity);base();u=Math.max(1,900/(svgNode.clientWidth||960));drawMarks()});
     bar.hidden=false;btn("out").disabled=btn("reset").disabled=true;
     bar.onclick=e=>{const b=e.target.closest("button");if(!b)return;const z=b.dataset.zoom,tr=svg.transition().duration(300);
-      if(z==="reset")tr.call(zoom.transform,d3.zoomIdentity);else tr.call(zoom.scaleBy,z==="in"?2:.5)};
+      // Zooming from 1x aims at the middle of the map (it sits right of the title on desktop), after that at the middle of the view.
+      if(z==="reset")tr.call(zoom.transform,d3.zoomIdentity);else tr.call(zoom.scaleBy,z==="in"?2:.5,k<1.05?T.apply(mid):[W/2,H/2])};
   }).catch(e=>console.error(e));
 })();
