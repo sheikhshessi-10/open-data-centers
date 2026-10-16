@@ -1,18 +1,25 @@
 // Draws each site's county outline and pin over its card or hero background.
+// window.odcGeo() is the one shared geo.json fetch (home.js uses it too); window.odcEnhance(root) draws cards added later.
 (function(){
-  const svgs=[...document.querySelectorAll("svg.bgsvg[data-state]")];
-  if(!svgs.length||!window.d3||!window.topojson)return;
+  if(!window.d3||!window.topojson)return;
   const ns="http://www.w3.org/2000/svg";
-  fetch("/assets/geo.json").then(r=>r.json()).then(GEO=>{
-    const counties=topojson.feature(GEO,GEO.objects.counties).features;
-    const states=topojson.feature(GEO,GEO.objects.states).features;
+  let geo=null,load=null;
+  window.odcGeo=()=>load||(load=fetch("/assets/geo.json").then(r=>r.json()).then(GEO=>{
+    geo={counties:topojson.feature(GEO,GEO.objects.counties).features,states:topojson.feature(GEO,GEO.objects.states).features};
+    return GEO;
+  }));
+  const el=(tag,attrs)=>{const n=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));return n};
+  function draw(root){
+    const svgs=[...root.querySelectorAll("svg.bgsvg[data-state]")].filter(s=>!s.dataset.drawn);
+    if(!svgs.length)return;
     if(!document.getElementById("odc-defs")){
       const d=document.createElementNS(ns,"svg");d.id="odc-defs";d.setAttribute("width","0");d.setAttribute("height","0");d.style.position="absolute";
       d.innerHTML='<defs><linearGradient id="odc-dark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></linearGradient></defs>';
       document.body.appendChild(d);
     }
-    const el=(tag,attrs)=>{const n=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));return n};
+    const {counties,states}=geo;
     svgs.forEach(svg=>{
+      svg.dataset.drawn="1";
       const st=svg.dataset.fips;
       const key=(svg.dataset.county||"").replace(/ (Parish|County)$/,"").toLowerCase();
       const cf=svg.dataset.cfips;
@@ -29,5 +36,7 @@
         svg.appendChild(el("circle",{cx:x,cy:y,r:16,fill:"none",stroke:"#fff","stroke-opacity":".5"}));
       }
     });
-  }).catch(()=>{});
+  }
+  window.odcEnhance=root=>{window.odcGeo().then(()=>draw(root||document)).catch(()=>{})};
+  if(document.querySelector("svg.bgsvg[data-state]"))window.odcEnhance(document);
 })();

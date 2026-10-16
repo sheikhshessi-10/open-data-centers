@@ -174,16 +174,60 @@ def bgsvg(s, w=400, h=340):
             f'data-lng="{s.get("lng") or ""}" data-stage="{e(s["stage"])}"><rect width="{w}" height="{h}" class="stagefill-{e(s["stage"])}"/></svg>')
 
 
-def card(s, rank):
+def numstr(v):
+    # Same text JavaScript's String(v) gives, so client-rendered cards match these byte for byte.
+    return str(int(v)) if float(v).is_integer() else repr(v)
+
+
+def card_data(s, rank):
+    # Everything a card shows, precomputed once. card() renders it here; home.js renders the same fields from cards.json.
     inv, mw = num(s, "investment_usd"), num(s, "power_mw")
-    q = " ".join(str(x or "") for x in (s.get("name"), s.get("owner"), s.get("county"), s.get("town"))).lower()
-    data = (f'data-id="{e(s["id"])}" data-state="{s["state"]}" data-stage="{e(s["stage"])}" data-q="{e(q)}" data-invest="{inv}" '
-            f'data-power="{mw}" data-push="{len(s.get("opposition") or [])}" data-data="{filled(s)}" data-news="{len(s.get("news") or [])}"')
-    return (f'<a class="card" href="{e(s["url"])}" {data}>{bgsvg(s)}<div class="shade"></div>'
-            f'<span class="rank">{rank}</span><span class="stage">{e(s["stage"])}</span>'
-            f'<div class="mid"><div class="name">{e(short_name(s))}</div><div class="where">{e(s["county_name"])}, {STATE_NAMES[s["state"]]}</div></div>'
-            f'<div class="foot"><span>{money(inv) if inv else "$ unknown"}</span><span>{f"{mw:,.0f} MW" if mw else "MW unknown"}</span></div>'
-            f'<div class="bars">{bars(s)}</div></a>')
+    return {"id": s["id"], "r": rank, "url": s["url"], "st": s["state"], "fips": REG[s["state"]]["fips"],
+            "county": s.get("county") or "", "cfips": s.get("county_fips") or "", "lat": s.get("lat") or "", "lng": s.get("lng") or "",
+            "stage": s["stage"], "q": " ".join(str(x or "") for x in (s.get("name"), s.get("owner"), s.get("county"), s.get("town"))).lower(),
+            "inv": inv, "mw": mw, "push": len(s.get("opposition") or []), "data": filled(s), "news": len(s.get("news") or []),
+            "n": short_name(s), "mn": s["name"].split(" (")[0], "owner": s.get("owner") or "",
+            "where": f'{s["county_name"]}, {STATE_NAMES[s["state"]]}',
+            "m": money(inv) if inv else "$ unknown", "p": f"{mw:,.0f} MW" if mw else "MW unknown",
+            "b": [[round(w * 100), c, t] for _, w, c, t in bar_rows(s)]}
+
+
+def card_html(d):
+    lat, lng = (numstr(d[k]) if d[k] != "" else "" for k in ("lat", "lng"))
+    svg = (f'<svg class="bgsvg" viewBox="0 0 400 340" preserveAspectRatio="xMidYMid slice" aria-hidden="true" '
+           f'data-state="{e(d["st"])}" data-fips="{d["fips"]}" data-county="{e(d["county"])}" data-cfips="{d["cfips"]}" data-lat="{lat}" '
+           f'data-lng="{lng}" data-stage="{e(d["stage"])}"><rect width="400" height="340" class="stagefill-{e(d["stage"])}"/></svg>')
+    data = (f'data-id="{e(d["id"])}" data-state="{d["st"]}" data-stage="{e(d["stage"])}" data-q="{e(d["q"])}" data-invest="{numstr(d["inv"])}" '
+            f'data-power="{numstr(d["mw"])}" data-push="{d["push"]}" data-data="{d["data"]}" data-news="{d["news"]}"')
+    brs = "".join(f'<div class="brow"><span>{l}</span><div class="btrack"><div class="bfill" style="width:{w}%;background:var(--{c})">{e(t)}</div></div></div>'
+                  for l, (w, c, t) in zip(BAR_LABELS, d["b"]))
+    return (f'<a class="card" href="{e(d["url"])}" {data}>{svg}<div class="shade"></div>'
+            f'<span class="rank">{d["r"]}</span><span class="stage">{e(d["stage"])}</span>'
+            f'<div class="mid"><div class="name">{e(d["n"])}</div><div class="where">{e(d["where"])}</div></div>'
+            f'<div class="foot"><span>{e(d["m"])}</span><span>{e(d["p"])}</span></div>'
+            f'<div class="bars">{brs}</div></a>')
+
+
+def card(s, rank):
+    return card_html(card_data(s, rank))
+
+
+CARD_COLS = ["id", "r", "url", "name", "ss", "owner", "st", "county", "town", "cfips", "lat", "lng", "stage",
+             "inv", "mw", "push", "data", "news", "op", "m", "p", "w", "c"]
+
+
+def home_cards(sites, ranks):
+    # Slim data for the home page cards, filters, sort and map: one row per site in data order (the map's dot order),
+    # columns in CARD_COLS. home.js rebuilds card_data() from it.
+    # sites.json stays as the full public data file.
+    rows = []
+    for s in sites:
+        d = card_data(s, ranks[s["id"]])
+        rows.append([s["id"], d["r"], s["url"], s["name"], 1 if s.get("_same_short") else 0, s.get("owner") or "", s["state"],
+                     s.get("county") or "", s.get("town") or "", d["cfips"], d["lat"], d["lng"], s["stage"],
+                     d["inv"], d["mw"], d["push"], d["data"], d["news"], openness(s), d["m"], d["p"],
+                     [w for w, _, _ in d["b"]], "".join(c[0] for _, c, _ in d["b"])])
+    return {"cols": CARD_COLS, "metrics": len(METRICS), "states": {c: [st["fips"], st["name"]] for c, st in REG.items()}, "rows": rows}
 
 
 def openness(s):
@@ -200,25 +244,32 @@ def filled(s):
     return sum(1 for k, _ in METRICS if (s.get("metrics") or {}).get(k))
 
 
-def bars(s):
+BAR_LABELS = ["Data found", "Company openness", "Local pushback", "News coverage", "Size"]
+
+
+def bar_rows(s):
+    # (label, width 0..1, color name, text); color names are CSS variables (--good, --ok, --bad, --muted, --info).
     op, fd = openness(s), filled(s) / len(METRICS)
     push, news, inv = len(s.get("opposition") or []), len(s.get("news") or []), num(s, "investment_usd")
     import math
     size = min(1, max(.06, (math.log10(inv) - 7) / 4)) if inv else 0
 
     def lvl(x, a, b):
-        return "var(--good)" if x >= a else "var(--ok)" if x >= b else "var(--bad)"
-    rows = [
+        return "good" if x >= a else "ok" if x >= b else "bad"
+    return [
         ("Data found", fd, lvl(fd, .6, .3), f"{filled(s)} of {len(METRICS)}"),
-        ("Company openness", max(op / 8, .04), lvl(op / 8, .6, .3) if all_asked(s) else "var(--muted)",
+        ("Company openness", max(op / 8, .04), lvl(op / 8, .6, .3) if all_asked(s) else "muted",
          f"{op:g} of 8 so far" if op else "Not asked yet"),
-        ("Local pushback", max(min(push / 5, 1), .04), "var(--bad)" if push >= 4 else "var(--ok)" if push >= 2 else "var(--good)",
+        ("Local pushback", max(min(push / 5, 1), .04), "bad" if push >= 4 else "ok" if push >= 2 else "good",
          f"{push} actions" if push else "None found"),
-        ("News coverage", max(min(news / 10, 1), .04), "var(--info)", f"{news} stories"),
-        ("Size", max(size, .04), "var(--info)", money(inv) if inv else "Unknown"),
+        ("News coverage", max(min(news / 10, 1), .04), "info", f"{news} stories"),
+        ("Size", max(size, .04), "info", money(inv) if inv else "Unknown"),
     ]
-    return "".join(f'<div class="brow"><span>{l}</span><div class="btrack"><div class="bfill" style="width:{w * 100:.0f}%;background:{c}">{e(t)}</div></div></div>'
-                   for l, w, c, t in rows)
+
+
+def bars(s):
+    return "".join(f'<div class="brow"><span>{l}</span><div class="btrack"><div class="bfill" style="width:{w * 100:.0f}%;background:var(--{c})">{e(t)}</div></div></div>'
+                   for l, w, c, t in bar_rows(s))
 
 
 def item_list(items, text_key="what", empty="None found yet."):
@@ -436,13 +487,19 @@ def states_index(sites):
     return shell("Data centers by state · Open Data Centers", f"Every large data center in {STATES_TEXT}, by state: site counts and announced money.", "/states/", body)
 
 
+HOME_CARDS = 48  # cards in the home page HTML; home.js renders the rest from /assets/cards.json
+
+
 def home_page(sites, ranks):
-    # Server-rendered grid for search engines and no-JS readers; home.js takes over for filtering.
+    # Server-rendered top cards for search engines and no-JS readers; home.js takes over for filtering and "Show more".
+    # Every site is still linked from its state and county pages and the sitemap.
     inv = sum(num(s, "investment_usd") for s in sites)
     tpl = open(os.path.join(HERE, "home.html"), encoding="utf-8").read()
-    grid = "".join(card(s, ranks[s["id"]]) for s in sorted(sites, key=lambda s: -num(s, "investment_usd")))
+    top = sorted(sites, key=lambda s: -num(s, "investment_usd"))[:HOME_CARDS]
+    grid = "".join(card(s, ranks[s["id"]]) for s in top)
+    more = "/states/" if MANY else f'/{next(iter(REG.values()))["slug"]}/'
     body = (tpl.replace("{{GRID}}", grid).replace("{{N}}", str(len(sites))).replace("{{MONEY}}", money(inv)).replace("{{STATES}}", e(STATES_TEXT))
-            .replace("{{STATE_CHIPS}}", state_filter(sites)))
+            .replace("{{STATE_CHIPS}}", state_filter(sites)).replace("{{MORE_HREF}}", more))
     if MANY:
         body = body.replace('<button class="chip" data-state="all" aria-pressed="true">All states</button>', "")
     desc = f"Map of all {len(sites)} large data centers in {STATES_TEXT}, about {money(inv)} in announced money. Sourced numbers on power, water, jobs, tax breaks, news and local pushback."
@@ -495,6 +552,7 @@ def build():
     json.dump([{k: s.get(k) for k in ("id", "name", "owner", "state", "county", "county_name", "county_fips", "town", "lat", "lng", "approx", "stage",
                                        "announced", "confidence", "metrics", "transparency", "opposition", "news", "url")} for s in sites],
               open(os.path.join(OUT, "assets", "sites.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    json.dump(home_cards(sites, ranks), open(os.path.join(OUT, "assets", "cards.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     write("/404.html", shell("Page not found · Open Data Centers", "This page doesn't exist.", "/404.html",
                              '<div class="pagehead"><h1>Page not found</h1><p><a href="/">Back to the map</a>.</p></div>'))
     write("/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
